@@ -1,0 +1,552 @@
+state,county,city,address1,address2,date
+"South Carolina",Lexington,Irmo,"237  Bishopgate Road",,
+"South Carolina",Berkeley,Ladson,"747 Treeland Drive Rm313",,01/21/2004
+"South Carolina",Laurens,"Gray Court","Tractor Dr",,01/23/2004
+"South Carolina",Greenville,Greenville,"109 Bent Bridge Rd",,01/30/2004
+"South Carolina",Laurens,Laurens,"1023 Bellview Church Rd",,01/31/2004
+"South Carolina",Greenville,Mauldin,"317 Elm St",,02/01/2004
+"South Carolina",Charleston,"North Charleston","7665 Outlook Drive",,02/05/2004
+"South Carolina",Dorchester,Summerville,"135 Roberts Rd",,02/05/2004
+"South Carolina",Charleston,"Mount Pleasant","1516 Nantahala Blvd",,02/13/2004
+"South Carolina",Greenville,Greenville,"521 Bennetts Br S",,02/19/2004
+"South Carolina",Laurens,"Gray Court","523 Mountain Creek Road",,02/20/2004
+"South Carolina",Charleston,"North Charleston","7371 Mazyck Road 111",,02/23/2004
+"South Carolina",Greenville,Greenville,"431 (a) Whitt Rd",,03/04/2004
+"South Carolina",Anderson,Anderson,"3402 New Pond Rd",,03/05/2004
+"South Carolina",Greenville,"Travelers Rest","320 West Dr",,03/11/2004
+"South Carolina",Darlington,Darlington,"213 Lamar Highway",,03/17/2004
+"South Carolina",Greenville,"Travelers Rest","993 Tubbs Mtn",,03/20/2004
+"South Carolina",Greenville,Greenville,"311 Tall Pines",,03/21/2004
+"South Carolina",Greenville,Conestee,"8 4th Ave",,03/25/2004
+"South Carolina",Charleston,"North Charleston","2311 Ashley Phosphate Road",,03/25/2004
+"South Carolina",Greenville,Conestee,"22 6th St",,03/25/2004
+"South Carolina",Greenville,Simpsonville,"6445 North Industrial Dr",,04/05/2004
+"South Carolina",Greenville,"Travelers Rest","12 Magnolia Dr Lot 7",,04/10/2004
+"South Carolina",Greenville,,"17 Merrill Ln",,04/13/2004
+"South Carolina",Chesterfield,Mcbee,"75 Helms Ln",,04/15/2004
+"South Carolina",Laurens,Mountville,"2606 Beavernam Church Rd",,04/17/2004
+"South Carolina",Berkeley,Summerville,"109 Coveney Cir",,04/26/2004
+"South Carolina",Anderson,Pelzer,"21 Courtney St",,04/27/2004
+"South Carolina",Greenville,Piedmont,"104 Kentwood Ln",,04/28/2004
+"South Carolina",Greenville,Piedmont,"106 Kentwood Ln",,04/28/2004
+"South Carolina",Darlington,Hartsville,"1216 East Bobo Newsom Highway",,05/08/2004
+"South Carolina",Charleston,"Adams Run","7991 Hwy 162 Hwy",,05/09/2004
+"South Carolina",Anderson,Belton,"108 Willingham Rd",,05/13/2004
+"South Carolina",Greenville,Cleveland,"15 Denford Cove",,05/13/2004
+"South Carolina",Anderson,"Honea Path","343 Mountain Creek Rd",,05/15/2004
+"South Carolina",Dorchester,Summerville,"104 Fannie Dr",,05/19/2004
+"South Carolina",Dorchester,"Saint George","2944 Wire Rd",,05/20/2004
+"South Carolina",Spartanburg,"Boiling Springs","18 Broken Arrow Ct",,05/26/2004
+"South Carolina",Charleston,Charleston,"2058 Savannah Hwy",,05/28/2004
+"South Carolina",Spartanburg,Duncan,"553 Mega Dr",,06/07/2004
+"South Carolina",Dorchester,"North Charleston","5255 Hartford Circle",,06/09/2004
+"South Carolina",Anderson,Belton,"414 Holiday Dam Rd",,06/10/2004
+"South Carolina",Dorchester,Summerville,"313 Grapevine Road",,06/19/2004
+"South Carolina",Anderson,Anderson,"316 Robinson Rd",,06/26/2004
+"South Carolina",Anderson,Belton,"125 Camelot Dr",,06/26/2004
+"South Carolina",Aiken,Monetta,"155 Peach Twigg Rd",,07/02/2004
+"South Carolina",Greenville,Greenville,"4 Luke Ln Lot 7",,07/09/2004
+"South Carolina",Greenville,Taylors,"520 Milford Church Rd",,07/21/2004
+"South Carolina",Oconee,Westminster,"125 Cobb Hollow Ln",,07/24/2004
+"South Carolina",Greenville,Greenville,"202 Sunset Dr",,07/28/2004
+"South Carolina",Florence,Florence,"1480 Old Marion Hwy",,08/13/2004
+"South Carolina",Greenwood,Greenwood,"1719 25 By Pass Ne",,08/13/2004
+"South Carolina",Anderson,Anderson,"1911 (b) 29 N Hwy 12",,08/19/2004
+"South Carolina",Pickens,Easley,"247 Courtney Dr",,08/23/2004
+"South Carolina",Anderson,Pelzer,"117 Pine Cir",,08/23/2004
+"South Carolina",Spartanburg,"Boiling Springs","162 Hearthstone Ln",,08/26/2004
+"South Carolina",Spartanburg,Inman,"189 Wynnette Way",,09/05/2004
+"South Carolina",Greenville,Greenville,"6 Matilda Ct",,09/09/2004
+"South Carolina",Chesterfield,Chesterfield,"310 Wilbert Donahue Rd",,09/15/2004
+"South Carolina",Anderson,Piedmont,"428 Pine Street",,09/16/2004
+"South Carolina",Spartanburg,Spartanburg,"150 Sunand Sand Dr",,09/18/2004
+"South Carolina",Spartanburg,Pauline,"110 Quinn Rd",,09/27/2004
+"South Carolina",Anderson,Anderson,"103 Broad St A",,10/01/2004
+"South Carolina",Aiken,Aiken,"354 Dragstrip Road",,10/14/2004
+"South Carolina",Spartanburg,Spartanburg,"4930 College Dr 235",,10/16/2004
+"South Carolina",Spartanburg,Chesnee,"8790 Parris Bridge Rd",,10/20/2004
+"South Carolina",Richland,Hopkins,"109 Rocky Road",,10/21/2004
+"South Carolina",Oconee,"Fair Play","371 Tammy Ln",,10/21/2004
+"South Carolina",Pickens,Easley,"257 Jenny Ln",,10/25/2004
+"South Carolina",Oconee,Seneca,"13011 Mohawk Path",,10/28/2004
+"South Carolina",Newberry,Whitmire,"704 1/2 Broome Street",,10/31/2004
+"South Carolina",Spartanburg,Cowpens,"695 Coopertown Rd",,10/31/2004
+"South Carolina",Charleston,"Johns Island","6045 Chisholm Road",,11/03/2004
+"South Carolina",Spartanburg,Mayo,"247 Iron Bridge Rd",,11/17/2004
+"South Carolina",Lexington,Swansea,"104 Clays Way",,11/28/2004
+"South Carolina",Lexington,Swansea,"116 Clays Way",,11/28/2004
+"South Carolina",Lexington,Swansea,"121 Bells Drive",,12/04/2004
+"South Carolina",Spartanburg,Spartanburg,"2671 Cannons Campground Rd",,12/14/2004
+"South Carolina",Anderson,Iva,"2108 Elberton Hwy",,12/15/2004
+"South Carolina",Lexington,Gaston,"197 Suzanne Court",,12/16/2004
+"South Carolina",Anderson,Anderson,"200 Miracle Mile Dr 8e",,12/29/2004
+"South Carolina",Anderson,Anderson,"310 Mcalister Dr",,01/04/2005
+"South Carolina",Lexington,Pelion,"329 George Brown",,01/05/2005
+"South Carolina",Lexington,"West Columbia","2952 Oswalt Drive",,01/07/2005
+"South Carolina",Lexington,Lexington,"122a Yogi Lane",,01/11/2005
+"South Carolina",Greenville,Taylors,"740 Gum Springs Rd",,01/11/2005
+"South Carolina",Aiken,"North Augusta","905a Fairway Avenue",,01/12/2005
+"South Carolina",Aiken,"North Augusta","905b Fairway Avenue",,01/13/2005
+"South Carolina",Orangeburg,Santee,"2916 Old State Road",,01/13/2005
+"South Carolina",Aiken,"North Augusta","905c Fairway Avenue",,01/13/2005
+"South Carolina",Greenville,Greenville,"327 Furman Hall Rd",,01/17/2005
+"South Carolina",Greenville,Gowansville,"104 Campbell Covered Bridge Rd",,01/18/2005
+"South Carolina",Cherokee,Cowpens,"198 Starr Circle",,01/20/2005
+"South Carolina",Greenville,"Travelers Rest","784 Crammell Rd",,01/23/2005
+"South Carolina",Anderson,Pendleton,"213 Wellington Rd",,01/24/2005
+"South Carolina",Horry,"North Myrtle Beach","2220 Ocean S Blvd",,01/28/2005
+"South Carolina",Greenville,Piedmont,"660 Old Grove Rd",,02/01/2005
+"South Carolina",Lexington,Gaston,"4387 Fish Hatchery Road",,02/04/2005
+"South Carolina",Greenville,"Fountain Inn","177 Shady Oak Rd",,02/05/2005
+"South Carolina",Laurens,"Gray Court","129 Equinox Dr",,02/07/2005
+"South Carolina",Cherokee,Gaffney,"146 Beaver Creek Rd",,02/09/2005
+"South Carolina",Berkeley,Summerville,"1761 State Rd",,02/17/2005
+"South Carolina",Lexington,Gaston,"238 Magnice Avenue",,02/19/2005
+"South Carolina",Lexington,Pelion,"383 Downet Drive",,02/26/2005
+"South Carolina",Lexington,Gaston,"157 Suzanne Court",,02/27/2005
+"South Carolina",Anderson,Pelzer,"16 Burts St",,03/01/2005
+"South Carolina",Lexington,Pelion,"264 Otis Rd",,03/02/2005
+"South Carolina",Greenville,Greenville,"525 Hunts Bridge Rd 1",,03/02/2005
+"South Carolina",Greenville,Greenville,"7 Glass St",,03/02/2005
+"South Carolina",Charleston,"North Charleston","7282 Mazyck Road",,03/03/2005
+"South Carolina",Greenville,Greer,"1108 Lee Vaughn Rd",,03/04/2005
+"South Carolina",Florence,Florence,"2703 St Beulah Rd",,03/10/2005
+"South Carolina",Lexington,Lexington,"4901 Sunset Boulevard",,03/11/2005
+"South Carolina",Lexington,Pelion,"168 Catherine Drive",,03/11/2005
+"South Carolina",Kershaw,Elgin,"196 Sessions Road",,03/18/2005
+"South Carolina",Cherokee,Gaffney,"208 Overbrook Dr C",,03/18/2005
+"South Carolina",Lexington,"Little Mountain","123 Millerss Branch Road",,03/23/2005
+"South Carolina",Charleston,"North Charleston","5428 Isle Circle",,03/25/2005
+"South Carolina",Lexington,Swansea,"1062 Calvary Church Road",,03/26/2005
+"South Carolina",Charleston,"North Charleston","5427 Ann Street",,03/31/2005
+"South Carolina",Lexington,Pelion,"159 Casper Street",,04/01/2005
+"South Carolina",Greenville,"Honea Path","106 Traynham Rd",,04/01/2005
+"South Carolina",Greenville,"Fountain Inn","413 Hwy. 418",,04/06/2005
+"South Carolina",Lexington,Lexington,"6747 Platt Springs Road",,04/07/2005
+"South Carolina",Lexington,Swansea,"256 Culler Road",,04/07/2005
+"South Carolina",Lexington,Pelion,"1640 Windy Wood Drive",,04/08/2005
+"South Carolina",Greenville,Greer,"231 North Suber Road",,04/12/2005
+"South Carolina",Lexington,Lexington,"143 Founders Boulevard",,04/17/2005
+"South Carolina",Aiken,Aiken,"420 Hampton Avenue",,04/22/2005
+"South Carolina",Anderson,Anderson,"122 Bryon St",,04/25/2005
+"South Carolina",Anderson,Pelzer,"167 Leslie Ln",,05/02/2005
+"South Carolina",Orangeburg,Neeses,"136 Shortleaf Road",,05/04/2005
+"South Carolina",Orangeburg,North,"438 Creekmill Road",,05/05/2005
+"South Carolina",Greenville,Belton,"547 Oak Hill Rd",,05/17/2005
+"South Carolina",Greenville,"Travelers Rest","92 Skylark E Dr",,05/19/2005
+"South Carolina",Lexington,Lexington,"11 Cecil Lane",,05/19/2005
+"South Carolina",Lexington,Gaston,"1540 Busbee Road",,06/02/2005
+"South Carolina",Anderson,Iva,"424 Chaffin Rd",,06/05/2005
+"South Carolina",Anderson,Anderson,"3515 Keys St B",,06/15/2005
+"South Carolina",Charleston,"Yonges Island","7991 Highway 162",,06/28/2005
+"South Carolina",Anderson,Anderson,"302 Ellen St",,07/06/2005
+"South Carolina",Anderson,Anderson,"304 Ellen St B",,07/06/2005
+"South Carolina",Berkeley,Macedonia,"1196 Church Of God Road",,07/11/2005
+"South Carolina",Orangeburg,Vance,"107 Villanova",,07/11/2005
+"South Carolina",Anderson,Anderson,"1511 Cherokee Cir",,07/18/2005
+"South Carolina",Anderson,Anderson,"3631 Keys St B",,08/03/2005
+"South Carolina",Anderson,Anderson,"311 Drake Cir",,08/05/2005
+"South Carolina",Greenville,Greenville,"212 Colonial Ave",,08/15/2005
+"South Carolina",Charleston,"North Charleston","5200 Dorchester Rd",,08/18/2005
+"South Carolina",Berkeley,"Moncks Corner","329 Winding Rd",,08/20/2005
+"South Carolina",Greenville,Taylors,"718 Tanner Rd",,08/28/2005
+"South Carolina",Spartanburg,Greer,"1705 Abner Creek Rd",,09/14/2005
+"South Carolina",Anderson,Belton,"201 Crawford Rd",,09/17/2005
+"South Carolina",Berkeley,Summerville,"432 Turtle Pond Rd",,10/04/2005
+"South Carolina",Berkeley,Ladson,"109 Coveney Ct",,10/05/2005
+"South Carolina",York,Clover,"6305 Frank Watts Road",,11/08/2005
+"South Carolina",Anderson,Pelzer,"113 Whipporwill Lane",,11/29/2005
+"South Carolina",Anderson,Iva,"1101 Project Rd",,11/30/2005
+"South Carolina",Anderson,Belton,"921 Wright School Road",,12/05/2005
+"South Carolina",Lexington,Lexington,"1208 Daralynn Drive",,12/22/2005
+"South Carolina",Anderson,Belton,"129 Blount Road",,12/31/2005
+"South Carolina",Oconee,Seneca,"206 Red Cardinal Rd",,01/05/2006
+"South Carolina",Berkeley,"Moncks Corner","101 Oak Crest Dr",,01/06/2006
+"South Carolina",Berkeley,"Moncks Corner","406 Compton Dr",,01/06/2006
+"South Carolina",Anderson,Iva,"8771 Hwy 187 S",,01/06/2006
+"South Carolina",Dorchester,Ladson,"292 Picard Dr",,01/09/2006
+"South Carolina",Oconee,Seneca,"1021 South 2nd E St 1016",,01/09/2006
+"South Carolina",Lexington,Gilbert,"4544 Augusta Highway",,01/11/2006
+"South Carolina",Orangeburg,Orangeburg,"170 Whaley Street",,01/20/2006
+"South Carolina",Anderson,Anderson,"145 Old Denver Road",,02/16/2006
+"South Carolina",Aiken,Burnettown,"272 Breezy Hill Road",,02/27/2006
+"South Carolina",Anderson,Iva,"915 Warren Watt Road",,03/07/2006
+"South Carolina",Anderson,Anderson,"1328 Cherokee Cir",,03/07/2006
+"South Carolina",Anderson,Starr,"842 Martin Rd",,03/15/2006
+"South Carolina",Anderson,Iva,"120 Meadowbrook Drive",,03/17/2006
+"South Carolina",Greenville,Piedmont,"1117 Robinson Road",,03/19/2006
+"South Carolina",Lexington,Gaston,"718 Meadowfield Road",,03/29/2006
+"South Carolina",Lexington,Gaston,"389 Ball Park Road",,04/05/2006
+"South Carolina",Anderson,Iva,"101 Mauldin Road",,04/12/2006
+"South Carolina",Anderson,Anderson,"1511 Cherokee Circle",,04/18/2006
+"South Carolina",Anderson,Anderson,"1198 Embassy Drive",,04/18/2006
+"South Carolina",Lexington,Pelion,"1829 Pine Street",,05/13/2006
+"South Carolina",Oconee,Seneca,"322 Friendship Road",,05/31/2006
+"South Carolina",Newberry,Newberry,"83 Adam Teseniar Road",,06/10/2006
+"South Carolina",Aiken,Belvedere,"635 Ashley Circle",,06/15/2006
+"South Carolina",Aiken,"Beech Island","57 Forrest Drive",,06/20/2006
+"South Carolina",Anderson,Anderson,"103 Pecan Drive",,06/22/2006
+"South Carolina",Spartanburg,Mayo,"141 Thrift Road",,06/28/2006
+"South Carolina",Anderson,Anderson,"3014 Plainview Drive",,06/30/2006
+"South Carolina",Berkeley,Summerville,"423-2 Turtle Pond Road",,08/01/2006
+"South Carolina",Greenville,Piedmont,"856 South Piedmont Highway",,08/23/2006
+"South Carolina",Anderson,Anderson,"2312 Whitehall Road",,08/30/2006
+"South Carolina",Anderson,Pendleton,"2301 Old Greenville Highway",,09/02/2006
+"South Carolina",Anderson,Belton,"633 Cannon Bottom Road",,09/27/2006
+"South Carolina",Berkeley,"Goose Creek","65 Tanbark Court",,09/27/2006
+"South Carolina",Anderson,Anderson,"109 New Prospect Church Road",,04/16/2007
+"South Carolina",Aiken,"North Augusta","1427 Waccamaw Avenue",,05/14/2007
+"South Carolina",Anderson,Anderson,"97 Woodforest Lane",,05/18/2007
+"South Carolina",Anderson,Anderson,"3513 Keys Street",,05/20/2007
+"South Carolina",Spartanburg,Cowpens,"760 Mayo Road",,06/04/2007
+"South Carolina",Spartanburg,Cowpens,"220 Edgefield Road",,07/04/2007
+"South Carolina",Aiken,"Beech Island","595 Beech Island Avenue",,07/12/2007
+"South Carolina",Spartanburg,Spartanburg,"312 Goldmine Road",,08/11/2007
+"South Carolina",Aiken,Clearwater,"230a Apache Drive",,08/27/2007
+"South Carolina",Dorchester,Summerville,"1925 Bacons Bridge Road",,08/30/2007
+"South Carolina",Cherokee,Gaffney,"600 Soap Stone Road",,09/11/2007
+"South Carolina",Cherokee,Pacolet,"252 Colony Road",,09/14/2007
+"South Carolina",Spartanburg,Spartanburg,"160 Powell Court",,11/07/2007
+"South Carolina",Aiken,Jackson,"99 Quail Ridge Drive",,11/29/2007
+"South Carolina",Berkeley,Ladson,"512 College Park Road",,12/18/2007
+"South Carolina",Cherokee,Gaffney,"150 Lori Road",,12/20/2007
+"South Carolina",Cherokee,Gaffney,"274 Mcginni Road",,12/22/2007
+"South Carolina",Greenville,"Fountain Inn","104 Peden Lane",,01/16/2008
+"South Carolina",Spartanburg,Inman,"921 Island Ford Road",,02/07/2008
+"South Carolina",Berkeley,"Goose Creek","105 Gary Street",,02/13/2008
+"South Carolina",Berkeley,"Goose Creek","122 Mellard Drive",,02/18/2008
+"South Carolina",Berkeley,Summerville,"112 Aberdeen Court",,02/19/2008
+"South Carolina",Aiken,Bath,"43 Wall Street",,03/12/2008
+"South Carolina",Aiken,Graniteville,"106 Joy Street",,03/12/2008
+"South Carolina",Aiken,Salley,"281 Hollow Creek Road",,03/24/2008
+"South Carolina",Spartanburg,Cowpens,"3 Goforth Road 45",,03/26/2008
+"South Carolina",Dorchester,Summerville,"110 Crunch Street",,04/08/2008
+"South Carolina",Berkeley,Summerville,"1147 College Park Road Lot 94",,04/08/2008
+"South Carolina",Greenville,"Travelers Rest","117 Boswell Circle",,04/17/2008
+"South Carolina",Dorchester,Summerville,"118 Muskie Drive",,04/21/2008
+"South Carolina",Dorchester,Summerville,"1341 Jahnz Avenue",,04/28/2008
+"South Carolina",Greenville,Simpsonville,"116 Shagbark Court",,05/09/2008
+"South Carolina",Berkeley,Ladson,"221 Treeland Drive",,05/14/2008
+"South Carolina",Greenville,Greer,"1204 Anderson Ridge Road",,05/20/2008
+"South Carolina",Anderson,Piedmont,"122 Roys Drive",,05/21/2008
+"South Carolina",Spartanburg,Spartanburg,"230 Police Club 1 Road",,06/23/2008
+"South Carolina",Spartanburg,Spartanburg,"138 Pfifer Drive",,06/30/2008
+"South Carolina",Anderson,Iva,"138 New Street",,09/08/2008
+"South Carolina",Greenville,Greenville,"10 Ridge Street",,10/22/2008
+"South Carolina",Anderson,Liberty,"840 Freeman Road",,11/18/2008
+"South Carolina",Greenville,Greenville,"200 New Dunham Bridge Road Lot 9",,12/07/2008
+"South Carolina",Greenville,Conestee,"433 4th Avenue",,04/21/2009
+"South Carolina",Spartanburg,,"5288 Hwy 11",,04/27/2009
+"South Carolina",Berkeley,Summerville,"1129 Felix Lane",,05/01/2009
+"South Carolina",Greenville,Taylors,"1496 Piedmont Park Road",,05/01/2009
+"South Carolina",Chesterfield,Chesterfield,"4965 West Jackson Road",,01/04/2010
+"South Carolina",Greenville,Greenville,"117  Emily Drive",,01/14/2010
+"South Carolina",Spartanburg,Pauline,"529  Evins Drive",,01/18/2010
+"South Carolina",Spartanburg,"Boiling Springs","8671  Asheville Highway",,01/20/2010
+"South Carolina",Spartanburg,Spartanburg,"150  Sun And Sand Drive",,01/30/2010
+"South Carolina",Greenville,Simpsonville,"302  Brentwood Way",,01/31/2010
+"South Carolina",Spartanburg,Woodruff,"220  Park Street",,02/01/2010
+"South Carolina",Greenwood,Greenwood,"4424  Old Laurens Road",,02/05/2010
+"South Carolina",Greenwood,Hodges,"112 East Sandy Run Road",,02/18/2010
+"South Carolina",Spartanburg,Cowpens,"209  Indian Hill Lane",,03/16/2010
+"South Carolina",Berkeley,Summerville,"819  Beauregard Road",,04/10/2010
+"South Carolina",York,"Rock Hill","1580  Museum Road",,04/23/2010
+"South Carolina",York,"Rock Hill","360  Foxlair Court",,04/24/2010
+"South Carolina",Aiken,Salley,"109  Tillman Poole Road",,04/28/2010
+"South Carolina",Greenwood,Greenwood,"982  Eagles Harbor Drive",,05/11/2010
+"South Carolina",Aiken,Gloverville,"100  Turnbull Street",,05/20/2010
+"South Carolina",Pickens,Pickens,"172  Mccollum Road",,05/27/2010
+"South Carolina",Spartanburg,Spartanburg,"3  Montgomery Street",,06/09/2010
+"South Carolina",Spartanburg,Spartanburg,"1170  Maryland Avenue",,06/09/2010
+"South Carolina",Greenwood,Greenwood,"903  Sweetwater Road",,06/17/2010
+"South Carolina",Dorchester,Summerville,"281  Embassy Drive",,06/26/2010
+"South Carolina",Spartanburg,Spartanburg,"1565  White Oak Street",,07/11/2010
+"South Carolina",Aiken,Monetta,"1689  Old Shoals Road",,07/19/2010
+"South Carolina",Greenwood,Greenwood,"220  Freeway Road",,07/22/2010
+"South Carolina",Dorchester,Summerville,"613  Dolphin Drive",,07/29/2010
+"South Carolina",Oconee,Tamassee,"340  Tamassee Knob Road",,08/14/2010
+"South Carolina",Aiken,"North Augusta","213  Crestview Drive",,08/17/2010
+"South Carolina",Dorchester,Summerville,"107  Sawmill Court",,08/23/2010
+"South Carolina",Oconee,Westminster,"167  Roame Road",,09/06/2010
+"South Carolina",Oconee,Walhalla,"799  Cedar Crest Trail",,09/25/2010
+"South Carolina",Greenville,Greenville,"317  Tall Pines Road",,11/09/2010
+"South Carolina",Laurens,Laurens,"390  Ghost Creek Road",,12/03/2010
+"South Carolina",Greenwood,Greenwood,"113  Dusty",,12/06/2010
+"South Carolina",Union,Buffalo,"1010 East Linersville Road",,12/07/2010
+"South Carolina",Laurens,Clinton,"903  Stomp Springs Road",,12/07/2010
+"South Carolina",Laurens,"Gray Court","1031  Quarry Road",,12/15/2010
+"South Carolina",Aiken,Graniteville,"288  Motlow Drive",,12/20/2010
+"South Carolina",Berkeley,Summerville,"1103  T.j. Lane",,01/11/2011
+"South Carolina",Aiken,Warrenville,"203  Pelzer Street",,01/16/2011
+"South Carolina",Aiken,Graniteville,"106  Joy Street",,01/20/2011
+"South Carolina",Oconee,Seneca,"10  Lonsdale Street",,02/01/2011
+"South Carolina",Laurens,"Gray Court","304  Henderson Road",,02/03/2011
+"South Carolina",Kershaw,Camden,"2205  Lakeshore Road",,02/06/2011
+"South Carolina",Laurens,Joanna,"410 North Marion Street",,02/10/2011
+"South Carolina",Aiken,Aiken,"988a  Colbert Bridge Road",,02/17/2011
+"South Carolina",Colleton,Ridgeville,"291  Tundra Lane",,03/02/2011
+"South Carolina",Greenville,Pelzer,"265  Daventon Road",,03/04/2011
+"South Carolina",Greenville,Greenville,"225  Hollywood Drive",,05/13/2011
+"South Carolina",Greenville,Simpsonville,"603  South Street",,06/14/2011
+"South Carolina",Laurens,Joanna,"120 North Marion Street",,06/16/2011
+"South Carolina",Laurens,"Honea Path","14725  25 Highway",,06/20/2011
+"South Carolina",Aiken,Batesburg,"340  Goose Platter Road",,07/06/2011
+"South Carolina",York,"Rock Hill","546  Brush Creek Road",,07/08/2011
+"South Carolina",Laurens,Clinton,"3114  Milam Road",,07/11/2011
+"South Carolina",Spartanburg,Woodruff,"420  Buncombe Street",,07/13/2011
+"South Carolina",Spartanburg,Chesnee,"915  Saluda Street",,07/13/2011
+"South Carolina",Laurens,Laurens,"1366  Curry Road",,07/18/2011
+"South Carolina",Greenville,Greenville,"114  Brentwood Drive",,07/18/2011
+"South Carolina",Greenville,Taylors,"400  Waddell Road 4",,07/20/2011
+"South Carolina",Greenville,Greenville,"3239  White Horse Road",,07/27/2011
+"South Carolina",Laurens,Clinton,"305  Thornewell Street 8",,08/21/2011
+"South Carolina",Laurens,"Gray Court","140  Dad's Place",,08/23/2011
+"South Carolina",Greenville,Simpsonville,"111  Tripmont Court",,09/08/2011
+"South Carolina",Greenville,Simmonsville,"818  Jenkins Bridge Road",,09/09/2011
+"South Carolina",Greenville,Landrum,"106  Turner Barton Road",,09/21/2011
+"South Carolina",Anderson,Belton,"19  Smythe Street",,10/02/2011
+"South Carolina",Dorchester,Ladson,"103  Harold Drive",,10/03/2011
+"South Carolina",Aiken,"New Ellenton","220  Fairlane Avenue",,10/04/2011
+"South Carolina",Union,Union,"208  Turner Avenue",,10/05/2011
+"South Carolina",Laurens,"Gray Court","194  Wappo Drive",,10/12/2011
+"South Carolina",Union,Pacolet,"268  Country Side Drive",,11/08/2011
+"South Carolina",Spartanburg,Lyman,"43  Lamb Road",,12/01/2011
+"South Carolina",Greenville,"Travelers Rest","107  Fernleaf Drive",,12/08/2011
+"South Carolina",Greenville,Pelzer,"219  Southern Road B",,12/13/2011
+"South Carolina",Dorchester,"Adams Run","105  Garden Lane",,12/15/2011
+"South Carolina",Greenville,Simpsonville,"208  Beattie Street",,12/15/2011
+"South Carolina",Lexington,Cayce,"1918  Gantt Street",,12/16/2011
+"South Carolina",Greenville,"Fountain Inn","1070  Nash Mill Road",,12/16/2011
+"South Carolina",Dorchester,Summerville,"233  Mohican Circle",,12/24/2011
+"South Carolina",Greenville,Piedmont,"79  Ferguson Road",,12/28/2011
+"South Carolina",Cherokee,Gaffney,"534  6th Street",,12/28/2011
+"South Carolina",Anderson,Belton,"504  Breazale Street",,12/29/2011
+"South Carolina",Aiken,Warrenville,"621  Augusta Road",,01/02/2012
+"South Carolina",Spartanburg,Enoree,"80  Clippard Street",,01/02/2012
+"South Carolina",Spartanburg,Chesnee,"213  Rhode Island Circle",,01/04/2012
+"South Carolina",Greenville,Pelzer,"1102  Mckelvey Road",,01/05/2012
+"South Carolina",Spartanburg,Mayo,"115  Edwards Creek Road",,01/10/2012
+"South Carolina",Laurens,Clinton,"708  Charlotte Road",,01/12/2012
+"South Carolina",Union,Union,"1208 West Main Street 10-d",,01/13/2012
+"South Carolina",Lexington,Cayce,"510  Brookcliff Road",,01/17/2012
+"South Carolina",Cherokee,Gaffney,"107  Walnut Street",,01/18/2012
+"South Carolina",Anderson,Williamston,"725  Taylor Road",,01/22/2012
+"South Carolina",Aiken,"Summer Hill","426  Renan Street",,01/26/2012
+"South Carolina",Spartanburg,Spartanburg,"146  Mabry Road",,02/01/2012
+"South Carolina",Darlington,Hartsville,"1363  Antioch Road",,02/01/2012
+"South Carolina",York,York,"1048  Cameron Road",,02/05/2012
+"South Carolina",Colleton,Walterboro,"3460  Sidneys Road",,02/07/2012
+"South Carolina",Greenville,Simpsonville,"401  Tebblewood Drive",,02/09/2012
+"South Carolina",Berkeley,Summerville,"213  Dennis Fort Lane",,02/10/2012
+"South Carolina",Pickens,Easley,"120  Atlantic Avenida 2",,02/10/2012
+"South Carolina",Anderson,Anderson,"103  Louise Circle",,02/11/2012
+"South Carolina",Anderson,Pelzer,"104  Law Street",,02/11/2012
+"South Carolina",Spartanburg,Spartanburg,"261  Cedar Springs Road",,02/16/2012
+"South Carolina",Spartanburg,Spartanburg,"162  Peaceful Valley Road",,02/21/2012
+"South Carolina",Spartanburg,Cowpens,"815  Mayo Road",,02/21/2012
+"South Carolina",Chesterfield,Pageland,"511  Hatchery Road",,02/23/2012
+"South Carolina",Spartanburg,Chesnee,"125  Willingham Road",,06/04/2012
+"South Carolina",Spartanburg,Landrum,"113  Walker Drive",,06/04/2012
+"South Carolina",Greenville,Greenville,"409  Conneciticut Avenue",,06/06/2012
+"South Carolina",Aiken,Aiken,"47  Hillsboro Drive",,06/08/2012
+"South Carolina",Laurens,Joanna,"304  Moorehead Street",,06/22/2012
+"South Carolina",Laurens,"Gray Court","450  Cheek Circle",,07/12/2012
+"South Carolina",Aiken,Gloverville,"199  Baker Street",,07/22/2012
+"South Carolina",Oconee,Westminster,"413  Jack Polfrey Road",,07/23/2012
+"South Carolina",Greenville,Piedmont,"22  Chapman Lane",,07/24/2012
+"South Carolina",Spartanburg,Roebuck,"110  Mae Street",,07/28/2012
+"South Carolina",Greenville,,"8  Pine Street",,07/30/2012
+"South Carolina",Horry,"Murrells Inlet","104  Knightbury Court C",,08/02/2012
+"South Carolina",Greenville,Greenville,"2602  Old Easley Bridge Road",,08/20/2012
+"South Carolina",Aiken,Warrenville,"504  Villa Oak Court",,08/20/2012
+"South Carolina",Union,Whitmire,"6151  Whitmire Highway",,08/24/2012
+"South Carolina",Greenville,Marietta,"101  Oakland Avenue",,08/25/2012
+"South Carolina",Horry,"Murrells Inlet","4300  Sweetwater Boulevard 4305",,08/28/2012
+"South Carolina",York,"Rock Hill","3315  Noostee Town Drive",,08/30/2012
+"South Carolina",Laurens,Clinton,"34  Jenkins Park Road",,09/05/2012
+"South Carolina",Laurens,Mountville,"3731  Puckett Ferry Road",,09/12/2012
+"South Carolina",Greenville,Belton,"123  Cothran Road",,09/13/2012
+"South Carolina",Greenville,"Travelers Rest","5a  Camp Road",,09/14/2012
+"South Carolina",Greenville,Greenville,"21  Harcourt Drive",,09/14/2012
+"South Carolina",Greenville,"Travelers Rest","107  Femlear Drive",,09/15/2012
+"South Carolina",Greenville,Greenville,"7  Ladbroke Court",,09/27/2012
+"South Carolina",Greenville,Greer,"318  Chandler Road",,10/02/2012
+"South Carolina",Richland,Columbia,"25  Buxton Drive",,10/03/2012
+"South Carolina",Richland,Blythewood,"348  Grover Wilson Road",,10/03/2012
+"South Carolina",Greenville,"Fountain Inn","103  Woods Road",,10/10/2012
+"South Carolina",York,York,"6828  Otis Crosby Road",,10/10/2012
+"South Carolina",Laurens,Waterloo,"250  Whitten Road",,10/17/2012
+"South Carolina",Laurens,Waterloo,"210  Whitten Road",,10/17/2012
+"South Carolina",Greenville,Marietta,"110  Gilbert Road",,10/25/2012
+"South Carolina",Chesterfield,Patrick,"100  Bbb Circle",,11/12/2012
+"South Carolina",Berkeley,Simmonsville,"8  Cloverdale Court",,12/04/2012
+"South Carolina",Greenville,Landrum,"4124  414 Highway",,12/07/2012
+"South Carolina",Greenville,Piedmont,"1968  Old Grove Road",,12/11/2012
+"South Carolina",Richland,Columbia,"1326  Brennen Road A",,01/07/2013
+"South Carolina",Greenville,Greer,"1012  Twin Oaks Drive",,01/11/2013
+"South Carolina",Laurens,"Fountain Inn","2734  Abercrombie Road",,02/01/2013
+"South Carolina",Laurens,Clinton,"100  Clinton Manor Drive 2e",,04/03/2013
+"South Carolina",Laurens,Clinton,"605 North Adair Street",,04/03/2013
+"South Carolina",Greenville,Simpsonville,"803  Fairview Road",,04/05/2013
+"South Carolina",Richland,Columbia,"3012  Lincoln Street",,04/05/2013
+"South Carolina",Chesterfield,Pageland,"998 East Maynard Street",,04/14/2013
+"South Carolina",York,"Rock Hill","998  Ebenezer Ave  2",,04/16/2013
+"South Carolina",Richland,Columbia,"716  Zimal Crest Drive 1614",,04/18/2013
+"South Carolina",Union,Union,"132  Echo Valley Road",,05/08/2013
+"South Carolina",Greenville,Greer,"944  Cogin Drive",,05/15/2013
+"South Carolina",Richland,Columbia,"217  Church Street",,05/16/2013
+"South Carolina",Greenville,Marietta,"21  Minnie Ola Road",,05/18/2013
+"South Carolina",Spartanburg,Pacolet,"110  Silver Springs Street",,06/05/2013
+"South Carolina",Spartanburg,Duncan,"146  Crescent Circle",,06/06/2013
+"South Carolina",Greenville,Taylors,"36  Hart Road",,06/10/2013
+"South Carolina",Greenville,Simpsonville,"2113 West Georgia Road",,06/14/2013
+"South Carolina",Greenville,Greenville,"21  Lakeside Drive",,06/14/2013
+"South Carolina",Union,Jonesville,"651  Jeffries Farm Road",,07/01/2013
+"South Carolina",Lexington,Gaston,"404  Glenn Street",,07/02/2013
+"South Carolina",Horry,"North Myrtle Beach","210 South Ocean Boulevard 406",,07/13/2013
+"South Carolina",Spartanburg,Spartanburg,"271  Goldmine Road",,07/19/2013
+"South Carolina",Spartanburg,Landrum,"202  Campbell Ave Avenue",,07/23/2013
+"South Carolina",Lexington,Columbia,"115  Broken Hill Road",,07/24/2013
+"South Carolina",Lexington,Lexington,"1465  Redmond Road",,07/26/2013
+"South Carolina",Spartanburg,Wellford,"212  Foxfire Road",,09/10/2013
+"South Carolina",Anderson,Chesterfield,"101  Gamblers Drive",,09/10/2013
+"South Carolina",York,Pulaski,"740  Shannon Meadows Road",,09/12/2013
+"South Carolina",Spartanburg,Clover,"49  North Main Street",,09/16/2013
+"South Carolina",Chesterfield,Landrum,"4971 West Jackson Road",,09/17/2013
+"South Carolina",Lexington,Leesville,"420  Old Field Drive",,10/02/2013
+"South Carolina",Spartanburg,Spartanburg,"1150  Johnson Street",,10/07/2013
+"South Carolina",Greenville,Landrum,"700 North Hwy 101 Highway",,10/08/2013
+"South Carolina",Spartanburg,Spartanburg,"2620  Carolina Country Club Road",,10/16/2013
+"South Carolina",Spartanburg,Spartanburg,"638  Old Canaan Road",,10/18/2013
+"South Carolina",Berkeley,"Moncks Corner","606  Levee Drive",,11/03/2013
+"South Carolina",Greenville,Piedmont,"175  Owens Road",,11/04/2013
+"South Carolina",Greenville,Greer,"565 East Darby Road 1",,11/04/2013
+"South Carolina",Lexington,Gaston,"2138  Sharpes Hill Road",,11/05/2013
+"South Carolina",Greenville,Simmonsville,"108  Talley Court",,11/05/2013
+"South Carolina",Greenville,Simpsonville,"1521  Davenport Road",,11/05/2013
+"South Carolina",Darlington,Hartsville,"2393  Patrick Highway",,11/07/2013
+"South Carolina",Lexington,Chapin,"152  Northshore Drive",,11/07/2013
+"South Carolina",Richland,Irmo,"8  Ivy Green Court",,11/08/2013
+"South Carolina",Laurens,Mountville,"621  Hillcrest Road",,11/11/2013
+"South Carolina",Laurens,Waterloo,"273  Flymm Smith Road",,11/18/2013
+"South Carolina",Lexington,Gaston,"1043  Meadowfield Road",,11/19/2013
+"South Carolina",Aiken,Salley,"630  Jerusalem Branch Road",,12/16/2013
+"South Carolina",Spartanburg,Cowpens,"1421  Double Branch Road",,01/04/2014
+"South Carolina",Newberry,Whitmire,"372  Jack Wilson Road",,01/12/2014
+"South Carolina",York,"Fort Mill","1489  Dunwoody Avenue",,01/13/2014
+"South Carolina",Richland,Columbia,"29  Forestgate Court",,02/02/2014
+"South Carolina",Greenville,"Fountain Inn","107  Woods Road",,02/04/2014
+"South Carolina",Lexington,Swansea,"3061  Pooles Mill Road",,02/05/2014
+"South Carolina",Lexington,"West Columbia","1273  Pine Street",,02/10/2014
+"South Carolina",Greenville,Simpsonville,"414  Bryson Drive",,02/16/2014
+"South Carolina",Lexington,Gaston,"123  Sandy Oak Lane",,03/03/2014
+"South Carolina",Lexington,"West Columbia","101  Dee Street",,03/03/2014
+"South Carolina",Laurens,Clinton,"508  Academy Street",,03/04/2014
+"South Carolina",Lexington,"West Columbia","5006  Becham Road",,03/05/2014
+"South Carolina",Greenville,Simpsonville,"205  Belcross Drive",,03/05/2014
+"South Carolina",Lexington,Lexington,"340  Spring Hill Road",,03/07/2014
+"South Carolina",Richland,Blythewood,"1229  Andrew Jackson Road",,03/17/2014
+"South Carolina",Horry,"Myrtle Beach","304 North 1 Avenue  Box A",,07/13/2014
+"South Carolina",Lexington,Gaston,"1076  Fallaw Road",,09/05/2014
+"South Carolina",Lexington,Gaston,"1564  Pelion Road",,10/02/2014
+"South Carolina",Lexington,Lexington,"121  Longview   Box A",,10/08/2014
+"South Carolina",Lexington,Lexington,"167  Mccartha Roads  Box B",,10/08/2014
+"South Carolina",Lexington,Gaston,"601  Blackville Road",,10/09/2014
+"South Carolina",Union,Union,"102  Spring Street",,10/17/2014
+"South Carolina",Richland,Columbia,"7602  Hunt Club Road",,10/18/2014
+"South Carolina",Oconee,Seneca,"723  Argo Road",,12/02/2014
+"South Carolina",Lexington,Gaston,"731  Meadow Field Road",,12/04/2014
+"South Carolina",Greenville,Mauldin,"214  Drury Lane",,12/05/2014
+"South Carolina",Lexington,Pelion,"421  Bub Shumpart Road",,12/06/2014
+"South Carolina",Lexington,"West Columbia","209  Beverly Drive",,12/11/2014
+"South Carolina",Lexington,Lexington,"1249  Roscoe Road",,12/22/2014
+"South Carolina",Lexington,Batesburg,"323  Ranch Road",,12/27/2014
+"South Carolina",Richland,Columbia,"189  Morningside Drive",,01/04/2015
+"South Carolina",Lexington,Chapin,"115  Joe Free Road",,01/07/2015
+"South Carolina",Spartanburg,Inman,"307 E Story Bush Lane",,01/12/2015
+"South Carolina",Sumter,Sumter,"112 E Newberry Avenue",,02/04/2015
+"South Carolina",Lexington,Lexington,"602  Peachtree Rock Road",,02/04/2015
+"South Carolina",Greenville,"Green Bay","19  Spinnaker Court",,02/13/2015
+"South Carolina",Lexington,Lexington,"2778 S Lake Drive",,02/17/2015
+"South Carolina",Barnwell,Barnwell,"279  Candy Lane",,03/05/2015
+"South Carolina",Greenville,"Fountain Inn","111  Wilson Bridge Road",,04/01/2015
+"South Carolina",Spartanburg,Roebuck,"260  Mayra Street",,04/01/2015
+"South Carolina",Spartanburg,Roebuck,"150  Mcabee Road",,04/01/2015
+"South Carolina",Spartanburg,Cowpens,"109  Cowpen Lane",,04/07/2015
+"South Carolina",Spartanburg,Cowpens,"1597  Double Branch Road",,04/07/2015
+"South Carolina",Lexington,"West Anderson","772  Spires Drive",,04/09/2015
+"South Carolina",Lexington,Lexington,"115  Dean Court",,04/10/2015
+"South Carolina",Spartanburg,Spartanburg,"140  Giles",,04/10/2015
+"South Carolina",Lexington,"West Columbia","704  Church Street",,04/10/2015
+"South Carolina",Spartanburg,Converse,"480  River Street",,04/13/2015
+"South Carolina",Anderson,"Honea Path","343  Malone Road",,04/14/2015
+"South Carolina",Richland,Columbia,"139  Ratchford Way",,04/17/2015
+"South Carolina",Richland,Eastover,"11232  Garners Ferry Road",,04/22/2015
+"South Carolina",Lexington,Leesville,"229  South Lee Street",,04/23/2015
+"South Carolina",Spartanburg,Spartanburg,"15  Robingate Court",,05/01/2015
+"South Carolina",Richland,Irmo,"2468  Kennerly Road",,05/05/2015
+"South Carolina",Lexington,"West Columbia","163  Whispering Glenn",,05/08/2015
+"South Carolina",Richland,Columbia,"18  Freya Court",,05/11/2015
+"South Carolina",Lexington,Gaston,"742  Archwood",,05/12/2015
+"South Carolina",Spartanburg,"Boiling Springs","126  Parris Bridge Road",,05/13/2015
+"South Carolina",Greenville,Greenville,"3903  White Horse Road",,05/14/2015
+"South Carolina",Spartanburg,Campobello,"208  Mosley Street",,05/14/2015
+"South Carolina",Spartanburg,Spartanburg,"21c  Rachel Court",,06/02/2015
+"South Carolina",Spartanburg,Campobello,"1575  Prison Camp Road",,06/03/2015
+"South Carolina",Chester,"Fort Lawn","678c  Weston Acres Road",,06/08/2015
+"South Carolina",Lexington,Swansea,"1725  Daniel Sharpe Road",,06/10/2015
+"South Carolina",Lexington,"West Columbia","3118  Dudley Road Box 603",,06/18/2015
+"South Carolina",Greenville,Taylors,"110 W Tyger Bridge Road",,06/23/2015
+"South Carolina",Richland,Blythewood,"817  Swygert Road",,06/28/2015
+"South Carolina",Lexington,Leesville,"524  Pine Grove Road",,07/01/2015
+"South Carolina",Richland,Columbia,"270  Bradstone Road",,07/07/2015
+"South Carolina",Spartanburg,Inman,"189  Wynette Way",,07/09/2015
+"South Carolina",Spartanburg,Spartanburg,"351  Rock Bottom Circle",,07/10/2015
+"South Carolina",Lexington,Pelion,"292  Canal Drive",,07/21/2015
+"South Carolina",Spartanburg,Startex,"158  Joy Drive",,07/22/2015
+"South Carolina",Richland,Columbia,"3004  Broad River Road",,08/06/2015
+"South Carolina",Spartanburg,"Boiling Springs","284  Fourth Street",,08/10/2015
+"South Carolina",Lexington,Gilbert,"1543  Lewie Road",,08/11/2015
+"South Carolina",Lexington,Lexington,"464  Wildlife Road",,08/13/2015
+"South Carolina",Lexington,Lexington,"Huggins/platt Springs Rd Street",,08/18/2015
+"South Carolina",Richland,Irmo,"129  Black Creek Lane",,08/18/2015
+"South Carolina",Greenville,Greeleyville,"1038  Edgefield Street",,08/24/2015
+"South Carolina",Lexington,Lexington,"1385  South Lake Drive",,08/25/2015
+"South Carolina",Greenville,Simpsonville,"527  Harrison Bridge Road",,09/08/2015
+"South Carolina",Lexington,Gaston,"928  Mack Street Box #19",,09/12/2015
+"South Carolina",Spartanburg,Woodruff,"2030  Kilgore Bridge Road",,09/12/2015
+"South Carolina",Lexington,Gaston,"1033  Fallaw Road",,09/13/2015
+"South Carolina",Kershaw,Elgin,"106  Pine Knoll Court",,09/14/2015
+"South Carolina",Richland,Columbia,"1814  Plain Street",,09/14/2015
+"South Carolina",Lexington,Lexington,"161  Snow Lane",,09/15/2015
+"South Carolina",Richland,Columbia,"250  Springtree Drive Box G5",,09/22/2015
+"South Carolina",Richland,Columbia,"1020  Montgomery Lane",,09/29/2015
+"South Carolina",Abbeville,Abbeville,"2587  Highway 20",,09/30/2015
+"South Carolina",Greenville,Greenville,"544  Eastview Road",,10/01/2015
+"South Carolina",Spartanburg,Landrum,"111  Oakgrove Road",,11/02/2015
+"South Carolina",Spartanburg,Chesnee,"1363  Casey Creek Road",,11/03/2015
+"South Carolina",Greenwood,"Ware Shoals","434  Burl Hill Road",,12/02/2015
+"South Carolina",Newberry,Whitmire,"0  Eaves Road",,12/07/2015
+"South Carolina",Spartanburg,Chesnee,"8790  Parris Bridge Road",,12/09/2015
+"South Carolina",York,Clover,"4576  4576 Lane",,12/11/2015
+"South Carolina",Richland,Columbia,"829  Ohio Street",,12/12/2015
+"South Carolina",Newberry,Newberry,"2420  Wilson Road",,12/12/2015
+"South Carolina",Newberry,Newberry,"2400  Main Street",,12/15/2015
+"South Carolina",Lexington,Lexington,"275  Seleta Circle",,12/21/2015
+"South Carolina",Horry,Conway,"704  Rain Tree Lane",,12/28/2015
+"South Carolina",Union,Union,"1410  Pineland Road",,01/18/2016
+"South Carolina",Spartanburg,Spartanburg,"150  Brown Sanders Road",,01/19/2016
+"South Carolina",Union,Union,"216  Raymond Road",,01/20/2016
+"South Carolina",Lexington,Gilbert,"307  Bouknight Road",,03/04/2016
+"South Carolina",Spartanburg,Greer,"1760  Brockman Mcclimon Road",,03/23/2016
+"South Carolina",Spartanburg,Spartanburg,"1761 Nazareth Church Rd",,08/01/2016
+"South Carolina",Lexington,Lexington,"574 Peachtree Rock Rd",,08/09/2016
+"South Carolina",Spartanburg,Greer,"145 High Meadows Lane",,08/11/2016
+"South Carolina",Spartanburg,Cowpens,"849 Battleground Rd",,08/17/2016
+"South Carolina",Lexington,Lexington,"2056 S Lake Drive",,08/30/2016
+"South Carolina",Spartanburg,Chesnee,"1213 Buck Creek Rd",,09/21/2016
+"South Carolina",Richland,Blythewood,"1048 Wilson Circle",,09/24/2016
+"South Carolina",Spartanburg,Cowpens,"185 Brown St",,10/12/2016
+"South Carolina",Darlington,Lamar,"744 Davis St",,05/15/2017
+"South Carolina",Lexington,"West Columbia","309 Sortwell St",,03/02/2018
+"South Carolina",Orangeburg,Orangeburg,"608 Berry",,08/22/2018

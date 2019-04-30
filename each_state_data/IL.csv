@@ -1,0 +1,957 @@
+state,county,city,address1,address2,date
+Illinois,Jackson,"Grand Tower","300 21 St",,01/01/2004
+Illinois,Stark,Bradford,"2720 Wyanet-walnut Rd",,01/02/2004
+Illinois,Iroquois,Wellington,"203 Donovan S St",,01/03/2004
+Illinois,Vermilion,Georgetown,"217 13th E St",,01/03/2004
+Illinois,Champaign,Rantoul,"1109 Eastview Dr",,01/07/2004
+Illinois,Madison,Alton,"370 6th N St",,01/07/2004
+Illinois,Madison,Edwardsville,"1438 Eberhart",,01/08/2004
+Illinois,Gallatin,"Old Shawneetown","427 Main S",,01/09/2004
+Illinois,Macoupin,Medora,"12864 Rosedale Rd",,01/09/2004
+Illinois,Knox,Galesburg,"1901 Rt 150 N 16",,01/10/2004
+Illinois,Madison,Madison,"2024 Collinsville",,01/10/2004
+Illinois,Madison,"Granite City","2301 23rd W St",,01/11/2004
+Illinois,Edwards,Albion,"232 Cherry E",,01/12/2004
+Illinois,Johnson,Vienna,"2925 Reevesville Rd",,01/12/2004
+Illinois,Coles,Mattoon,"2101 Champaign 200",,01/12/2004
+Illinois,"Saint Clair",Belleville,"10 B Elm Dr",,01/13/2004
+Illinois,Knox,Galesburg,"1056 Lyman St",,01/16/2004
+Illinois,Williamson,Carterville,"111 Stable Dr",,01/16/2004
+Illinois,Macoupin,Girard,"30116 Proctor Rd",,01/16/2004
+Illinois,Clark,Martinsville,"7 Elm S",,01/17/2004
+Illinois,Tazewell,Pekin,"1406 Sheridan 1",,01/21/2004
+Illinois,Champaign,Champaign,"1311 Sunset Dr",,01/21/2004
+Illinois,Woodford,"Spring Bay","1643 High St",,01/21/2004
+Illinois,Marion,Kinmundy,"7823 King Rd",,01/22/2004
+Illinois,Jefferson,"Mount Vernon","750 10th S St 126",,01/23/2004
+Illinois,Adams,Quincy,"2534 Cherry",,01/23/2004
+Illinois,Tazewell,Pekin,"106 Parkview Ct 2",,01/24/2004
+Illinois,Jefferson,Texico,"20320 Miller Lake N Ln",,01/26/2004
+Illinois,"Jo Daviess","East Dubuque","422 Wyota St",,01/27/2004
+Illinois,Iroquois,Wellington,"477 2nd North E St 4a",,01/27/2004
+Illinois,Fulton,Canton,"106 Chestnut E St #3",,02/01/2004
+Illinois,Vermilion,Hoopeston,"1107\ 2nd S Ave",,02/04/2004
+Illinois,Perry,Coulterville,"477 Tulip St",,02/06/2004
+Illinois,Coles,Mattoon,"1817 Ninth S A-5",,02/07/2004
+Illinois,Monroe,Waterloo,"103 Roosevelt Dr D",,02/07/2004
+Illinois,Madison,Alton,"2804 Sanford Ave",,02/07/2004
+Illinois,Vermilion,Georgetown,"502 Main S",,02/08/2004
+Illinois,Sangamon,Springfield,"1315 1/2 Reservoir E St",,02/09/2004
+Illinois,White,Crossville,"102 Second St",,02/10/2004
+Illinois,Madison,Troy,"2020 Formosa Rd",,02/10/2004
+Illinois,Marion,Salem,"439 Prairif View Dr",,02/11/2004
+Illinois,Marion,Salem,"510 Boone W St",,02/11/2004
+Illinois,Marion,Vernon,"211 Lair E St",,02/11/2004
+Illinois,Champaign,Tolono,"1488 County Road 800n",,02/11/2004
+Illinois,Madison,Edwardsville,"215 Seminole",,02/11/2004
+Illinois,Marion,Vernon,"216 ""b"" N St",,02/11/2004
+Illinois,Adams,Quincy,"626 Maine St A",,02/11/2004
+Illinois,Vermilion,Danville,"632 Winkler Rd",,02/13/2004
+Illinois,Williamson,Marion,"1006 Dickerson E St",,02/13/2004
+Illinois,Sangamon,Springfield,"1620 Melrose",,02/14/2004
+Illinois,Williamson,Pittsburg,"13422 Dwina Rd",,02/14/2004
+Illinois,Franklin,Benton,"1210 Fairland N St",,02/14/2004
+Illinois,Coles,Mattoon,"2021 Lafayette 3",,02/15/2004
+Illinois,Williamson,"Johnston City","909 Follis Ave",,02/17/2004
+Illinois,Jefferson,"Mount Vernon","100 44th N St 308",,02/17/2004
+Illinois,Effingham,Effingham,"101 Henrietta S Ave 1",,02/18/2004
+Illinois,Jackson,"Grand Tower","306 Main St",,02/18/2004
+Illinois,Effingham,Effingham,"602 5th S",,02/19/2004
+Illinois,Adams,Quincy,"1114 7th N",,02/19/2004
+Illinois,White,Carmi,"503 Hillsdale Dr",,02/20/2004
+Illinois,Jackson,Gorham,"111 Van Buren",,02/20/2004
+Illinois,White,Springerton,"236 2100 N Rd",,02/20/2004
+Illinois,White,"New Haven","459 1140 County E Rd",,02/20/2004
+Illinois,Adams,Quincy,"115 Riverview St",,02/22/2004
+Illinois,Madison,Alton,"711 Reuter",,02/23/2004
+Illinois,Madison,"Granite City","2154 Benton",,02/23/2004
+Illinois,Morgan,Waverly,"322 Prospect S St",,02/23/2004
+Illinois,Franklin,Zeigler,"5163 Park St",,02/24/2004
+Illinois,Cumberland,Jewett,"1101 Cumberland St",,02/25/2004
+Illinois,Madison,Collinsville,"3115 Princeton St",,02/25/2004
+Illinois,Christian,Pama,"817 1st E St",,02/26/2004
+Illinois,Champaign,Ogden,"303 Main W",,02/26/2004
+Illinois,Vermilion,Georgetown,"1307 Grace St",,02/29/2004
+Illinois,Macoupin,Shipman,"4958 Mile Station Rd",,03/03/2004
+Illinois,Bond,Pocahontas,"759 Cox Monument Rd",,03/03/2004
+Illinois,Alexander,Elco,"127 State Rt 1 692",,03/03/2004
+Illinois,Coles,Mattoon,"8608 County 200 East N Rd",,03/05/2004
+Illinois,Marion,Centralia,"1905 Mccord E Sr",,03/07/2004
+Illinois,Madison,"Pontoon Beach","4140 Potoon Rd A",,03/08/2004
+Illinois,Madison,"Granite City","17 Wilson Park Dr",,03/08/2004
+Illinois,Marion,Glenridge,"400 14th E",,03/09/2004
+Illinois,Peoria,Peoria,"1311 Maywood W",,03/10/2004
+Illinois,Shelby,Sigel,"201 Front E St",,03/10/2004
+Illinois,Cumberland,Toledo,"304 Ohio S",,03/10/2004
+Illinois,Williamson,"Johnston City","411 Adams I",,03/11/2004
+Illinois,Franklin,Royalton,"309 Pecan S St",,03/11/2004
+Illinois,Moultrie,Sullivan,"411 Jackson W",,03/11/2004
+Illinois,Vermilion,Danville,"120 Kentucky St",,03/12/2004
+Illinois,Jefferson,"Mount Vernon","1300 Westcott",,03/14/2004
+Illinois,Macoupin,Girard,"824 Center W A",,03/15/2004
+Illinois,Williamson,Herrin,"2780 Herrin Rd",,03/15/2004
+Illinois,Madison,"South Roxana","200 Indiana Ave",,03/16/2004
+Illinois,Williamson,Marion,"1108 Henderickson W",,03/17/2004
+Illinois,Stark,Bradford,"2720 Wyanet & Walnut Rd",,03/18/2004
+Illinois,Perry,"Du Quoin","7672 State Route 154 Rt 116",,03/18/2004
+Illinois,Bureau,Bradford,"14348 300 N Ave",,03/18/2004
+Illinois,Sangamon,Springfield,"3401 Gaines Mill Rd",,03/19/2004
+Illinois,Clay,"Clay City","236 A 3rd Ne",,03/20/2004
+Illinois,Clark,Casey,"300 1sta Ne St 5",,03/22/2004
+Illinois,Madison,"Granite City","1415 Rhodes",,03/25/2004
+Illinois,Sangamon,Grandview,"2112 Cincinnati E St",,03/25/2004
+Illinois,Cook,"Stone Park","1515 Mannheim N Rd 8",,03/25/2004
+Illinois,White,Maunie,"131 Sheridan St",,03/27/2004
+Illinois,Madison,Alton,"2418 Judson",,03/28/2004
+Illinois,Christian,Morrisonville,"201 Mohawk St",,03/30/2004
+Illinois,Christian,Taylorville,"1398 600 East N Rd",,03/31/2004
+Illinois,Jefferson,"Mount Vernon","817 Old Fairfield Rd",,03/31/2004
+Illinois,Coles,Charleston,"14257 County 600 North E Rd",,04/01/2004
+Illinois,Jefferson,"Mount Vernon","203 9th N St",,04/01/2004
+Illinois,Clark,"West Union","207 Water N St",,04/01/2004
+Illinois,Tazewell,Pekin,"106 Edds St",,04/02/2004
+Illinois,"Rock Island",Moline,"2510 5th Ave 1/2",,04/02/2004
+Illinois,Coles,Charleston,"5795 County Road 1460 East N",,04/02/2004
+Illinois,Madison,"Granite City","16 Tracy Ln",,04/03/2004
+Illinois,Williamson,Marion,"2100 Main W 351",,04/04/2004
+Illinois,Macoupin,Plainview,"10948 Lebro Ln",,04/04/2004
+Illinois,Clinton,"New Memphis","206 Walnut E",,04/05/2004
+Illinois,Madison,"Granite City","2410 Bryan Ave",,04/05/2004
+Illinois,Clay,Edgewood,"5566 Ridge Rd",,04/06/2004
+Illinois,Madison,"Cottage Hills","1331 6th St",,04/07/2004
+Illinois,Marion,Salem,"523 Castle S Ave",,04/07/2004
+Illinois,Marion,Centralia,"2722 Lake Rd",,04/07/2004
+Illinois,Vermilion,Rossville,"620 E Rd",,04/08/2004
+Illinois,Jefferson,Bluford,"503 South W Ave",,04/08/2004
+Illinois,Macoupin,Carlinville,"22847 Charity Church Rd",,04/11/2004
+Illinois,Jefferson,"Mount Vernon","1118 22nd St",,04/12/2004
+Illinois,Marion,"Walnut Hill","23878 Jefferson W St",,04/12/2004
+Illinois,Logan,Lincoln,"2011 Kickapoo N St 225",,04/13/2004
+Illinois,Effingham,Effingham,"15202 Monocot N St",,04/14/2004
+Illinois,Johnson,Ozark,"3690 Ozark Rd",,04/16/2004
+Illinois,Gallatin,"Old Shawneetown","855 Poplar N St",,04/21/2004
+Illinois,Madison,"Granite City","3304 Terrace Ln",,04/21/2004
+Illinois,Jefferson,"Mount Vernon","1418 Salem Rd",,04/21/2004
+Illinois,Madison,Highland,"1704 Cypress",,04/22/2004
+Illinois,Marion,Salem,"10 Nancy Ln",,04/23/2004
+Illinois,Coles,Mattoon,"205 Mcfall Rd 232",,04/24/2004
+Illinois,Knox,Galesbury,"565 Main W St",,04/24/2004
+Illinois,Marion,Salem,"728 Whittaker W St",,04/26/2004
+Illinois,Madison,"Granite City","2524 Hodges St",,04/26/2004
+Illinois,Sangamon,Spaulding,"1077 Rraylot E",,04/27/2004
+Illinois,"St. Clair","Fairview Heights","1916 North 89th Street",,04/28/2004
+Illinois,Marion,Salem,"633 Boone E St",,04/28/2004
+Illinois,Randolph,Coulterville,"10840 Boyd Rd",,04/30/2004
+Illinois,Sangamon,Springfield,"1516 Seven Pines Rd 1",,04/30/2004
+Illinois,Mason,"Mason City","505 Mason S St",,05/05/2004
+Illinois,Marion,Centralia,"423 Beech N St",,05/06/2004
+Illinois,Randolph,Sparta,"303 Main W St A",,05/06/2004
+Illinois,Madison,Collinsville,"739 Lake Ave",,05/10/2004
+Illinois,Coles,Mattoon,"4808 Paradise Rd",,05/11/2004
+Illinois,Morgan,Meredosia,"415 Union St",,05/12/2004
+Illinois,Vermilion,Danville,"1800 Perrysville Rd 5",,05/13/2004
+Illinois,White,Carmi,"300 Doty",,05/16/2004
+Illinois,Kankakee,Bradley,"254 Jefferson N Ave",,05/16/2004
+Illinois,"Jo Daviess","East Dubuque","443 Desoto",,05/17/2004
+Illinois,Champaign,Urbana,"203 Crystal Lake Dr",,05/18/2004
+Illinois,Monroe,Columbia,"536 Main S St 1",,05/18/2004
+Illinois,Cumberland,Greenup,"1073 Illinois Route 130 N",,05/18/2004
+Illinois,Tazewell,Pekin,"201 Cooper St",,05/19/2004
+Illinois,Edgar,Paris,"9848 1800th N St",,05/21/2004
+Illinois,Jefferson,Opdyke,"12112 Lighthouse N Ln",,05/21/2004
+Illinois,Logan,Lincoln,"610 Short 8th St",,05/23/2004
+Illinois,Williamson,"Johnston City","14161 Blinkley",,05/24/2004
+Illinois,Vermilion,Houston,"204 Main E St",,05/28/2004
+Illinois,Bond,Greenville,"1300 Yellow St",,06/01/2004
+Illinois,Marion,Salem,"3128 Mccoy Rd",,06/03/2004
+Illinois,Christian,Taylorville,"801 Vandeveer W St",,06/03/2004
+Illinois,Madison,Collinsville,"475 Bluff N",,06/04/2004
+Illinois,Moultrie,Sullivan,"379 Country Road 1380 North E",,06/07/2004
+Illinois,Clay,Flora,"221 2nd E 4",,06/08/2004
+Illinois,Jefferson,"Mount Vernon","1319 Salem Rd",,06/09/2004
+Illinois,Morgan,Jacksonville,"918 Independence E",,06/09/2004
+Illinois,Jefferson,"Mount Vernon","120 44th N St",,06/11/2004
+Illinois,Knox,Galesburg,"420 West N St",,06/12/2004
+Illinois,Jefferson,"Mount Vernon","800 Main St",,06/16/2004
+Illinois,Clay,Louisville,"2727 Vandalia Rd",,06/17/2004
+Illinois,Coles,Charleston,"617 State W",,06/18/2004
+Illinois,Marion,Odin,"1416 Ferrydale Rd",,06/18/2004
+Illinois,Jackson,Murphysboro,"1 The Pine Creek Rd",,06/19/2004
+Illinois,Sangamon,Springfield,"7094 Mechanicsburg E Rd Lot 4",,06/20/2004
+Illinois,Henry,Geneseo,"23387 1200 E St",,06/20/2004
+Illinois,Shelby,Shelbyville,"606 Morgan N",,06/22/2004
+Illinois,Madison,"Granite City","2805 Saratoga",,06/23/2004
+Illinois,"Rock Island","East Moline","916 35th Ave",,06/23/2004
+Illinois,Williamson,Marion,"5341 Wards Mill Rd",,06/24/2004
+Illinois,Madison,"Granite City","3708 Kirkpatric",,06/25/2004
+Illinois,"Saint Clair",Belleville,"30 21 S St",,06/29/2004
+Illinois,Williamson,Marion,"21612 Buffalo Lick Rd",,06/29/2004
+Illinois,Wayne,Fairfield,"13 Brock Ln",,06/29/2004
+Illinois,Sangamon,Springfield,"423 Adelia St",,07/01/2004
+Illinois,Sangamon,Springfield,"1236 Oak Lane N Rd 135",,07/01/2004
+Illinois,Macoupin,"Mount Olive","101 5th North E St",,07/02/2004
+Illinois,Hardin,Rosiclare,"127 Rogertown W Rd",,07/04/2004
+Illinois,Jefferson,Bluford,"400 6th",,07/07/2004
+Illinois,Franklin,"West City","107 Main W St 110",,07/13/2004
+Illinois,White,Carmi,"407 Rice A",,07/14/2004
+Illinois,Wayne,Fairfield,"Lot 25 Ballard Trailer Ct",,07/15/2004
+Illinois,Fulton,Canton,"1048 7th S Ave 74",,07/17/2004
+Illinois,Williamson,Herrin,"508 5th N",,07/18/2004
+Illinois,Madison,"Granite City","1314 Granite Ave",,07/19/2004
+Illinois,Marion,Centralia,"1007 College N Ave",,07/20/2004
+Illinois,Adams,Quincy,"1036 North 10th",,07/21/2004
+Illinois,Clay,Flora,"730 1/2 Maple W",,07/21/2004
+Illinois,Clark,"West Union","112 Broadway (old York)",,07/23/2004
+Illinois,Crawford,Hutsonville,"405 Main N St",,07/23/2004
+Illinois,Madison,"Granite City","2332 Miracle Dr",,07/27/2004
+Illinois,Williamson,Herrin,"508 5th N St",,07/28/2004
+Illinois,Champaign,Rantoul,"1316 Cypress Ln",,07/28/2004
+Illinois,Shelby,Shelbyville,"201 Washington S",,07/31/2004
+Illinois,Jefferson,"Mount Vernon","904 Salem Rd 2c",,08/02/2004
+Illinois,Franklin,"West Frankfort","203 5th W St",,08/02/2004
+Illinois,Tazewell,Pekin,"1401 Hazel St",,08/05/2004
+Illinois,Madison,"Granite City","2263 State St",,08/06/2004
+Illinois,Sangamon,"New Berlin","1687 New Salem Church Rd",,08/07/2004
+Illinois,Cumberland,Toledo,"766 500 E",,08/12/2004
+Illinois,Marion,Salem,"5219 Us Hwy 50 Hwy",,08/12/2004
+Illinois,Marion,Centralia,"918 1/2 Poplar N St",,08/12/2004
+Illinois,Madison,Godfrey,"5813 Dogwood Ln",,08/13/2004
+Illinois,Marion,Centralia,"3780 State Route 161 Hwy",,08/14/2004
+Illinois,White,Crossville,"407 First N Sr",,08/15/2004
+Illinois,Bond,Pocahontas,"221 Sawmill Rd",,08/16/2004
+Illinois,Marion,Salem,"2833 State Route 37 South Hwy",,08/20/2004
+Illinois,Whiteside,Morrison,"40 Meadowbrook Dr",,08/20/2004
+Illinois,Madison,"Granite City","1723 Spruce",,08/22/2004
+Illinois,Coles,Charleston,"2450 Lincoln Highway Rd",,08/23/2004
+Illinois,Coles,Mattoon,"805 33rd N St",,08/26/2004
+Illinois,Clay,"Clay City","112 1st Nw",,08/27/2004
+Illinois,Sangamon,Springfield,"1426 Reservoir E St",,08/28/2004
+Illinois,Madison,"Granite City","2123 Bryan St",,08/30/2004
+Illinois,Madison,Collinsville,"1104 Plainview",,09/01/2004
+Illinois,Gallatin,Ridgway,"104 Sherman N St 1",,09/02/2004
+Illinois,Gallatin,Shawneetown,"7535 Ringold Rd",,09/03/2004
+Illinois,Madison,"Granite City","4306 Kirkpatrick Hms",,09/03/2004
+Illinois,Vermilion,Hoopeston,"1950 200 North E Rd",,09/08/2004
+Illinois,Knox,Galesburg,"248 Chambers N St 1/2",,09/09/2004
+Illinois,"Saint Clair",Caseyville,"16 Marilyn",,09/13/2004
+Illinois,Jefferson,"Mount Vernon","16584 Il Hwy 37 N 66",,09/13/2004
+Illinois,Franklin,Christopher,"504 Church S St",,09/14/2004
+Illinois,Clay,"Clay City","112 First Nw St",,09/15/2004
+Illinois,Adams,Quincy,"827 Van Buren",,09/17/2004
+Illinois,Marion,Centralia,"600 10th W St",,09/17/2004
+Illinois,Williamson,Cambria,"406 Railroad W St",,09/18/2004
+Illinois,Franklin,"West Frankfort","411 Horn N St",,09/19/2004
+Illinois,Jefferson,Opdyke,"18353 Liberty E Rd",,09/19/2004
+Illinois,Gallatin,Eldorado,"510 Poplar N Rd",,09/21/2004
+Illinois,Christian,Taylorville,"1400 Spresser W St 19",,09/22/2004
+Illinois,Sangamon,Springfield,"48 Anchor Rd",,09/24/2004
+Illinois,Knox,Galesburg,"261 Pine",,09/26/2004
+Illinois,Gallatin,Ridgway,"410 Elm W St",,10/02/2004
+Illinois,Williamson,Cambria,"404 Richart S",,10/04/2004
+Illinois,Christian,Taylorville,"1318 Vandaveer W St",,10/04/2004
+Illinois,Edgar,Paris,"725 West End Ave",,10/05/2004
+Illinois,Mchenry,Algonquin,"11510 C Algonquin Rd",,10/05/2004
+Illinois,Mchenry,Huntley,"11510 B Allonquin Rd D",,10/05/2004
+Illinois,Madison,Madison,"1022 Alton",,10/06/2004
+Illinois,Johnson,Ozark,"246 Ozark Rd",,10/07/2004
+Illinois,Jackson,"De Soto","211 Cherry N",,10/13/2004
+Illinois,Vermilion,Hoopeston,"719 5th S St",,10/13/2004
+Illinois,Jefferson,"Mount Vernon","1106 22nd S St",,10/13/2004
+Illinois,Madison,"Granite City","2316 State St",,10/14/2004
+Illinois,Macoupin,Gillespie,"4369 Wilhoit Airport Rd",,10/14/2004
+Illinois,Williamson,Marion,"12420 Rt 37 1",,10/15/2004
+Illinois,Christian,Pana,"808 1st E St",,10/17/2004
+Illinois,"Saint Clair",O'fallon,"69 Powell",,10/19/2004
+Illinois,Jefferson,"Mount Vernon","1612 Peek St",,10/19/2004
+Illinois,Vermilion,Danville,"411 Lynch Dr 334",,10/19/2004
+Illinois,Adams,Quincy,"705 Rear 7th St",,10/19/2004
+Illinois,Madison,Heghland,"20 Central Blvd 306",,10/20/2004
+Illinois,Montgomery,Hillsboro,"119 Truesdale",,10/20/2004
+Illinois,Clay,"Sailor Springs","410 Park E St",,10/25/2004
+Illinois,Vermilion,Allerton,"515 Vermilion N St",,10/26/2004
+Illinois,Randolph,Tilden,"51 Minnie N St",,10/30/2004
+Illinois,Jefferson,"Mount Vernon","10681 Redwood E Rd",,10/31/2004
+Illinois,Henry,Kewanee,"824 Wilson St",,10/31/2004
+Illinois,Vermilion,Danville,"18 Corrine St",,11/02/2004
+Illinois,Cook,Lansing,"2255 173rd W St 213",,11/05/2004
+Illinois,Vermilion,Danville,"1700 Williams W St",,11/08/2004
+Illinois,Wayne,Fairfield,"1104 Hawkins",,11/12/2004
+Illinois,Crawford,Oblong,"405 Kentucky E",,11/18/2004
+Illinois,Crawford,"Flat Rock","2681 1315 N St",,11/22/2004
+Illinois,Will,Joliet,"2219.5 Jefferson W St 235",,11/25/2004
+Illinois,Williamson,Herrin,"1524 Madison W St",,11/28/2004
+Illinois,Logan,Lincoln,"218 Limit N St",,12/01/2004
+Illinois,Effingham,Effingham,"2611 Clayborne Ct",,12/01/2004
+Illinois,White,"Norris City","608 Co Rd 950 E",,12/03/2004
+Illinois,Macoupin,Carlinville,"18641 Evans Rd",,12/03/2004
+Illinois,Montgomery,Litchfield,"634 Old Quarry Trl",,12/03/2004
+Illinois,Washington,Richview,"436 Olive",,12/04/2004
+Illinois,Jackson,Dowell,"601 Vogel",,12/07/2004
+Illinois,Adams,Quincy,"2000 Blicks Village",,12/07/2004
+Illinois,White,"Norris City","608 Co Rd 675 E",,12/07/2004
+Illinois,White,"Burnt Prairie","2248 Co Rd 675 E",,12/07/2004
+Illinois,Williamson,"Johnston City","11394 Il Steel Rd",,12/08/2004
+Illinois,Madison,Collinsville,"1102 Apache B",,12/09/2004
+Illinois,Madison,"Granite City","1720 Spruce St",,12/10/2004
+Illinois,Mcdonough,Colchester,"460 Labrador Rd",,12/16/2004
+Illinois,Union,Anna,"240 Big Creek",,12/22/2004
+Illinois,Vermilion,Danville,"31 Griffin S",,12/26/2004
+Illinois,Tazewell,"East Peoria","102 Webster",,12/28/2004
+Illinois,Mcdonough,Colchester,"9240 250th N Rd",,12/29/2004
+Illinois,Jefferson,"Mount Vernon","620 17th S St",,12/30/2004
+Illinois,Ford,Paxton,"218 Orleans E",,12/30/2004
+Illinois,Williamson,Spillertown,"104 Linck Rd 1a",,01/09/2005
+Illinois,Williamson,"Johnston City","839 5th W",,01/09/2005
+Illinois,Montgomery,Hillsboro,"22 Vandalia St",,01/10/2005
+Illinois,Franklin,"West Frankfort","510 Cherry S St",,01/14/2005
+Illinois,Richland,Olney,"208 West N",,01/16/2005
+Illinois,Tazewell,Pekin,"1406 Henry St B",,01/21/2005
+Illinois,Union,Cobden,"112 Casper",,01/22/2005
+Illinois,Peoria,Peoria,"412 Morgan",,01/24/2005
+Illinois,Williamson,"Creal Springs","14171 Cannaville",,01/26/2005
+Illinois,Richland,Olney,"330 Walnut N",,01/26/2005
+Illinois,Shelby,Shelbyville,"111 Long N",,01/27/2005
+Illinois,Cumberland,Greenup,"1540 Il. State Hwy 121",,01/29/2005
+Illinois,Fayette,Vandalia,"524 2nd N St",,02/02/2005
+Illinois,Pulaski,"Grand Chain","4776 Boaz S Rd",,02/02/2005
+Illinois,Vermilion,Danville,"2011 Hegler E Ln 46",,02/02/2005
+Illinois,Madison,"Granite City","3055 Century",,02/06/2005
+Illinois,Henry,Kewanee,"504 Grove N St",,02/07/2005
+Illinois,Vermilion,Danville,"923 Main E St",,02/08/2005
+Illinois,Vermilion,Hoopeston,"309 Penn W St",,02/08/2005
+Illinois,Adams,"La Prairie","2647 3000th E St",,02/09/2005
+Illinois,Madison,"Granite City","2118 Delmar Ave A",,02/10/2005
+Illinois,Franklin,Buckner,"607 2nd E St",,02/11/2005
+Illinois,Knox,"East Galesburg","1582 Knox E Rd 870",,02/11/2005
+Illinois,Fayette,Vandalia,"111 Willow N St",,02/14/2005
+Illinois,Vermilion,"Ridge Farm","505 State N St",,02/15/2005
+Illinois,Marion,Iuka,"411 Front N St",,02/19/2005
+Illinois,Clay,Flora,"233 Adams St",,02/20/2005
+Illinois,Wabash,"Mount Carmel","1210 E Ln",,02/20/2005
+Illinois,Wabash,"Mount Carmel","11794 960 E Ln",,02/22/2005
+Illinois,Union,Peeks,"1880 Mt. Olive",,02/25/2005
+Illinois,Wayne,"Mount Erie","2400 E County Road N Rd 13",,03/01/2005
+Illinois,Saline,Eldorado,"101 Willow Lake Rd",,03/02/2005
+Illinois,"Saint Clair",Belleville,"610 C W St",,03/02/2005
+Illinois,Marion,Salem,"215 Westport Dr",,03/03/2005
+Illinois,Peoria,Peoria,"606 Evans N",,03/04/2005
+Illinois,Madison,"Granite City","2149 Cleveland Blvd Rear",,03/06/2005
+Illinois,Coles,Charleston,"4125 County 2300 East N Rd",,03/07/2005
+Illinois,Adams,Quincy,"1511 6th S St",,03/09/2005
+Illinois,Franklin,"West Frankfort","1603 West Rd",,03/13/2005
+Illinois,Vermilion,Georgetown,"1310 Haworth",,03/14/2005
+Illinois,Tazewell,Tremont,"516 James St",,03/14/2005
+Illinois,Coles,Mattoon,"1300 17th S St",,03/16/2005
+Illinois,Clay,"Clay City","424 1st N. W. N",,03/18/2005
+Illinois,Jefferson,"Mount Vernon","913 21st S St",,03/18/2005
+Illinois,Crawford,Hutsonville,"15501 1600 E Ave",,03/18/2005
+Illinois,Adams,Quincy,"1213 8th St",,03/19/2005
+Illinois,Fulton,Canton,"244 Pine W St",,03/22/2005
+Illinois,Vermilion,Danville,"7 Chestnut St",,03/26/2005
+Illinois,Bond,Sorento,"610 Main N St 12",,03/29/2005
+Illinois,Henry,Kewanee,"801 Elm N St",,04/02/2005
+Illinois,Clark,Casey,"205 Harrison E St",,04/03/2005
+Illinois,Vermilion,Oakwood,"202 Washington St",,04/06/2005
+Illinois,Union,Cobden,"55 Cass La",,04/06/2005
+Illinois,Vermilion,Georgetown,"310 7th W St",,04/06/2005
+Illinois,Montgomery,Witt,"709 Illinois E St",,04/08/2005
+Illinois,Jackson,"De Soto","1684 Crane Rd",,04/08/2005
+Illinois,Christian,Rosamond,"315 2nd St",,04/09/2005
+Illinois,Carroll,Thompson,"6039 Il Route 84",,04/15/2005
+Illinois,Henry,Kewanee,"912 Tremont N St",,04/18/2005
+Illinois,Knox,Galesburg,"208 Ohio Ave",,04/19/2005
+Illinois,Wabash,Bellmont,"212 Persimmon S St",,04/25/2005
+Illinois,Pike,Griggsville,"615 S Pearl St",,05/02/2005
+Illinois,Madison,"Granite City","4026 Old Alton Rd",,05/04/2005
+Illinois,Edgar,Paris,"307 Arthur W St",,05/05/2005
+Illinois,"Saint Clair",Smithton,"214 Hicory N St",,05/08/2005
+Illinois,Shelby,Sigel,"201 Front W St",,05/10/2005
+Illinois,Wabash,"Mount Carmel","16240 1150 E Rd",,05/15/2005
+Illinois,Madison,Mitchell,"669 Barkley",,05/16/2005
+Illinois,Christian,Morrisonville,"805 Sixth Se St",,05/17/2005
+Illinois,Adams,Quincy,"1709 Monroe St",,05/17/2005
+Illinois,Williamson,Pittsburg,"12809 Mcsparen N Rd",,05/17/2005
+Illinois,Jefferson,"Mount Vernon","2200 Logan St",,05/17/2005
+Illinois,Vermilion,Danville,"3103 Daisy Ct",,05/18/2005
+Illinois,"Saint Clair",Centreville,"1500 Brickhill Rd",,05/18/2005
+Illinois,Madison,"Glen Carbon","4 Sassafras St",,05/18/2005
+Illinois,Madison,"Pontoon Beach","3939 Park",,05/19/2005
+Illinois,Pike,Griggsville,"Rr #1 32a",,05/20/2005
+Illinois,Morgan,Jacksonville,"518 East S St 1 1",,05/21/2005
+Illinois,Franklin,Zeigler,"805 Coxspurs St",,05/23/2005
+Illinois,Jefferson,"Mount Vernon","517 21st S St",,05/23/2005
+Illinois,Madison,"Granite City","2043 Benton 8",,05/24/2005
+Illinois,Madison,"East Alton","46 Melody Ln",,05/24/2005
+Illinois,Vermilion,Danville,"514 Mikel Rd",,05/27/2005
+Illinois,Vermilion,Danville,"55 Maplewood Ave",,05/27/2005
+Illinois,Coles,Ashmore,"24 Court Ln",,06/01/2005
+Illinois,Vermilion,Georgetown,"219 10th E St",,06/01/2005
+Illinois,Saline,Eldorado,"1845 Woolard Rd",,06/04/2005
+Illinois,Madison,Madison,"1118 State",,06/05/2005
+Illinois,Warren,Monmouth,"30 Mcewen Ct",,06/05/2005
+Illinois,Madison,"Granite City","4010 Braden Ave 25",,06/07/2005
+Illinois,Madison,"Granite City","1726 Maple St",,06/10/2005
+Illinois,Jefferson,"Mount Vernon","1108 22nd S St",,06/10/2005
+Illinois,Crawford,Palestine,"9673 1710 N St",,06/12/2005
+Illinois,White,Carmi,"404 1/2 Walnut S",,06/13/2005
+Illinois,Madison,Collinsville,"31 Pat Dr",,06/13/2005
+Illinois,Marion,Salem,"3167 Mccoy Rd",,06/14/2005
+Illinois,Vermilion,Danville,"15 Morin Ave",,06/15/2005
+Illinois,"Saint Clair","Washington Park","1128 42nd N St",,06/16/2005
+Illinois,Madison,"Granite City","2508 Nameoki Rd",,06/16/2005
+Illinois,Marion,Centralia,"Trl # 12 D Ann Dr",,06/22/2005
+Illinois,Peoria,Peoria,"601 Romeo B. Garret 2107",,06/22/2005
+Illinois,Adams,Beverly,"2718 250th N Ave",,06/22/2005
+Illinois,Crawford,Robinson,"5063 1300th N St",,06/27/2005
+Illinois,Madison,"Granite City","1628 Sycamore St",,06/27/2005
+Illinois,Sangamon,Chatham,"707 Mulbury E St 6",,06/29/2005
+Illinois,Henry,Kewanee,"815 15th E St",,06/30/2005
+Illinois,Williamson,Marion,"106 Fair N St",,07/02/2005
+Illinois,"Saint Clair",Belleville,"2913 Main W",,07/06/2005
+Illinois,Marion,Sandoval,"79 Ruby Rd",,07/06/2005
+Illinois,Montgomery,Litchfield,"115 Water E St",,07/07/2005
+Illinois,"Saint Clair",Belleville,"1214 Third W St",,07/07/2005
+Illinois,"Saint Clair",Lenzburg,"15 Charles N St",,07/07/2005
+Illinois,Morgan,Jacksonville,"2140 Morton E Ave",,07/07/2005
+Illinois,Williamson,"Johnston City","12833 Willow Pond Ln",,07/08/2005
+Illinois,Williamson,Marion,"12970 State Route 37 N",,07/08/2005
+Illinois,Vermilion,Fithian,"202 Washington E",,07/12/2005
+Illinois,Williamson,Marion,"709 Bentley S",,07/12/2005
+Illinois,"Saint Clair","East Carondelet","7833 Triple Lakes Rd",,07/13/2005
+Illinois,Tazewell,Pekin,"207 Jane St",,07/14/2005
+Illinois,Madison,"Granite City","5128 Shelia Dr",,07/20/2005
+Illinois,Vermilion,Fithian,"405 Washington W 196",,07/21/2005
+Illinois,Madison,Madison,"1809 Rhodes",,07/22/2005
+Illinois,"Saint Clair",Caseyville,"226 Center Dr",,07/27/2005
+Illinois,Effingham,Effingham,"1031 Main N St",,08/01/2005
+Illinois,Carroll,Savanna,"814 Main St",,08/04/2005
+Illinois,Union,"Alto Pass","3200 Bald Knob Cross Rd",,08/05/2005
+Illinois,Johnson,Goreville,"7150 State Rt. 37 N",,08/12/2005
+Illinois,Vermilion,Danville,"1831 Perrysville Rd 64",,08/12/2005
+Illinois,Tazewell,Washington,"505 Velma St",,08/15/2005
+Illinois,Jefferson,Dix,"10825 Beal E Rd",,08/17/2005
+Illinois,Jefferson,"Mount Vernon","2111 Cherry St",,08/17/2005
+Illinois,Peoria,Peoria,"1516 Perry Ne",,08/23/2005
+Illinois,Vermilion,Catlin,"104 Meadows Ln",,08/23/2005
+Illinois,Effingham,Effingham,"708 Grove E Ave",,08/25/2005
+Illinois,Jefferson,"Mount Vernon","309 5th N St",,08/26/2005
+Illinois,Madison,"Granite City","4928 Redwood Ln",,08/27/2005
+Illinois,Henry,Kewanee,"316 Wilsey Ct",,08/28/2005
+Illinois,Adams,Quincy,"1217 12th St",,09/02/2005
+Illinois,Marion,Salem,"326 Warmoth",,09/03/2005
+Illinois,Madison,"Granite City","4139 Melrose",,09/06/2005
+Illinois,Madison,"Pontoon Beach","6 Harrison St",,09/08/2005
+Illinois,Madison,Troy,"516 Lone Robin St",,09/09/2005
+Illinois,Madison,"Granite City","2013 Grand",,09/12/2005
+Illinois,Marion,Centralia,"1100 Gragg E St 15",,09/12/2005
+Illinois,Madison,"Granite City","5133 Stacey",,09/13/2005
+Illinois,Madison,"Pontoon Beach","4060 Oatmont St",,09/15/2005
+Illinois,Knox,Galesburg,"663 North E St",,09/17/2005
+Illinois,White,Crossville,"2012 Cr 2200n",,09/19/2005
+Illinois,Madison,Collinsville,"502 Morrison N St B",,09/26/2005
+Illinois,Iroquois,Milford,"105 Old Main E St",,09/27/2005
+Illinois,Montgomery,Litchfield,"847 Mozart N",,09/28/2005
+Illinois,Vermilion,Oakwood,"11832 1725 North E Rd",,09/28/2005
+Illinois,Warren,Monmouth,"411 Fifth S St",,09/28/2005
+Illinois,Madison,"Granite City","2800 24th E St",,10/03/2005
+Illinois,"Saint Clair",Freeburg,"91 Deerfield Ct",,10/06/2005
+Illinois,"Jo Daviess",Stockton,"7376 Upman E Rd",,10/06/2005
+Illinois,Fulton,Bryant,"206 1st W",,10/13/2005
+Illinois,Moultrie,Sullivan,"109 Fuller S St",,10/14/2005
+Illinois,Williamson,Marion,"3500 Route 37 S",,10/15/2005
+Illinois,Madison,"Granite City","1715 Chestnut St",,10/16/2005
+Illinois,"Rock Island","East Moline","4108 4th St",,10/17/2005
+Illinois,Shelby,Oconee,"21296 Litz Rd",,10/19/2005
+Illinois,Lake,Libertyville,"810 Braeman Ct 10",,10/29/2005
+Illinois,Champaign,Rantoul,"1509 Hobson Dr 11",,10/31/2005
+Illinois,Union,Cobden,"3250 Kerr Canyon Rd",,11/03/2005
+Illinois,Hamilton,Mcleansboro,"314 Cherry E St",,12/03/2005
+Illinois,Crawford,Palestine,"16313 950 E Ave",,12/29/2005
+Illinois,Crawford,Palestine,"412 Pike S St E",,12/29/2005
+Illinois,Morgan,Jacksonville,"635 Northeast N St",,01/01/2006
+Illinois,Cumberland,Toledo,"209a East Washington Street",,01/03/2006
+Illinois,Coles,Mattoon,"1517 Grant St",,01/03/2006
+Illinois,Madison,"Granite City","2405 Angela Dr",,01/03/2006
+Illinois,Vermilion,Danville,"29 Kentucky",,01/03/2006
+Illinois,Clay,Flora,"16 West Trago Lake Drive",,01/04/2006
+Illinois,Coles,Charleston,"711 Polk St",,01/05/2006
+Illinois,Adams,Quincy,"1116 Rim Road Lot #4",,01/06/2006
+Illinois,Mclean,Bloomington,"301 Locust E St 1",,01/06/2006
+Illinois,Jersey,Jerseyville,"208 State S St",,01/08/2006
+Illinois,Adams,Clayton,"200 North Adams Street",,01/08/2006
+Illinois,Peoria,Bartonville,"416 Bird St 302",,01/09/2006
+Illinois,Adams,Quincy,"1217 South 12th Street",,01/10/2006
+Illinois,Johnson,Goreville,"108 North Ferne Clyffe Road",,01/10/2006
+Illinois,Williamson,Herrin,"717 17th N St",,01/10/2006
+Illinois,Madison,Madison,"3939 Park Ln",,01/11/2006
+Illinois,Moultrie,Sullivan,"915 Mcclellan",,01/12/2006
+Illinois,Marion,Sandoval,"79 Ruby Road",,01/17/2006
+Illinois,Vermilion,Danville,"321 Bensyl",,01/17/2006
+Illinois,Adams,Quincy,"1121 10th N St",,01/18/2006
+Illinois,Madison,"Granite City","2832 Denver St",,01/20/2006
+Illinois,Madison,"Granite City","4122 Lake Dr",,01/24/2006
+Illinois,Johnson,Buncombe,"185 Proctor Avenue",,01/27/2006
+Illinois,"Saint Clair",Caseyville,"32 Willow Wood Estates",,01/31/2006
+Illinois,Jefferson,"Mount Vernon","714 10th N St",,02/06/2006
+Illinois,Henry,Kewanee,"509 Ross St",,02/07/2006
+Illinois,Clay,"Clay City","119 South 6th Sw",,02/08/2006
+Illinois,Williamson,Herrin,"1105 West Monroe Street",,02/09/2006
+Illinois,Cumberland,Toledo,"760 North County Road 500 E",,02/09/2006
+Illinois,Madison,Edwardsville,"2900 Sand Rd 33",,02/10/2006
+Illinois,White,"Norris City","108 West Main Street",,02/14/2006
+Illinois,Adams,Mendon,"844 3000th Avenue N",,02/15/2006
+Illinois,Adams,Quincy,"842 603rd Lane N",,02/15/2006
+Illinois,Kankakee,Essex,"203 Pacific W St",,02/16/2006
+Illinois,"Saint Clair",Shiloh,"609 Plankway",,02/16/2006
+Illinois,Adams,Quincy,"215 Cherry St",,02/16/2006
+Illinois,Williamson,"Johnston City","200 Broadway E",,02/20/2006
+Illinois,Madison,"Granite City","2457 Dewey Ave",,02/21/2006
+Illinois,Madison,"Granite City","2066 14th St",,02/22/2006
+Illinois,Henry,Kewanee,"835 Sixth W St",,02/22/2006
+Illinois,Coles,Charleston,"126 Locust W Ave",,02/23/2006
+Illinois,Madison,"Pontoon Beach","78 Mallard Dr",,02/24/2006
+Illinois,Vermilion,Fithian,"5391 Lincoln Trail E Rd",,02/27/2006
+Illinois,Madison,Edwardsville,"512 Buchanan N St",,02/28/2006
+Illinois,Knox,Galesburg,"1022 Academy S",,03/02/2006
+Illinois,Morgan,Jacksonville,"846 South East St",,03/03/2006
+Illinois,Adams,Quincy,"6218 Broadway E 2",,03/04/2006
+Illinois,Madison,"Granite City","2301 Missouri Ave",,03/06/2006
+Illinois,Madison,"Granite City","3144 Rodger St",,03/08/2006
+Illinois,Edgar,Paris,"811 Broom W St",,03/09/2006
+Illinois,Randolph,Steeleville,"910 East Green Street",,03/09/2006
+Illinois,Randolph,Sparta,"7079 State Route 14 Rural Route",,03/09/2006
+Illinois,Montgomery,Litchfield,"723 Brown N St",,03/10/2006
+Illinois,Hancock,Niota,"Leisureland Trailer Court Lot 17",,03/10/2006
+Illinois,Shelby,Cowden,"130 Locust E",,03/10/2006
+Illinois,Adams,Quincy,"233 Locust St",,03/13/2006
+Illinois,Alexander,"East Cape Girardeau","15 Semonole Drive",,03/13/2006
+Illinois,"Saint Clair","Fairview Heights","113 Union Hill Rd 2",,03/13/2006
+Illinois,Marion,Centralia,"21636 51 N Hwy",,03/14/2006
+Illinois,Richland,Olney,"1002 East Chestnut Street",,03/15/2006
+Illinois,Madison,Troy,"8555 Steele Ln",,03/20/2006
+Illinois,"Saint Clair",Belleville,"3704 Carlyle Road",,03/22/2006
+Illinois,Henry,Kewanee,"118 Roosevelt Ave",,03/22/2006
+Illinois,Montgomery,Litchfield,"835 Chestnut S St",,03/23/2006
+Illinois,Edgar,Paris,"708 Washington W St",,03/23/2006
+Illinois,White,"Mill Shoals","887 Church N St",,03/24/2006
+Illinois,Edgar,Paris,"304 1/2 Chestnut St 1",,03/25/2006
+Illinois,Franklin,Royalton,"209 Cleveland Street",,03/28/2006
+Illinois,Monroe,Columbia,"705 Bb Road",,03/30/2006
+Illinois,Knox,Galesburg,"1397 Haynor St",,04/03/2006
+Illinois,Christian,Pana,"402 Clark S St",,04/04/2006
+Illinois,Macoupin,Hettick,"26386 Washington School Road",,04/04/2006
+Illinois,Madison,Godfrey,"5813 Dogwood Lane",,04/08/2006
+Illinois,Morgan,Jacksonville,"535 East Vandalia Street",,04/10/2006
+Illinois,Macoupin,"Mount Olive","109 West Fifth Street",,04/11/2006
+Illinois,Tazewell,Pekin,"1228 Catherine St",,04/13/2006
+Illinois,Marion,Wamac,"317 Fraizer Street",,04/15/2006
+Illinois,Henry,Kewanee,"1723 East 4th Street",,04/18/2006
+Illinois,Marion,Centralia,"1409 South Pine Street",,04/19/2006
+Illinois,Macon,Decatur,"1621 East Cleveland Street",,04/20/2006
+Illinois,Coles,Humboldt,"207 West Walnut Street",,04/21/2006
+Illinois,"Jo Daviess",Warren,"307 Park Ave.",,04/25/2006
+Illinois,"Jo Daviess",Warren,"307 Park Avenue",,04/25/2006
+Illinois,Edgar,Paris,"1011 North Central Street",,04/26/2006
+Illinois,Coles,Mattoon,"2200 South 17th Street",,04/27/2006
+Illinois,Marion,Salem,"3128 Mccoy Road",,04/27/2006
+Illinois,Coles,Mattoon,"709 Piatt Avenue",,04/27/2006
+Illinois,White,Carmi,"310 Shipley Street A",,04/28/2006
+Illinois,Mclean,Chenoa,"205 South Green",,04/29/2006
+Illinois,Greene,Rockbridge,"Rural Route 2 4",,05/01/2006
+Illinois,Madison,"Granite City","2606 Northbridge",,05/01/2006
+Illinois,Vermilion,Danville,"209 Vance Lane",,05/03/2006
+Illinois,"Rock Island","Port Byron","4401 North 214th Street",,05/04/2006
+Illinois,Iroquois,Watseka,"513 North Market Street",,05/04/2006
+Illinois,Williamson,Marion,"403 South Calumet Street",,05/08/2006
+Illinois,Marion,Centralia,"518 South Poplar Street",,05/12/2006
+Illinois,Morgan,Jacksonville,"1418 South Hardin Street",,05/15/2006
+Illinois,Richland,Noble,"3402 North Glenwood Road",,05/16/2006
+Illinois,Henry,Kewanee,"813 West Sixth Street",,05/16/2006
+Illinois,Madison,"Granite City","4853 Warnock Street",,05/16/2006
+Illinois,Mason,Topeka,"21926 Hickory Street",,05/23/2006
+Illinois,Madison,"Granite City","2410 Bryan Avenue",,05/24/2006
+Illinois,Williamson,Herrin,"812 South 10th",,05/24/2006
+Illinois,Edgar,Paris,"803 South Marshall",,05/25/2006
+Illinois,"Rock Island","East Moline","205 21st Street",,05/29/2006
+Illinois,Coles,Mattoon,"2120 East Lafayette Street",,05/30/2006
+Illinois,Coles,Mattoon,"2021 Lafeyette Street",,05/30/2006
+Illinois,Warren,Cameron,"412 Church",,06/01/2006
+Illinois,Cook,"Hanover Park","6824 West Avenue",,06/02/2006
+Illinois,Effingham,Altamont,"411a North Third Street",,06/02/2006
+Illinois,Douglas,Arcola,"404 East Madison Street",,06/05/2006
+Illinois,Vermilion,Tilton,"107 West 13th Street",,06/06/2006
+Illinois,Madison,"Granite City","3120 Chain Of Rocks Road",,06/08/2006
+Illinois,Franklin,Benton,"1106 Lickliter Street",,06/09/2006
+Illinois,Madison,Highland,"1509 Pine Street",,06/09/2006
+Illinois,Henry,Kewanee,"835 West Sixth Street",,06/12/2006
+Illinois,Vermilion,Danville,"309 North North Street",,06/12/2006
+Illinois,Marion,Vernon,"219 East Broadway Street",,06/14/2006
+Illinois,Coles,Mattoon,"2904 Marion",,06/19/2006
+Illinois,Henry,Kewanee,"210 North East Street",,06/21/2006
+Illinois,Vermilion,Danville,"13623 Grape Creek Road",,06/21/2006
+Illinois,Clay,Louisville,"3336 Hickory Hill Lane",,06/22/2006
+Illinois,Jackson,Elkville,"2528 Hallidayboro Road",,07/02/2006
+Illinois,Winnebago,Durand,"601 East Main",,07/07/2006
+Illinois,Madison,"State Park Place","3114 Princeton Street",,07/09/2006
+Illinois,"Saint Clair",Caseyville,"8823 Sterling Place",,07/11/2006
+Illinois,Adams,Quincy,"6111 Hickory Grove North",,07/11/2006
+Illinois,Tazewell,Minier,"113 South Western",,07/29/2006
+Illinois,Cass,Arenzville,"4182 Glenwood",,07/31/2006
+Illinois,Jefferson,"Mount Vernon","1004 South 24th Street",,08/02/2006
+Illinois,Vermilion,Danville,"12 Chapel Lane",,08/03/2006
+Illinois,Madison,Madison,"120 North Dewey Street",,08/04/2006
+Illinois,Richland,Olney,"6724 East Montclare Street",,08/09/2006
+Illinois,Monroe,Columbia,"722 South Rapp Street",,08/09/2006
+Illinois,Tazewell,Morton,"500 South 4th Street",,08/10/2006
+Illinois,Jackson,Elkville,"132 Hallidayboro Road",,08/10/2006
+Illinois,Madison,Madison,"1100 Grand Avenue",,08/11/2006
+Illinois,Lake,Gurnee,"35 Wood Lake",,08/11/2006
+Illinois,Clark,Dennison,"24800 East 2000th Road",,08/18/2006
+Illinois,Montgomery,Irving,"215 Mccords Trail",,08/18/2006
+Illinois,Tazewell,Morton,"1240 South Main Street",,08/20/2006
+Illinois,Franklin,"West Frankfort","1104 State Highway 37",,08/21/2006
+Illinois,Wayne,Fairfield,"401 Southeast 8th Street",,08/23/2006
+Illinois,Champaign,Thomasboro,"506 Meyer",,08/23/2006
+Illinois,Shelby,"Tower Hill","203 East Cleveland Street",,08/23/2006
+Illinois,"Jo Daviess","Apple River","107 West Webster Street",,08/29/2006
+Illinois,Tazewell,"East Peoria","222 Avenue D",,08/30/2006
+Illinois,Vermilion,Belgium,"28 Danville",,08/31/2006
+Illinois,Vermilion,Tilton,"413 Atwood",,09/01/2006
+Illinois,Christian,Pana,"650 N 2500 E Road",,09/07/2006
+Illinois,Lawrence,Lawrenceville,"410 Dubois Street",,09/08/2006
+Illinois,"Rock Island",Milan,"211 East Fourth Street",,09/15/2006
+Illinois,Jackson,Pomona,"63 Pitbull Lane",,09/18/2006
+Illinois,Morgan,Jacksonville,"502 North Fayette",,09/21/2006
+Illinois,"Saint Clair",Caseyville,"8011 Lakeside Drive",,09/29/2006
+Illinois,Madison,"Granite City","4852 Warnock Street",,10/02/2006
+Illinois,Christian,Taylorville,"908 East Adams Street",,10/03/2006
+Illinois,Adams,Quincy,"528 1/2 North 8th Street",,10/07/2006
+Illinois,Christian,Pana,"830 South Hickory Street",,10/10/2006
+Illinois,Cumberland,Toledo,"764 East County Road 500 Road",,10/20/2006
+Illinois,Shelby,Windsor,"1516 Maine Street",,10/31/2006
+Illinois,Christian,Pana,"9 Elizabeth Circle",,11/06/2006
+Illinois,Knox,Galesburg,"1020 Washington Avenue",,11/08/2006
+Illinois,Vermilion,Danville,"8 North State",,11/09/2006
+Illinois,Dupage,Lisle,"2631 West Beau Bien Court",,11/14/2006
+Illinois,Stephenson,Freeport,"1279 West Logan Street",,11/15/2006
+Illinois,"La Salle",Mendota,"21118 North 475th Street",,11/15/2006
+Illinois,Saline,Galatia,"304 East Main Street",,11/17/2006
+Illinois,Marion,Odin,"1416 Ferrydale Road",,11/21/2006
+Illinois,Adams,Quincy,"3524 North 12th Street",,11/22/2006
+Illinois,Champaign,Urbana,"819 Oakland Avenue",,11/22/2006
+Illinois,Knox,Galesburg,"81 Blaine Avenue",,11/22/2006
+Illinois,Morgan,Jacksonville,"2140 East Morton Avenue",,11/25/2006
+Illinois,Effingham,Altamont,"4540 State Rt. 40",,11/27/2006
+Illinois,Richland,Olney,"6720 East Elbow Lane",,11/29/2006
+Illinois,Coles,Mattoon,"313 Woodlawn",,11/30/2006
+Illinois,Warren,Cameron,"1523 140th Avenue",,12/02/2006
+Illinois,Johnson,"New Burnside","490 East Main Street",,12/05/2006
+Illinois,Coles,Charleston,"238 Elm Street",,12/22/2006
+Illinois,Knox,Galesburg,"400 North Seminary Street",,01/01/2007
+Illinois,Stephenson,Freeport,"225 D Avenue",,01/05/2007
+Illinois,Lawrence,"Saint Francisville","210 North 6th Street",,01/10/2007
+Illinois,Marion,Sandoval,"211 East Perry Street",,01/20/2007
+Illinois,Jersey,Godfrey,"198 Hazelnut Drive",,02/01/2007
+Illinois,Crawford,Oblong,"6835 North 150th Street",,02/06/2007
+Illinois,Williamson,Herrin,"1109 West Cherry Street",,02/14/2007
+Illinois,White,Enfield,"647 East 1700 North",,02/22/2007
+Illinois,Vermilion,Danville,"3899 North Vermilion Street",,02/22/2007
+Illinois,Williamson,Carterville,"306 Vanwick Street",,02/27/2007
+Illinois,Jackson,"Campbell Hill","204 South Main Street",,03/07/2007
+Illinois,Franklin,Plumfield,"2490 Bryant Road",,03/14/2007
+Illinois,Union,Dongola,"3115 Sweet Potato Road",,03/19/2007
+Illinois,Williamson,Marion,"910 South Vicksburg Street",,03/27/2007
+Illinois,Montgomery,Butler,"15046 Illinois Route 127",,03/29/2007
+Illinois,"Jo Daviess","East Dubuque","483 Menominee Street",,04/19/2007
+Illinois,Richland,Dundas,"2809 East Liberty Lane",,04/23/2007
+Illinois,Madison,Godfrey,"8013 Godfrey Road",,04/27/2007
+Illinois,Clay,Ingraham,"2854 Ingraham Lane",,05/03/2007
+Illinois,Richland,Olney,"203 West North Avenue",,05/10/2007
+Illinois,Gallatin,Ridgway,"410 West Elm Street",,05/14/2007
+Illinois,Madison,Troy,"910 Edwardsville Road",,05/15/2007
+Illinois,Williamson,Marion,"9990 Day Road",,05/30/2007
+Illinois,Marion,Salem,"1440 North Trenary Street",,06/11/2007
+Illinois,Vermilion,Danville,"806 Peach Street",,06/14/2007
+Illinois,Clinton,Centralia,"275 Brookside Avenue",,06/27/2007
+Illinois,Will,Romeoville,"1280 West Normantown Road",,07/05/2007
+Illinois,Jackson,Carbondale,"1423 Julianne",,07/06/2007
+Illinois,Champaign,Champaign,"2102 North Prospect",,07/17/2007
+Illinois,Champaign,Champaign,"2610 North Prospect",,08/20/2007
+Illinois,Crawford,Oblong,"5234 East 825th Avenue",,09/02/2007
+Illinois,Tazewell,Pekin,"910 Court",,01/25/2008
+Illinois,Union,Cobden,"513 Apple Knocker",,01/26/2008
+Illinois,Coles,Mattoon,"1313 Lake Land",,02/24/2008
+Illinois,White,Norris,"670 East 500 North Road",,03/14/2008
+Illinois,Warren,Monmouth,"11th St @ Landfill Road",,03/20/2008
+Illinois,Madison,,"411 Broadway",,05/15/2008
+Illinois,Monroe,Columbia,"1100 Columbia Center",,06/20/2008
+Illinois,Union,Jonesboro,"5950 South Rt 3 Route",,10/26/2008
+Illinois,Adams,Quincy,"1722 North 12th",,11/14/2008
+Illinois,Warren,,"1553 West 150th",,04/01/2009
+Illinois,Henderson,Lomax,"958 4th",,04/03/2009
+Illinois,Vermilion,Danville,"1900 East Liberty Lane",,04/06/2009
+Illinois,Madison,"Granite City","4014 Maryland Manor",,04/07/2009
+Illinois,Warren,Berwick,"1298 150th",,04/07/2009
+Illinois,Madison,,"1218 19th",,04/07/2009
+Illinois,Warren,Monmouth,"523 South 10 Th",,04/07/2009
+Illinois,Tazewell,Pekin,"13834 Glenmar",,04/08/2009
+Illinois,Williamson,Carterville,"3402 West Sycamore",,04/10/2009
+Illinois,Clinton,,"11401 Midgley Neiss",,04/16/2009
+Illinois,Shelby,Oconee,"Rr1 Box 138",,04/21/2009
+Illinois,Montgomery,Witt,"103 East Oak",,04/21/2009
+Illinois,"St. Clair",Caseyville,"446 South 7th",,04/22/2009
+Illinois,Knox,,"202 Blaine",,04/23/2009
+Illinois,Madison,Alton,"809 College",,04/23/2009
+Illinois,Franklin,"West Frankfort","1305 East Oak",,04/25/2009
+Illinois,Knox,,"128 Oren",,04/26/2009
+Illinois,Warren,,"1687 West 255th",,04/26/2009
+Illinois,Union,Jonesboro,"1570 West Airport Road",,04/26/2009
+Illinois,Vermilion,Danville,"1202 Perrysville",,04/26/2009
+Illinois,Madison,Dorsey,"5731 Loop",,04/27/2009
+Illinois,Madison,Dorsey,"5600 Loop",,04/27/2009
+Illinois,Henry,,"65 Willow Haven",,04/30/2009
+Illinois,Adams,,"1538 Cherry",,05/01/2009
+Illinois,Knox,,"2300 South Lake Storey",,05/01/2009
+Illinois,Marion,Sandoval,"859 Range",,05/03/2009
+Illinois,Edgar,Paris,"3380 North 2250th Street",,05/04/2009
+Illinois,Marion,Sandoval,"335 Old Us Hwy 51",,05/04/2009
+Illinois,Effingham,Effingham,"13116 North 1000th",,05/04/2009
+Illinois,Macon,Decatur,"108 North Tiffany Terrace",,05/07/2009
+Illinois,Macon,Decatur,"1221 East Main",,05/07/2009
+Illinois,Montgomery,,"303 West Carson",,05/08/2009
+Illinois,Henry,Kewanee,"700 Commercial",,05/08/2009
+Illinois,Edgar,Paris,"311 North High",,05/09/2009
+Illinois,Greene,Greenfield,"1003 Green",,05/12/2009
+Illinois,Mason,Manito,"85 Maple",,05/15/2009
+Illinois,Williamson,Herrin,"205 North 11th",,05/21/2009
+Illinois,Adams,Columbus,"1997 North 1650th",,05/24/2009
+Illinois,Clay,Flora,"1053 West 5th",,05/25/2009
+Illinois,Saline,Raleigh,"19 Oak",,05/26/2009
+Illinois,Madison,"Granite City","3120 West Chain Of Rocks",,05/26/2009
+Illinois,Williamson,"Johnston City","Water Ave. @ Broadway",,05/28/2009
+Illinois,Adams,Quincy,"1100 South 24th",,05/29/2009
+Illinois,Adams,Quincy,"2000 Bonasinga",,05/29/2009
+Illinois,Richland,Calhoun,"1532 North Shell",,05/30/2009
+Illinois,Randolph,Walsh,"7950 Preston",,06/03/2009
+Illinois,Adams,Liberty,"7432347 East 2200",,06/03/2009
+Illinois,Franklin,"West Frankfort","5406 Logan",,06/04/2009
+Illinois,"St. Clair",Belleville,"1 Rusty Wil",,06/08/2009
+Illinois,Adams,Quincy,"2512 Hurley",,06/08/2009
+Illinois,Madison,,"2621 Washington",,06/09/2009
+Illinois,Macoupin,,"1330 Terpening",,06/09/2009
+Illinois,Fayette,"Bluff City","1750 North County Road",,06/09/2009
+Illinois,Vermilion,Danville,"529 Mikel Road",,06/10/2009
+Illinois,Williamson,Carterville,"207 North Hampton",,06/12/2009
+Illinois,Richland,Olney,"4375 East Kincade",,06/13/2009
+Illinois,Montgomery,Witt,"214 North First",,06/15/2009
+Illinois,Madison,Godfrey,"8503 Davis",,06/18/2009
+Illinois,Morgan,,"223 West Chambers",,06/19/2009
+Illinois,Madison,Collinsville,"626 Autumn",,06/21/2009
+Illinois,Knox,,"1102 East Garden",,06/23/2009
+Illinois,Henry,,"516 Northwest 7th",,06/24/2009
+Illinois,Jefferson,"Mount Vernon","110 Davidson",,06/25/2009
+Illinois,Coles,Mattoon,"4246 Lake Road",,06/25/2009
+Illinois,Crawford,Oblong,"20997 North 100 E",,06/26/2009
+Illinois,Tazewell,,"32 North Bruce Rich",,06/27/2009
+Illinois,Adams,Quincy,"5333  Ellington",,01/02/2010
+Illinois,Edgar,Kansas,"4628 North 250th",,01/06/2010
+Illinois,"St. Clair",Dupo,"1300 North Main",,01/13/2010
+Illinois,"St. Clair",Dupo,"1332 North Main",,01/13/2010
+Illinois,Union,Anna,"1400  Lime Kiln Road",,01/14/2010
+Illinois,Morgan,Jacksonville,"350 East Morton",,01/18/2010
+Illinois,Warren,Monmouth,"1420 North Main",,01/20/2010
+Illinois,Franklin,"West Frankfort","1010 West Main",,01/20/2010
+Illinois,Hancock,Carthage,"1035 North Hwy 94/336",,01/23/2010
+Illinois,Adams,Ursa,"2137 East 253rd",,01/25/2010
+Illinois,Mcdonough,Macomb,"113011 North 1050th",,01/31/2010
+Illinois,"St. Clair","Fairmont City","2546 North 34th",,02/09/2010
+Illinois,Knox,Williamsfield,"1797  Truro Turn",,02/13/2010
+Illinois,Crawford,Robinson,"203 South Jefferson",,02/16/2010
+Illinois,"Jo Daviess","East Dubuque","483  Menominee Street",,02/17/2010
+Illinois,Clay,Xenia,"1956  Bethel",,02/17/2010
+Illinois,Cook,Glenwood,"14  E Main Street",,02/19/2010
+Illinois,Morgan,Jacksonville,"1207  Mcglasson Road",,02/21/2010
+Illinois,Warren,Monmouth,"923 West 4 Th",,02/23/2010
+Illinois,"St. Clair",Dupo,"2336  Mullins Creek",,03/02/2010
+Illinois,Franklin,Benton,"1106 South Lickliter",,03/04/2010
+Illinois,Vermilion,Danville,"1831  Perrysville",,03/08/2010
+Illinois,Adams,Quincy,"515  Adams",,03/12/2010
+Illinois,Vermilion,Rossville,"3450 N  1090 E",,03/21/2010
+Illinois,Adams,Quincy,"404  State",,03/29/2010
+Illinois,Adams,Quincy,"625 North 5th",,03/29/2010
+Illinois,Adams,Quincy,"5023 West Paradise",,03/30/2010
+Illinois,Saline,Harco,"130  Dannie",,04/06/2010
+Illinois,"St. Clair",Belleville,"112 West B",,04/07/2010
+Illinois,Madison,"Granite City","4909  Willow",,04/08/2010
+Illinois,Knox,Abingdon,"300 North Jefferson",,04/10/2010
+Illinois,"St. Clair",Dupo,"800 Block  Adams",,04/11/2010
+Illinois,Mcdonough,Colchester,"304  Debbie",,04/14/2010
+Illinois,Madison,"Wood River","610  Wesley",,04/16/2010
+Illinois,Effingham,Effingham,"1615 South Banker",,04/22/2010
+Illinois,Mcdonough,"Prairie City","525 East Liberty",,04/22/2010
+Illinois,"St. Clair","Fairmont City","2625  Belt",,04/26/2010
+Illinois,"St. Clair",Dupo,"511  Fallingsprings",,05/01/2010
+Illinois,Adams,Quincy,"328  Royal Oaks",,05/01/2010
+Illinois,Madison,Hartford,"1  Lewis And Clark",,05/02/2010
+Illinois,Madison,Alton,"1205  Rixon",,05/12/2010
+Illinois,"St. Clair",Dupo,"1612  Falling Springs",,05/20/2010
+Illinois,Madison,Collinsville,"109  Kimberly",,06/01/2010
+Illinois,Madison,"Cottage Hills","1313  Lee",,06/06/2010
+Illinois,"St. Clair","East Carondelet","809  Adams",,06/26/2010
+Illinois,Williamson,Herrin,"201 South 14th",,07/29/2010
+Illinois,"St. Clair",Belleville,"607 East Mckinley",,08/03/2010
+Illinois,Fulton,Canton,"370 North Main",,08/14/2010
+Illinois,Cook,"Park Forest","38  Hemlock",,08/15/2010
+Illinois,Madison,"Granite City","2809  Lincoln",,08/19/2010
+Illinois,Madison,"Granite City","1700 Block  Maple",,08/23/2010
+Illinois,Adams,Quincy,"2531  West Valley View",,08/31/2010
+Illinois,Adams,Quincy,"500  Maine",,09/20/2010
+Illinois,Vermilion,Danville,"3811 North Vermilion",,01/10/2011
+Illinois,Franklin,Mulkeytown,"7495  Main Street",,03/06/2011
+Illinois,Massac,Metropolis,"2155 East 5 Th",,05/11/2011
+Illinois,Morgan,Jacksonville,"1111 East Morton",,05/16/2011
+Illinois,Saline,Harrisburg,"710 South Commercial",,08/09/2011
+Illinois,Williamson,Marion,"2200 South Court",,08/10/2011
+Illinois,Madison,Edwardsville,"125 South Buchanan",,10/20/2011
+Illinois,Winnebago,"Machesney Park","924  Glen Forest",,08/15/2012
+Illinois,Winnebago,Rockford,"2954  Lapay Street",,08/20/2012
+Illinois,Vermilion,Hoopeston,"201 E Wyman",,04/01/2015
+Illinois,Shelby,Windsor,"206  Sycamore",,04/02/2015
+Illinois,Jefferson,"Mount Vernon","1221 S 23rd",,04/02/2015
+Illinois,Edgar,Kansas,"1052  Cook",,04/03/2015
+Illinois,Saline,Eldorado,"1109a  Garfield",,04/04/2015
+Illinois,Jackson,Carbondale,"401  Ready Mix",,04/08/2015
+Illinois,Jackson,Murphysboro,"323  Wells",,04/09/2015
+Illinois,Marion,Odin,"2641  Norton",,04/11/2015
+Illinois,Massac,Metropolis,"1200  Barger",,04/12/2015
+Illinois,Lawrence,Lawrenceville,"603  Lexington",,04/13/2015
+Illinois,Saline,Harrisburg,"1 N Main",,04/13/2015
+Illinois,Marion,Centralia,"428 S Walnut",,04/13/2015
+Illinois,Jefferson,"Mount Vernon","1200  Bell",,04/23/2015
+Illinois,Massac,Metropolis,"4180  Crestwood",,05/01/2015
+Illinois,Adams,Quincy,"4821  Oak",,05/01/2015
+Illinois,Edwards,Albion,"525  300",,05/03/2015
+Illinois,Morgan,Jacksonville,"314 E Douglas",,05/04/2015
+Illinois,"Rock Island",Moline,"3509 S Shore",,05/04/2015
+Illinois,Macoupin,Dorchester,"110 E Elm",,05/04/2015
+Illinois,Marion,Centralia,"122 N Cherry",,05/06/2015
+Illinois,Mcdonough,Macomb,"518 N Johnson",,05/06/2015
+Illinois,Knox,Galesburg,"334 N Chambers",,05/09/2015
+Illinois,Jefferson,"Mount Vernon","1108 S 22nd",,05/18/2015
+Illinois,Massac,Metropolis,"815 E 10th",,05/19/2015
+Illinois,Williamson,Marion,"1000  Madison",,05/23/2015
+Illinois,Knox,Galesburg,"1595  Mcknight",,06/01/2015
+Illinois,"Saint Clair","Fairview Heights","9811 W 161 State Rte",,06/02/2015
+Illinois,Randolph,Percy,"103 E Wabash",,06/04/2015
+Illinois,Jefferson,"Mount Vernon","10000 N Block Triton Lane",,06/07/2015
+Illinois,Adams,Quincy,"830 N 22nd",,06/08/2015
+Illinois,Jefferson,"Mount Vernon","12,000 Blk E Oakton Road",,06/09/2015
+Illinois,Union,Anna,"1935  Balcom",,06/09/2015
+Illinois,Macoupin,Girard,"108 W Mound",,06/10/2015
+Illinois,Knox,Galesburg,"996 N Willard",,06/10/2015
+Illinois,Jefferson,"Mount Vernon","7871 N Matisse",,06/11/2015
+Illinois,Lawrence,Sumner,"411  Dubois",,06/12/2015
+Illinois,Adams,Quincy,"339  Scenic",,06/16/2015
+Illinois,Adams,Quincy,"219 S 11th",,06/17/2015
+Illinois,Williamson,Marion,"914 N Bentley",,06/17/2015
+Illinois,Knox,Galesburg,"29  Public",,06/18/2015
+Illinois,Mercer,Alexis,"208 N Main Street",,06/20/2015
+Illinois,Adams,Quincy,"1604  Jefferson",,06/21/2015
+Illinois,Adams,Quincy,"606 N 6th",,06/24/2015
+Illinois,"Saint Clair",Dupo,"108  Wallace",,07/01/2015
+Illinois,Vermilion,Hoopeston,"500 Block W Lincoln",,07/01/2015
+Illinois,Calhoun,"Golden Eagle","Rr 1  Box 19a",,07/02/2015
+Illinois,Montgomery,Farmersville,"34th St Street",,07/02/2015
+Illinois,Morgan,Jacksonville,"191 W Michigan",,07/02/2015
+Illinois,"Rock Island","East Moline","1020  51st",,07/03/2015
+Illinois,Edgar,Paris,"409 E Monroe",,07/03/2015
+Illinois,Johnson,Robbs,"76  Middle",,07/06/2015
+Illinois,Macoupin,Girard,"112 N 3rd",,07/07/2015
+Illinois,Knox,Galesburg,"567 S Henderson",,07/07/2015
+Illinois,Clinton,Trenton,"15700  Crackerneck",,07/07/2015
+Illinois,Massac,Metropolis,"2400  North",,07/07/2015
+Illinois,Adams,Ursa,"106 E Maple",,07/07/2015
+Illinois,Vermilion,Danville,"1715 W Williams",,07/09/2015
+Illinois,Effingham,Effingham,"94422 N 45",,07/09/2015
+Illinois,Christian,Taylorville,"723 E Esther",,07/10/2015
+Illinois,Adams,Quincy,"901  Joshua St",,07/12/2015
+Illinois,Effingham,Effingham,"600 Block W Rickelman Street",,07/13/2015
+Illinois,Marion,Centralia,"100 Block W Green Street",,07/13/2015
+Illinois,Winnebago,Rockford,"6924  River",,07/14/2015
+Illinois,Schuyler,"Pleasant View","216 W Lafayette",,07/14/2015
+Illinois,Clay,"Bible Grove","1914  Caleb",,07/15/2015
+Illinois,Montgomery,Litchfield,"505 E Jones",,07/15/2015
+Illinois,Mason,"Forest City","66  Edgewood",,07/17/2015
+Illinois,Henry,Kewanee,"835 W 6th",,07/18/2015
+Illinois,Clinton,Trenton,"407 N Jackson",,07/18/2015
+Illinois,Macoupin,Dorchester,"204 W Spruce",,07/19/2015
+Illinois,"Saint Clair",Caseyville,"8787  Sasak",,07/19/2015
+Illinois,Knox,Galesburg,"473 S Chambers",,07/20/2015
+Illinois,"Rock Island","Rock Island","2321  7th",,07/22/2015
+Illinois,Knox,"East Galesburg","633 W Main",,07/25/2015
+Illinois,Jefferson,"Belle Rive","Abbott Lane",,08/01/2015
+Illinois,Williamson,"Johnston City","207  Benton",,08/03/2015
+Illinois,Mcdonough,Macomb,"285  Waco Road",,08/03/2015
+Illinois,Morgan,Jacksonville,"1111 E Morton",,08/04/2015
+Illinois,Morgan,Jacksonville,"358 E Court",,08/04/2015
+Illinois,Jackson,Carbondale,"501 S Washington",,08/04/2015
+Illinois,Jefferson,"Mount Vernon","810 S 22nd",,08/05/2015
+Illinois,Adams,Quincy,"716  Madison",,08/05/2015
+Illinois,Adams,Quincy,"839 S 12th",,08/07/2015
+Illinois,Jefferson,"Mount Vernon","1302  Westcot",,08/08/2015
+Illinois,Peoria,Peoria,"1914 S Stanley",,08/12/2015
+Illinois,Tazewell,Morton,"750 N Nebraska",,08/12/2015
+Illinois,Jefferson,"Mount Vernon","S. 3rd And  Herbert Intersect.",,08/14/2015
+Illinois,Williamson,"Johnston City","Water St. @ 2nd St.",,08/14/2015
+Illinois,Jefferson,Dix,"940  Miller",,08/16/2015
+Illinois,Marion,Centralia,"1411  Frazier",,08/18/2015
+Illinois,Stephenson,Freeport,"116 N Green",,08/18/2015
+Illinois,Jefferson,"Mount Vernon","Bethel Road",,08/21/2015
+Illinois,Randolph,Baldwin,"9214  State 154 Route",,10/02/2015
+Illinois,Madison,"East Alton","229  Whitelaw",,10/02/2015
+Illinois,Richland,Olney,"220 S Grant",,10/04/2015
+Illinois,Richland,Olney,"720 E Lafayette",,10/04/2015
+Illinois,Sangamon,Auburn,"504 W North",,10/04/2015
+Illinois,Peoria,Bartonville,"911  Mcmullen",,10/05/2015
+Illinois,Jefferson,"Mount Vernon","34th &  Veterams Intersect",,10/05/2015
+Illinois,Adams,Quincy,"3906  Halfpap Lane",,10/05/2015
+Illinois,Vermilion,Danville,"819 N Franklin",,10/07/2015
+Illinois,Mason,Havana,"16023 E Manito",,10/07/2015
+Illinois,Jefferson,"Mount Vernon","12900 Blk N Dartmonth Lane",,10/07/2015
+Illinois,Vermilion,Danville,"1319  Sherman",,10/07/2015
+Illinois,Macoupin,Virden,"970 N Noble",,10/08/2015
+Illinois,Morgan,Waverly,"419 S Curtiss",,10/08/2015
+Illinois,Montgomery,Litchfield,"1017 S Montgomery",,10/09/2015
+Illinois,Richland,Olney,"515 N Washington",,10/10/2015
+Illinois,Randolph,Sparta,"12371  Moffat",,10/20/2015
+Illinois,Sangamon,Springfield,"928 N Dirksen",,11/02/2015
+Illinois,Menard,Athens,"301 W Monroe",,11/04/2015
+Illinois,Marion,Salem,"307 E Mitchell",,11/13/2015
+Illinois,Adams,Quincy,"437 N 9th",,11/17/2015
+Illinois,Peoria,Chillicothe,"611 W Matthews",,12/01/2015
+Illinois,Mcdonough,"Prairie City","220 N Reed",,12/02/2015
+Illinois,Williamson,Marion,"1703  Beverly",,12/02/2015
+Illinois,Jefferson,"Mount Vernon","218  Casey",,12/03/2015
+Illinois,Tazewell,Pekin,"811 N 2nd",,12/04/2015
+Illinois,Mercer,Keithsburg,"508 S 11th",,12/07/2015
+Illinois,Knox,Galesburg,"950 E Grove",,12/07/2015
+Illinois,Mcdonough,Bushnell,"825  Washington",,12/08/2015
+Illinois,Saline,Raleigh,"Old Mason Road",,12/11/2015
+Illinois,Jefferson,"Mount Vernon","16th And  Perkins Intersect.",,12/13/2015
+Illinois,Marion,Centralia,"Greenview  & Pine St Intersect.",,12/14/2015
+Illinois,Effingham,[unspecified],"305 4th",,07/14/2018
+Illinois,Franklin,[unspecified],"318 Horn",,07/14/2018
+Illinois,Sangamon,[unspecified],"518 Calhoun",,07/17/2018
+Illinois,Sangamon,[unspecified],"400 Hay",,08/07/2018
+Illinois,Sangamon,[unspecified],"0 5th Street And South Grand Avenue",,09/02/2018
+Illinois,Saline,[unspecified],"1016 Sloan",,09/04/2018
+Illinois,Jefferson,[unspecified],"Copple Ln & Copeland Road",,09/16/2018
+Illinois,Effingham,[unspecified],"3000 Block Mill",,10/15/2018
+Illinois,Sangamon,[unspecified],"1236 Oaklane",,10/23/2018
+Illinois,Jasper,[unspecified],"104 Cumberland",,11/03/2018
+Illinois,Macoupin,[unspecified],"102 Seaman",,11/20/2018
+Illinois,Sangamon,[unspecified],"0 1400 Block Of Mossman",,12/01/2018
+Illinois,Macon,[unspecified],"2557 Division",,12/11/2018
+Illinois,Sangamon,[unspecified],"1207 Martin Luther King",,12/15/2018
+Illinois,Edgar,[unspecified],"720 Springfield",,12/20/2018
+Illinois,Adams,[unspecified],"507 Locust",,12/28/2018

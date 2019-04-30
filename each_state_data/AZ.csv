@@ -1,0 +1,138 @@
+state,county,city,address1,address2,date
+Arizona,Maricopa,Tolleson,"605 95th Cirkle N",,01/08/2004
+Arizona,Maricopa,Phoenix,"4601 South 2nd Street",,01/13/2004
+Arizona,Maricopa,Chandler,"310 Alamo W Dr",,01/17/2004
+Arizona,Maricopa,Scottsdale,"1217 78th N St",,01/20/2004
+Arizona,Maricopa,Phoenix,"6824 23rd N Ave 4",,01/26/2004
+Arizona,Maricopa,"El Mirage","12234 Larkspur W Rd",,02/12/2004
+Arizona,Maricopa,Tempe,"1700 Don Carlos E Ave 116",,02/15/2004
+Arizona,Cochise,Benson,"680 4th St B",,02/27/2004
+Arizona,Maricopa,Mesa,"645 Country Club N St 195",,03/03/2004
+Arizona,Maricopa,"Apache Junction","1901 Grand N Dr",,03/08/2004
+Arizona,Maricopa,Wittmann,"27641 204th N Way",,03/15/2004
+Arizona,Maricopa,Glendale,"7405 Krall W Sr",,03/15/2004
+Arizona,Maricopa,Avondale,"10812 Monte Vista W Rd",,03/18/2004
+Arizona,Maricopa,Tempe,"332 Broadmor E",,03/19/2004
+Arizona,Pinal,"Apache Junction","9841 East La Palma Avenue 4",,03/24/2004
+Arizona,Maricopa,Chandler,"25 Oakland W St 1",,04/02/2004
+Arizona,Yuma,Wellton,"28501 San Francisco Ave",,04/11/2004
+Arizona,Maricopa,Phoenix,"4109 7th N St",,04/11/2004
+Arizona,Maricopa,Glendale,"5717 Bluefield W Ave",,04/15/2004
+Arizona,Maricopa,Peoria,"8643 Lockland W Ct",,04/26/2004
+Arizona,Maricopa,Peoria,"2333 Glenrosa W Ave 3b",,04/26/2004
+Arizona,Maricopa,Phoenix,"3425 24th N Ln",,04/28/2004
+Arizona,Maricopa,"Cave Creek","29443 60th N St",,04/29/2004
+Arizona,Yavapai,"Prescott Valley","8572 Tracy Dr",,05/11/2004
+Arizona,Maricopa,Phoenix,"7632 7th N Ave",,05/11/2004
+Arizona,Maricopa,Mesa,"2912 Mekellips E Rd 16",,05/14/2004
+Arizona,Pinal,"Apache Junction","917 Kaniksu W",,05/16/2004
+Arizona,Pinal,"Casa Grande","406 Pasco De Paula E St",,05/17/2004
+Arizona,Maricopa,Phoenix,"6101 35th N Dr",,05/21/2004
+Arizona,Pinal,"Apache Junction","292 Palo Verde N Dr 5",,05/26/2004
+Arizona,Maricopa,Laveen,"4249 Estrella W Dr",,06/07/2004
+Arizona,Maricopa,Phoenix,"20049 24th N Way F",,06/08/2004
+Arizona,Maricopa,Wittmann,"26835 195tii N Ave",,06/18/2004
+Arizona,Coconino,Flagstaff,"7400 Pony Trl",,07/13/2004
+Arizona,Maricopa,Morristown,"26802 193rd N Ave",,07/14/2004
+Arizona,Maricopa,Morristown,"33009 215th N Ave Ave",,07/14/2004
+Arizona,Maricopa,Morristown,"27622 204th N Ave",,07/14/2004
+Arizona,Maricopa,Buckeye,"7243 Perryville S",,07/21/2004
+Arizona,Mohave,"Bullhead City","2220 Rancho Colorado 311",,07/22/2004
+Arizona,Pima,Tucson,"1417 Allen E Rd",,07/22/2004
+Arizona,Maricopa,Phoenix,"808 Cinabar E",,07/23/2004
+Arizona,Maricopa,Chandler,"713 Laredo W",,07/26/2004
+Arizona,Maricopa,"Apache Junction","5516 5th E Ave",,08/05/2004
+Arizona,Maricopa,Glendale,"18446 75 N Ave",,08/10/2004
+Arizona,Maricopa,Buckeye,"19325 (b) Roosevelt W",,08/10/2004
+Arizona,Pima,Tucson,"2709 Drachman E",,08/11/2004
+Arizona,Maricopa,Phoenix,"1530 50th N Ave 303",,08/12/2004
+Arizona,Mohave,"Bullhead City","1059 Rosebud",,08/20/2004
+Arizona,Maricopa,Phoenix,"6849 Lewis W Ave",,08/25/2004
+Arizona,Pinal,"Apache Junction","4632 Main N Dr",,08/26/2004
+Arizona,Maricopa,Mesa,"542 99th N St",,08/27/2004
+Arizona,Pinal,Maricopa,"2839 Kathleen E Rd 103",,09/01/2004
+Arizona,Maricopa,Glendale,"5745 Maryland W Ave 46",,09/12/2004
+Arizona,Maricopa,Chandler,"565 Aspen Dr",,09/17/2004
+Arizona,Pima,Tucson,"923 Swan N Rd B",,09/20/2004
+Arizona,Maricopa,Phoenix,"1922 41st N Ln",,09/23/2004
+Arizona,Mohave,"Bullhead City","1058 Baseline Rd",,09/24/2004
+Arizona,Maricopa,Phoenix,"1820 72nd N Ln",,10/05/2004
+Arizona,Mohave,"Bullhead City","125 Long Avenue 309",,10/07/2004
+Arizona,Maricopa,Mesa,"10539 Mercury E Dr",,10/07/2004
+Arizona,Maricopa,Phoenix,"3636 Verde E Ln",,10/11/2004
+Arizona,Navajo,Holbrook,"419 1/2 Buffalo W St A",,10/15/2004
+Arizona,Maricopa,Phoenix,"1021 61st N St",,10/19/2004
+Arizona,Pinal,"Apache Junction","980 Ironwood N Dr #50",,10/21/2004
+Arizona,Maricopa,Phoenix,"2324 Beverly E Ln",,10/22/2004
+Arizona,Maricopa,Mesa,"550 Mckellips E 1018",,11/01/2004
+Arizona,Pinal,"Apache Junction","4326 Desert View N Dr",,11/05/2004
+Arizona,Mohave,"Bullhead City","1611 Havasupai Dr 13",,11/06/2004
+Arizona,Pima,Tucson,"2123 Edison Terrance N",,11/13/2004
+Arizona,Maricopa,Peoria,"7436 Hatcher W Ave",,11/16/2004
+Arizona,Maricopa,Phoenix,"1550 Thunderbird E 3081",,11/23/2004
+Arizona,Maricopa,Phoenix,"2828 Augusta W A",,12/02/2004
+Arizona,Maricopa,Avondale,"3636 106th N Dr",,12/06/2004
+Arizona,Maricopa,Goodyear,"1701 Palo Verde N 12",,12/08/2004
+Arizona,Maricopa,Morristown,"28944 Hwy 60 Hwy",,12/13/2004
+Arizona,Maricopa,Wittmann,"21529 Hove 1 E",,12/13/2004
+Arizona,Maricopa,Goodyear,"15912 Monroe W St",,12/16/2004
+Arizona,Maricopa,Phoenix,"6734 24th N Dr",,01/06/2005
+Arizona,Maricopa,Glendale,"8930 61st N Ave 5",,01/20/2005
+Arizona,Maricopa,Phoenix,"2330 Bell W Rd",,02/02/2005
+Arizona,Maricopa,Tonopah,"211th Ave / Bethany Home Rd",,03/02/2005
+Arizona,Maricopa,Phoenix,"5326 104th N Ave",,03/22/2005
+Arizona,Maricopa,Phoenix,"3429 36th N St",,03/25/2005
+Arizona,Maricopa,Phoenix,"3614 17th S St",,03/29/2005
+Arizona,Pima,Tucson,"5840 22nd E St",,04/26/2005
+Arizona,Pima,Tucson,"3407 Glenn E St",,04/28/2005
+Arizona,Maricopa,Phoenix,"4022 Sierra W St",,07/07/2005
+Arizona,Maricopa,Phoenix,"2038 17 N Ave",,07/12/2005
+Arizona,Mohave,Kingman,"3614 Ryan Ave",,08/19/2005
+Arizona,Maricopa,Phoenix,"12008 36 N Pl",,08/31/2005
+Arizona,Pima,Tucson,"3960 Pinto E Ln",,10/11/2005
+Arizona,Maricopa,Phoenix,"2216 65th N Dr",,11/02/2005
+Arizona,Maricopa,"Maricopa Village","33220 South 75th Avenue",,11/28/2005
+Arizona,Maricopa,Phoenix,"8435 Almeria W Rd",,01/13/2006
+Arizona,Maricopa,Mesa,"763 8th E Ave 3",,01/19/2006
+Arizona,Maricopa,Gilbert,"1507 Owl S St",,03/01/2006
+Arizona,Maricopa,Tonopah,"5735 411th N Ave",,03/15/2006
+Arizona,Maricopa,Tonopah,"14706 124th N Ln",,03/16/2006
+Arizona,Mohave,"Lake Havasu City","3193 Oro Grande Boulevard",,04/17/2006
+Arizona,Maricopa,Phoenix,"3030 North 14th Street 117",,05/01/2006
+Arizona,Maricopa,Glendale,"6201 West Olive Avenue",,05/03/2006
+Arizona,Maricopa,Phoenix,"7006 West Lewis Avenue",,05/03/2006
+Arizona,Maricopa,Glendale,"5133 West Vogel Avenue",,05/04/2006
+Arizona,Maricopa,Glendale,"6991 West Keim Drive",,05/04/2006
+Arizona,Maricopa,Phoenix,"1106 West Bell Road 1188",,05/05/2006
+Arizona,Maricopa,Mesa,"922 South Longmore 168",,06/15/2006
+Arizona,Maricopa,Mesa,"335 North Hawes Road",,06/16/2006
+Arizona,Maricopa,Phoenix,"4245 B North 10th Street",,07/05/2006
+Arizona,Maricopa,Tempe,"2039 East Broadway Road 172",,07/06/2006
+Arizona,Maricopa,Phoenix,"3007 North 46th Drive",,07/11/2006
+Arizona,Maricopa,Phoenix,"4245 North 10th Street",,07/14/2006
+Arizona,Maricopa,Higley,"17108 East Knox Road",,07/26/2006
+Arizona,Yavapai,Prescott,"1205 Sandretto Drive",,08/14/2006
+Arizona,Pima,Tucson,"16311 West Honeysuckle View Lane",,09/08/2006
+Arizona,Pinal,"Apache Junction","1460 South Deniza",,10/05/2006
+Arizona,Mohave,"Bullhead City","1807 Forest Drive",,12/01/2006
+Arizona,Maricopa,Phoenix,"1633 West Briles Street",,01/08/2007
+Arizona,Navajo,Lakeside,"3108 Greenleaf Drive",,01/09/2007
+Arizona,Maricopa,Mesa,"1800 East Covina",,03/09/2007
+Arizona,Pima,Tucson,"6832 South Nogales Highway 19b",,04/30/2007
+Arizona,Maricopa,Tempe,"1854 East Yale",,05/29/2007
+Arizona,Maricopa,Phoenix,"19602 North 32st Street 38",,06/05/2007
+Arizona,Maricopa,Glendale,"12727 West Glendale Avenue",,06/27/2007
+Arizona,Pima,Tucson,"437 East Navajo Street",,06/30/2007
+Arizona,Cochise,Willcox,"2201 West Knagge Lane",,12/14/2007
+Arizona,Maricopa,Phoenix,"1801 East Hubbell Street",,01/10/2008
+Arizona,Maricopa,Phoenix,"601 East Palo Verde Drive 8",,01/10/2008
+Arizona,Maricopa,Glendale,"5751 West Altadena Avenue",,02/21/2008
+Arizona,Maricopa,Phoenix,"6437 West Rooselvelt Street",,04/18/2008
+Arizona,Maricopa,Tempe,"2313 East Balboa Drive",,09/15/2008
+Arizona,Navajo,Winslow,"520 West Brismon Street",,05/17/2009
+Arizona,Pima,Tucson,"2724 East 8th Street",,05/20/2009
+Arizona,Pima,Tucson,"6255 South Travisgant Avenue",,04/15/2010
+Arizona,Pima,Tucson,"3201 East 2d",,07/13/2010
+Arizona,Pima,Tucson,"9632 East Stella Road",,06/08/2011
+Arizona,Pima,Tucson,"1821 East 13",,12/03/2014
+Arizona,Maricopa,Phoenix,"2990 W Thunderbird Road Box 120",,03/18/2015

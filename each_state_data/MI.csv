@@ -1,0 +1,1399 @@
+state,county,city,address1,address2,date
+Michigan,Shiawassee,Durand,"105 W John Street",,
+Michigan,Ingham,Lansing,"910  American Road Box 203",,
+Michigan,"Van Buren",Lawton,"210  Morrill Street",,
+Michigan,"Saint Joseph","Three Rivers","21266 Michigan Ave",,01/12/2004
+Michigan,Allegan,Otsego,"30 16th S",,01/19/2004
+Michigan,"Van Buren",Bloomingdale,"44264 24th Ave",,01/22/2004
+Michigan,Kalamazoo,Portage,"3885 Hamlin Dr",,01/23/2004
+Michigan,Kalamazoo,Portage,"4284 Bristlecone Dr",,01/25/2004
+Michigan,Allegan,Plainwell,"305 Riverview Dr",,02/04/2004
+Michigan,Kalamazoo,Kalamazoo,"1928 Colgrove Ave 204",,02/05/2004
+Michigan,Kalamazoo,Kalamazoo,"618 Maple Hill Dr 110",,02/05/2004
+Michigan,Allegan,Allegan,"899 Cypress",,02/07/2004
+Michigan,Allegan,Allegan,"4359 108th",,02/12/2004
+Michigan,Kalamazoo,Kalamazoo,"1606 Palmer St",,02/15/2004
+Michigan,"Saint Joseph","White Pigeon","19013 Fawn River Rd Lot 7",,02/23/2004
+Michigan,Kalamazoo,Kalamazoo,"156 28th N St 6",,02/26/2004
+Michigan,Kalamazoo,Portage,"5447 Meredith Dr D",,03/03/2004
+Michigan,"Van Buren",Lawrence,"51241 72nd. Ave",,03/10/2004
+Michigan,Calhoun,"Battle Creek","189 Swedish St",,03/10/2004
+Michigan,"Van Buren","Paw Paw","312 Van Buren N St",,03/12/2004
+Michigan,"Van Buren",Bloomingdale,"42426 15th Ave",,03/16/2004
+Michigan,Kalamazoo,Vicksburg,"333 Frakes St A102",,03/24/2004
+Michigan,Kalamazoo,Comstock,"534 Leenhouts St",,04/07/2004
+Michigan,Allegan,Allegan,"3504 Babylon Road",,04/08/2004
+Michigan,Berrien,"Benton Harbor","478 Gary Ave",,04/11/2004
+Michigan,"Saint Joseph",Constantine,"1200 Washington S St 14",,04/12/2004
+Michigan,Kalamazoo,Kalamazoo,"1966 11th S St 4",,04/19/2004
+Michigan,Kalamazoo,Kalamazoo,"1915 March St",,04/21/2004
+Michigan,Kalamazoo,Kalamazoo,"5672 Michigan E Ave",,04/22/2004
+Michigan,Calhoun,Tekonsha,"2229 19 1/2 Mile Rd",,04/22/2004
+Michigan,Kalamazoo,Kalamazoo,"619 Egleston St",,04/27/2004
+Michigan,Kalamazoo,Kalamazoo,"825 Cooper St",,04/29/2004
+Michigan,Kalamazoo,Kalamazoo,"2399 30th N St",,05/01/2004
+Michigan,Kalamazoo,Galesburg,"571 Maplewood St",,05/02/2004
+Michigan,Kalamazoo,Portage,"219 Della St",,05/05/2004
+Michigan,Allegan,Otsego,"399 Oaks Crossing",,05/11/2004
+Michigan,"Saint Joseph","Three Rivers","16917 Sunset Ln",,05/12/2004
+Michigan,Kalamazoo,Kalamazoo,"2515 Cork E St 21",,05/15/2004
+Michigan,"Van Buren","Arlington Township","29850 50th St",,05/18/2004
+Michigan,Allegan,Allegan,"426 River Rd",,05/20/2004
+Michigan,Branch,Montgomery,"1057 Paul Rd",,05/24/2004
+Michigan,Allegan,Pullman,"5531 104th St",,05/26/2004
+Michigan,Calhoun,Burlington,"8229 M S Dr",,06/06/2004
+Michigan,"Saint Joseph",Colon,"123 Canal St",,06/07/2004
+Michigan,Kalamazoo,Kalamazoo,"5361 Comstock Ave",,06/10/2004
+Michigan,"Van Buren","South Haven","76648 11th Ave",,06/17/2004
+Michigan,Kalamazoo,Kalamazoo,"1609 Church N St",,06/20/2004
+Michigan,Allegan,Allegan,"2598 30th",,06/24/2004
+Michigan,Osceola,Evart,"765 Jefferson 17",,06/27/2004
+Michigan,Allegan,Plainwell,"722 Brittany",,06/28/2004
+Michigan,Benzie,Thompsonville,"5626 Thompsonville S Rd",,07/09/2004
+Michigan,Montcalm,Stanton,"8282 Lace Dr",,07/13/2004
+Michigan,Allegan,Allegan,"2744 32nd",,07/13/2004
+Michigan,Kalamazoo,Parchment,"507 Keyes Dr",,07/21/2004
+Michigan,Kalamazoo,Kalamazoo,"628 Lake St",,08/04/2004
+Michigan,Kalamazoo,Kalamazoo,"521 Stassen St",,08/09/2004
+Michigan,Kalamazoo,Kalamazoo,"5603 20th N St",,08/09/2004
+Michigan,Kalamazoo,Kalamazoo,"1608 Hayes Park St",,08/12/2004
+Michigan,Cass,Edwardsburg,"19311 Us 12 Lot 38",,08/24/2004
+Michigan,Allegan,Otsego,"1007 19th",,08/24/2004
+Michigan,Kalamazoo,Kalamazoo,"1525 G E Ave",,08/25/2004
+Michigan,"Saint Joseph","Burr Oak","29738 Witt Lake Rd",,08/28/2004
+Michigan,Cass,Dowagiac,"24218 Main W St",,08/30/2004
+Michigan,Kalamazoo,Kalamazoo,"1013 Edison St",,08/31/2004
+Michigan,Kalamazoo,Vicksburg,"13397 X E Ave",,09/01/2004
+Michigan,Allegan,Allegan,"4334 110th",,09/06/2004
+Michigan,Berrien,Sodus,"3101 River Rd 09",,09/08/2004
+Michigan,Lake,Chase,"9314 48th E St",,09/14/2004
+Michigan,Kalamazoo,Portage,"5530 Lexington Cir",,09/15/2004
+Michigan,Oakland,"Royal Oak","821 North Edgeworth Avenue",,09/22/2004
+Michigan,Kalamazoo,Kalamazoo,"1519 Olmstead Rd 63",,09/23/2004
+Michigan,"Van Buren",Gobles,"36153 6th Ave",,09/24/2004
+Michigan,Kalamazoo,Kalamazoo,"3661 Lark Dr",,09/28/2004
+Michigan,Cass,Cassopolis,"19866 Chain Lake St",,09/30/2004
+Michigan,Calhoun,"Battle Creek","596 Westbrook",,10/01/2004
+Michigan,Bay,"Bay City","1003 Florence E St 2",,10/02/2004
+Michigan,Berrien,Watervliet,"5355 M-140 N",,10/05/2004
+Michigan,Allegan,Allegan,"4266 Swan Lake Dr",,10/05/2004
+Michigan,Benzie,Thompsonville,"5660 Thompsonville S Rd",,10/06/2004
+Michigan,Allegan,Plainwell,"15101 Burchett Rd",,10/07/2004
+Michigan,Allegan,Allegan,"95 26th",,10/12/2004
+Michigan,"Van Buren","Paw Paw","608 Michigan W Ave",,10/12/2004
+Michigan,Kalamazoo,"Brady Township","11870 Sprinkle Rd",,10/19/2004
+Michigan,Kalamazoo,Portage,"7528 Lakewood Dr",,10/22/2004
+Michigan,Barry,Delton,"7495 Cedar Creek Rd",,10/23/2004
+Michigan,"Van Buren",Lawton,"33410 88th Ave",,10/23/2004
+Michigan,Shiawassee,Corunna,"3665 Bostedor",,10/27/2004
+Michigan,Kalamazoo,Kalamazoo,"9671 D E Ave A7",,10/28/2004
+Michigan,Cass,Dowagiac,"54018 M 51 N",,11/02/2004
+Michigan,Branch,Quincy,"1045 Grove Rd",,11/03/2004
+Michigan,Kalamazoo,Galesburg,"4711 36th N St",,11/03/2004
+Michigan,"Saint Joseph",,"15378 Parkville Rd",,11/16/2004
+Michigan,Shiawassee,Owosso,"524 Corunna Avenue",,11/17/2004
+Michigan,"Van Buren",Bangor,"38872 52 Nd St",,11/19/2004
+Michigan,Kalamazoo,Kalamazoo,"1804 Hawk Dr",,11/19/2004
+Michigan,Allegan,Allegan,"1114 44th St",,11/21/2004
+Michigan,Montcalm,Sheridan,"6113 Fuller St",,11/26/2004
+Michigan,Barry,Hastings,"2940 Lawrence Rd",,11/26/2004
+Michigan,"Van Buren",Gobles,"29932 County Road 388",,12/03/2004
+Michigan,Kalamazoo,Kalamazoo,"3625 Lark Dr",,12/03/2004
+Michigan,"Van Buren",Gobles,"36100 6th Ave",,12/06/2004
+Michigan,"Saint Joseph","White Pigeon","10842 Riverside Dr",,12/08/2004
+Michigan,Kalamazoo,Kalamazoo,"1513 Main W St",,12/15/2004
+Michigan,Allegan,Plainwell,"12728 Boniface Pt",,12/16/2004
+Michigan,Kalamazoo,Kalamazoo,"1404 Mosels E St",,12/18/2004
+Michigan,Kalamazoo,Kalamazoo,"8924 Michigan E",,12/19/2004
+Michigan,Ingham,"Bunker Hill","1149 Meridian Rd",,12/20/2004
+Michigan,Shiawassee,Owosso,"1750 M-21 E Hwy 18",,12/21/2004
+Michigan,Shiawassee,Owosso,"1836 Kilbourn Ave",,12/21/2004
+Michigan,"Saint Joseph",Sturgis,"122 Nottowa N St",,12/26/2004
+Michigan,"Van Buren","Paw Paw","51730 35 1/2 St",,12/27/2004
+Michigan,Gladwin,Gladwin,"435 Cedar E Ave",,01/02/2005
+Michigan,Kalamazoo,Kalamazoo,"1904 Sandy Cove Dr",,01/04/2005
+Michigan,Kalamazoo,Schoolcraft,"14213 14th S St",,01/05/2005
+Michigan,Ottawa,Holland,"505 30th W D3",,01/06/2005
+Michigan,Kalamazoo,Kalamazoo,"1451 North Hills Dr",,01/07/2005
+Michigan,Kalamazoo,Portage,"619 Schuring Rd 3",,01/10/2005
+Michigan,Barry,Hastings,"1295 Starr School Rd",,01/12/2005
+Michigan,Allegan,Allegan,"586 Kaywood",,01/18/2005
+Michigan,Kalamazoo,Kalamazoo,"254 D E Ave Lot 3",,01/25/2005
+Michigan,Kalamazoo,"Cooper Township","254 D Ave E Lot 60",,01/26/2005
+Michigan,Kalamazoo,Kalamazoo,"1028 Ferndale Ave",,01/26/2005
+Michigan,"Van Buren",Decatur,"82560 M 51 Hwy",,01/26/2005
+Michigan,Barry,Hastings,"302 Thorn E St",,01/29/2005
+Michigan,Kalamazoo,Kalamazoo,"2478 Rosevelt",,01/29/2005
+Michigan,Kalamazoo,Kalamazoo,"1403 Sherwood Ave 1",,02/01/2005
+Michigan,"Van Buren",Covert,"76721 30th Ave",,02/03/2005
+Michigan,Kalamazoo,Kalamazoo,"1536 Highland Hills Dr",,02/04/2005
+Michigan,Kalamazoo,Fulton,"15905 Z E Ave",,02/08/2005
+Michigan,"Van Buren",Kendall,"16750 27th St",,02/09/2005
+Michigan,"Saint Joseph","Three Rivers","61436 Wood Lake Rd",,02/09/2005
+Michigan,Kalamazoo,Kalamazoo,"3650 Lurk Dr",,02/10/2005
+Michigan,"Van Buren","Grand Junction","49908 18th Ave",,02/14/2005
+Michigan,"Van Buren",Lawton,"31374 64th Ave",,02/15/2005
+Michigan,Kalamazoo,Kalamazoo,"1706 Homecrest St",,02/19/2005
+Michigan,Kalamazoo,Portage,"828 Shom Way St",,02/22/2005
+Michigan,,Charlotte,"712 Clinton S St",,02/22/2005
+Michigan,Jackson,Jackson,"119 Elm Street 2",,02/22/2005
+Michigan,Allegan,Otsego,"571 Lincoln",,02/24/2005
+Michigan,Eaton,"Eaton Rapids","8230 Spicerville E Hwy",,02/25/2005
+Michigan,Kalamazoo,Kalamazoo,"3405 D E Ave",,02/25/2005
+Michigan,"Van Buren","Paw Paw","207 Willard St 1",,03/02/2005
+Michigan,Kalamazoo,Kalamazoo,"4205 Debbie Ln",,03/15/2005
+Michigan,Cass,Jones,"10838 Born St",,03/22/2005
+Michigan,Kalamazoo,Portage,"205 Dawnlee",,03/22/2005
+Michigan,Kalamazoo,Kalamazoo,"1453 Highland Hills Dr",,03/29/2005
+Michigan,Kalamazoo,Kalamazoo,"1113 Lane Blvd",,03/30/2005
+Michigan,Kalamazoo,Kalamazoo,"10150 Riverview N Dr",,03/30/2005
+Michigan,"Saint Joseph","White Pigeon","1108 Green Lawn",,04/03/2005
+Michigan,Kalamazoo,Kalamazoo,"6766 Colgrove",,04/06/2005
+Michigan,Kalamazoo,Kalamazoo,"3634 Lark Dr",,04/13/2005
+Michigan,Shiawassee,Owosso,"523 Exchange E St",,04/14/2005
+Michigan,Kalamazoo,Kalamazoo,"738 Vine E St",,04/15/2005
+Michigan,Barry,Dowling,"8558 Gurd Rd",,04/19/2005
+Michigan,Shiawassee,Owosso,"1101 Lynn St",,04/21/2005
+Michigan,Shiawassee,Owosso,"523 Exchange N",,04/22/2005
+Michigan,Kalamazoo,Kalamazoo,"121 1/2 Fellows St",,04/23/2005
+Michigan,Muskegon,Muskegon,"1160 Harvey",,04/26/2005
+Michigan,Kalamazoo,Portage,"5541 Lovers Ln",,04/26/2005
+Michigan,Penobscot,Bangor,"177 Hammond St 1",,04/27/2005
+Michigan,Eaton,Charlotte,"833 5 Point W Hwy",,04/28/2005
+Michigan,Shiawassee,Owosso,"1512 Dewey W Rd",,05/01/2005
+Michigan,Allegan,Plainwell,"722 Brittany St",,05/02/2005
+Michigan,Allegan,Plainwell,"982 Richelieu",,05/02/2005
+Michigan,Kalamazoo,Augusta,"312 Michigan W",,05/03/2005
+Michigan,Kalamazoo,Kalamazoo,"3114 Virginia Ave",,05/05/2005
+Michigan,Kalamazoo,Scotts,"10844 Qr E Ave",,05/06/2005
+Michigan,"Van Buren",Lawton,"913 Cemetary Dr",,05/10/2005
+Michigan,Isabella,"Mount Pleasant","6313 Crawford",,05/12/2005
+Michigan,Kalamazoo,Kalamazoo,"1142 Fargo",,05/17/2005
+Michigan,Shiawassee,Owosso,"1101 Lynn W St",,05/17/2005
+Michigan,Kalamazoo,Kalamazoo,"1817 Rose N St",,05/18/2005
+Michigan,Muskegon,"Norton Shores","2917 Brunswick",,05/23/2005
+Michigan,Kalamazoo,Kalamazoo,"3661 Cardinal Dr",,05/24/2005
+Michigan,Cass,Marcellus,"55234 Day Rd",,05/27/2005
+Michigan,Kalamazoo,Kalamazoo,"2141 Amherst Ave",,05/30/2005
+Michigan,Kalamazoo,Kalamazoo,"2000 Barney Rd",,05/31/2005
+Michigan,Kalamazoo,Kalamazoo,"3416 Valencia",,06/05/2005
+Michigan,Kalamazoo,Portage,"4211 Monroe",,06/08/2005
+Michigan,Barry,Cloverdale,"3231 Cloverdale Rd",,06/09/2005
+Michigan,"Van Buren",Gobles,"20717 Co Rd 653",,06/24/2005
+Michigan,Allegan,Plainwell,"1232 Keith St",,06/24/2005
+Michigan,"Saint Joseph","Three Rivers","51378 Parkville Rd",,06/28/2005
+Michigan,Allegan,Otsego,"349 S. 16th",,06/29/2005
+Michigan,Barry,Delton,"6305 Tigerlily",,07/01/2005
+Michigan,Barry,Delton,"6491 Lindsey Rd",,07/02/2005
+Michigan,Ingham,Stockbridge,"621 Clinton S St",,07/03/2005
+Michigan,Kalamazoo,Kalamazoo,"1027 Sherwood Ave",,07/06/2005
+Michigan,Kalamazoo,Kalamazoo,"8336 14th St",,07/06/2005
+Michigan,Kalamazoo,Kalamazoo,"3315 Brookfield",,07/09/2005
+Michigan,Kalamazoo,Vicksburg,"12139 39th S St",,07/11/2005
+Michigan,Kalamazoo,Kalamazoo,"614 Charlotte Ave",,07/13/2005
+Michigan,Ingham,Holt,"1287 Onondaga N Rd",,07/13/2005
+Michigan,"Saint Joseph","White Pigeon","69520 Thomas St",,07/14/2005
+Michigan,Muskegon,Casnovia,"345 Moon Ct",,07/20/2005
+Michigan,"Van Buren",Lawrence,"422 St. Joseph W St",,07/25/2005
+Michigan,"Van Buren","Paw Paw","206 Gremps S",,07/29/2005
+Michigan,"Saint Joseph","Three Rivers","617 14th St Lot 34",,08/04/2005
+Michigan,Allegan,Plainwell,"1044 Marsh Road",,08/08/2005
+Michigan,Allegan,"South Haven","187 66th Street",,08/08/2005
+Michigan,Kalamazoo,Fulton,"14157 42nd S St",,08/09/2005
+Michigan,Branch,Coldwater,"232 Nash Ii Rd",,08/15/2005
+Michigan,Kalamazoo,Kalamazoo,"3415 Valencia Ln",,08/22/2005
+Michigan,Jackson,Munith,"7150 Kennedy Rd",,08/22/2005
+Michigan,Kalamazoo,Kalamazoo,"5069 Roylan St",,08/23/2005
+Michigan,Jackson,Jackson,"5791 Wheaton Rd",,08/23/2005
+Michigan,Kalamazoo,Kalamazoo,"2516 Corlot St",,08/23/2005
+Michigan,Kalamazoo,Kalamazoo,"502 30th N St",,08/23/2005
+Michigan,Jackson,Liberty,"8495 Jackson S Rd",,08/24/2005
+Michigan,Allegan,Martin,"920 118th",,08/27/2005
+Michigan,"Van Buren","Paw Paw","38622 47th Ave",,08/28/2005
+Michigan,Kalamazoo,Kalamazoo,"5225 Fordham",,08/29/2005
+Michigan,Jackson,Jackson,"116 Mason E St 2",,08/29/2005
+Michigan,Allegan,Allegan,"2029 36th",,08/30/2005
+Michigan,Allegan,Allegan,"765 26th",,08/30/2005
+Michigan,Kalamazoo,"Ross Twp","5598 Martin Dr",,08/31/2005
+Michigan,Kalamazoo,Kalamazoo,"6568 Walburn St",,09/05/2005
+Michigan,Allegan,Allegan,"2428 38th",,09/06/2005
+Michigan,Allegan,Allegan,"103 Grant Street",,09/06/2005
+Michigan,Kalamazoo,Kalamazoo,"1615 Nottingham St 301",,09/07/2005
+Michigan,"Van Buren",Gobles,"13622 Cr 653",,09/10/2005
+Michigan,"Saint Joseph","White Pigeon","107 Hotchin E St",,09/14/2005
+Michigan,Cass,Union,"69611 Sunset Boulevard 1",,09/15/2005
+Michigan,"Saint Joseph",Centreville,"16 Plum Ct",,09/17/2005
+Michigan,Berrien,Bridgman,"9240 Jericho Rd",,09/18/2005
+Michigan,"St. Joseph","Three Rivers","302 Portage Avenue",,09/19/2005
+Michigan,Kalamazoo,Kalamazoo,"482 Reed St",,09/19/2005
+Michigan,Genesee,Clio,"7061 Vienna W Rd 31",,09/21/2005
+Michigan,Kent,Rockford,"6973 Goldenrod",,09/22/2005
+Michigan,Kalamazoo,Kalamazoo,"2924 Alamo Ave",,09/26/2005
+Michigan,Kalamazoo,Kalamazoo,"909 Edison St",,10/03/2005
+Michigan,Kalamazoo,Kalamazoo,"5381 Thayer Ave",,10/06/2005
+Michigan,"Saint Joseph","Burr Oak","64718 Maple Ln",,10/07/2005
+Michigan,Branch,"Union City","2015 Tacoma Dr",,10/07/2005
+Michigan,Kalamazoo,Portage,"9440 Westridge S Ave",,10/11/2005
+Michigan,Kalamazoo,Kalamazoo,"3516 Lowden St",,10/14/2005
+Michigan,Kalamazoo,"Pavillion Township","6754 Charring Cross",,10/19/2005
+Michigan,Kalamazoo,Kalamazoo,"6794 Ravine Rd",,10/25/2005
+Michigan,Kalamazoo,Galesburg,"8150 Michigan E Ave",,10/26/2005
+Michigan,"Saint Joseph",Leonidas,"31093 M 60 Hwy",,10/26/2005
+Michigan,"Van Buren","Paw Paw","46882 38th Ave",,11/02/2005
+Michigan,Kalamazoo,Kalamazoo,"158 Level St",,11/09/2005
+Michigan,Kalamazoo,Kalamazoo,"1539 Highland Hills Dr",,11/17/2005
+Michigan,Kalamazoo,Kalamazoo,"156 28th N St 5",,11/18/2005
+Michigan,Kalamazoo,Oshtemo,"3150 Dori Dr 208",,11/21/2005
+Michigan,Kalamazoo,Portage,"4216 Monroe",,11/21/2005
+Michigan,"Saint Joseph","Three Rivers","19350 M-86",,11/29/2005
+Michigan,Barry,Delton,"10995 Shelp Lake Dr",,12/02/2005
+Michigan,"Saint Joseph","Three Rivers","514 Main N St",,12/03/2005
+Michigan,Barry,Shelbyville,"6583 Boulter Rd",,12/05/2005
+Michigan,Barry,Shelbyville,"7120 Marsh Rd",,12/05/2005
+Michigan,"Van Buren",Gobles,"34162 Homewood Dr",,12/08/2005
+Michigan,Kalamazoo,Kalamazoo,"831 Burdick S St",,12/12/2005
+Michigan,"Van Buren",Gobles,"27793 20th Ave",,12/18/2005
+Michigan,Barry,Delton,"6305 Tiger Lily Dr",,12/20/2005
+Michigan,Kalamazoo,Kalamazoo,"1517 Portage St",,12/21/2005
+Michigan,Kalamazoo,Vicksburg,"12677 36th S St",,12/21/2005
+Michigan,Kalamazoo,Kalamazoo,"111 Fellows Ct",,12/22/2005
+Michigan,Kalamazoo,Kalamazoo,"400 North W St",,12/27/2005
+Michigan,Kalamazoo,Kalamazoo,"4068 Deadwood N",,12/29/2005
+Michigan,Calhoun,Fulton,"1977 S Dr S",,01/05/2006
+Michigan,"Van Buren","Grand Junction","16308 5o 1/2 St",,01/05/2006
+Michigan,Kalamazoo,Kalamazoo,"1519 Olmstead 32",,01/06/2006
+Michigan,Muskegon,Holton,"11639 Nichols Road",,01/09/2006
+Michigan,Hillsdale,Hillsdale,"1711 East Reading Road",,01/11/2006
+Michigan,Kalamazoo,"Pavilient Wp","5038 O E Ave",,01/12/2006
+Michigan,Branch,Coldwater,"343 Paradine Rd `",,01/13/2006
+Michigan,Allegan,Allegan,"44 Wesler Drive",,01/24/2006
+Michigan,Calhoun,Tekonsha,"1169 Marshall Road",,01/25/2006
+Michigan,Kalamazoo,Kalamazoo,"206 Belmont E St",,01/31/2006
+Michigan,Allegan,Allegan,"1308 Jennings Court",,02/03/2006
+Michigan,Calhoun,Homer,"430 Byron S St 130",,02/03/2006
+Michigan,Kalkaska,"Rapid City","7596 Hahn Circle",,02/07/2006
+Michigan,Montcalm,Lakeview,"8897 Ferris Boulevard",,02/07/2006
+Michigan,Allegan,Martin,"1912 Pleasant View",,02/12/2006
+Michigan,Ingham,Stockbridge,"530 Mechanic St",,02/19/2006
+Michigan,Calhoun,Athens,"304 Avenue A S",,02/20/2006
+Michigan,Clare,Harrison,"3845 Lapham Road",,02/23/2006
+Michigan,Ingham,Stockbridge,"1371 Baseline Rd",,02/24/2006
+Michigan,Allegan,Otsego,"424 Morell",,03/03/2006
+Michigan,Kalamazoo,Schoolcraft,"11426 Bonnie Dr 11",,03/05/2006
+Michigan,Kalamazoo,Kalamazoo,"3907 Aoburn Ln",,03/07/2006
+Michigan,Kalamazoo,Kalamazoo,"1006 Lane Blvd",,03/08/2006
+Michigan,Lenawee,Adrian,"620 Winter N St",,03/11/2006
+Michigan,"Van Buren",Hartford,"60854 61st Ave",,03/12/2006
+Michigan,Kalamazoo,Kalamazoo,"35382 22nd",,03/19/2006
+Michigan,Shiawassee,Owosso,"307 Genesee W St",,03/27/2006
+Michigan,Kalamazoo,Vicksburg,"15649 South 29th Street",,03/29/2006
+Michigan,Ingham,Onondaga,"5420 Bellevue Rd",,04/05/2006
+Michigan,Gogebic,Ironwood,"719 Florence",,04/06/2006
+Michigan,Jackson,Jackson,"13255 Clinton Road",,04/15/2006
+Michigan,Kalamazoo,Portage,"1130 East Osterhout St.",,04/17/2006
+Michigan,"St. Joseph",Sturgis,"25039 Us-12 Unit 114",,04/27/2006
+Michigan,"Saint Joseph",Sturgis,"1035 Cato Lane",,04/28/2006
+Michigan,"St. Joseph",Sturgis,"1035 Cato Ln B3",,04/28/2006
+Michigan,Allegan,Otsego,"1866 116th",,04/28/2006
+Michigan,Kent,Greenville,"10755 West Simpson",,05/04/2006
+Michigan,Kalamazoo,Kalamazoo,"6743 Peyton Place",,05/17/2006
+Michigan,Kalamazoo,Kalamazoo,"3606 Stewart Drive",,05/17/2006
+Michigan,Ingham,Lansing,"120 West Michigan Avenue",,05/18/2006
+Michigan,Allegan,Plainwell,"497 Riverview",,05/20/2006
+Michigan,Kalamazoo,Kalamazoo,"2233 Flower Street",,05/23/2006
+Michigan,Kalamazoo,Kalamazoo,"2023 Schippers Ln.",,05/24/2006
+Michigan,"Saint Joseph","Burr Oak","64643 Maple Lane",,06/01/2006
+Michigan,Kalamazoo,Portage,"8036 Lovers Lane",,06/06/2006
+Michigan,Branch,Sherwood,"363 Chippewa Circle",,06/06/2006
+Michigan,Allegan,Plainwell,"147 South Sherwood Street",,06/08/2006
+Michigan,"Saint Joseph",Colon,"31271 Francis Street",,06/13/2006
+Michigan,Kalamazoo,Pavilion,"6622 South 25th Street",,06/14/2006
+Michigan,Kalamazoo,Kalamazoo,"6453 Twilight Avenue",,06/26/2006
+Michigan,"Van Buren","Paw Paw","42439 35th Street",,06/28/2006
+Michigan,"Saint Joseph",Sturgis,"206 West West",,07/14/2006
+Michigan,Allegan,Otsego,"325 Heritage Lane",,07/15/2006
+Michigan,Branch,Quincy,"2580 Pierce Road",,07/21/2006
+Michigan,Kent,"Grand Rapids","2324 South Division Avenue",,07/23/2006
+Michigan,Kalamazoo,Kalamazoo,"2334 East Main Street",,07/24/2006
+Michigan,Branch,Bronson,"273 West Southern Road",,07/24/2006
+Michigan,Kalamazoo,Kalamazoo,"254 East D Avenue",,08/01/2006
+Michigan,Allegan,Allegan,"3173 102nd",,08/04/2006
+Michigan,Isabella,,"8781 East Baseline Road",,08/04/2006
+Michigan,Clare,Lake,"8085 Mckinley Avenue",,08/08/2006
+Michigan,Kent,"Grand Rapids","980 Kendelwood Street",,08/09/2006
+Michigan,Washtenaw,Saline,"13340 Lindsley Road",,08/09/2006
+Michigan,Allegan,Otsego,"571 Lincoln Road",,08/10/2006
+Michigan,Hillsdale,Quincy,"10731 Hicks Road",,08/16/2006
+Michigan,Kalamazoo,Kalamazoo,"1323 Brownell Street",,08/17/2006
+Michigan,Kalamazoo,Portage,"7146 Lovers Lane",,08/18/2006
+Michigan,Kalamazoo,Kalamazoo,"6743 Petton Place",,08/29/2006
+Michigan,"St. Joseph","Burr Oak","240 Clinton Street",,09/08/2006
+Michigan,Allegan,Otsego,"460 21st",,09/14/2006
+Michigan,Branch,Montgomery,"202 South Main Street",,09/15/2006
+Michigan,"Saint Joseph","White Pigeon","10259 John Street",,09/16/2006
+Michigan,Cass,Jones,"14251 East Chapel Hill Street",,09/28/2006
+Michigan,Allegan,Wayland,"416 131st Street",,10/04/2006
+Michigan,Clare,Harrison,"2805 Hayes Road",,10/12/2006
+Michigan,"St. Joseph",Sturgis,"306 John Street",,10/20/2006
+Michigan,Kalamazoo,Portage,"2610 Stanley",,10/26/2006
+Michigan,"St. Joseph","Three Rivers","404 Fifth Street",,11/07/2006
+Michigan,"St. Joseph","Three Rivers","652 Spring Street",,11/08/2006
+Michigan,"St. Joseph","Three Rivers","515 Hill Street",,11/12/2006
+Michigan,Kalamazoo,Galesburg,"8078 East Michigan Avenue",,11/27/2006
+Michigan,Kalamazoo,Portage,"1605 Bacon Avenue",,12/06/2006
+Michigan,Genesee,Flint,"1151 West Princeton Avenue",,12/07/2006
+Michigan,Berrien,Stevensville,"604 West John Reerr Road",,12/08/2006
+Michigan,"St. Joseph","Three Rivers","58554 Kerr Creek Road",,12/10/2006
+Michigan,"St. Joseph","White Pigeon","68592 Mann Road",,12/24/2006
+Michigan,"St. Joseph",Sturgis,"408 North Fourth Street",,12/29/2006
+Michigan,"St. Joseph",Sturgis,"207 East Hatch",,01/08/2007
+Michigan,Kalamazoo,Kalamazoo,"1370 Red Maple Lane",,01/10/2007
+Michigan,Ingham,Stockbridge,"1371 Baseline Road",,01/12/2007
+Michigan,Kalamazoo,Kalamazoo,"254 East D Lot 23 Avenue",,02/05/2007
+Michigan,Eaton,Charlotte,"402 West Stoddard Street",,02/09/2007
+Michigan,Kalamazoo,Vicksburg,"12937 Bayview Drive",,02/12/2007
+Michigan,Mason,Ludington,"6967 Abrahamson",,02/13/2007
+Michigan,Kalamazoo,Kalamazoo,"5781 Sandalwood",,02/14/2007
+Michigan,Kalamazoo,Kalamazoo,"508 Lay Boulevard",,02/20/2007
+Michigan,Kalamazoo,Kalamazoo,"5125 Lands End Drive",,02/21/2007
+Michigan,Hillsdale,Hillsdale,"1100 Lilac Road",,02/28/2007
+Michigan,"St. Joseph","White Pigeon","21305 Highway 12",,03/07/2007
+Michigan,Kalamazoo,Kalamazoo,"2804 Mount Olivet",,03/14/2007
+Michigan,"St. Joseph",Colon,"33618 Howard Road",,03/16/2007
+Michigan,"St. Joseph",Sturgis,"305 John Street",,03/22/2007
+Michigan,Kalamazoo,Vicksburg,"407 West Xy Avenue",,03/27/2007
+Michigan,Kalamazoo,Kalamazoo,"893 Worden",,04/14/2007
+Michigan,Cass,Cassopolis,"20151 Bulhand Road",,04/17/2007
+Michigan,"St. Joseph",Sturgis,"514 Cottage Street",,04/18/2007
+Michigan,Berrien,Stevensville,"604 West John Beers Road",,04/19/2007
+Michigan,Kalamazoo,Portage,"1522 Hamelink Street",,04/23/2007
+Michigan,Berrien,Coloma,"5632 Jill Anne Drive",,04/25/2007
+Michigan,Cass,Edwardsburg,"68782 Claire Street",,05/08/2007
+Michigan,Cass,Vandalia,"61482 Donald Road",,05/09/2007
+Michigan,Cass,Vandalia,"18016 Wood Street",,05/14/2007
+Michigan,"Van Buren","Paw Paw","43141 Eagle Lake Drive",,05/16/2007
+Michigan,Eaton,Vermontville,"875 Linden Street",,05/22/2007
+Michigan,"Van Buren","Paw Paw","1012 South Lagrave Street",,05/28/2007
+Michigan,Branch,Bronson,"1167 Hollow Road",,05/30/2007
+Michigan,Kalamazoo,Kalamazoo,"50 Blanche Avenue",,06/05/2007
+Michigan,Kalamazoo,Portage,"5207 Bonte Street",,06/15/2007
+Michigan,"Van Buren","Paw Paw","308 East Berrien Street",,07/06/2007
+Michigan,Macomb,"Sterling Heights","42103 Betley Road",,07/09/2007
+Michigan,"St. Joseph","White Pigeon","20023 Us-12",,07/12/2007
+Michigan,Cass,Niles,"2658 Alane Court",,07/15/2007
+Michigan,Cass,Union,"69728 Union Street",,07/18/2007
+Michigan,"St. Joseph",Marcellus,"53286 Day Road",,07/22/2007
+Michigan,"St. Joseph","Three Rivers","810 South Douglas",,07/23/2007
+Michigan,Berrien,Buchanan,"803 North Red Bud Trail",,07/26/2007
+Michigan,Kalamazoo,Galesburg,"552 North 30th Street",,08/14/2007
+Michigan,"St. Joseph",Sturgis,"68535 North Lakeview",,08/21/2007
+Michigan,"Van Buren",Lawton,"75910 Marie Drive",,08/23/2007
+Michigan,Branch,Quincy,"563 South Ray Quincy Road",,08/31/2007
+Michigan,Cass,Edwardsburg,"17476 Starbrick Street",,09/01/2007
+Michigan,"St. Joseph",Constantine,"10473 North River Road",,09/04/2007
+Michigan,"St. Joseph","Three Rivers","61600 Youngman Apt 27 Road",,09/06/2007
+Michigan,Berrien,"Benton Harbor","3398 Riverside Road",,09/10/2007
+Michigan,"Van Buren",Decatur,"107 North John Street",,09/16/2007
+Michigan,"Van Buren",Decatur,"311 Hill Street",,09/18/2007
+Michigan,Berrien,Niles,"1010 Ferry Street",,09/24/2007
+Michigan,Kalamazoo,Kalamazoo,"1944 South 11th #3d Street",,09/25/2007
+Michigan,Cass,Dowagiac,"25259 70th Street",,09/27/2007
+Michigan,"St. Joseph","White Pigeon","214 South Lincoln Street",,09/28/2007
+Michigan,Kalamazoo,Kalamazoo,"530 Denway #36 Circle",,10/02/2007
+Michigan,Calhoun,"Union City","300 Turtle Lake Road",,10/08/2007
+Michigan,"St. Joseph",Sturgis,"215 Ellerman Street",,10/10/2007
+Michigan,Berrien,Buchanan,"609 West 4th Street 28",,10/11/2007
+Michigan,"St. Joseph",Sturgis,"70360 Shimmel Road",,10/22/2007
+Michigan,"St. Joseph",Nottawa,"237 First",,10/30/2007
+Michigan,"St. Joseph",Sturgis,"70074 Carls Road",,10/30/2007
+Michigan,"St. Joseph",Constantine,"14310 Stears Road",,11/02/2007
+Michigan,Branch,Coldwater,"330 West Pearl Street #8",,11/02/2007
+Michigan,"St. Joseph",Constantine,"1200 South Washington # 50 Street",,11/05/2007
+Michigan,"St. Joseph",Constantine,"1200 South Washington #44 Street",,11/05/2007
+Michigan,Kalamazoo,Kalamazoo,"2918 Whittier Street",,11/05/2007
+Michigan,Branch,Tekonsha,"1169 North Marshall",,11/07/2007
+Michigan,"Van Buren",Bangor,"38872 52nd Street",,11/08/2007
+Michigan,Berrien,"Benton Harbor","438 Millburg Drive",,11/11/2007
+Michigan,Kalamazoo,Scotts,"11793 South 39th Street",,11/15/2007
+Michigan,Hillsdale,Hillsdale,"138 Marion Street",,11/30/2007
+Michigan,Isabella,Coleman,"9603 East Coleman Road",,12/04/2007
+Michigan,Kalamazoo,Kalamazoo,"3419 South 9th Street",,12/04/2007
+Michigan,Jackson,"Pleasant Lake","11130 Bunkerhill Road",,12/13/2007
+Michigan,Calhoun,Springfield,"254 Reynolds Road",,12/18/2007
+Michigan,Calhoun,"Battle Creek","51 Mott Street",,12/18/2007
+Michigan,Branch,Coldwater,"125 East Washington Street",,12/29/2007
+Michigan,"St. Joseph",Sturgis,"602 Wenzel Street",,01/07/2008
+Michigan,Ingham,Lansing,"5032 Christensen Street",,01/10/2008
+Michigan,Kalamazoo,Kalamazoo,"7777 Stadium Drive",,01/10/2008
+Michigan,"St. Joseph","Three Rivers","59823 Constantine Road",,01/11/2008
+Michigan,Cass,Marcellus,"393 East Main Street",,01/14/2008
+Michigan,Kalamazoo,Kalamazoo,"5373 North Riverview Drive",,01/17/2008
+Michigan,Hillsdale,Jonesville,"1911 East Goose Lake Road",,01/18/2008
+Michigan,Calhoun,Homer,"315 West Everett Street",,01/20/2008
+Michigan,"St. Joseph",Sturgis,"1002 Greenlawn Street",,01/22/2008
+Michigan,Kalamazoo,Kalamazoo,"2515 East Cork Street 25",,01/29/2008
+Michigan,Kalamazoo,Kalamazoo,"1316 South Westnedge Avenue 3",,02/04/2008
+Michigan,Calhoun,"Battle Creek","51 Mott",,02/05/2008
+Michigan,Kalamazoo,Kalamazoo,"3321 Comstock Village Drive 103",,02/11/2008
+Michigan,Kalamazoo,Kalamazoo,"6007 Chubb Avenue",,02/13/2008
+Michigan,Barry,Bellevue,"8020 Day Road",,02/20/2008
+Michigan,"St. Joseph",Sturgis,"207 South Maple Street",,02/22/2008
+Michigan,"Van Buren",Mattawan,"25350 60th Avenue",,02/25/2008
+Michigan,"Van Buren",Decatur,"304 Pine Street",,02/25/2008
+Michigan,"Van Buren","Paw Paw","60920 40th Street",,02/29/2008
+Michigan,Kalamazoo,Kalamazoo,"3029 Emerald Drive",,02/29/2008
+Michigan,Kalamazoo,Portage,"1722 Quaker Avenue",,03/04/2008
+Michigan,Hillsdale,Reading,"5020 Abbott Road",,03/06/2008
+Michigan,Branch,Coldwater,"57 Division Street",,03/07/2008
+Michigan,"St. Joseph","White Pigeon","68571 Mann Road",,03/08/2008
+Michigan,Kalamazoo,Kalamazoo,"720 Oak Street 2",,03/12/2008
+Michigan,Cass,Dowagiac,"62296 Anderson Road",,03/13/2008
+Michigan,"Van Buren","Paw Paw","1012 South Lagrave Street 32",,03/13/2008
+Michigan,Kalamazoo,Vicksburg,"207 North Richardson 3",,03/18/2008
+Michigan,Hillsdale,Camden,"1623 Harmon Road",,03/20/2008
+Michigan,"St. Joseph","Three Rivers","506 Mechanic",,03/24/2008
+Michigan,Kalamazoo,Kalamazoo,"5665 Josephine Street",,03/26/2008
+Michigan,Kalamazoo,Kalamazoo,"1011 Dayton",,03/28/2008
+Michigan,Kalamazoo,Kalamazoo,"1406 Banbury Street",,03/28/2008
+Michigan,Kalamazoo,Kalamazoo,"1015 Chicago Avenue 1",,04/03/2008
+Michigan,Kalamazoo,Kalamazoo,"6381 East Jk Avenue",,04/06/2008
+Michigan,Branch,Coldwater,"196 North Angola Road 2",,04/07/2008
+Michigan,Branch,Coldwater,"89 Smith Street",,04/08/2008
+Michigan,Branch,Coldwater,"647 Jonesville Road",,04/08/2008
+Michigan,Allegan,Otsego,"512 Lawrence Street",,04/08/2008
+Michigan,Osceola,Marion,"19844 Lowry Street",,04/10/2008
+Michigan,Kalamazoo,Kalamazoo,"3836 Madison Avenue",,04/12/2008
+Michigan,Kalamazoo,Kalamazoo,"5314 Westshire Street",,04/16/2008
+Michigan,Kalamazoo,Kalamazoo,"5273 North 20th Street",,04/24/2008
+Michigan,Hillsdale,Litchfield,"7931 Genesee Road",,04/30/2008
+Michigan,Allegan,Hopkins,"1473 Big Lake Drive",,05/05/2008
+Michigan,"St. Joseph",Sturgis,"700 Lanchashire Drive",,05/06/2008
+Michigan,Hillsdale,Osseo,"6275 Beecher Road",,05/08/2008
+Michigan,Kalamazoo,Kalamazoo,"1516 East Main Street 1",,05/12/2008
+Michigan,Montcalm,"Howard City","8636 Ottawa Trail",,05/15/2008
+Michigan,"Van Buren",Gobles,"101 Cottage Street 1",,05/17/2008
+Michigan,Kalamazoo,Kalamazoo,"316 Stuart Avenue 2",,05/19/2008
+Michigan,Kalamazoo,Portage,"5423 Meredith 26",,05/19/2008
+Michigan,Allegan,Muskegon,"1266 James Street",,05/20/2008
+Michigan,Kalamazoo,Kalamazoo,"1240 Jefferson",,05/21/2008
+Michigan,Kalamazoo,Kalamazoo,"197 Homer Street",,05/22/2008
+Michigan,Lenawee,Adrian,"1661 West Valley Road",,05/27/2008
+Michigan,Kalamazoo,Kalamazoo,"1103 Fairbanks Avenue",,05/28/2008
+Michigan,Kalamazoo,Kalamazoo,"5450 Mount Court",,05/29/2008
+Michigan,Kalamazoo,Kalamazoo,"5467 Keyes Drive",,05/29/2008
+Michigan,Cass,Marcellus,"50346 Sheldon Creek Road",,05/30/2008
+Michigan,Branch,Coldwater,"382 North Fremont Road",,06/02/2008
+Michigan,Clare,Harrison,"7486 East Townline Lake Road",,06/03/2008
+Michigan,Kalamazoo,Augusta,"5163 Ft Caster Drive",,06/05/2008
+Michigan,Branch,Sherwood,"849 Vogel Drive",,06/09/2008
+Michigan,Kalamazoo,Portage,"5530 Lexington Circle",,06/10/2008
+Michigan,Kalamazoo,Kalamazoo,"911 Mills Street",,06/12/2008
+Michigan,Berrien,Buchanan,"2980 Oak Forest Road",,06/16/2008
+Michigan,"St. Joseph",Colon,"708 East State Street",,06/16/2008
+Michigan,Kalamazoo,Portage,"9624 South Sprinkle Road",,06/18/2008
+Michigan,Wayne,Detroit,"9367 Ward Street",,06/18/2008
+Michigan,Cass,Marcellus,"13784 Waterstradt Street",,06/18/2008
+Michigan,"Van Buren",Gobles,"25113 12th Avenue",,06/18/2008
+Michigan,Kalamazoo,Kalamazoo,"730 Lake Street",,06/19/2008
+Michigan,Kalamazoo,Kalamazoo,"1549 North Hills Drive",,06/19/2008
+Michigan,Ionia,"Lake Odessa","638 West Musgrove Highway",,07/02/2008
+Michigan,Kalamazoo,Kalamazoo,"202 West Belmont",,07/02/2008
+Michigan,Kalamazoo,Galesburg,"490 Elmwood Drive",,07/03/2008
+Michigan,Kalamazoo,Galesburg,"652 Maplewood Drive",,07/03/2008
+Michigan,Kalamazoo,Kalamazoo,"119 Wall Street",,07/04/2008
+Michigan,Kalamazoo,Kalamazoo,"2000 Reed Street",,07/05/2008
+Michigan,Kalamazoo,Kalamazoo,"314 West Vine Street 2",,07/05/2008
+Michigan,"Van Buren",Mattawan,"24500 West Mcgillen Avenue G3",,07/08/2008
+Michigan,"Van Buren","Grand Junction","18444 55th Street",,07/08/2008
+Michigan,Kalamazoo,Kalamazoo,"4530 Lilac Lane 31",,07/08/2008
+Michigan,Kalamazoo,Kalamazoo,"527 Witwer Court",,07/09/2008
+Michigan,"St. Joseph","Three Rivers","705 Eight Street",,07/09/2008
+Michigan,Kalamazoo,Vicksburg,"10477 Sprinkle Road 4",,07/10/2008
+Michigan,Kalamazoo,Kalamazoo,"606 Douglas Avenue 4",,07/10/2008
+Michigan,Allegan,Plainwell,"947 Richelieu",,07/14/2008
+Michigan,Kalamazoo,Kalamazoo,"6582 Celery Street",,07/15/2008
+Michigan,"Van Buren",Lawton,"34321 C.r. 669",,07/17/2008
+Michigan,Berrien,Buchanan,"406 West Roe Street",,07/18/2008
+Michigan,Branch,Sherwood,"360 Chippewa Circle Drive",,07/21/2008
+Michigan,Branch,Sherwood,"1022 Dunks Road",,07/22/2008
+Michigan,Shiawassee,Owosso,"916 Milwuakee Street",,07/28/2008
+Michigan,Kalamazoo,Kalamazoo,"3304 Random",,07/29/2008
+Michigan,Kalamazoo,Kalamazoo,"211 River Street C",,07/30/2008
+Michigan,Ingham,Stockbridge,"4363 East M-36",,08/03/2008
+Michigan,"St. Joseph","White Pigeon","15730 Indian Prairie Road",,08/07/2008
+Michigan,"St. Joseph","White Pigeon","107 East Hotchin Street",,08/09/2008
+Michigan,Cass,Dowagiac,"305 Wooden Avenue",,08/09/2008
+Michigan,Kalamazoo,Galesburg,"17 Washington Street",,08/13/2008
+Michigan,Kalamazoo,Kalamazoo,"127 North 26th Street",,08/13/2008
+Michigan,Kalamazoo,Kalamazoo,"6605 Claxton Street",,08/19/2008
+Michigan,"St. Joseph","White Pigeon","67960 Crooked Creek Road",,08/20/2008
+Michigan,Cass,Edwardsburg,"69369 Cassopolis Road",,08/22/2008
+Michigan,"St. Joseph","Three Rivers","1020 8th Street",,09/01/2008
+Michigan,Calhoun,"Battle Creek","5533 East Paradise Road",,09/05/2008
+Michigan,Berrien,Niles,"1027 Herbert",,09/07/2008
+Michigan,Kalamazoo,Kalamazoo,"507 Reed Street",,09/08/2008
+Michigan,Kalamazoo,Portage,"5834 Cranston Street",,09/09/2008
+Michigan,Kalamazoo,Vicksburg,"12100 West Indian Lake Drive",,09/11/2008
+Michigan,Kalamazoo,Portage,"8119 Bruning Street",,09/11/2008
+Michigan,Kalamazoo,Richland,"6905 East D Avenue 6",,09/15/2008
+Michigan,Barry,"Hickory Corners","15467 Rich Lane",,09/17/2008
+Michigan,Kalamazoo,Vicksburg,"13164 South 42nd Street",,09/24/2008
+Michigan,Berrien,Coloma,"4241 East Thar Road",,09/29/2008
+Michigan,Cass,Niles,"61001 Indian Lake Road",,10/02/2008
+Michigan,Kalamazoo,Galesburg,"616 Maplewood",,10/06/2008
+Michigan,Kalamazoo,Kalamazoo,"2222 Regent",,10/15/2008
+Michigan,Kalamazoo,Portage,"1950 Vanderbilt",,10/23/2008
+Michigan,Kalamazoo,Kalamazoo,"6504 Celery Street",,10/28/2008
+Michigan,Hillsdale,Reading,"5451 Abbott Road",,10/30/2008
+Michigan,Branch,Coldwater,"200 East Garfield Road 232",,10/30/2008
+Michigan,Kalamazoo,Kalamazoo,"330 North Sage Street 102",,11/05/2008
+Michigan,"Van Buren",Decatur,"39563 Burgess Road",,11/10/2008
+Michigan,"St. Joseph","Three Rivers","321 South Erie Street 201",,11/11/2008
+Michigan,Kalamazoo,Galesburg,"102 North 30th Street 1",,11/12/2008
+Michigan,Berrien,Niles,"301 17th Street C",,11/14/2008
+Michigan,Calhoun,"Battle Creek","925 Northeast Capital Avenue",,11/15/2008
+Michigan,Calhoun,"Battle Creek","274 Borden Drive",,11/15/2008
+Michigan,Kalamazoo,Kalamazoo,"1360 Willow Lane",,11/18/2008
+Michigan,"Van Buren",Mattawan,"24054 M-43 Highway 27",,11/19/2008
+Michigan,Kalamazoo,Kalamazoo,"2417 Lincoln Street",,11/20/2008
+Michigan,Kalamazoo,Kalamazoo,"6596 Picadilly",,11/20/2008
+Michigan,Kalamazoo,Kalamazoo,"1112 Colonial Trail Drive",,11/20/2008
+Michigan,Kalamazoo,Kalamazoo,"407 Phelps Street",,11/21/2008
+Michigan,Branch,Coldwater,"243 West Chicago Street 2",,11/23/2008
+Michigan,Kalamazoo,Portage,"528 Connecticut Drive",,11/25/2008
+Michigan,Cass,Marcellus,"16924 Finch Road",,11/26/2008
+Michigan,"St. Joseph",Sturgis,"427 Center Street",,11/28/2008
+Michigan,Cass,Dowagiac,"210 South Paul Street",,11/29/2008
+Michigan,"Van Buren","Paw Paw","61319 40th Street",,12/02/2008
+Michigan,Kalamazoo,Kalamazoo,"1710 East G Avenue 10",,12/03/2008
+Michigan,Kalamazoo,Portage,"5429 Meredith 2a",,12/11/2008
+Michigan,Kalamazoo,Kalamazoo,"527 West Cedar Street 3",,12/12/2008
+Michigan,Barry,Plainwell,"11321 9 Mile Road",,12/12/2008
+Michigan,"St. Joseph",Constantine,"64170 Lutz Road",,12/18/2008
+Michigan,"Van Buren",Decatur,"56630 89th Avenue Lot 34",,12/18/2008
+Michigan,Kalamazoo,Kalamazoo,"2517 Sonora",,12/19/2008
+Michigan,Branch,Bronson,"529 West Chicago Road",,12/19/2008
+Michigan,"Van Buren",Mattawan,"56289 Murray Street Lot 23",,12/19/2008
+Michigan,Branch,Coldwater,"30 Pine Tree Lane G",,12/27/2008
+Michigan,Branch,Bristol,"603 Stoney Point Drive",,12/30/2008
+Michigan,Hillsdale,Pittsford,"1500 Jerome",,04/01/2009
+Michigan,Kalamazoo,Kalamazoo,"6400 East Celery Street",,04/01/2009
+Michigan,Barry,Plainwell,"11321 9 Mile Road",,04/02/2009
+Michigan,Kalamazoo,Kalamazoo,"700 Bk Collette Street",,04/02/2009
+Michigan,Allegan,Allegan,"132nd Avenue",,04/02/2009
+Michigan,Kalamazoo,Kalamazoo,"265 North Parcorn Street",,04/03/2009
+Michigan,Allegan,Hamilton,"42nd Street",,04/03/2009
+Michigan,Kalamazoo,Kalamazoo,"1000 Schuster Street",,04/04/2009
+Michigan,Eaton,Vermontville,"10320 West Vermontville Highway",,04/04/2009
+Michigan,"St. Joseph",Sturgis,"302 Gateway Court C",,04/04/2009
+Michigan,Kalamazoo,Kalamazoo,"5059 South 9th Street",,04/05/2009
+Michigan,Allegan,Hopkins,"16th 120th",,04/06/2009
+Michigan,Allegan,Shelbyville,"7th Street",,04/07/2009
+Michigan,Allegan,Pullman,"102nd Avenue",,04/07/2009
+Michigan,Allegan,Shelbyville,"122nd Avenue",,04/07/2009
+Michigan,Kalamazoo,Vicksburg,"3300 East Block U Avenue",,04/09/2009
+Michigan,Kalamazoo,Kalamazoo,"5950 North 20th Street",,04/12/2009
+Michigan,Allegan,Martin,"1200 Block 115th Avenue",,04/13/2009
+Michigan,Kalamazoo,Portage,"2100 Block Winter Avenue",,04/14/2009
+Michigan,Kalamazoo,Schoolcraft,"11465 Circle Drive",,04/14/2009
+Michigan,Lenawee,Morenci,"15670 Wabash Road",,04/15/2009
+Michigan,Kalamazoo,Kalamazoo,"2135 Sprinkle Road",,04/15/2009
+Michigan,Kalamazoo,Kalamazoo,"1503 Stockbridge Street",,04/16/2009
+Michigan,Kalamazoo,Kalamazoo,"2515 East Cork Street Lot 14",,04/17/2009
+Michigan,Kalamazoo,Kalamazoo,"654 River Street",,04/17/2009
+Michigan,Hillsdale,Hillsdale,"4032 Pleasant Street",,04/17/2009
+Michigan,Lake,"Reed City","8934 Deerfield Circle",,04/19/2009
+Michigan,Kalamazoo,Portage,"5207 Bonte",,04/23/2009
+Michigan,Kalamazoo,,"5200 Everhard",,04/29/2009
+Michigan,Kalamazoo,Kalamazoo,"3700 Vanrick Drive 241",,05/02/2009
+Michigan,Kalamazoo,Kalamazoo,"3700 Vanrick Drive 105",,05/04/2009
+Michigan,Kalamazoo,Portage,"5431 Meredith Street 1c",,05/05/2009
+Michigan,Kalamazoo,Kalamazoo,"3800 East Cork Street",,05/05/2009
+Michigan,Kalamazoo,Kalamazoo,"6566 East Jk Avenue 1",,05/07/2009
+Michigan,"St. Joseph","Three Rivers","57000 Bullehorn Road",,05/08/2009
+Michigan,Kalamazoo,Portage,"1508 South Shore",,05/09/2009
+Michigan,Berrien,"Benton Harbor","2699 South M-139 Highway 140",,05/09/2009
+Michigan,Shiawassee,Owosso,"1200 Penbrook Drive",,05/10/2009
+Michigan,Ionia,Muir,"204 East Summit Street",,05/11/2009
+Michigan,Kalamazoo,Kalamazoo,"2615 Airview Boulevard 243/244",,05/11/2009
+Michigan,Kalamazoo,Kalamazoo,"3401 Olney Drive",,05/13/2009
+Michigan,Kalamazoo,Kalamazoo,"3531 Lowden Street",,05/13/2009
+Michigan,Branch,Bronson,"602 South Parham Road",,05/13/2009
+Michigan,Kalamazoo,Kalamazoo,"8720 Ironwood Avenue Lot 191",,05/15/2009
+Michigan,Kalamazoo,Kalamazoo,"400 The Dells",,05/15/2009
+Michigan,Cass,Cassopolis,"19124 Northrop Street",,05/15/2009
+Michigan,Kalamazoo,Kalamazoo,"923 South Burdick Street",,05/16/2009
+Michigan,Allegan,Allegan,"189 33rd Street",,05/19/2009
+Michigan,Kalamazoo,Kalamazoo,"2500 Mount Olivet Road",,05/19/2009
+Michigan,Kalamazoo,Kalamazoo,"441 West Cedar 2",,05/21/2009
+Michigan,Kalamazoo,Kalamazoo,"527  Denway Drive",,01/02/2010
+Michigan,Kalamazoo,Portage,"5442  Meredith  J",,01/04/2010
+Michigan,Kalamazoo,Galesburg,"336 East Michigan",,01/09/2010
+Michigan,"St. Joseph",Centreville,"20388  Centreville Constantine Road",,01/10/2010
+Michigan,Cass,Dowagiac,"520  Main Street",,01/11/2010
+Michigan,Newaygo,Fremont,"7038 West 48th",,01/12/2010
+Michigan,Kalamazoo,Kalamazoo,"1600 North Riverview Street",,01/13/2010
+Michigan,Kalamazoo,Portage,"3140 East Kilgore",,01/16/2010
+Michigan,"St. Joseph",Sturgis,"65425 North M-66",,01/17/2010
+Michigan,"St. Joseph","Three Rivers","316  Garden Street 4",,01/17/2010
+Michigan,Kalamazoo,Kalamazoo,"2900  Charles Avenue",,01/17/2010
+Michigan,Ingham,Lansing,"456 South Rosemary Street",,01/25/2010
+Michigan,Kalamazoo,Kalamazoo,"2595  Nazareth",,01/25/2010
+Michigan,Kalamazoo,Kalamazoo,"2515 East Cork Street 43",,01/29/2010
+Michigan,Jackson,Munith,"8533  Coon Hill Road",,01/29/2010
+Michigan,Allegan,Otsego,"113 South Fair Street",,01/30/2010
+Michigan,"Van Buren","South Haven","201  73rd Street",,02/01/2010
+Michigan,Kalamazoo,Portage,"5500bk  Sprinkle Road",,02/01/2010
+Michigan,"St. Joseph",Sturgis,"70710  Carls Road",,02/02/2010
+Michigan,Kalamazoo,Comstock,"505  Collette Avenue",,02/03/2010
+Michigan,Kalamazoo,Kalamazoo,"3611 East Kilgore Road",,02/15/2010
+Michigan,Kalamazoo,Kalamazoo,"5350 West Maiu Street",,02/15/2010
+Michigan,Kalamazoo,Kalamazoo,"5425  Michigan  210",,02/16/2010
+Michigan,Kalamazoo,Kalamazoo,"2042  Lane Boulevard",,02/18/2010
+Michigan,Kalamazoo,Schoolcraft,"11468  Bonnie Drive",,02/19/2010
+Michigan,"Van Buren","Paw Paw","29384  County Road 665",,02/19/2010
+Michigan,Cass,Cassopolis,"65668  Brick Church Road",,02/22/2010
+Michigan,Kalamazoo,Kalamazoo,"5374  Andrus Court",,02/23/2010
+Michigan,"St. Joseph",Sturgis,"401  North Street 4",,02/23/2010
+Michigan,Branch,Quincy,"1004  Annin Road",,02/27/2010
+Michigan,Berrien,Coloma,"5394  Paw Paw Lake Road",,04/01/2010
+Michigan,Kalamazoo,Kalamazoo,"5650  Parkview Avenida",,04/04/2010
+Michigan,"Van Buren",Lawton,"209  Fremont Street",,04/09/2010
+Michigan,"Van Buren",Lawton,"66522  32nd Street",,04/12/2010
+Michigan,Kalamazoo,Kalamazoo,"3002 South Burdick  3c",,04/12/2010
+Michigan,Allegan,Plainwell,"674 West Bridge Street",,04/13/2010
+Michigan,Berrien,Coloma,"5949 North Coloma Road",,04/13/2010
+Michigan,"Van Buren",Decatur,"80545  39th Street",,04/16/2010
+Michigan,Allegan,Otsego,"538 East Hammond Street",,04/16/2010
+Michigan,Allegan,Allegan,"2611  Baseline Road",,04/16/2010
+Michigan,Kalamazoo,Vicksburg,"12900 South 39th Street",,04/17/2010
+Michigan,Cass,Edwardsburg,"27532  May Street",,04/20/2010
+Michigan,Kalamazoo,Kalamazoo,"318  Chicago Avenue",,04/22/2010
+Michigan,"St. Joseph",Mendon,"52022  Tonya Drive",,04/26/2010
+Michigan,Hillsdale,Camden,"9800  Maple Road",,04/28/2010
+Michigan,Allegan,Gobles,"131  Wesler Drive",,04/29/2010
+Michigan,"St. Joseph","White Pigeon","67960  Crooked Creek Road",,04/29/2010
+Michigan,Allegan,Allegan,"1206 East Village Drive",,05/01/2010
+Michigan,Isabella,"Mount Pleasant","1007 North Kinney Street",,05/06/2010
+Michigan,Kalamazoo,Kalamazoo,"6244 East Michigan Avenue",,05/06/2010
+Michigan,Allegan,Allegan,"745  Grand Street",,05/07/2010
+Michigan,Kalamazoo,Kalamazoo,"5760  Arbutus Street",,05/07/2010
+Michigan,Kalamazoo,Kalamazoo,"527  Edwin Street",,05/08/2010
+Michigan,Kalamazoo,Kalamazoo,"5396  Milham Drive",,05/15/2010
+Michigan,"Van Buren",Mattawan,"56289  Carpenter Street",,05/18/2010
+Michigan,Isabella,"Mount Pleasant","3489 South Summerton Road",,05/18/2010
+Michigan,Kalamazoo,Portage,"1706  Bokoner Avenue",,05/18/2010
+Michigan,"Van Buren","Paw Paw","38741  Paw Paw Road",,05/19/2010
+Michigan,Kalamazoo,Kalamazoo,"719  Woodard Avenue",,05/19/2010
+Michigan,"St. Joseph",Centreville,"20126 South River Road",,05/20/2010
+Michigan,Kalamazoo,Kalamazoo,"7263  Saginaw Street",,05/21/2010
+Michigan,"Van Buren",Lawton,"66060  29th Street",,05/26/2010
+Michigan,"St. Joseph","White Pigeon","21895  Us-12",,06/03/2010
+Michigan,"Van Buren","Paw Paw","810 East St Joseph Street 1b",,06/11/2010
+Michigan,"Van Buren","Paw Paw","38830  Paw Paw Road",,06/14/2010
+Michigan,Kent,"Grand Rapids","154 Southwest National Street",,06/20/2010
+Michigan,Kent,"Grand Rapids","1516 Northwest Alpine Street",,06/20/2010
+Michigan,Barry,Wayland,"129924  Rison Drive",,06/23/2010
+Michigan,Kalamazoo,Vicksburg,"152 North Main Street 4",,06/23/2010
+Michigan,Hillsdale,Reading,"120  Enterprise Drive",,06/25/2010
+Michigan,"Van Buren",Gobles,"16308  27th Street",,06/26/2010
+Michigan,Barry,Delton,"6642  Wrever Lane",,07/06/2010
+Michigan,Ionia,Saranac,"8335  Centerline Road",,07/06/2010
+Michigan,Barry,Delton,"11922  Cobb Road",,07/06/2010
+Michigan,Kalamazoo,Galesburg,"336 East Michigan Avenue 4",,07/11/2010
+Michigan,Allegan,Allegan,"3735  Advent Lake Road",,07/12/2010
+Michigan,"St. Joseph","Three Rivers","18278  Hamilton Drive",,07/14/2010
+Michigan,Cheboygan,Wolverine,"5844  Maple Street",,07/16/2010
+Michigan,Berrien,"Benton Harbor","4739  North Street",,07/21/2010
+Michigan,Berrien,Niles,"902  Oak Street",,07/21/2010
+Michigan,Montcalm,Stanton,"323 East Klees Road",,07/26/2010
+Michigan,Allegan,Hopkins,"3681  28th Street",,07/29/2010
+Michigan,Ingham,Lansing,"1622  Cavanaugh",,08/02/2010
+Michigan,Eaton,Mulliken,"190  A & B Charlotte  A",,08/03/2010
+Michigan,Kalamazoo,Kalamazoo,"5934  Francis Street",,08/06/2010
+Michigan,"Van Buren",Bloomingdale,"20331  41 Street",,08/14/2010
+Michigan,Allegan,Allegan,"1835  Lincoln Road",,08/24/2010
+Michigan,Branch,Colon,"938  Heights Drive",,08/24/2010
+Michigan,"Van Buren",Hartford,"118  Michigan",,08/25/2010
+Michigan,Allegan,Otsego,"1362 East M89  Lot 103",,08/25/2010
+Michigan,Kalamazoo,Kalamazoo,"611  Collins Street",,08/27/2010
+Michigan,Branch,Bronson,"438 North Walker Street",,08/30/2010
+Michigan,"St. Joseph",Constantine,"13029  Riverside Drive",,09/01/2010
+Michigan,Kalamazoo,Kalamazoo,"325  Darling Street",,09/08/2010
+Michigan,Kalamazoo,Kalamazoo,"3105  Carleton Street",,09/09/2010
+Michigan,Cass,Niles,"29112  Follmer Street",,09/11/2010
+Michigan,Emmet,"Battle Creek","135  Watts",,09/14/2010
+Michigan,Barry,Delton,"7757  Guernsey Lake Road",,09/14/2010
+Michigan,Kalamazoo,Kalamazoo,"1207  Hays Park Avenue",,09/15/2010
+Michigan,"St. Joseph","White Pigeon","306 South Elkhart Street",,09/17/2010
+Michigan,Genesee,Flint,"1549 East Atherton Street",,09/18/2010
+Michigan,"St. Joseph","Three Rivers","810  8th Street",,09/21/2010
+Michigan,"St. Clair","Three Rivers","60061  Shaffer Brothers Road",,11/11/2010
+Michigan,Berrien,"Eau Claire","6220  Apple Street",,11/21/2010
+Michigan,Saginaw,"Birch Run","12119  Rottiers Street",,11/25/2010
+Michigan,Allegan,Allegan,"400 North Main Street",,11/26/2010
+Michigan,"St. Joseph","Burr Oak","6470  Sycamore Drive",,12/09/2010
+Michigan,Genesee,"Richfield Center","4390 North Irish  549",,12/10/2010
+Michigan,Berrien,"Eau Claire","5534  Parkway Drive",,12/12/2010
+Michigan,Branch,Tekonsha,"494  Herricksvill E",,12/13/2010
+Michigan,Clinton,Eagle,"12655 West Grand River",,12/14/2010
+Michigan,Eaton,Charlotte,"3338  Carlisle Highway",,12/23/2010
+Michigan,Berrien,"Eau Claire","5582  Tousley Drive",,01/03/2011
+Michigan,Kalamazoo,Richland,"9604 East M-89  Lot 15",,01/05/2011
+Michigan,Kalamazoo,Kalamazoo,"4050  Underwood Court",,01/06/2011
+Michigan,Kalamazoo,Kalamazoo,"1200  Trimble Street",,01/10/2011
+Michigan,Newaygo,"Kent City","2021 East 22 Mile Road",,01/10/2011
+Michigan,Barry,Hastings,"3846 South M-43 Highway",,01/13/2011
+Michigan,Kalamazoo,Kalamazoo,"1318  Humphrey Street",,01/13/2011
+Michigan,Kalamazoo,Kalamazoo,"1526  Upland Street",,01/13/2011
+Michigan,"St. Joseph","Three Rivers","416  River Street",,01/14/2011
+Michigan,"St. Joseph",Sturgis,"209 North Maple Street",,01/19/2011
+Michigan,Ionia,Lyons,"8270  Goodwin Road",,01/19/2011
+Michigan,Allegan,Allegan,"2346  33rd Street",,01/20/2011
+Michigan,Branch,"Union City","213  Creek Road",,01/25/2011
+Michigan,Kalamazoo,Portage,"11247  Portage Road 22",,02/03/2011
+Michigan,Calhoun,Springfield,"463 North 25th Street",,02/06/2011
+Michigan,Branch,Bronson,"216  Bucahanon Street",,02/07/2011
+Michigan,Eaton,Springport,"2705 East Butterfield",,02/08/2011
+Michigan,Kalamazoo,Portage,"4855 East Milham Avenue B",,02/12/2011
+Michigan,"St. Joseph",Constantine,"66265  Lutz Road",,02/20/2011
+Michigan,"Van Buren",Hartford,"69691  Red Arrow Highway",,03/04/2011
+Michigan,Allegan,Wayland,"3539  7th Street",,03/07/2011
+Michigan,"St. Joseph",Leonidas,"54754  Olney Road",,03/11/2011
+Michigan,"Van Buren",Watervliet,"69478  66th Avenue",,03/19/2011
+Michigan,Genesee,Burton,"4155  Fenton Road 24",,04/07/2011
+Michigan,Kalamazoo,Kalamazoo,"750  Liberty Street B2",,05/09/2011
+Michigan,Kalamazoo,Kalamazoo,"6166  Kingsville Drive",,05/12/2011
+Michigan,Barry,Nashville,"107 North Main Street",,05/13/2011
+Michigan,Gratiot,"Saint Louis","2242  Mcgregor Road",,05/17/2011
+Michigan,"Van Buren",Mattawan,"22327  Woodhenge Drive",,05/20/2011
+Michigan,"Van Buren","Paw Paw","1012 South Lagrave Street Lot# 28",,05/25/2011
+Michigan,Kalamazoo,Kalamazoo,"1334 North Park Street",,06/07/2011
+Michigan,Midland,Midland,"5898 North Sturgeon Road",,06/11/2011
+Michigan,Berrien,Coloma,"7180  Aries Lane",,06/15/2011
+Michigan,Kent,"Grand Rapids","1354 Northeast Hollywood Street",,07/04/2011
+Michigan,Allegan,Gobles,"3053  Baseline Road",,07/22/2011
+Michigan,"St. Clair","Port Huron","2425  Randolph Street",,07/22/2011
+Michigan,Kalamazoo,Kalamazoo,"1117  Reed Street",,07/31/2011
+Michigan,Kalamazoo,Kalamazoo,"549  Fenimore",,08/06/2011
+Michigan,Genesee,Flint,"3030 East Hemphill  209",,08/07/2011
+Michigan,"Van Buren",Bloomingdale,"38039  20th Avenue",,08/10/2011
+Michigan,Barry,Plainwell,"12372  Sunset Circle",,08/14/2011
+Michigan,Kalamazoo,Kalamazoo,"1829  Charles Street",,08/15/2011
+Michigan,Kalamazoo,Kalamazoo,"2177 East Y Avenue",,08/18/2011
+Michigan,"Van Buren",Hartford,"55214  Country Road 687",,08/19/2011
+Michigan,"Van Buren",Lawrence,"599  Paw Paw Street 2c",,08/24/2011
+Michigan,Gladwin,Beaverton,"110 West Knox Street 403",,08/25/2011
+Michigan,Kalamazoo,Kalamazoo,"9704  Big Rock Drive",,08/29/2011
+Michigan,Eaton,Lansing,"521  Chanticleer Circle",,08/30/2011
+Michigan,Kalamazoo,Kalamazoo,"734 East Vw Avenue C2",,08/30/2011
+Michigan,"St. Joseph","Three Rivers","301  East Street",,09/05/2011
+Michigan,Kalamazoo,Portage,"8605  Newells Lane",,09/06/2011
+Michigan,"Van Buren",Lawton,"23715  County 374 Road 10",,09/14/2011
+Michigan,Gladwin,Gladwin,"5276  Rose Lane",,09/14/2011
+Michigan,Kalamazoo,Kalamazoo,"2206  Bender",,09/21/2011
+Michigan,Kalamazoo,Kalamazoo,"4000  Valley Drive",,09/23/2011
+Michigan,Kalamazoo,Kalamazoo,"750  Pleasant Avenida 106",,09/24/2011
+Michigan,Ionia,Ionia,"2717 North State Street",,10/05/2011
+Michigan,Allegan,Pullman,"551  56th Street",,10/09/2011
+Michigan,"St. Joseph","Three Rivers","200 South Constatine",,10/18/2011
+Michigan,Berrien,Coloma,"7142  Aries Lane",,10/19/2011
+Michigan,Lenawee,Jasper,"1050  Packard Road",,10/21/2011
+Michigan,Lenawee,Adrian,"620 North Winter Street",,10/21/2011
+Michigan,"Van Buren",Hartford,"109  Franklin Street",,10/25/2011
+Michigan,Kent,Kentwood,"4822  Arbor Lane",,11/02/2011
+Michigan,Gratiot,"Saint Louis","1312 West Madison Road",,11/07/2011
+Michigan,Barry,Delton,"6425  Keller Road",,11/09/2011
+Michigan,Lenawee,Palmyra,"4163  Robb Highway",,11/09/2011
+Michigan,Eaton,Charlotte,"421  Merritt Street G",,11/12/2011
+Michigan,Clare,Clare,"128 East 4th Street",,11/12/2011
+Michigan,Kalamazoo,Kalamazoo,"1023  Lay Boulevard",,11/17/2011
+Michigan,Lenawee,Jasper,"1050  Packard Road",,12/01/2011
+Michigan,"Van Buren",Decatur,"37555  82nd Avenue",,12/02/2011
+Michigan,Barry,Hastings,"420 East Madison Street",,12/02/2011
+Michigan,Berrien,Niles,"904  Sycamore Street",,12/02/2011
+Michigan,Ionia,Portland,"2201/2  Clark Street",,12/08/2011
+Michigan,Kalamazoo,Kalamazoo,"2128  Portage Street",,12/10/2011
+Michigan,Gratiot,"Saint Louis","210 South Lincoln Street",,12/10/2011
+Michigan,Branch,Sherwood,"862  Van Warmer Road",,12/13/2011
+Michigan,Kalamazoo,Kalamazoo,"1014  Hazard Avenue 2",,12/14/2011
+Michigan,"Van Buren","Paw Paw","41474  56th Avenue",,12/14/2011
+Michigan,Kalamazoo,Kalamazoo,"8895  Briarwood Avenue Lot: 12",,12/16/2011
+Michigan,Kalamazoo,Kalamazoo,"231  Foresman",,12/18/2011
+Michigan,Kalamazoo,Kalamazoo,"6090  Imperial Street 8",,12/21/2011
+Michigan,Berrien,Buchanan,"1005  Victory Street",,01/01/2012
+Michigan,Allegan,Otsego,"304 East Hammond Street #2",,01/04/2012
+Michigan,"Van Buren","Paw Paw","31235  62nd Avenue",,01/05/2012
+Michigan,Gratiot,"Saint Louis","303  Devon Drive",,01/06/2012
+Michigan,Allegan,Allegan,"103  Grant Street",,01/10/2012
+Michigan,"Van Buren","Paw Paw","42238  35th Street",,01/12/2012
+Michigan,Genesee,Flint,"338  Allendale Place",,01/12/2012
+Michigan,"Van Buren",Decatur,"410  Paw Paw Street",,01/16/2012
+Michigan,Allegan,Otsego,"982  16th Street",,01/18/2012
+Michigan,Genesee,Flint,"2701  Branch Street 118",,01/24/2012
+Michigan,"St. Clair","Port Huron","1013  10th Street Apt 2",,02/01/2012
+Michigan,Macomb,Warren,"24503  Tallman",,02/01/2012
+Michigan,Ingham,Lansing,"2011  Clifton Avenue",,02/02/2012
+Michigan,Ingham,Lansing,"815  Edison Avenue",,02/02/2012
+Michigan,Branch,Coldwater,"204  Henry Street",,02/03/2012
+Michigan,Ionia,Fenwick,"956  Woods Road",,02/07/2012
+Michigan,Kent,Wyoming,"4385 Southwest Idlewood",,02/13/2012
+Michigan,Branch,Coldwater,"134 West Colon Road B",,02/18/2012
+Michigan,"St. Joseph","Three Rivers","13708  Hoffman Road",,02/18/2012
+Michigan,"Van Buren",Hartford,"127  Michigan Avenue",,02/19/2012
+Michigan,Kalamazoo,Kalamazoo,"316 West Vine  1",,02/19/2012
+Michigan,Ionia,Orleans,"475  Long Lake Road",,02/21/2012
+Michigan,Eaton,Charlotte,"4208 South Stine Road",,02/23/2012
+Michigan,Ingham,Leslie,"714  Mill Street Unit 24",,02/24/2012
+Michigan,Mecosta,Paris,"23759  Northland Drive",,06/05/2012
+Michigan,"Van Buren",Hartford,"84267  Country 687 Road",,06/11/2012
+Michigan,Allegan,Otsego,"2004  112th Street",,06/13/2012
+Michigan,"Van Buren",Hartford,"59642  60th Street",,06/13/2012
+Michigan,Branch,Coldwater,"156 West Clarke Avenue",,06/18/2012
+Michigan,Isabella,Shepherd,"1409  South County Lane",,06/20/2012
+Michigan,Kalamazoo,Kalamazoo,"501  Fenimore Avenue",,07/02/2012
+Michigan,Allegan,Dorr,"3940  24th Street",,07/03/2012
+Michigan,Kalamazoo,Kalamazoo,"1706  Bloomfield",,07/08/2012
+Michigan,"Van Buren",Lawrence,"51241  72nd Avenue",,07/09/2012
+Michigan,Eaton,Lansing,"7077  Williams Road",,07/11/2012
+Michigan,Midland,Coleman,"4384  Lewis Road",,07/16/2012
+Michigan,Ingham,Lansing,"721  Leslie Street",,07/17/2012
+Michigan,Macomb,Shelby,"8415  Timberline Drive",,07/19/2012
+Michigan,Calhoun,Springfield,"221  Kirkwood Avenue",,07/22/2012
+Michigan,Clinton,"Saint Johns","609  Morton Street Lot16",,07/23/2012
+Michigan,Berrien,"Saint Joseph","819  Highland Avenue",,07/24/2012
+Michigan,Berrien,Niles,"1101.5  Cedar Street",,07/25/2012
+Michigan,Lenawee,Addison,"219 South Jackson Street",,08/02/2012
+Michigan,"Van Buren",Bangor,"52911  38th Avenue",,08/03/2012
+Michigan,Lenawee,Adrian,"1004 North Broad Street",,08/06/2012
+Michigan,"Van Buren",Hartford,"64533  Territorial Road",,08/09/2012
+Michigan,Ingham,Lansing,"411 North Francis Street",,08/09/2012
+Michigan,Kent,"Comstock Park","8377  Water Edge Drive",,08/12/2012
+Michigan,Gratiot,"Saint Louis","302 South Delaware Street C",,08/14/2012
+Michigan,Berrien,"Benton Harbor","2390 East Euclid Avenue",,08/15/2012
+Michigan,Kalamazoo,Kalamazoo,"4014 North Deadwood",,08/17/2012
+Michigan,Kalamazoo,Richland,"5796 East Db Avenue",,08/20/2012
+Michigan,"Van Buren",Hartford,"302  Spaulding Street",,08/22/2012
+Michigan,"Van Buren",Hartford,"59810  65th Street",,08/22/2012
+Michigan,Berrien,"Benton Harbor","2026  Hatch Street",,08/24/2012
+Michigan,Barry,Hastings,"1607 East Dowling Road",,08/26/2012
+Michigan,Berrien,"Benton Harbor","573  Midway  2",,08/27/2012
+Michigan,Allegan,Fennville,"2198  Bluestar Highway 1",,09/06/2012
+Michigan,Clare,Harrison,"1970  Jill-janet Road",,09/11/2012
+Michigan,"Van Buren","Paw Paw","38674  Paw Paw Road",,10/03/2012
+Michigan,Muskegon,Dalton,"5842  Danc Drive",,10/04/2012
+Michigan,Allegan,Otsego,"347  Lincoln Street",,10/04/2012
+Michigan,"Van Buren",Bloomingdale,"37373  County Road 390",,10/16/2012
+Michigan,Ingham,Leslie,"3540  Bellevue Road",,10/16/2012
+Michigan,"Van Buren",Covert,"46696  72nd Street",,10/17/2012
+Michigan,Kent,"Grand Rapids","105 Northwest Broadway Avenue",,10/19/2012
+Michigan,Ionia,Ionia,"726  Robertson Court",,10/22/2012
+Michigan,"St. Joseph",Sturgis,"207 North Prospect  1",,10/23/2012
+Michigan,"St. Clair","Port Huron","2705  Robbins Court",,10/24/2012
+Michigan,Ingham,Onondaga,"4775  Baldwin Street",,10/25/2012
+Michigan,Berrien,Coloma,"6275  Central Avenue 3",,10/25/2012
+Michigan,Clinton,Ovid,"1505 North St. Clair Road",,10/26/2012
+Michigan,Allegan,Allegan,"4353  118th Avenue",,11/02/2012
+Michigan,Eaton,Charlotte,"228  Van Lieu Street",,11/12/2012
+Michigan,"St. Clair","Port Huron","2909  Peavey Street",,12/06/2012
+Michigan,Newaygo,Bitely,"11696 North Bingham Avenue",,12/13/2012
+Michigan,Allegan,Allegan,"540  36th Street",,12/13/2012
+Michigan,"Van Buren","Paw Paw","3864  Paw Paw Road",,01/03/2013
+Michigan,Ottawa,Holland,"791 East 16th Street C52",,01/06/2013
+Michigan,Ottawa,Holland,"92 East 21st Street Lower",,01/06/2013
+Michigan,"Van Buren",Gobles,"13446  32nd Street",,01/10/2013
+Michigan,"Van Buren",Mattawan,"63908  Country 652 Road",,01/17/2013
+Michigan,Emmet,Petoskey,"1317  Crestview Street Apt 30",,02/03/2013
+Michigan,"St. Joseph","Three Rivers","58479  County Line Rd",,03/29/2013
+Michigan,"St. Joseph",Centreville,"327 North Dean Street 5",,04/03/2013
+Michigan,Cheboygan,Cheboygan,"1127  Mackinaw Avenue",,04/04/2013
+Michigan,Barry,Hastings,"1966  Yeckley Road",,04/07/2013
+Michigan,Genesee,Flint,"5130 East Boulevard Road",,04/16/2013
+Michigan,Ottawa,Holland,"11877  Waverly Meadow Apt 80",,04/16/2013
+Michigan,Genesee,Flint,"1369 West Princeton Avenida",,04/23/2013
+Michigan,Jackson,Jackson,"605  Homewild Street",,04/25/2013
+Michigan,Allegan,Wayland,"3607  Garden Street",,05/02/2013
+Michigan,Ingham,Lansing,"510  Woodrow",,05/06/2013
+Michigan,Wexford,Manton,"307  West Street",,05/06/2013
+Michigan,Ottawa,Holland,"232 East 13th Street Upper",,05/06/2013
+Michigan,Clare,Lake,"11140  Debbie Dee Road",,05/07/2013
+Michigan,Ottawa,Holland,"358  Maple Ave Street 7",,05/07/2013
+Michigan,Gogebic,Ironwood,"228 West Ayer Street 1",,05/08/2013
+Michigan,Gogebic,Ironwood,"229 South Mansfield Street Upper",,05/09/2013
+Michigan,Ionia,Lyons,"140 North Higbee Street",,05/10/2013
+Michigan,Kalamazoo,Kalamazoo,"4319  Duke Street B8",,05/10/2013
+Michigan,Jackson,"Grass Lake","9955  Glenn Road",,05/11/2013
+Michigan,Ingham,Stockbridge,"3074  Obrien Road",,05/12/2013
+Michigan,Ionia,"Lake Odessa","14034  Maier Drive",,05/14/2013
+Michigan,Kalamazoo,Kalamazoo,"2854  Mount Olivet Road",,05/14/2013
+Michigan,Allegan,Allegan,"950  37th Street",,05/15/2013
+Michigan,Menominee,Wilson,"W406  Casino",,05/20/2013
+Michigan,Allegan,Holland,"863  Lincoln Street 7",,05/23/2013
+Michigan,"St. Clair",Kimball,"5279  Griswold Road",,06/04/2013
+Michigan,Ingham,Lansing,"202  Bell Street",,06/04/2013
+Michigan,"St. Clair",Kalamazoo,"5279  Griswold",,06/04/2013
+Michigan,Allegan,Allegan,"1248  Wells Road",,06/05/2013
+Michigan,Barry,Hastings,"317 East State Street",,06/13/2013
+Michigan,Allegan,Allegan,"2323  28th Street",,06/16/2013
+Michigan,Shiawassee,Ovid,"1274  Leland Road",,06/18/2013
+Michigan,Kalamazoo,Portage,"5528  Deerfield",,06/19/2013
+Michigan,"Van Buren","South Gull Lake","73100  County Road 388  80",,06/21/2013
+Michigan,Barry,Hastings,"602 East Green Street",,06/21/2013
+Michigan,"St. Joseph",Sturgis,"1025  Cato Lane A-1",,06/23/2013
+Michigan,Shiawassee,Owosso,"6110  Mcbride Road",,07/01/2013
+Michigan,Barry,Hastings,"55  Sundago Park",,07/03/2013
+Michigan,Barry,Nashville,"409  Lentz Street",,07/06/2013
+Michigan,"St. Clair","Port Huron","3635  West Water Street",,07/09/2013
+Michigan,Midland,Midland,"610 Village Circle D",,07/10/2013
+Michigan,Isabella,"Mount Pleasant","402 North Arnold Street",,07/10/2013
+Michigan,"St. Clair","Port Huron","1116  Varney Street",,07/13/2013
+Michigan,Ottawa,Holland,"11788  Waverly Meadow",,07/17/2013
+Michigan,Muskegon,"Norton Shores","3120  Sheffield",,07/23/2013
+Michigan,Ingham,Lansing,"1224  Clark Street",,07/28/2013
+Michigan,Kalkaska,"South Boardman","322  Whaley Street",,07/29/2013
+Michigan,Genesee,Flint,"2477  Haetherly Avenue",,08/01/2013
+Michigan,Gratiot,Alma,"2421 North Ely Highway",,08/01/2013
+Michigan,Kalamazoo,Kalamazoo,"1000 West D Avenue",,08/13/2013
+Michigan,"St Clair","Port Huron Twp","4253  Lapeer Road 19",,08/13/2013
+Michigan,Barry,Hastings,"210 North Park Street",,08/17/2013
+Michigan,"St. Clair","Port Huron","1037  Minnie Street",,08/21/2013
+Michigan,"Van Buren",Lawton,"305 East Main Street",,09/02/2013
+Michigan,Gratiot,Lansing,"4313 West Birmingham Road",,09/04/2013
+Michigan,Calhoun,"Battle Creek","135  Kelwood",,09/08/2013
+Michigan,"St Clair","Port Huron Twp","1039  Oak Street",,09/09/2013
+Michigan,Jackson,Kaleva,"6570  Kinch Road",,09/10/2013
+Michigan,Midland,"Port Huron","3241  Alamando Road",,09/18/2013
+Michigan,"St Clair",Gobles,"4045  Laper  2",,09/23/2013
+Michigan,Barry,Nashville,"844  Sherman",,09/27/2013
+Michigan,Manistee,Wellston,"4186  Mary Street",,10/01/2013
+Michigan,Branch,Coldwater,"531  Rocky Ridge Drive",,10/05/2013
+Michigan,"St Joseph",Sturgis,"701  St.joseph Street",,10/08/2013
+Michigan,Cass,Marcellus,"19175  Church Street",,10/16/2013
+Michigan,Ingham,Leslie,"4202  Meridian",,11/03/2013
+Michigan,Jackson,Jackson,"401 East High Street",,11/04/2013
+Michigan,Newaygo,"White Cloud","6475 East 13th Street",,11/05/2013
+Michigan,Jackson,Jackson,"521 West Ganson Street",,11/07/2013
+Michigan,"Van Buren",Hartford,"40  Marion Avenue",,11/08/2013
+Michigan,Allegan,Allegan,"2179  Nelson Lane",,11/10/2013
+Michigan,"Van Buren",Bangor,"62769  Walnut Street",,11/13/2013
+Michigan,Mecosta,"Big Rapids","13401  215th Avenue",,11/13/2013
+Michigan,Mecosta,Remus,"204 South Sheridan Street",,11/19/2013
+Michigan,Barry,Hastings,"317 East Bond Street",,11/20/2013
+Michigan,Kent,"Grand Rapids","286 Southwest Sword Street",,11/21/2013
+Michigan,Ingham,"Eaton Rapids","5810  Kinneville",,11/22/2013
+Michigan,Lenawee,Hudson,"207  Grove Street 4",,12/04/2013
+Michigan,Cass,Vandalia,"16819  Williamsville Street",,12/05/2013
+Michigan,Cass,Dowagiac,"206  Third Avenue",,12/06/2013
+Michigan,Benzie,Benzonia,"4  Seasons Road",,12/12/2013
+Michigan,Allegan,Allegan,"4009  112th Avenue",,12/14/2013
+Michigan,Isabella,"Mount Pleasant","740 North Leaton Road",,12/22/2013
+Michigan,Shiawassee,Owosso,"915  Fletcher Street",,01/03/2014
+Michigan,Alger,Munising,"801  Prospect Street 4",,01/05/2014
+Michigan,Marquette,Marquette,"427  Rock Street 4",,01/05/2014
+Michigan,Chippewa,"Sault Ste Marie","2309  Andary Avenida",,01/09/2014
+Michigan,Cass,"White Pigeon","76063 South River Road",,01/12/2014
+Michigan,Ottawa,Allendale,"10069  Laker Lane",,01/15/2014
+Michigan,Barry,Plainwell,"11604  Peach Tree Street",,01/18/2014
+Michigan,Montcalm,Greenville,"8869  Eastern Avenue",,01/19/2014
+Michigan,Ottawa,Zeeland,"40 North Elm Street",,01/29/2014
+Michigan,Kalamazoo,Galesburg,"161  Gale Street",,02/01/2014
+Michigan,Kalamazoo,Portage,"4212  Winthrop",,02/03/2014
+Michigan,Osceola,Tustin,"16201  21 Mile Road",,02/04/2014
+Michigan,Wexford,Cadillac,"6344 South 27 Road",,02/05/2014
+Michigan,Muskegon,Muskegon,"1826  Ray",,02/07/2014
+Michigan,Kalamazoo,Portage,"1025  Shumway Avenue",,02/07/2014
+Michigan,Kalamazoo,Richland,"11926 East D Avenue",,02/07/2014
+Michigan,Alger,Munising,"721 West Superior Street",,02/07/2014
+Michigan,Kalamazoo,Kalamazoo,"2825  Maple Avenue",,02/10/2014
+Michigan,Calhoun,Springfield,"1145  Harmonia Road Lot#30",,02/10/2014
+Michigan,Kalamazoo,Kalamazoo,"1109  Willis Avenue",,02/10/2014
+Michigan,Marquette,Ishpeming,"429  High Street",,02/12/2014
+Michigan,Alpena,Alpena,"201 South 12th Avenue 1",,02/13/2014
+Michigan,Marquette,Gwinn,"214  Titan Street",,02/18/2014
+Michigan,Shiawassee,Owosso,"425  Hamblin Street",,02/25/2014
+Michigan,Allegan,Allegan,"2933  108th Avenue",,03/02/2014
+Michigan,Allegan,Holland,"287 West 40th Street B 212",,03/03/2014
+Michigan,"Van Buren",Lawrence,"50663  Red Arrow Highway Apt 1",,03/05/2014
+Michigan,"St Clair","Port Huron","1014  Cedar Street",,03/05/2014
+Michigan,Kalamazoo,Kalamazoo,"3925 South Burdick",,03/06/2014
+Michigan,Cass,Edwardsburg,"26967  Us 12",,03/06/2014
+Michigan,Allegan,Allegan,"4117  Monroe Road",,03/07/2014
+Michigan,Allegan,Pullman,"963  52 Street",,03/08/2014
+Michigan,Jackson,Jackson,"316 East Euclid Street",,03/11/2014
+Michigan,Allegan,Otsego,"1362  M-89 Highway 112",,03/12/2014
+Michigan,Oscoda,Mio,"440 South Gerber Road",,03/14/2014
+Michigan,Kalamazoo,Kalamazoo,"618  33rd Street",,03/14/2014
+Michigan,Hillsdale,Litchfield,"6930  Mclain Road",,03/16/2014
+Michigan,Midland,Coleman,"4045 North Geneva Road",,03/17/2014
+Michigan,Clinton,"Saint Johns","410  Wight Street 3",,03/18/2014
+Michigan,Ionia,Ionia,"5710  Stage Road",,03/19/2014
+Michigan,"Van Buren","Paw Paw","517  Elm",,03/19/2014
+Michigan,Calhoun,"Union City","536  10 1/2 Mile Road",,03/21/2014
+Michigan,Kalamazoo,Kalamazoo,"6659  Carlisle Street",,03/22/2014
+Michigan,"Grand Traverse","Traverse City","804 South Union Street",,03/25/2014
+Michigan,"St Clair","Kenockee Twp","9539  Beard Road",,03/27/2014
+Michigan,Ottawa,Holland,"56 West 16th Street",,04/03/2014
+Michigan,Ionia,Ionia,"215  Rish Street  Box 2",,04/24/2014
+Michigan,Eaton,Lansing,"1111  Elmwood Road  Box 3047",,04/24/2014
+Michigan,Montcalm,Coral,"15801  Lincoln Street",,04/24/2014
+Michigan,Montcalm,Greenville,"4757  Greenville Road  Box C",,04/29/2014
+Michigan,Wexford,Cadillac,"214  Howard Street",,05/08/2014
+Michigan,Kalamazoo,Kalamazoo,"5557  Coddington Lane  Box 1a",,05/30/2014
+Michigan,Eaton,Charlotte,"221 West Henry Street",,06/07/2014
+Michigan,"St Clair","Port Huron","1039  Oak Street  Box Upper",,06/11/2014
+Michigan,Allegan,Allegan,"500  Streeter Avenue  Box 26",,06/24/2014
+Michigan,Jackson,Jackson,"301  Steward Avenida  Box I16",,06/25/2014
+Michigan,Jackson,Jackson,"1028  Maple Avenue  Box 2",,07/07/2014
+Michigan,"St. Joseph","Three Rivers","334 West Main Street",,07/08/2014
+Michigan,Barry,"Hickory Corners","14565  Kellogg School Road",,07/18/2014
+Michigan,Kalamazoo,Galesburg,"626 North 35th Street  Box 2a",,07/29/2014
+Michigan,"St. Joseph","Three Rivers","57901  Patterson Lane",,08/05/2014
+Michigan,Hillsdale,Hillsdale,"32 East Carleton Road  Box 513",,09/07/2014
+Michigan,Dickinson,"Iron Mountain","501  Pewabic Street",,10/02/2014
+Michigan,"St Clair","Port Huron","1417  Bancroft Street",,10/03/2014
+Michigan,Kalamazoo,Kalamazoo,"2215  Washington Avenue",,10/03/2014
+Michigan,Kalamazoo,Kalamazoo,"5672 East Michiagan Avenue",,10/05/2014
+Michigan,"Van Buren","Grand Junction","02837  48 1/2 Street",,10/05/2014
+Michigan,Kalamazoo,Portage,"1411 West Centre",,10/05/2014
+Michigan,"Van Buren",Hartford,"62064  66th Avenue",,10/06/2014
+Michigan,Branch,Bronson,"1163  Hollow Road",,10/07/2014
+Michigan,Marquette,Ishpeming,"213  Oak Street",,10/16/2014
+Michigan,Branch,"Union City","437  Chad Lane",,10/16/2014
+Michigan,Marquette,Ishpeming,"260  Marble Street",,10/16/2014
+Michigan,Gratiot,Ithaca,"221  South Street",,10/18/2014
+Michigan,Roscommon,Prudenville,"121  16th Street",,10/20/2014
+Michigan,Roscommon,Prudenville,"105  Albonquian",,10/21/2014
+Michigan,"Van Buren",Lawton,"31235  62nd Avenue",,10/21/2014
+Michigan,Jackson,Jackson,"533  Tumbridge Road",,10/21/2014
+Michigan,"Van Buren","Paw Paw","36715  County Rd 653",,10/21/2014
+Michigan,Dickinson,"Iron Mountain","703 West Brown Street",,10/25/2014
+Michigan,Genesee,Flint,"3249  Dakota Avenue",,10/26/2014
+Michigan,Marquette,Ishpeming,"213 East Euclid Street  Box Upper",,10/29/2014
+Michigan,Genesee,Flint,"1577  Coachlight Court",,12/01/2014
+Michigan,"St. Clair","Port Huron","1311  10th Avenue",,12/02/2014
+Michigan,Oakland,"Hazel Park","1482 East Elza Avenue",,12/03/2014
+Michigan,Cass,Vandalia,"16340  Dutch Settlement Street",,12/03/2014
+Michigan,Bay,"Bay City","4059  Daybrook Drive",,12/04/2014
+Michigan,"St. Clair","Port Huron","828  Union Street  Box 1",,12/06/2014
+Michigan,"St. Clair",Goodells,"8418  Sparling Road",,12/06/2014
+Michigan,Barry,Shelbyville,"4268 West Joy Road",,12/08/2014
+Michigan,Kalamazoo,Kalamazoo,"6549  Peyton Place",,12/09/2014
+Michigan,Barry,Delton,"4067 South Shore Drive",,12/12/2014
+Michigan,Marquette,Marquette,"777  Pioneer Road  Box 190",,12/13/2014
+Michigan,Barry,Hastings,"403 South Jefferson Street",,12/15/2014
+Michigan,Kalamazoo,Kalamazoo,"5097  Mt. Olivet Avenue",,12/15/2014
+Michigan,Muskegon,Muskegon,"1239  Fleming",,12/17/2014
+Michigan,Kalamazoo,Galesburg,"13362 East L Avenue",,12/17/2014
+Michigan,Ionia,Lyons,"5793 East Riverside Drive",,12/18/2014
+Michigan,Manistee,Manistee,"711  Ramsdell Street",,12/19/2014
+Michigan,Allegan,Plainwell,"14895 South Doster Road",,12/21/2014
+Michigan,Marquette,Ishpeming,"655  Maurice Street  Box 2",,12/21/2014
+Michigan,Calhoun,"Battle Creek","100  Foster Avenue",,12/21/2014
+Michigan,Allegan,Fennville,"2346  54th Street",,12/23/2014
+Michigan,Jackson,Jackson,"212  Birdsell Street",,12/27/2014
+Michigan,Jackson,Jackson,"5613  Larch Drive",,12/28/2014
+Michigan,Hillsdale,Jonesville,"211  Liberty Street",,01/02/2015
+Michigan,Eaton,Dimondale,"8745  Justonian Way",,01/05/2015
+Michigan,Kalamazoo,Kalamazoo,"916 E Stockbridge Avenue",,01/06/2015
+Michigan,Branch,Coldwater,"330 S Michigan Avenue",,01/08/2015
+Michigan,Oceana,Hesperia,"7990  White Road",,01/09/2015
+Michigan,Eaton,"Eaton Rapids","8023  Spicerville Highway",,01/10/2015
+Michigan,"St. Clair","Port Huron","1122  Howard Street Box 1",,01/14/2015
+Michigan,Wexford,Cadillac,"318 E Nelson Street Box 2",,01/15/2015
+Michigan,Delta,Escanaba,"309 S 9th Street Box 3",,02/01/2015
+Michigan,Hillsdale,Osseo,"12800  Bird Lake Road",,02/01/2015
+Michigan,Newaygo,"White Cloud","1388  E. Wilcox Avenue",,02/05/2015
+Michigan,Calhoun,"Battle Creek","319  Newtown Avenue",,02/05/2015
+Michigan,Cass,Dowagiac,"52698  Lindberg Drive",,02/05/2015
+Michigan,Kalamazoo,Portage,"1727  Pleasant Drive",,02/05/2015
+Michigan,Muskegon,"North Muskegon","243  Ruddiman Road",,02/07/2015
+Michigan,"St. Clair","Port Huron","2726  Sturges Street",,02/09/2015
+Michigan,Kent,"Grand Rapids","626 Se Cass Avenue",,02/11/2015
+Michigan,Kent,Kentwood,"3694 Se Breton Road",,02/17/2015
+Michigan,Allegan,Hamilton,"4728  Rabbit River Drive Box 3",,02/18/2015
+Michigan,Kalamazoo,Kalamazoo,"13362 E L Avenue",,02/19/2015
+Michigan,Clinton,"Saint Johns","605  State Street",,02/24/2015
+Michigan,Berrien,Buchanan,"105  Fulton",,03/01/2015
+Michigan,"St. Clair","Port Huron","1233  Wall Street Box 3",,03/01/2015
+Michigan,Washtenaw,Manchester,"314 S Washington Street",,03/02/2015
+Michigan,Jackson,Jackson,"1005  Lansing Avenue",,03/02/2015
+Michigan,Kalamazoo,Portage,"8021  Oak Street Box Apt 2",,03/04/2015
+Michigan,Kalamazoo,Kalamazoo,"6007  Oran  Box Apt 3",,03/06/2015
+Michigan,Allegan,Allegan,"228  James Street",,03/10/2015
+Michigan,Barry,Delton,"11492  Sprague Road",,03/12/2015
+Michigan,Jackson,Jackson,"215  Second Street",,03/13/2015
+Michigan,"Saint Joseph","Three Rivers","10251  Bald Hill Street",,03/13/2015
+Michigan,Kalamazoo,Kalamazoo,"1004  Fletcher Avenue",,03/14/2015
+Michigan,Allegan,Allegan,"225  Riverfront Drive",,03/14/2015
+Michigan,Cass,Dowagiac,"206  Oak Street Box Apt A",,04/01/2015
+Michigan,Berrien,Niles,"1610 N 5th Street",,04/01/2015
+Michigan,Kalamazoo,Kalamazoo,"254 E D Avenue Box Apt 39",,04/03/2015
+Michigan,Kalamazoo,Kalamazoo,"8392 S 2nd Street",,04/03/2015
+Michigan,Kalamazoo,Kalamazoo,"5184  Boylan Avenue",,04/06/2015
+Michigan,Kalamazoo,Vicksburg,"1016  Odell Lane",,04/06/2015
+Michigan,Muskegon,Holton,"7364  Brickyard Road",,04/06/2015
+Michigan,Allegan,Fennville,"1713  51st Street",,04/07/2015
+Michigan,Ionia,Ionia,"4726 E Blue Water Highway",,04/07/2015
+Michigan,Hillsdale,Hillsdale,"1100 S Cronk Road",,04/10/2015
+Michigan,Jackson,Parma,"3003  Gardner Road",,04/10/2015
+Michigan,Genesee,"Mount Morris","4148 W 54th Street",,04/15/2015
+Michigan,Eaton,Charlotte,"437 N Sheldon Street",,04/15/2015
+Michigan,Jackson,Jackson,"612  Lansing Avenue",,04/17/2015
+Michigan,Lapeer,"Imlay City","1949  Hickory Lane Box 104",,05/01/2015
+Michigan,"St. Clair","Port Huron","904  Griswold Street",,05/02/2015
+Michigan,Marquette,Gwinn,"322  Quail Street",,05/04/2015
+Michigan,"Van Buren",Bangor,"29876  61st Street",,05/04/2015
+Michigan,Montcalm,"Howard City","14085 W Howard City-edmore Road",,05/06/2015
+Michigan,Barry,Delton,"11175  East Shore Road",,05/08/2015
+Michigan,Kalamazoo,Kalamazoo,"8945  Beechwood Drive",,05/15/2015
+Michigan,"Van Buren",Hartford,"322  Elmwood Street",,05/15/2015
+Michigan,Shiawassee,Owosso,"906 S Saginaw Street",,05/17/2015
+Michigan,Wexford,Manton,"8270 E 18 .5 Road",,05/17/2015
+Michigan,Lake,Baldwin,"7216 S Kidd Stravenue",,05/20/2015
+Michigan,Eaton,Charlotte,"407 W Harris Avenue",,05/27/2015
+Michigan,"Van Buren","Paw Paw","1012 S Lagrave",,05/27/2015
+Michigan,Calhoun,"Battle Creek","133  Eldred Street",,06/02/2015
+Michigan,Oceana,Hesperia,"2909  Lakeview Drive",,06/04/2015
+Michigan,Ionia,Hubbardston,"10651  Mckenna",,06/05/2015
+Michigan,Hillsdale,Hillsdale,"205 E West Street",,06/07/2015
+Michigan,Kalamazoo,Portage,"5328  Wisteria",,06/08/2015
+Michigan,"Saint Clair",Clyde,"5648  North Ro",,06/09/2015
+Michigan,"St. Clair","Saint Clair","1751 N Wadhams Road",,06/09/2015
+Michigan,"Saint Joseph","Three Rivers","225 E Michigan Street",,06/09/2015
+Michigan,Genesee,Flint,"2730  Episoln Trail",,06/12/2015
+Michigan,Cass,Edwardsburg,"19250  State Line Road Box 67",,06/14/2015
+Michigan,"Van Buren",Decatur,"305 S Phelps Street",,06/16/2015
+Michigan,Eaton,Charlotte,"1263  Stewart Road",,06/17/2015
+Michigan,"Van Buren",Gobles,"30251  10th Avenue",,06/17/2015
+Michigan,Allegan,Allegan,"2933  108th Avenue",,07/02/2015
+Michigan,Kalamazoo,Kalamazoo,"1517  Lane Boulevard",,07/04/2015
+Michigan,Kalamazoo,Kalamazoo,"1900  Roosevelt Street",,07/07/2015
+Michigan,Jackson,Jackson,"200 S Elm Street",,07/07/2015
+Michigan,Calhoun,"Battle Creek","200  Summer Street",,07/10/2015
+Michigan,Calhoun,"Battle Creek","131 N Broadway Boulevard",,07/15/2015
+Michigan,Branch,Quincy,"420  Ridge Road",,07/19/2015
+Michigan,Kalamazoo,Kalamazoo,"3222  Birch Lane",,07/19/2015
+Michigan,Kent,Kentwood,"306 Se Ridgewood Street",,07/20/2015
+Michigan,Tuscola,Mayville,"2139 E Ohmer",,07/23/2015
+Michigan,"St. Clair","Port Huron","1116  Varney Street",,07/24/2015
+Michigan,Marquette,Gwinn,"123  Birch Street",,07/24/2015
+Michigan,"Van Buren","Paw Paw","33555  56th Avenue",,07/28/2015
+Michigan,Allegan,Plainwell,"227  Robin Street",,07/29/2015
+Michigan,Montcalm,Crystal,"1006 S Miner Road",,08/04/2015
+Michigan,Marquette,Gwinn,"2104  Northwestern Lake Trail",,08/04/2015
+Michigan,Calhoun,"Battle Creek","77  Miller Street",,08/04/2015
+Michigan,Kalamazoo,Comstock,"S 31st St / E N Ave Road",,08/04/2015
+Michigan,Kalamazoo,Kalamazoo,"8717  Rusty Drive",,08/05/2015
+Michigan,Kalamazoo,Kalamazoo,"6399  Banebeny Road",,08/05/2015
+Michigan,Kalamazoo,Kalamazoo,"N Ave / S 31st",,08/05/2015
+Michigan,Calhoun,"Battle Creek","25  Taylor Avenue",,08/06/2015
+Michigan,Jackson,Parma,"11 W Michigan Avenue",,08/06/2015
+Michigan,Genesee,Burton,"1450  Wells Street",,08/07/2015
+Michigan,Kalamazoo,Portage,"11000  Shaver Road",,08/09/2015
+Michigan,Branch,Coldwater,"675  Jo Jo Lane",,08/09/2015
+Michigan,Allegan,Wayland,"13th St Near 129th Ave",,08/10/2015
+Michigan,Allegan,Pullman,"545  55th Street",,08/11/2015
+Michigan,Iosco,"Tawas City","402 W Lake Street",,08/11/2015
+Michigan,Genesee,Flint,"937 S Ballenger Road",,08/12/2015
+Michigan,Delta,Escanaba,"1723 N 3rd Avenue Box 4",,08/12/2015
+Michigan,Genesee,Flint,"1348 W Genesee Avenue",,08/13/2015
+Michigan,Calhoun,"Battle Creek","220  Laurel Drive",,08/14/2015
+Michigan,Barry,Nashville,"11545 W Kinsel Highway",,08/15/2015
+Michigan,Genesee,Flint,"2010  Thom",,08/17/2015
+Michigan,Allegan,Otsego,"337  Lincoln Street",,08/19/2015
+Michigan,Barry,Middleville,"Mccann\irving Road",,08/19/2015
+Michigan,Ingham,Lansing,"412  Pinewood Street",,08/20/2015
+Michigan,Wexford,Cadillac,"430  Jan Marie Street",,08/20/2015
+Michigan,Calhoun,"Battle Creek","113 N Wabash Street",,08/21/2015
+Michigan,Berrien,"Eau Claire","7076  Beaver Drive",,08/22/2015
+Michigan,Calhoun,"Battle Creek","23  Kellogg Street",,08/23/2015
+Michigan,Kalamazoo,Portage,"6100  Corporate Drive",,08/24/2015
+Michigan,Kalamazoo,Vicksburg,"712  Park Avenue",,09/01/2015
+Michigan,Muskegon,Muskegon,"1860 E Isbella",,09/03/2015
+Michigan,"Van Buren","Paw Paw","46841  Anthony Street",,09/03/2015
+Michigan,"St. Clair",Algonac,"9734  River Road",,09/09/2015
+Michigan,"St. Clair","Port Huron","815  Court",,09/09/2015
+Michigan,Shiawassee,Durand,"105  John Street Box 1&2",,09/10/2015
+Michigan,Berrien,"Benton Harbor","846 N Benton Center Road",,09/12/2015
+Michigan,Tuscola,Caro,"1494 S Ringle Road",,09/14/2015
+Michigan,"St. Joseph","Three Rivers","13495  Mohney Road",,09/14/2015
+Michigan,Lapeer,Lapeer,"211  Saratoga Trail",,09/18/2015
+Michigan,Cass,Cassopolis,"20151  Bullhand Street Box Apt. #5",,09/19/2015
+Michigan,Oceana,Hesperia,"8950  Newfield Drive",,09/23/2015
+Michigan,Allegan,Allegan,"4359  108th Avenue",,09/23/2015
+Michigan,Midland,Midland,"1397 W Gordonville Avenue",,10/01/2015
+Michigan,Genesee,Burton,"2050 E Mclean Avenue",,10/06/2015
+Michigan,Cass,Dowagiac,"N 509 1/2 Front Street",,10/07/2015
+Michigan,Kalamazoo,Kalamazoo,"1526  Upland Drive",,10/07/2015
+Michigan,Allegan,Allegan,"215  Donald Drive",,10/13/2015
+Michigan,Gratiot,Ithaca,"221 E South Street",,10/14/2015
+Michigan,"St. Clair","Port Huron","1322  Division",,10/16/2015
+Michigan,Genesee,"Mount Morris","7010 N Lewis Road",,10/20/2015
+Michigan,Clinton,"Saint Johns","5087 W Centerline Road",,10/21/2015
+Michigan,Isabella,"Mount Pleasant","2748  Weatherwood Street",,10/22/2015
+Michigan,Hillsdale,Jonesville,"2010 E Mosherville Road",,10/25/2015
+Michigan,Menominee,Powers,"N15965  Main Street",,10/26/2015
+Michigan,"St. Clair","Port Huron","2010  Farrand Street",,10/27/2015
+Michigan,Genesee,Davison,"7318  River Rock",,11/03/2015
+Michigan,Hillsdale,Camden,"8501  Alvord Road",,11/05/2015
+Michigan,Calhoun,"Battle Creek","53  Marjorie Street",,11/06/2015
+Michigan,Calhoun,Albion,"834  Irwin Avenue",,11/09/2015
+Michigan,"St. Clair","Port Huron","2801  Griswold Road Box 47",,11/09/2015
+Michigan,Chippewa,,"639  Myrtle Elliott Circle Box 3",,11/10/2015
+Michigan,Gladwin,Gladwin,"1020  Mcclure Road",,11/12/2015
+Michigan,Ottawa,Zeeland,"8553  Heron Street",,11/12/2015
+Michigan,Clinton,"Saint Johns","314 N Clinton Avenue Box 3",,11/13/2015
+Michigan,Barry,Middleville,"201  Lincoln Street",,11/16/2015
+Michigan,Genesee,Flint,"937 S Ballenger Highway",,11/19/2015
+Michigan,"Van Buren",Hartford,"65645  Gridley Road",,11/23/2015
+Michigan,Kalamazoo,Portage,"1103  Schuring",,11/27/2015
+Michigan,Kent,"Grand Rapids","1502 Ne Wakely Street",,12/01/2015
+Michigan,Genesee,"Mount Morris","11009 S Saginaw",,12/01/2015
+Michigan,Jackson,Jackson,"464  Cooper Street",,12/04/2015
+Michigan,Calhoun,Homer,"430 S Byron Street",,12/04/2015
+Michigan,Genesee,Flint,"3738  Pitkin",,12/07/2015
+Michigan,Allegan,Fennville,"5575  113th Avenue",,12/08/2015
+Michigan,Calhoun,"Battle Creek","743  Vanburen Street",,12/10/2015
+Michigan,Calhoun,"Battle Creek","56  Traverse Street",,12/10/2015
+Michigan,"St. Joseph","Three Rivers","57947  Oak Park Road",,12/11/2015
+Michigan,Jackson,Jackson,"2725 Overhill Road",,12/22/2015
+Michigan,Genesee,Burton,"3055  Kleinpell Street",,12/23/2015
+Michigan,Eaton,Dimondale,"159  Hawthorne Drive",,12/25/2015
+Michigan,Ingham,Stockbridge,"305 W Elizabeth Street",,12/28/2015
+Michigan,Genesee,Burton,"4153  Columbia Avenue",,01/06/2016
+Michigan,Eaton,Olivet,"3807 W Bellevue Highway",,01/06/2016
+Michigan,Kalamazoo,Schoolcraft,"435 E Cass Street",,01/06/2016
+Michigan,Kalamazoo,Kalamazoo,"5588  Meadowsweet Drive",,01/07/2016
+Michigan,Cass,Dowagiac,"420 E Railroad Street",,01/07/2016
+Michigan,Gratiot,"Saint Louis","2144 E Mcgregor Road",,01/07/2016
+Michigan,Shiawassee,Owosso,"721 N Washington Street",,01/07/2016
+Michigan,Cass,Dowagiac,"318 E Division Street",,01/07/2016
+Michigan,Hillsdale,Jonesville,"216  West Street",,01/07/2016
+Michigan,Calhoun,"Battle Creek","24  Magnolia Avenue",,02/01/2016
+Michigan,Baraga,L'anse,"627 N 3rd Terrace",,02/12/2016
+Michigan,Genesee,"Mount Morris","6452  Lewis Road",,02/16/2016
+Michigan,Genesee,Flint,"1025  Darling Street",,02/16/2016
+Michigan,Calhoun,"Battle Creek","107  Lathrop Avenue",,02/17/2016
+Michigan,Cass,Dowagiac,"26939  Corwin",,02/18/2016
+Michigan,Jackson,Jackson,"1411  Merriman Street",,02/19/2016
+Michigan,Eaton,Charlotte,"633  Prairie Street",,02/21/2016
+Michigan,"St. Clair","Port Huron","1103  Cedar Street",,02/24/2016
+Michigan,Eaton,Charlotte,"211 E Henry Street",,03/01/2016
+Michigan,Allegan,Allegan,"1739  39th Street",,03/02/2016
+Michigan,Calhoun,"Battle Creek","336  Country Club Boulevard",,03/03/2016
+Michigan,Cass,Cassopolis,"127 N Okeefe Street",,03/04/2016
+Michigan,"St. Clair","Port Huron","1217  9th Street Box 4",,03/08/2016
+Michigan,Alpena,Alpena,"226 E Crapo Street",,03/09/2016
+Michigan,Berrien,Niles,"3156  Detroit Road",,03/09/2016
+Michigan,Gogebic,Ironwood,"114 S Mansfield Street",,03/10/2016
+Michigan,Alpena,Lachine,"2249  2nd Street",,03/10/2016
+Michigan,Genesee,"Mount Morris","G5360  Detroit Street",,03/12/2016
+Michigan,Genesee,Burton,"2107 Brady Avenue",,03/14/2016
+Michigan,"Van Buren","South Haven","546  Humphrey Street",,03/16/2016
+Michigan,"Van Buren",Decatur,"604 S George Street",,03/18/2016
+Michigan,Genesee,Flint,"1425  Waldman Avenue",,03/19/2016
+Michigan,Cass,Dowagiac,"28101 Mi 52  Box # 46",,04/04/2016
+Michigan,Jackson,Jackson,"510  Hallet St",,04/07/2016
+Michigan,Ottawa,Coopersville,"18118  88th Ave",,04/08/2016
+Michigan,Genesee,Flint,"1707 E Atherton Road",,04/19/2016
+Michigan,"Van Buren",Decatur,"50550  Country Road 352",,04/20/2016
+Michigan,Alpena,Alpena,"1205 W Washington Avenue",,04/22/2016
+Michigan,Muskegon,Muskegon,"1030  Center Street",,05/17/2016
+Michigan,Genesee,Flint,"1814  Jane Street",,05/20/2016
+Michigan,Genesee,Flint,"1056 E Bristol Road",,05/20/2016
+Michigan,Allegan,Allegan,"4440  128th Avenue",,06/02/2016
+Michigan,Branch,Coldwater,"191 N Fillmore Rd. Box 15",,06/04/2016
+Michigan,Wexford,,"2663  Virginia St",,06/15/2016
+Michigan,"Van Buren",Mattawan,"27802  County Road 364",,07/07/2016
+Michigan,Calhoun,"Battle Creek","194 N Wabash Avenue",,07/07/2016
+Michigan,Allegan,Hopkins,"402 E Main Street Box B3",,07/08/2016
+Michigan,Genesee,"Mount Morris","6481  Estelle Avenue",,07/12/2016
+Michigan,Cass,Marcellus,"10425  Wolfe Street",,07/20/2016
+Michigan,"Van Buren",Breedsville,"49908 18th Ave",,08/01/2016
+Michigan,Genesee,Flint,"1726 Missouri Ave",,08/11/2016
+Michigan,Jackson,Jackson,"1916 Parkwood Way",,08/11/2016
+Michigan,Clare,Harrison,"3007 Lockwood St",,08/12/2016
+Michigan,Allegan,Wayland,"1123 129th Avenue",,08/18/2016
+Michigan,Sanilac,Carsonville,"3980 Walker Rd",,08/18/2016
+Michigan,Allegan,Allegan,"2542 106th Ave",,08/23/2016
+Michigan,Isabella,,"330 E Rosebush Rd",,09/14/2016
+Michigan,Jackson,Jackson,"801 Brentwood Rd",,09/14/2016
+Michigan,Cass,Cassopolis,"19622 Calvin Hill St",,09/14/2016
+Michigan,Manistee,Manistee,"188 12th St",,09/15/2016
+Michigan,Barry,,"14895 Doster Rd",,09/15/2016
+Michigan,Oceana,,"9282 192nd Ave",,09/19/2016
+Michigan,"Van Buren",Decatur,"216 W Sherwood St",,09/21/2016
+Michigan,Clare,Harrison,"362 Shappell Dr",,09/21/2016
+Michigan,Ottawa,"West Olive","9135 Green Oaks Trl",,09/22/2016
+Michigan,Jackson,Jackson,"118 N Forbes St",,09/25/2016
+Michigan,Alpena,Alpena,"2255 Long Lake Park Rd",,09/29/2016
+Michigan,Hillsdale,Reading,"311 N Main St",,10/04/2016
+Michigan,"Van Buren",Lawton,"603 E 2nd St",,10/06/2016
+Michigan,Gladwin,Beaverton,"3942 Mccullum Rd",,10/06/2016
+Michigan,Montcalm,Greenville,"315 E Washington St",,10/06/2016
+Michigan,Newaygo,"White Cloud","803 E Townline Rd",,10/13/2016
+Michigan,Isabella,,"3480 W Pickard Rd",,10/14/2016
+Michigan,Washtenaw,Ypsilanti,"752 Owego Ave",,10/14/2016
+Michigan,Genesee,Flint,"1514 N Lynch St",,10/17/2016
+Michigan,Sanilac,Marlette,"3220 Moore St",,10/17/2016
+Michigan,Hillsdale,Osseo,"2859 Doty Rd",,10/20/2016
+Michigan,,Flint,"2730 Elsilon Trail",,10/22/2016
+Michigan,Manistee,Wellston,"17132 6th St",,10/23/2016
+Michigan,Genesee,Flint,"1905 Kansas Ave",,10/24/2016
+Michigan,Chippewa,Dafter,"2169 W 10 Mile Rd",,11/07/2016
+Michigan,Kalamazoo,Kalamazoo,"823 Oakland Dr",,11/18/2016
+Michigan,Ingham,Lansing,"922 Legrand Dr",,11/22/2016
+Michigan,"Van Buren",Breedsville,"55533 6th Ave.",,01/03/2017
+Michigan,Isabella,,"1306 S Mission St",,01/03/2017
+Michigan,Alpena,Alpena,"724 S 8th Avenue",,01/04/2017
+Michigan,Calhoun,Homer,"25560 M-60 Hwy",,01/12/2017
+Michigan,"St. Clair","Port Huron","4125 Dove Rd",,01/25/2017
+Michigan,Branch,Coldwater,"196 N Angola Rd",,01/29/2017
+Michigan,"St. Clair","Port Huron","1400 Block Mcphearson St",,02/03/2017
+Michigan,Mackinac,"Saint Ignace","W590 Portage Rd",,05/04/2017
+Michigan,Manistee,"Bear Lake","9509 Norconk Road",,05/15/2017
+Michigan,Ionia,Ionia,"302 W. Lincoln Ave.",,05/16/2017
+Michigan,Jackson,Jackson,"708 S West Ave",,05/17/2017
+Michigan,Berrien,Niles,"2328 Dr Emerald",,05/18/2017
+Michigan,Clare,Lake,"2702 Lindaven Drive",,05/18/2017
+Michigan,Alpena,Ossineke,"9548 Piper Rd",,06/08/2017
+Michigan,Midland,Midland,"406 E. Grove St",,06/09/2017
+Michigan,Muskegon,Holton,"10037 Holton-duck Lake Rd",,06/12/2017
+Michigan,Kent,Sparta,"8896 Country View  Dr Nw",,09/23/2017
+Michigan,"Van Buren",Covert,"76544 Co Rd 378",,09/25/2017
+Michigan,Ionia,Muir,"5635 Hayes St",,11/02/2017
+Michigan,Berrien,Dowagiac,"420 East Railroad",,12/04/2017
+Michigan,Midland,Coleman,"2301 Coleman Rd",,12/06/2017
+Michigan,Midland,,"5435 W. Isabella Rd",,12/06/2017
+Michigan,Isabella,,"1504 N Fancher St",,12/08/2017
+Michigan,Kent,"Grand Rapids","555 Nw Crosby St",,12/15/2017
+Michigan,Isabella,Shepherd,"156 E. Boulevard St",,12/25/2017
+Michigan,Kalamazoo,Plainwell,"10358 N. 19th St",,01/04/2018
+Michigan,Barry,,"12841 Meadow Dr",,01/08/2018
+Michigan,Cass,Dowagiac,"712 North Front St",,01/19/2018
+Michigan,Ionia,Ionia,"122 Depot St",,01/23/2018
+Michigan,Clare,Clare,"703 1/2 Maple St",,02/07/2018
+Michigan,Clare,Gladwin,"4935 N. Hoober Avenue",,02/09/2018
+Michigan,Gladwin,Gladwin,"1611 Opland Rd",,02/09/2018
+Michigan,Kalamazoo,Kalamazoo,"1519 Olmstead Rd",,02/20/2018
+Michigan,Hillsdale,Hillsdale,"65 1/2 Westwood St",,02/21/2018
+Michigan,Alpena,Alpena,"6153 N. Us-23 Hwy",,02/22/2018
+Michigan,Montcalm,Greenville,"4691 W. County Farm Rd",,03/06/2018
+Michigan,Newaygo,"White Cloud","1125 Ransom",,03/09/2018
+Michigan,Hillsdale,Osseo,"1591 S. Tripp Rd",,03/11/2018
+Michigan,Montcalm,Sheridan,"2159 E Bearslee Rd",,03/13/2018
+Michigan,Genesee,Flint,"1605 N. Franklin Ave",,03/13/2018
+Michigan,"St. Clair","Port Huron","3405 Military St",,03/16/2018
+Michigan,Wexford,Cadillac,"1109 Plett Rd",,07/09/2018
+Michigan,Osceola,"Reed City","521 E. Church St",,07/10/2018
+Michigan,Chippewa,"Sault Ste. Marie","230 Ferris St",,07/11/2018
+Michigan,Midland,Midland,"2100 Wisconsin St",,07/12/2018
+Michigan,Alpena,"Hubbard Lake","4679 Scott Rd",,07/16/2018
+Michigan,Gladwin,Rhodes,"4110 Swinson Rd",,09/12/2018
+Michigan,Clare,Farwell,"322 S. Scott Dr",,09/20/2018
+Michigan,Wexford,Cadillac,"306 E River Street",,10/09/2018
+Michigan,Isabella,[unspecified],"208 Main Street",,10/24/2018
+Michigan,Shiawassee,Owosso,"623 1/2 N. Washington",,11/07/2018
+Michigan,Wayne,Trenton,"24529 Yvonee",,11/13/2018
+Michigan,Newaygo,Bitely,"8971 N. 18th St",,12/13/2018
+Michigan,Lapeer,"Imlay City","8403 E. Imlay City Rd",,04/04/2019

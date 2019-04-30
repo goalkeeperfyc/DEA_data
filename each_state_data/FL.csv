@@ -1,0 +1,873 @@
+state,county,city,address1,address2,date
+Florida,Brevard,Melbourne,"1620 Harlock Rd",,01/01/2004
+Florida,Walton,"Ponce De Leon","9538 Cr 183 S",,01/02/2004
+Florida,Marion,Ocala,"5950 100 Nw St",,01/05/2004
+Florida,Orange,Orlando,"8608 Sun Dr",,01/08/2004
+Florida,Bay,"Panama City Beach","20111 Alta Vista Dr",,01/08/2004
+Florida,Walton,Freeport,"20 April Ct",,01/09/2004
+Florida,Bay,"Panama City","3515 16th W St 10",,01/13/2004
+Florida,Bay,"Panama City Beach","5801 Thomas Dr 919",,01/13/2004
+Florida,Bay,"Panama City","3511 16th W",,01/13/2004
+Florida,Bay,"Panama City","2631 Headland Ave",,01/14/2004
+Florida,Pasco,"Dade City","37204 Main St",,01/18/2004
+Florida,Escambia,Pensacola,"6530 Palafox St",,01/19/2004
+Florida,Jackson,"Grand Ridge","7028 Hamilton Rd",,01/20/2004
+Florida,Washington,Chipley,"5363 Amethyst Ln",,01/22/2004
+Florida,Sumter,Wildwood,"4938 County 472 Rd",,01/23/2004
+Florida,Holmes,Bonifay,"1134 Culbread Rd",,01/26/2004
+Florida,Polk,Lakeland,"2922 County Ridge Ln",,01/26/2004
+Florida,Bay,Southport,"7401 Gainer Bayou S Rd",,01/27/2004
+Florida,Polk,"Winter Haven","2825 J Nw Ave",,01/30/2004
+Florida,Holmes,Bonifay,"2156-a 79 N Hwy",,01/31/2004
+Florida,Bay,"Panama City","2913 Lisenby Ct B",,02/04/2004
+Florida,Orange,Orlando,"7805 Wortham Ct",,02/05/2004
+Florida,Jackson,Alford,"2453 Third Ave",,02/05/2004
+Florida,Volusia,"New Smyrna Beach","164 Warren",,02/06/2004
+Florida,Okaloosa,Niceville,"517 Samana Way",,02/09/2004
+Florida,Walton,"Defuniak Springs","243 Toledo W St",,02/10/2004
+Florida,Bay,"Panama City Beach","128 (b) Lake Pl 3",,02/10/2004
+Florida,Bay,"Panama City Beach","7000 Sunset Ave",,02/16/2004
+Florida,Bay,"Panama City Beach","106 Lakeview Cir 106",,02/19/2004
+Florida,"St Lucie","Fort Pierce","102 Calypso Dr",,02/22/2004
+Florida,Bay,Fountain,"20622 Brandon Rd",,02/23/2004
+Florida,"Santa Rosa",Milton,"6305 Toda Ln",,02/23/2004
+Florida,Marion,"Silver Springs","1025 163rd Se Ave",,02/24/2004
+Florida,Holmes,Bonifay,"3334 Ward Rd",,02/25/2004
+Florida,Charlotte,"Port Charlotte","605 Fifth Ave",,03/02/2004
+Florida,Holmes,Westville,"2526 Main W St",,03/03/2004
+Florida,Bay,"Panama City","108 Casa Pl 24",,03/03/2004
+Florida,Marion,Dunnellon,"9115 156 Se Pl",,03/08/2004
+Florida,Brevard,"Palm Bay","1183 Tarleton St",,03/09/2004
+Florida,Escambia,Pensacola,"2595 Dog Track Rd Lot C",,03/10/2004
+Florida,Escambia,Pensacola,"504 Palmetto E Ave B",,03/11/2004
+Florida,Pinellas,"Saint Petersburg","2321 Trelaine S Dr",,03/12/2004
+Florida,Okaloosa,Destin,"217 Sibert Ave",,03/12/2004
+Florida,Okaloosa,Niceville,"521 County Line Rd",,03/14/2004
+Florida,Okaloosa,Valparaiso,"358 Madison Ave",,03/17/2004
+Florida,Brevard,Cocoa,"2545 Stratford Dr",,03/17/2004
+Florida,Bay,Callaway,"610 Mary Ella N Ave",,03/20/2004
+Florida,Bay,"Panama City","8011 Cluster Rd",,03/21/2004
+Florida,Okaloosa,Niceville,"1595 John Sims E Pkwy",,03/23/2004
+Florida,Bay,"Lynn Haven","401 8th E St",,03/25/2004
+Florida,Escambia,Pensacola,"10025 Hillview Dr 17",,03/25/2004
+Florida,Charlotte,"Port Charlotte","22357 Midway Blvd",,03/26/2004
+Florida,Okaloosa,Niceville,"304 Reeves St C-5",,03/29/2004
+Florida,Escambia,Pensacola,"8271 Kipling St B",,03/30/2004
+Florida,Walton,"Santa Rosa Beach","121 Country Club Dr",,04/02/2004
+Florida,"St. Johns",,"4500 4 Ave",,04/05/2004
+Florida,Okaloosa,Shalimar,"61 Fawn Ln",,04/06/2004
+Florida,Brevard,Rockledge,"1021 Botany Ln",,04/07/2004
+Florida,Brevard,Rockledge,"959 Brookview Ln",,04/07/2004
+Florida,Walton,"Defuniak Springs","119 Jim Cotton S Dr",,04/09/2004
+Florida,Bay,Southport,"1218 5th St",,04/11/2004
+Florida,Putnam,"East Palatka","111 Beech St",,04/14/2004
+Florida,Osceola,Kissimmee,"1408 Patrick W Cir",,04/14/2004
+Florida,Pasco,Zephyrhills,"8106 Gall (us Hwy 301) Blvd Lot #55b",,04/15/2004
+Florida,Bay,Southport,"2002 Bayberry Ln",,04/16/2004
+Florida,Hillsborough,"Plant City","3611 Pope Farm Rd",,04/19/2004
+Florida,"Santa Rosa",Milton,"8228 New Castle Ct",,04/20/2004
+Florida,Jackson,Marianna,"4363 Kelson Ave",,04/21/2004
+Florida,Okaloosa,Niceville,"48 Virginia Ct",,04/22/2004
+Florida,Walton,Freeport,"23 Melvin Ln",,04/23/2004
+Florida,Bay,"Panama City","5100 Bertha Nelson Rd",,04/24/2004
+Florida,"Santa Rosa",Jay,"2592 Howell Pitt Rd",,04/25/2004
+Florida,Pasco,"Dade City","11720 Meadowland Dr",,04/29/2004
+Florida,"Santa Rosa",Milton,"7402 Sherwood Forest Dr",,05/06/2004
+Florida,Bay,"Panama City","416 Alpine Way",,05/07/2004
+Florida,Walton,"Defuniak Springs","102 Cherokee N Cir",,05/07/2004
+Florida,Brevard,"Satellite Beach","198 Ala S 121",,05/11/2004
+Florida,Jackson,Marianna,"973 71 S Hwy A",,05/11/2004
+Florida,Brevard,Melbourne,"7200 George T Edwards Dr 404",,05/13/2004
+Florida,Escambia,"Walnut Hill","7050 97 Hwy",,05/16/2004
+Florida,Bay,"Panama City Beach","1616 Allison Ave 4",,05/17/2004
+Florida,Brevard,"Palm Bay","1170 Malabar Road",,05/22/2004
+Florida,Brevard,Titusville,"602(a) Tropic St A",,05/22/2004
+Florida,Bay,Callaway,"1420 Berthe S Ave",,06/01/2004
+Florida,Bay,"Panama City Beach","3111 Preserve Rookery Blvd",,06/03/2004
+Florida,Okaloosa,Holt,"4399 Sundance Way",,06/03/2004
+Florida,Okaloosa,Niceville,"105 Sasser St",,06/04/2004
+Florida,Escambia,Pensacola,"1117 W N St",,06/05/2004
+Florida,Brevard,Cocoa,"4674 Fantasia Ln",,06/06/2004
+Florida,Bay,"Panama City Beach","8426 (a) Gulf Pines Dr",,06/07/2004
+Florida,Bay,"Panama City Beach","8424 (b) Gulf Pines Dr",,06/07/2004
+Florida,Bay,Southport,"8030 Riley Rd",,06/09/2004
+Florida,Walton,Freeport,"52 Scott's Ln",,06/10/2004
+Florida,"Santa Rosa",Milton,"1504 Big Creek Rd",,06/19/2004
+Florida,Pasco,Zephyrhills,"8106 Us Hwy 301 Lot 2",,06/23/2004
+Florida,Calhoun,Blountstown,"19286 Jim Durham Ne Rd 17",,06/29/2004
+Florida,Sarasota,Sarasota,"2049 Doud St",,07/01/2004
+Florida,Walton,"Defuniak Springs","201 Heather S Ln",,07/02/2004
+Florida,Hillsborough,Dover,"9906 Gallagher Rd",,07/08/2004
+Florida,Holmes,Bonifay,"1163 Emerald Ln",,07/10/2004
+Florida,"Santa Rosa",Milton,"5637 Mulat Rd",,07/14/2004
+Florida,Bay,Southport,"7813 Walton Ave",,07/19/2004
+Florida,Gulf,Wewahitchka,"2771 Hwy 381",,07/27/2004
+Florida,Escambia,Cantonment,"8086 Folwer Ave Lot 5",,07/28/2004
+Florida,"Santa Rosa",Pace,"4620 Bebe Ln",,07/28/2004
+Florida,Bay,"West Bay","6630 Lazy Acre Rd B",,07/29/2004
+Florida,Brevard,Cocoa,"625 Friday Rd",,07/29/2004
+Florida,"Santa Rosa",Navarre,"2054 Sunvista Ln",,07/29/2004
+Florida,Bay,"Lynn Haven","410 Illinois Ave",,07/30/2004
+Florida,Okaloosa,"Laurel Hill","7831 Steel Mill Creek Rd",,07/30/2004
+Florida,Escambia,Pensacola,"8514 Matador Camino",,07/30/2004
+Florida,Escambia,Pensacola,"7103 Balboa Dr",,08/06/2004
+Florida,Polk,Lakeland,"3585 Donovan Rd",,08/08/2004
+Florida,Bay,"Panama City","8001 Cluster Rd",,08/10/2004
+Florida,Holmes,Bonifay,"1088 Vashti St",,08/12/2004
+Florida,Walton,"Defuniak Springs","188 Daisy E Ln",,08/23/2004
+Florida,"St Lucie","Fort Pierce","1116 Beach Ct",,08/25/2004
+Florida,Walton,Freeport,"248 Boundary Line Rd",,08/26/2004
+Florida,Holmes,Westville,"2608 Tw Miller Ln",,08/26/2004
+Florida,Walton,Freeport,"142 Eastern St",,08/26/2004
+Florida,Walton,"Defuniak Springs","10204 Hwy 20",,08/27/2004
+Florida,Hernando,"Ridge Manor","34233 Park Square",,08/30/2004
+Florida,Bay,"Panama City","630 Bright N Ave",,08/30/2004
+Florida,Sarasota,Nokomis,"504 Tamiami S Trl",,09/02/2004
+Florida,"Santa Rosa",Milton,"6128 Red Fox Ln",,09/02/2004
+Florida,Bay,"Panama City Beach","702 Westwood Beach Cir",,09/02/2004
+Florida,Walton,"Defuniak Springs","503 Bruce E Ave",,09/04/2004
+Florida,Escambia,Pensacola,"1200 Barmel St",,09/05/2004
+Florida,Bay,Youngstown,"6718 Wendy Rd",,09/05/2004
+Florida,Okaloosa,Niceville,"616 Elm St",,09/07/2004
+Florida,Bay,"Panama City Beach","3630 O'henry E Dr",,09/08/2004
+Florida,Pasco,Lacoochee,"21125 Flanders Dr",,09/09/2004
+Florida,Bay,Youngstown,"9723 Bear St",,09/14/2004
+Florida,Sumter,Webster,"6479 Oiter Dr",,09/15/2004
+Florida,Osceola,"Saint Cloud","2370 Absher Rd",,09/16/2004
+Florida,Citrus,Holder,"7465 Aria N",,09/19/2004
+Florida,Brevard,"Palm Bay","408 Geraldine Ave",,09/23/2004
+Florida,Broward,Lauderhill,"5320 Nw 17th Court",,09/24/2004
+Florida,Bay,"Panama City Beach","7029 Vinson Ln",,09/25/2004
+Florida,Brevard,Titusville,"612 Washington S Ave 273",,09/28/2004
+Florida,Bay,"Lynn Haven","4515 Carla Ln",,09/30/2004
+Florida,Brevard,Melbourne,"1900 Post Rd",,10/03/2004
+Florida,"St Lucie","Fort Pierce","10220 Carlton Rd",,10/05/2004
+Florida,Lake,Clermont,"18720 Triple E Rd",,10/06/2004
+Florida,Brevard,Cocoa,"5545 Lake Poinsett Rd",,10/06/2004
+Florida,Gulf,"Port Saint Joe","7048 Alabama Ave",,10/08/2004
+Florida,Walton,"Defuniak Springs","422 Foreman Rd",,10/12/2004
+Florida,Holmes,Bonifay,"2205 Spring Hill Rd",,10/13/2004
+Florida,Calhoun,Blountstown,"18423 Sr 20 West",,10/17/2004
+Florida,Bay,"Panama City Beach","9424 Front Beach Rd 117",,10/17/2004
+Florida,"Santa Rosa",Milton,"5566 Forest Hills Ln",,10/18/2004
+Florida,Bay,"Panama City","107 Gay S Ave",,10/20/2004
+Florida,Pasco,Zephyrhills,"5133 Allen Rd",,10/22/2004
+Florida,Okaloosa,Baker,"861 Highway C 180",,10/25/2004
+Florida,Seminole,Casselberry,"1875 Casselwood St",,10/26/2004
+Florida,Orange,Orlando,"14 Caswell Dr",,10/27/2004
+Florida,Acadia,Morse,"114 St Joseph N St",,11/02/2004
+Florida,Orange,Orlando,"5841 Amelia W St",,11/04/2004
+Florida,Holmes,Bonifay,"26148 Spring Hill Rd",,11/04/2004
+Florida,Calhoun,Blountstown,"21804 Sr73 North",,11/05/2004
+Florida,Alachua,Gainesville,"2701 13 Sw St E-26",,11/06/2004
+Florida,Escambia,"Walnut Hill","6071 Hwy 4 W Hwy",,11/09/2004
+Florida,Orange,Orlando,"97 Oak Manor Dr",,11/10/2004
+Florida,Walton,Freeport,"224 Don Graff",,11/14/2004
+Florida,Volusia,"Daytona Beach","314 Grandview S Ave A",,11/16/2004
+Florida,Brevard,"Palm Bay","1355 Seabold Sw Rd",,11/17/2004
+Florida,Pasco,"Crystal Springs","2104 Engessor Rd",,11/17/2004
+Florida,Brevard,Cocoa,"817 Eveningside Dr",,11/18/2004
+Florida,Volusia,"New Smyrna Beach","556 Oliver Rd",,11/27/2004
+Florida,Orange,Orlando,"7400 Canada Rd 304",,12/01/2004
+Florida,Lake,Umatilla,"37225 Wiley Ln",,12/05/2004
+Florida,Okaloosa,Crestview,"838 Williams E St",,12/05/2004
+Florida,Highlands,"Avon Park","1549 Berwyn Ave",,12/15/2004
+Florida,Lake,Clermont,"1204 Lake Dr",,12/18/2004
+Florida,Walton,"Defuniak Springs","413 Martin Rd",,12/23/2004
+Florida,"St Lucie","Saint Lucie West","606 Tanner St",,12/23/2004
+Florida,Brevard,Cocoa,"1633 Lake Dr 23",,12/27/2004
+Florida,Bay,"Panama City","914 Highway 22a N Hwy",,12/28/2004
+Florida,Citrus,Inverness,"307 Washington Ave 11",,12/30/2004
+Florida,Escambia,"Walnut Hill","7050 Highway 97 Hwy",,01/04/2005
+Florida,Bay,Southport,"219 Spikes Rd",,01/10/2005
+Florida,Bay,"Panama City","6011 Jaycee Dr",,01/20/2005
+Florida,Brevard,"Palm Bay","1410 Carr Cir",,02/03/2005
+Florida,Hillsborough,"Plant City","910 State Road 60 E Rd",,02/07/2005
+Florida,Bay,Fountain,"121441 Two Trail Rd",,02/08/2005
+Florida,Calhoun,Altha,"15454 Oak Nw St",,02/11/2005
+Florida,Bay,"Panama City","1105 19th W Ct",,02/13/2005
+Florida,Lake,Eustis,"8 Laurel Ln",,02/15/2005
+Florida,Escambia,Pensacola,"202 Frisco Rd",,02/23/2005
+Florida,Volusia,"Ormond Beach","307 Janice Ln",,03/04/2005
+Florida,Calhoun,Blountstown,"20941 Bay Ne St",,03/08/2005
+Florida,Brevard,"Palm Bay","2290 Macedo Rd",,03/09/2005
+Florida,Brevard,"West Melbourne","271 Edward Rd",,03/09/2005
+Florida,Levy,Inglis,"63 Riverside Dr",,03/12/2005
+Florida,Holmes,Westville,"1690 Mims Rd",,03/14/2005
+Florida,"Santa Rosa",Milton,"7280 Hay Lo Rd",,03/24/2005
+Florida,Hillsborough,Ruskin,"817 2nd S Ave D",,03/24/2005
+Florida,Pasco,"Crystal Springs","1853 Owens Rd",,04/04/2005
+Florida,Lake,Eustis,"316 Caroline St",,04/04/2005
+Florida,Brevard,"Palm Bay","596 Geiger St",,04/04/2005
+Florida,Holmes,"Ponce De Leon","1068 Walker Ln",,04/13/2005
+Florida,Bay,"Panama City","523 7th E Pl",,04/15/2005
+Florida,Walton,Paxton,"63 Adams St",,04/19/2005
+Florida,Pasco,Hudson,"17555 Akins Rd",,04/19/2005
+Florida,Bay,"Lynn Haven","1108 19th W Ct",,04/27/2005
+Florida,Pasco,"Dade City","13946 14th St",,04/29/2005
+Florida,Lake,Leesburg,"29 Crossen Ln",,05/05/2005
+Florida,Brevard,"Merritt Island","146 Lura Ln",,05/07/2005
+Florida,Okaloosa,"Laurel Hill","9124 Fifth S St",,05/09/2005
+Florida,Polk,Lakeland,"5247 1st Nw St",,05/11/2005
+Florida,Bay,Fountain,"13340 Hwy 20 E",,05/16/2005
+Florida,Orange,Orlando,"404 3rd St",,05/19/2005
+Florida,"St Lucie","Fort Pierce","948 Kanner St",,05/19/2005
+Florida,Brevard,"Merritt Island","1540 Mercury St",,05/22/2005
+Florida,Marion,"Silver Springs","14020 46th St Lacota Ne Rd",,06/03/2005
+Florida,Brevard,Melbourne,"330 Patrick Cir",,06/10/2005
+Florida,"Santa Rosa",Milton,"6224 St. Ann St",,06/15/2005
+Florida,Pasco,Zephyrhills,"38430 C Ave",,06/30/2005
+Florida,"Santa Rosa",Milton,"6521 Michelle Ln",,07/02/2005
+Florida,Bay,"Panama City","4513 Pipeline Rd 11",,07/06/2005
+Florida,Osceola,"Saint Cloud","4980 Apollo Rd",,07/12/2005
+Florida,Bay,Parker,"21 3rd Ct",,07/13/2005
+Florida,Marion,"Silver Springs","18170 18th Se St",,07/19/2005
+Florida,Bradford,Starke,"8731 State Hwy 100",,07/26/2005
+Florida,Volusia,"Ormond Beach","6 Alicen Ct",,08/11/2005
+Florida,Okaloosa,"Fort Walton Beach","20 Highland Dr",,08/23/2005
+Florida,Orange,"Winter Garden","525 Main S St",,08/24/2005
+Florida,Broward,"Fort Lauderdale","4605 Ocean N Dr 8",,08/24/2005
+Florida,Putnam,Palatka,"101 Logan Ln",,09/09/2005
+Florida,Volusia,"New Smyrna Beach","816 9th E Ave",,09/30/2005
+Florida,Suwannee,"Live Oak","22781 90th St",,10/15/2005
+Florida,Pasco,"Wesley Chapel","7342 Sky Dr",,10/16/2005
+Florida,Brevard,Titusville,"2307 Anna Dr",,10/16/2005
+Florida,Brevard,"Merritt Island","160 Lura Ln",,10/23/2005
+Florida,Brevard,Titusville,"2255 Anna Dr",,10/26/2005
+Florida,Orange,Orlando,"5335 Andrus St",,10/27/2005
+Florida,Walton,"Santa Rosa Beach","203 Fourth S St",,10/28/2005
+Florida,Orange,Orlando,"785 Hooks St",,10/31/2005
+Florida,Lake,Clermont,"785 Hook St",,11/02/2005
+Florida,Brevard,"Merritt Island","2755 Banana N Dr",,11/05/2005
+Florida,Madison,Madison,"853 Circle Rd",,11/15/2005
+Florida,Wakulla,Crawfordville,"9 Myrtle Ave",,11/19/2005
+Florida,Volusia,"South Daytona","2101 Brian Ave",,12/02/2005
+Florida,Broward,Lauderhill,"8360 45th Nw St",,12/14/2005
+Florida,Okaloosa,"Defuniak Springs","1052 Eagles Way",,12/27/2005
+Florida,Duval,Jacksonville,"1620 Gately Road",,01/04/2006
+Florida,Duval,Jacksonville,"13904 South Ponderosa Pines Drive",,01/04/2006
+Florida,"Santa Rosa",Milton,"6058 Syrcle Avenue",,01/06/2006
+Florida,Duval,Jacksonville,"8203 Highfield Avenue",,01/07/2006
+Florida,Walton,"Defuniak Springs","1292 Sexton Rd",,01/09/2006
+Florida,Lake,Altoona,"47443 Hibiscus Road",,01/09/2006
+Florida,Pasco,Hudson,"9502 Ed Street",,01/12/2006
+Florida,Brevard,"Palm Bay","1041 Commerce Rd",,01/12/2006
+Florida,Escambia,Pensacola,"5116 Plateau Rd",,01/14/2006
+Florida,Pinellas,"Saint Petersburg","6421 Boganvilla S Ave",,01/14/2006
+Florida,Pasco,Zephyrhills,"3950 Michelle Ln",,01/18/2006
+Florida,Sarasota,Nokomis,"605 Shore Rd",,01/19/2006
+Florida,Brevard,Grant,"5110 Honey Lane",,01/20/2006
+Florida,Citrus,Hernando,"5870 Jack Rabbit E Ct",,01/26/2006
+Florida,Orange,"Winter Garden","1380 Ohio Avenue",,01/26/2006
+Florida,Levy,Chiefland,"11371 110th Nw Ave",,01/27/2006
+Florida,Holmes,Westville,"1546 Mixon Rd",,02/01/2006
+Florida,Duval,Jacksonville,"17805 Main N St",,02/06/2006
+Florida,Osceola,"Saint Cloud","2001 Setter Avenue",,02/09/2006
+Florida,Wakulla,Crawfordville,"446 Whiddon Lake Rd",,02/15/2006
+Florida,Brevard,"Palm Bay","1451 Southeast Lee Ward Avenue",,02/16/2006
+Florida,Escambia,Pensacola,"5820 Cruzat Way",,02/16/2006
+Florida,Osceola,"Saint Cloud","2851 Absher Road",,02/17/2006
+Florida,Brevard,Cocoa,"4160 East Railroad Avenue",,02/20/2006
+Florida,Wakulla,Crawfordville,"46 Tall Pine Ln",,02/23/2006
+Florida,Holmes,Westville,"5167 Hwy 2 E",,02/23/2006
+Florida,Volusia,"New Smyrna Beach","1130 Roberta Lane",,03/01/2006
+Florida,Calhoun,Altha,"25142 Northwest Four Winds",,03/08/2006
+Florida,Miami-dade,"South Miami","5555 67th Sw Ave 103",,03/10/2006
+Florida,Brevard,"Palm Bay","1508 Southeast Talbot Street",,03/11/2006
+Florida,Brevard,"Palm Bay","1657 Tharp Se St",,03/16/2006
+Florida,Pasco,Zephyrhills,"8341 Heather Drive",,03/23/2006
+Florida,Miami-dade,Miami,"30 73rd Nw Ct",,03/29/2006
+Florida,Osceola,"Saint Cloud","5095 Pierre Avenue",,03/30/2006
+Florida,Volusia,"Daytona Beach","708 1/2 East Isb Avenue",,04/06/2006
+Florida,Brevard,"Merritt Island","1425 Anchor Lane",,04/10/2006
+Florida,Okaloosa,Crestview,"5301 Hare Street",,04/13/2006
+Florida,Hillsborough,Dover,"5409 Schmitz Lane",,04/21/2006
+Florida,Osceola,"Saint Cloud","1709 Jersey Avenue",,04/25/2006
+Florida,Okaloosa,"Laurel Hill","3988 Second Avenue",,04/30/2006
+Florida,Clay,Middleburg,"6232 Louis Carter Road",,05/04/2006
+Florida,Duval,Jacksonville,"6232 Louie Carter Road",,05/04/2006
+Florida,Highlands,"Avon Park","402 Walker Road",,05/13/2006
+Florida,Walton,"Defuniak Springs","175 Fox Hill Road",,06/07/2006
+Florida,Escambia,Pensacola,"12455 Airblanc Drive",,06/18/2006
+Florida,Volusia,"Port Orange","5268 Isabelle Avenue",,06/23/2006
+Florida,Volusia,"Daytona Beach","944 South Beach Street",,06/26/2006
+Florida,Brevard,Cocoa,"3312 Carolyn Lane",,07/04/2006
+Florida,Brevard,Melbourne,"1676 West Ixora Drive",,07/05/2006
+Florida,Wakulla,Crawfordville,"50 Deloriss Drive",,07/06/2006
+Florida,Pasco,Zephyrhills,"38524 Naomi Avenue",,07/11/2006
+Florida,Brevard,Cocoa,"1675 Fay Street",,08/08/2006
+Florida,Brevard,Cocoa,"5300 Cherry Avenue",,08/16/2006
+Florida,Citrus,Homosassa,"6029 South Lima Avenue",,08/16/2006
+Florida,Volusia,"New Smyrna Beach","200 Roberts Street",,08/23/2006
+Florida,Sarasota,Nokomis,"3590 Laurel Road",,08/24/2006
+Florida,Volusia,"New Smyrna Beach","2351 Turnbull Bay Road",,08/30/2006
+Florida,Desoto,Arcadia,"4031 Northeast Tony Drive",,09/07/2006
+Florida,Marion,,"4270 150th Street",,09/18/2006
+Florida,Jackson,Sneads,"7221 Butler Road",,10/02/2006
+Florida,Volusia,Edgewater,"1709 South Ridgewood Avenue",,10/04/2006
+Florida,Brevard,Cocoa,"384 Mc Arthur Circle",,10/10/2006
+Florida,Brevard,Cocoa,"4130 Rector Road",,10/11/2006
+Florida,Bay,"Panama City Beach","3709 Treasure Circle",,10/12/2006
+Florida,Gadsden,Havana,"590 Rich Bay",,10/19/2006
+Florida,Escambia,Pensacola,"108 Quina Way",,10/25/2006
+Florida,Lake,Clermont,"14611 Green Valley Boulevard",,10/29/2006
+Florida,Jackson,Sneads,"4500 River Road",,11/01/2006
+Florida,Calhoun,Blountstown,"17548 11th Street",,11/03/2006
+Florida,Brevard,"Cape Canaveral","302 Lincoln Road",,11/20/2006
+Florida,Escambia,Pensacola,"5900 West Nine Mile Road",,11/20/2006
+Florida,Seminole,"Winter Park","298 Lewifield Circle",,11/26/2006
+Florida,Brevard,Cocoa,"141 Martino Way",,12/03/2006
+Florida,Brevard,Cocoa,"4082 Rail Road Avenue",,12/11/2006
+Florida,"Santa Rosa",Jay,"3960 James Jernigan Road",,12/12/2006
+Florida,Pasco,Zephyrhills,"8044 Gall Lot 4 Boulevard",,12/14/2006
+Florida,"Santa Rosa",Jay,"4101 James Jernigan Road",,12/21/2006
+Florida,Bay,"Panama City Beach","2629 Lagoon Knoll",,12/21/2006
+Florida,Okeechobee,Okeechobee,"822 Southeast 9th Court",,12/29/2006
+Florida,Putnam,Palatka,"141 Lettie Lane",,01/01/2007
+Florida,Bay,"Panama City","5744 Pittsburgh Street",,01/02/2007
+Florida,Escambia,Pensacola,"1950 North Blue Angel Parkway",,01/04/2007
+Florida,Brevard,Cocoa,"1080 Barclay Drive",,01/12/2007
+Florida,Hillsborough,Tampa,"1748 Mulberry Street",,01/16/2007
+Florida,Brevard,Titusville,"4957 River Edge Drive",,01/25/2007
+Florida,Ascension,Gonzales,"1216 South Burnside Avenue",,01/25/2007
+Florida,Osceola,Kissimmee,"202 East Jackson Street",,01/26/2007
+Florida,Clay,"Green Cove Springs","1504 Thomas Street",,01/26/2007
+Florida,Bay,"Panama City","4114 Grady Street",,01/29/2007
+Florida,Walton,"Defuniak Springs","2732 Oak Grove Road",,01/30/2007
+Florida,Volusia,Deland,"1635 West Beresford Road",,01/30/2007
+Florida,Bay,"Panama City","11720 Magnolia Street",,01/30/2007
+Florida,Brevard,"Merritt Island","80 Tennessee Avenue",,02/01/2007
+Florida,Brevard,Melbourne,"680 Idlewylde Circle",,02/07/2007
+Florida,Brevard,"Merritt Island","575 Nora Avenue",,02/07/2007
+Florida,Holmes,Bonifay,"2321 Boswell Road",,02/07/2007
+Florida,Marion,Dunnellon,"11153 Southwest 151st Place",,02/28/2007
+Florida,Putnam,Palatka,"2305 Husson Avenue",,03/11/2007
+Florida,Nassau,"Fernandina Beach","1630 Santa Juana Road",,03/14/2007
+Florida,Putnam,Palatka,"1909 Roselle Avenue",,03/27/2007
+Florida,Orange,Orlando,"428 Rng Street",,04/02/2007
+Florida,Gadsden,Quincy,"2516 Blue Star Highway",,04/12/2007
+Florida,Jackson,Cottondale,"4247 Woodrest Road",,04/24/2007
+Florida,Clay,Middleburg,"4632 South Mayflower Street",,05/08/2007
+Florida,Bay,"Panama City Beach","693 Malaga Place",,05/18/2007
+Florida,Orange,Orlando,"3035 North Powers Drive",,05/21/2007
+Florida,Bay,"Panama City Beach","5714 Beach Drive",,05/24/2007
+Florida,Putnam,Interlachen,"105 North Magnolia Street",,06/08/2007
+Florida,Bay,"Panama City","320 Newman Point Road",,06/15/2007
+Florida,"Santa Rosa",Jay,"4498 Country Mill Road",,06/15/2007
+Florida,Putnam,Interlachen,"344 3rd Way Street",,06/18/2007
+Florida,Walton,"Defuniak Springs","330 East Main Street",,06/22/2007
+Florida,"Santa Rosa",Milton,"6408 Bruce Lane",,06/26/2007
+Florida,Escambia,Pensacola,"508 Frisco Road",,07/01/2007
+Florida,Orange,Orlando,"27 West Hudson Street",,07/04/2007
+Florida,Bay,"Panama City Beach","127b 16th Street",,07/10/2007
+Florida,Putnam,Interlachen,"423 Alexander Street",,07/13/2007
+Florida,Putnam,Palatka,"3408 Norwood Street",,07/18/2007
+Florida,Volusia,Edgewater,"2221 Mango Tree Drive",,07/25/2007
+Florida,"Santa Rosa",Milton,"4379 Trailer Park Court",,07/26/2007
+Florida,Escambia,Pensacola,"106 Newman Street",,07/29/2007
+Florida,Escambia,Pensacola,"170 Emmoons Lane",,07/30/2007
+Florida,Orange,Orlando,"824 Lockwood Drive",,08/03/2007
+Florida,Bay,"Panama City Beach","5932 79 Highway",,08/09/2007
+Florida,Leon,Tallahassee,"5576 Aenon Lane",,08/09/2007
+Florida,Leon,Tallahassee,"5580 Aenon Lane",,08/09/2007
+Florida,Bay,"Panama City","1122 Oak Avenue",,08/15/2007
+Florida,Seminole,Sanford,"8 Carriage Cove Way",,08/26/2007
+Florida,"Santa Rosa",,"4171 Florida Town Road",,08/29/2007
+Florida,Bay,"Panama City","7421 Gilbert Road",,08/30/2007
+Florida,Escambia,Pensacola,"1007 Armenia Drive",,09/10/2007
+Florida,Leon,Tallahassee,"130 Whispering Pines #a",,09/11/2007
+Florida,Putnam,Palatka,"607 South Moody 12-a Road",,09/24/2007
+Florida,Orange,Orlando,"16050 Old Cheney Highway",,09/29/2007
+Florida,Volusia,"Orange City","1220 17th Street",,10/03/2007
+Florida,Jackson,Sneads,"7812 Leatherneck Trail",,10/08/2007
+Florida,Orange,Orlando,"20450 East 50 Highway",,10/09/2007
+Florida,Orange,Orlando,"1400 Weber Street",,10/10/2007
+Florida,"Santa Rosa",Milton,"5472 Bluebird Street",,10/16/2007
+Florida,"Santa Rosa",,"4293 Seaport Road",,10/25/2007
+Florida,Lake,Leesburg,"21726 27 Highway",,10/27/2007
+Florida,Lake,"Mount Plymouth","112 Hillsbrough Drive",,10/30/2007
+Florida,Bay,Fountain,"12324 Greenbriar Drive",,10/31/2007
+Florida,Brevard,Cocoa,"404 North Kentucky Street",,11/07/2007
+Florida,Bay,Youngstown,"8519 Freese Road",,11/07/2007
+Florida,Escambia,Pensacola,"307 West Hope Drive G",,11/08/2007
+Florida,"Santa Rosa",Milton,"5400 Tom Sawyer Road",,11/13/2007
+Florida,Bay,Callaway,"1430 South Gay Avenue",,11/14/2007
+Florida,Escambia,Pensacola,"5 Teakwood Circle Road",,11/16/2007
+Florida,Volusia,Edgewater,"3043 Yule Tree Drive",,11/19/2007
+Florida,Brevard,"West Melbourne","266 Oak Street",,11/21/2007
+Florida,Jackson,Alford,"828 Mill Road",,12/02/2007
+Florida,Escambia,Pensacola,"2063 Bush Street 20",,12/05/2007
+Florida,"Santa Rosa",Pace,"3908 Legend Creek Drive",,12/06/2007
+Florida,"Santa Rosa",Milton,"2959 North 14th Avenue",,12/07/2007
+Florida,Marion,Umatilla,"14425 Southeast 209th Terrace",,12/10/2007
+Florida,Brevard,Cocoa,"4081 Fountain Palms Avenue",,12/23/2007
+Florida,Brevard,Cocoa,"143 Circle Drive",,12/23/2007
+Florida,Walton,Freeport,"164 Alaqua Cove Road",,12/26/2007
+Florida,Osceola,Kissimmee,"2450 Smith Street",,01/02/2008
+Florida,Marion,Umatilla,"14126 Southeast 209th Terrace",,01/04/2008
+Florida,Escambia,Pensacola,"10421 Cedar Creek Drive",,01/06/2008
+Florida,Jackson,Marianna,"3070 Carters Mill Road C-12",,01/15/2008
+Florida,Bay,"Panama City Beach","11741 Sandcastle Lane",,01/23/2008
+Florida,Lake,Ferndale,"18739 Thier Avenue",,01/28/2008
+Florida,Bay,"Lynn Haven","3142 Meadow Street",,01/30/2008
+Florida,Bay,"Panama City","811 Forestdale Avenue",,02/01/2008
+Florida,Brevard,Rockledge,"1205 Saint Andrew Drive",,02/20/2008
+Florida,Bay,"Lynn Haven","1201 Indiana Avenue",,02/22/2008
+Florida,Escambia,Pensacola,"411 East Sunset Avenue",,03/05/2008
+Florida,Escambia,Pensacola,"2113 North U Street",,03/05/2008
+Florida,"Santa Rosa",Milton,"4521 Arcadia Street",,03/06/2008
+Florida,Orange,Zellwood,"3200 Washington Street",,03/10/2008
+Florida,Gadsden,Quincy,"2108 Attapulgus Highway",,03/12/2008
+Florida,Osceola,"Saint Cloud","2705 8th Street",,03/16/2008
+Florida,Osceola,"Saint Cloud","1323 Massachusetts Avenue",,03/20/2008
+Florida,Calhoun,Altha,"20939 Northwest Willow Bend",,03/20/2008
+Florida,Lake,Clermont,"828 Center Lane",,03/24/2008
+Florida,Jackson,Sneads,"8252 Shady Grove Road",,03/25/2008
+Florida,Lake,Clermont,"460 North Street",,03/28/2008
+Florida,Gadsden,Chattahoochee,"4903 Blue Star Highway",,04/01/2008
+Florida,Bay,Callaway,"1420 South Berthe Avenue",,04/08/2008
+Florida,"Santa Rosa",Milton,"6822 Thunder Lane",,04/09/2008
+Florida,"Santa Rosa",Milton,"5703 Pine Ridge Drive",,04/09/2008
+Florida,Gadsden,Chattahoochee,"542 West Satsuma",,04/10/2008
+Florida,Osceola,"Saint Cloud","3761 Henry J Avenue",,04/30/2008
+Florida,Orange,"Winter Garden","400 Pennsylvania Avenue",,05/09/2008
+Florida,Walton,Freeport,"289 Sparkleberry Lane",,05/15/2008
+Florida,Walton,"Santa Rosa Beach","234 East Nursery Road",,05/16/2008
+Florida,Marion,Umatilla,"15345 Southeast 182nd Avenue",,05/21/2008
+Florida,Walton,Freeport,"241 Oakcrest Drive",,05/27/2008
+Florida,Osceola,"Saint Cloud","220 Florida Avenue",,05/30/2008
+Florida,"Santa Rosa",Milton,"4383 Oak Lane",,06/04/2008
+Florida,Escambia,Pensacola,"8320 Lillian Highway",,06/07/2008
+Florida,Lake,Ferndale,"18926 Thira Avenue",,06/11/2008
+Florida,Osceola,"Saint Cloud","1690 Mc Michael Road",,06/13/2008
+Florida,Marion,Ocklawaha,"9815 Southeast 191 Terrace",,06/18/2008
+Florida,Marion,Ocala,"9410 Southeast 192 Court",,06/23/2008
+Florida,Polk,Wahneta,"1140 West A Avenue",,06/23/2008
+Florida,Volusia,Edgewater,"206 Park Avenue",,06/23/2008
+Florida,Volusia,"Ormond Beach","630 Santa Ana Avenue",,06/25/2008
+Florida,Marion,Summerfield,"8250 Southeast 159th Place",,06/26/2008
+Florida,Washington,Vernon,"3776 Pate Pond Road",,06/26/2008
+Florida,Orange,"Winter Garden","519 Roper Parkway",,06/27/2008
+Florida,Bay,"Panama City Beach","225 El Roposo Place",,07/01/2008
+Florida,Brevard,"Merritt Island","5201 State Road 3",,07/05/2008
+Florida,Citrus,Lecanto,"4300 West Lee Ann Lane",,07/07/2008
+Florida,Walton,"De Funiak Springs","142 Rose Circle",,07/17/2008
+Florida,Bay,"Panama City Beach","1502 Lighthouse Lane",,07/22/2008
+Florida,Citrus,Inglis,"11014 West Unisus Court",,07/24/2008
+Florida,Escambia,Molino,"835 Nancy Lane",,08/02/2008
+Florida,Gadsden,Havana,"315 Tall Pine Drive",,08/07/2008
+Florida,Marion,Umatilla,"14200 Southeast 105th Court",,08/09/2008
+Florida,Holmes,"Ponce De Leon","2842 Ponce De Leon Springs Road 2",,08/19/2008
+Florida,Bay,Callaway,"6607 Lance Street",,09/10/2008
+Florida,Polk,"Lake Wales","1518 North Scenic Highway 19",,09/26/2008
+Florida,Okaloosa,Niceville,"616 Elm Street",,09/29/2008
+Florida,Okaloosa,Niceville,"232 Madison Street",,09/29/2008
+Florida,Escambia,Pensacola,"5225 Cartier Drive",,10/14/2008
+Florida,Escambia,Molino,"5875 Fairground Road",,10/16/2008
+Florida,Orange,"Winter Garden","400 East Pennsylvania Avenue",,10/22/2008
+Florida,Brevard,Melbourne,"1791 Sandalwood Drive",,10/23/2008
+Florida,Marion,"Fort Mccoy","24970 Northeast 132nd Street",,10/29/2008
+Florida,Marion,Umatilla,"17040 Southeast 272 Court",,11/15/2008
+Florida,Lake,"Fruitland Park","213 East Mirror Lake Drive D",,11/30/2008
+Florida,Bay,"South Port","314 Briggs Lane",,12/09/2008
+Florida,Jefferson,Monticello,"188 Back Pond Road",,12/10/2008
+Florida,Lake,"De Land","42901 Jewell Drive",,12/27/2008
+Florida,Escambia,Pensacola,"3120 Muldoon Road F",,12/30/2008
+Florida,Orange,Orlando,"4919 West Colonial Drive 180",,04/01/2009
+Florida,Lake,Montverde,"16739 Heatherwood Lane",,04/04/2009
+Florida,Lake,Ferndale,"18739 3rd Avenue",,04/04/2009
+Florida,Lake,Paisley,"25130 Rancho Lane",,04/08/2009
+Florida,Volusia,"Holly Hill","225 Lpga Boulevard",,04/10/2009
+Florida,Orange,Ocoee,"499 2nd Street",,04/10/2009
+Florida,Lake,"De Land","31706 Lakeside Drive",,04/16/2009
+Florida,Lake,"De Land","42901 Jewel Drive",,04/21/2009
+Florida,Bay,"Panama City","9700 Cherokee",,04/22/2009
+Florida,Marion,Summerfield,"16801 Southeast Hwy 301 25",,04/25/2009
+Florida,Lake,Tavares,"300 County Road 448",,04/28/2009
+Florida,Lake,Umatilla,"933 North Cental Avenue",,04/30/2009
+Florida,Walton,"De Funiak Springs","560 John White Road",,05/01/2009
+Florida,Hillsborough,Lithia,"602 Keysville Road",,05/01/2009
+Florida,Lake,"De Land","31706 County Road 42",,05/02/2009
+Florida,Hillsborough,Valrico,"118 Hunter Road",,05/05/2009
+Florida,Citrus,Lecanto,"3881 West Homosassa Trail",,05/21/2009
+Florida,Citrus,Homosassa,"5510 South Bablan Terrace",,05/22/2009
+Florida,Polk,Lakeland,"2345 Deer Run",,06/02/2009
+Florida,Marion,Ocala,"1800 Northeast 14th Street",,06/03/2009
+Florida,Lake,Tavares,"14229  Lake Eustis Drive",,01/02/2010
+Florida,Lake,"Lake Mack Park","43027  Jewel Drive",,01/03/2010
+Florida,Gulf,Wewahitchka,"290  Marvin Pitts Road",,01/07/2010
+Florida,Marion,Ocklawaha,"19091 Southeast 95th Street",,01/08/2010
+Florida,"Santa Rosa",Milltown,"8017  Old Hickory Hammock Road",,01/09/2010
+Florida,Polk,Lakeland,"5034  Fairfield Court",,01/09/2010
+Florida,Orange,Orlando,"11250 East Colonial Drive",,01/10/2010
+Florida,Osceola,Kissimmee,"400  Simpson Road",,01/11/2010
+Florida,Washington,Chipley,"2078  Rooks Circle",,01/13/2010
+Florida,Osceola,"Saint Cloud","1423  Virginia Avenue",,01/15/2010
+Florida,Polk,Bartow,"4818  Mark Way",,01/15/2010
+Florida,Seminole,"Altamonte Springs","224 West S.r. 436",,01/15/2010
+Florida,Washington,Chipley,"378  Quail Hollow Boulevard",,01/22/2010
+Florida,Polk,"Lake Wales","3531 North Scenic Highway 3",,01/23/2010
+Florida,Hillsborough,Lithia,"10528  Lithia Pinecrest",,01/26/2010
+Florida,Polk,Lakeland,"5103  Ivybrook Lane",,01/27/2010
+Florida,Polk,"Winter Haven","723  Byni Ridge Drive",,02/06/2010
+Florida,Polk,"Winter Haven","790  Byni Ridge Road",,02/06/2010
+Florida,Polk,Bartow,"1154  Hankin Road",,02/09/2010
+Florida,Brevard,"Palm Bay","412  Ulm Road",,04/02/2010
+Florida,Flagler,"Palm Coast","14  Fanshawe Lane",,04/04/2010
+Florida,Osceola,"Saint Cloud","9490 East Irlo Bronson Memorial Highway",,04/04/2010
+Florida,Polk,Lakeland,"2350  Deer Run",,04/12/2010
+Florida,Nassau,"Fernandina Beach","95633  Spring Hill Road",,04/14/2010
+Florida,Lake,Clermont,"21501  County Road 455",,04/16/2010
+Florida,Hardee,Wauchula,"4390  Stevens Carlton Place",,04/16/2010
+Florida,Citrus,Homosassa,"10341 West Central",,04/18/2010
+Florida,Escambia,Pensacola,"1600 West Nine Mile Road",,04/19/2010
+Florida,Volusia,"Holly Hill","1225  Moravia Avenue",,04/22/2010
+Florida,Lake,Ferndale,"18730  County Road 455",,04/27/2010
+Florida,Polk,Lithia,"8902  County Line Road",,04/29/2010
+Florida,Volusia,"De Land","2720  Concorde Road",,04/29/2010
+Florida,Gulf,Wewahitchka,"1080  County Road 381",,05/03/2010
+Florida,Putnam,Satsuma,"201  County Road 309",,05/05/2010
+Florida,Volusia,"Daytona Beach","720  Davis Street",,05/16/2010
+Florida,Polk,Lakeland,"2114  Dawn Heights Drive",,05/18/2010
+Florida,Escambia,Pensacola,"245  Bordeaux Street",,05/19/2010
+Florida,Polk,"Winter Haven","124  Eagle Lake Loop Road",,05/26/2010
+Florida,Orange,Orlando,"2549  Maitland Crossing Way 11-203",,06/06/2010
+Florida,Escambia,Pensacola,"706 West Hannah Street",,06/08/2010
+Florida,Polk,Lakeland,"4430  Old Government Road",,06/08/2010
+Florida,Lake,Montverde,"16739  Heatherwood Lane",,06/21/2010
+Florida,Brevard,"Palm Bay","2300  Oaklyn Street",,06/22/2010
+Florida,Calhoun,Blountstown,"17528 Northwest Franklin Street",,06/25/2010
+Florida,Escambia,Pensacola,"720  Pinecrest Avenue",,06/30/2010
+Florida,Hillsborough,Lithia,"11233  Tuten Loop Street",,07/04/2010
+Florida,Escambia,Pensacola,"223  Emerald Avenue",,07/07/2010
+Florida,Polk,Lakeland,"105 West Carter Road",,07/07/2010
+Florida,Pinellas,"Palm Harbor","1460 North Seagull Drive 203",,07/11/2010
+Florida,Orange,Orlando,"12128  Green Badger Lane 1170",,07/14/2010
+Florida,Polk,Auburndale,"1204  Taylor Street",,07/16/2010
+Florida,Volusia,"Daytona Beach","9 West Highridge Drive",,07/16/2010
+Florida,Escambia,Pensacola,"1302  Wilson Avenue",,07/17/2010
+Florida,Putnam,Florahome,"105  Sipprell Street",,07/20/2010
+Florida,Citrus,Lecanto,"53 South Elmhurst Point",,07/22/2010
+Florida,Washington,Chipley,"4894b  Amos Hayes Trail",,08/03/2010
+Florida,Citrus,Inverness,"2604 East Harley Street",,08/03/2010
+Florida,Polk,Bartow,"7222 West Thomas Jefferson Circle",,08/04/2010
+Florida,Duval,Jacksonville,"13230  Arbor Vitae Drive",,08/12/2010
+Florida,Washington,Chipley,"2585  Old Drive",,08/14/2010
+Florida,Polk,"Eagle Lake","1630  Gray Road 4",,08/17/2010
+Florida,Escambia,Cantonment,"36  Williams Ditch Road",,08/25/2010
+Florida,Washington,Vernon,"4233  Holmes Valley Road",,08/26/2010
+Florida,Hernando,"Spring Hill","4275  Elwood Road",,08/26/2010
+Florida,Citrus,Lecanto,"6429 West Folger Court",,08/26/2010
+Florida,Levy,Inglis,"6711  Debra Avenue",,08/27/2010
+Florida,Washington,Vernon,"2777  River Road",,08/28/2010
+Florida,"St. Johns",Hastings,"9615  Kircher Avenue",,08/28/2010
+Florida,Polk,Mulberry,"4425  Meadow Ridge Avenue",,08/30/2010
+Florida,Manatee,Bradenton,"1201 West 21st Avenue R",,09/01/2010
+Florida,Walton,Bruce,"330  Bh Reddick Road",,09/01/2010
+Florida,Washington,Youngstown,"5498  Blue Springs Road",,09/05/2010
+Florida,"St. Johns","Saint Augustine","19  Barcelona Avenue",,09/08/2010
+Florida,Escambia,Pensacola,"2330  Deerwood Road",,09/14/2010
+Florida,Washington,Caryville,"1801  Brock Road",,09/22/2010
+Florida,Washington,Chipley,"1465  Old Mill Road",,09/25/2010
+Florida,Polk,"Fort Meade","1330  Hickory Lane",,09/28/2010
+Florida,Hillsborough,Valrico,"3905 Santee Way",,11/09/2010
+Florida,Citrus,Homosassa,"5315 South Oldfield Avenue",,11/17/2010
+Florida,Hillsborough,Dover,"14811  Hayness Road",,11/29/2010
+Florida,Escambia,Pensacola,"2357  Deerwood Road",,12/08/2010
+Florida,Polk,"Lake Wales","165  North Drive",,12/21/2010
+Florida,Hillsborough,Lithia,"2035  Welcome Road",,01/04/2011
+Florida,"St Lucie","Fort Pierce","3401 South 7th Street",,01/05/2011
+Florida,Marion,Umatilla,"21597 Southeast 148 Place",,01/12/2011
+Florida,Polk,Bartow,"2200  Thompson Road",,01/13/2011
+Florida,Escambia,Century,"7500  Jefferson Avenue",,01/18/2011
+Florida,Polk,"Lake Wales","1837  Old Bartow Road",,01/19/2011
+Florida,Citrus,"Crystal River","342 West Winterset Avenue",,02/02/2011
+Florida,Escambia,Cantonment,"1115  Muscogee Road",,02/06/2011
+Florida,Polk,Bartow,"2710  Holly Lane",,02/08/2011
+Florida,Citrus,Dunnellon,"7803 West Waldron Court",,02/11/2011
+Florida,Hillsborough,"Plant City","3907  Bamboo Palm Way",,02/15/2011
+Florida,Polk,Lakeland,"1005 South New York Avenue",,02/18/2011
+Florida,Escambia,Pensacola,"2028  Stark Avenue",,02/18/2011
+Florida,Marion,Umatilla,"28449  172nd  Se Street",,07/17/2011
+Florida,Hillsborough,Seffner,"407  Hillside Drive",,07/29/2011
+Florida,Columbia,"Lake City","448 Northeast Tammy Lane",,09/01/2011
+Florida,Hillsborough,Brandon,"1103  Bristolwoods Street",,09/26/2011
+Florida,Hillsborough,Ruskin,"1911 South 4th Street",,11/03/2011
+Florida,Marion,Umatilla,"14950  218 Terrace",,11/09/2011
+Florida,Hillsborough,Seffner,"5312  Orange Avenue",,12/20/2011
+Florida,Columbia,"Lake City","247 Northeast Jacksonville Loop",,02/13/2012
+Florida,Walton,"Santa Rosa Beach","16 North Spooky Lane",,02/15/2012
+Florida,Columbia,"Lake City","943 Northwest Brown Road",,02/16/2012
+Florida,Volusia,"Daytona Beach","217  Mullally Street",,02/23/2012
+Florida,Columbia,"Lake City","276 Southeast Morning Glory Court",,02/24/2012
+Florida,Walton,"De Funiak Springs","9222  Us Highway 90",,02/25/2012
+Florida,Walton,"Mossy Head","14  Leisure Lake Road",,06/11/2012
+Florida,Walton,"De Funiak Springs","685  Orange Avenue",,07/17/2012
+Florida,Polk,Lakeland,"4561  Old Government Road",,07/19/2012
+Florida,"St Lucie","Fort Pierce","5514  Spruce Drive",,07/23/2012
+Florida,Hillsborough,Ruskin,"601 Southwest 6th Avenue",,07/25/2012
+Florida,Volusia,"Daytona Beach","285  Catriona Avenue",,07/31/2012
+Florida,Volusia,"De Land","44925  1st Street",,08/03/2012
+Florida,Okaloosa,"Fort Walton Beach","520  Santa Rosa Boulevard 508",,08/04/2012
+Florida,Polk,Bartow,"750 South Dudley Avenue",,08/06/2012
+Florida,Hillsborough,"Plant City","5804  Calhoun Road",,08/08/2012
+Florida,Polk,Lakeland,"433 West Timberlane  A",,08/09/2012
+Florida,Escambia,Pensacola,"423  Baublits Court",,08/10/2012
+Florida,Columbia,"Lake City","306 Southwest Sunset Glen",,08/11/2012
+Florida,Columbia,"Lake City","953 Southwest Sebastian Circle",,08/12/2012
+Florida,Columbia,"Lake City","167 Southwest Fantasy Glen",,08/14/2012
+Florida,Lake,"De Land","31114  Lake Holly Road",,08/17/2012
+Florida,Polk,Bartow,"170 East Vine Street",,08/18/2012
+Florida,"St. Johns",Elkton,"4217  Maine Street",,08/24/2012
+Florida,Volusia,"Daytona Beach","538  Magnolia Avenue",,08/30/2012
+Florida,Alachua,Gainesville,"1900 Southeast 4th Street",,08/31/2012
+Florida,Polk,Bartow,"270  Hankin Road",,09/02/2012
+Florida,Hillsborough,Ruskin,"416  Frances Circle",,09/11/2012
+Florida,Volusia,"Port Orange","1210  Harbour Point",,09/19/2012
+Florida,Volusia,"Holly Hill","1038  Center Avenue",,10/03/2012
+Florida,Marion,Belleview,"11400 Southeast 76 Avenue",,10/03/2012
+Florida,Volusia,"De Land","1947  Calle Huescha Drive",,10/09/2012
+Florida,Citrus,Dunnellon,"870 West Lightwood Street",,10/09/2012
+Florida,Marion,Ocala,"1601 Southwest 27th Avenue 605",,10/09/2012
+Florida,Lake,"Lady Lake","2948  Temple Hill Road",,10/09/2012
+Florida,Marion,"Silver Springs","16795 Southeast 9th Street",,10/12/2012
+Florida,Volusia,Sanford,"853 East 20th Street",,10/14/2012
+Florida,Volusia,Edgewater,"2109  Umbrella Tree Drive",,10/16/2012
+Florida,Pinellas,"Palm Harbor","2680  Peterborough Court",,10/24/2012
+Florida,Citrus,Hernando,"622 East Wacker Street",,10/25/2012
+Florida,Volusia,"Daytona Beach","162  Center Street",,11/04/2012
+Florida,Citrus,Homosassa,"6015 West Green Acres Street",,11/06/2012
+Florida,Citrus,Dunnellon,"8901 North Basswood Avenue",,11/28/2012
+Florida,Hillsborough,Gibsonton,"10409  Alafia Street",,12/06/2012
+Florida,Alachua,Gainesville,"3504 Southwest 30th Terrace 29a",,12/07/2012
+Florida,Hillsborough,"Plant City","1206  Fletcher Lane",,12/08/2012
+Florida,"St. Johns","Saint Augustine","207  Queen Road",,12/12/2012
+Florida,Hillsborough,"Plant City","3209  Young Road",,12/13/2012
+Florida,Hillsborough,Seffner,"12014  Michigan Avenue",,12/13/2012
+Florida,"Santa Rosa",Jay,"12715  Scenic Lake Drive",,12/14/2012
+Florida,"St. Johns",Hastings,"10455  Gregory Avenue",,12/16/2012
+Florida,Hillsborough,Riverview,"12904  Lovers Lane",,12/19/2012
+Florida,Columbia,"Fort White","1069 Southwest Faulkner Road",,12/21/2012
+Florida,Citrus,Lecanto,"4901 West Menasha Street",,01/01/2013
+Florida,Citrus,Homosassa,"7805 West Miss Maggie Drive 1 & 2",,01/02/2013
+Florida,Polk,Lakeland,"530  Jamestown Ave Avenue",,01/04/2013
+Florida,Citrus,"Crystal River","8478 West Aeroview Lane",,01/10/2013
+Florida,Hillsborough,"Plant City","5228  Rainbow Sky Drive",,01/12/2013
+Florida,Columbia,"Lake City","1210 Northeast Double Run Road",,01/13/2013
+Florida,Polk,Lakeland,"8715  Carrolwood Drive",,01/14/2013
+Florida,"St. Johns","Saint Augustine","1920  Tomahawk Road",,02/01/2013
+Florida,Hillsborough,Riverview,"12914  Darla Drive",,02/05/2013
+Florida,Citrus,Hernando,"4506 North Remington Terrace",,02/06/2013
+Florida,Citrus,Inverness,"323 South Schmidt Avenue",,02/13/2013
+Florida,Hillsborough,"Plant City","106  Chapman Road",,02/15/2013
+Florida,Citrus,Inverness,"1214  Parkside Ave Street",,03/14/2013
+Florida,Citrus,Homosassa,"6306 West Minuteman Street",,03/15/2013
+Florida,Citrus,Lecanto,"5204 East Stage Coach Trail",,04/01/2013
+Florida,Escambia,Pensacola,"30  Anne Circle",,04/01/2013
+Florida,Marion,Ocala,"18951 Northeast 96 Place",,04/02/2013
+Florida,Pasco,"Wesley Chapel","30642  Way Drive",,04/04/2013
+Florida,Bay,"Panama City","2952 East Business Hwy 98  1",,04/05/2013
+Florida,Marion,Ocala,"2511 Southeast 177 Avenue",,04/10/2013
+Florida,Lee,"Fort Myers","527  San Jose Street",,04/11/2013
+Florida,Seminole,Chuluota,"561 East 3rd Street",,04/12/2013
+Florida,Sarasota,Nokomis,"200 South Sierra Street",,04/13/2013
+Florida,Marion,Ocklawaha,"10655 Southeast 130th Place",,04/15/2013
+Florida,Charlotte,Englewood,"6337  Roberta Drive",,04/16/2013
+Florida,Walton,"De Funiak Springs","209  Mosley Lane",,04/17/2013
+Florida,Citrus,Homosassa,"5361 South Elm Ave Street",,04/21/2013
+Florida,Citrus,Dunnellon,"5866 West Jedi Court",,04/22/2013
+Florida,Citrus,Hernando,"3373 East Buffalo Lane",,04/25/2013
+Florida,Hillsborough,Tampa,"1498 East Idlewild Ave Avenue",,04/29/2013
+Florida,Okaloosa,Destin,"7991  Gulf Boulevard",,05/02/2013
+Florida,"Santa Rosa",Milton,"5678  Windrun Place",,05/04/2013
+Florida,Hillsborough,"Plant City","1304  Trapnell Road",,05/07/2013
+Florida,Hillsborough,Tampa,"5641  Wilkins Road",,05/08/2013
+Florida,Volusia,"Ormond Beach","2  Barbara Court",,05/10/2013
+Florida,Volusia,"S Daytona","625  Reed Canal Road",,05/13/2013
+Florida,"Santa Rosa",Milton,"6418  Simpson Street",,05/27/2013
+Florida,Hillsborough,Ruskin,"711  Oak Street",,05/28/2013
+Florida,Lake,Leesburg,"899  Sandi Drive 303",,06/02/2013
+Florida,Columbia,"Fort White","168 Southwest Feeedom Court",,06/03/2013
+Florida,Columbia,"Lake City","641 Southwest Mayhall Terrace",,06/03/2013
+Florida,Hernando,"Spring Hill","1201  Trellis Avenue",,06/04/2013
+Florida,Citrus,Homosassa,"911 South Skyway Avenue",,06/05/2013
+Florida,Okaloosa,Valparaiso,"15  Carie Terrace",,06/06/2013
+Florida,Escambia,Pensacola,"624  Colbert Ave Avenue",,06/08/2013
+Florida,Hillsborough,Tampa,"8609  Bonnaire Bay Lane Apt 204",,06/11/2013
+Florida,"Santa Rosa",Milton,"6416  Metz Road",,06/12/2013
+Florida,Citrus,Lecanto,"349 South Thayer Ave Avenue",,06/13/2013
+Florida,Citrus,"Floral City","9308 South Twist Road",,06/13/2013
+Florida,Citrus,Inverness,"333 West Highland Boulevard",,06/13/2013
+Florida,Citrus,Homosassa,"7275 West Stuart Lane",,06/24/2013
+Florida,Columbia,"Lake City","276 Southeast Morning Glory Court",,06/26/2013
+Florida,"Santa Rosa",Milton,"4807  Guernsey Road",,07/02/2013
+Florida,Broward,"Pembroke Pines","20861 Northwest 4th Street",,07/05/2013
+Florida,Volusia,Edgewater,"123  Alice Street",,07/09/2013
+Florida,Volusia,Deltona,"1251  Humphrey Boulevard",,07/09/2013
+Florida,Citrus,Hernando,"4219 East 4253 Scott Lane",,07/11/2013
+Florida,Citrus,Hernando,"2949 North Carl G Rose Highway",,07/12/2013
+Florida,"Santa Rosa",Milton,"5237  Compass Court",,07/15/2013
+Florida,Walton,"Defuniak Springs","9149  Alton Court",,07/30/2013
+Florida,Hillsborough,"Plant City","1704 South Wiggins Road",,08/03/2013
+Florida,Volusia,Edgewater,"110 West Pine Bluff Street",,08/05/2013
+Florida,"Santa Rosa",Milton,"4352  Kelley Road",,08/05/2013
+Florida,"Santa Rosa",Milton,"6268  Buckskin Drive",,08/12/2013
+Florida,"Santa Rosa",Navarre,"2779  Lost Bottoms Lane",,08/12/2013
+Florida,Escambia,Pensacola,"4  Mississippi Circle",,08/16/2013
+Florida,Escambia,Pensacola,"952  46th Avenue",,08/16/2013
+Florida,Charlotte,"Port Charlotte","21487  Olean Boulevard",,08/16/2013
+Florida,Hillsborough,Riverview,"10801  Palmetto St Street",,08/20/2013
+Florida,Marion,"Fort Mccoy","14235 Northeast Ne 223rd Ln Lane",,08/22/2013
+Florida,"St Johns","St Augustine","6481  San Pietro Isle",,09/06/2013
+Florida,Volusia,"Daytona Beach","1641  Carmen Avenue",,09/10/2013
+Florida,Seminole,Geneva,"2330  Waccassa Street",,09/12/2013
+Florida,Putnam,Interlachen,"297 Old Woods Road",,09/16/2013
+Florida,Seminole,"Altamonte Springs","911  Great Bend Circle",,09/17/2013
+Florida,Seminole,Sanford,"3827  Elder Springs Circle",,09/17/2013
+Florida,"St Johns","St Augustine","57  Crookshank Drive",,09/19/2013
+Florida,"St Lucie","Port St Lucie","798 Southwest Alton Circle",,09/24/2013
+Florida,"St Johns","St Augustine","818  Viscaya Boulevard",,09/26/2013
+Florida,"Santa Rosa",Milton,"4521  Belleville Ct Court",,10/08/2013
+Florida,"Santa Rosa",Milton,"6791  Dixon St Street",,10/10/2013
+Florida,Osceola,Marion,"2220 Northeast 3rd Street",,10/12/2013
+Florida,"Santa Rosa",Milton,"8027  Hickory Hammock Rd/cr-184   Road",,10/22/2013
+Florida,Hillsborough,"Plant City","3019  Fair Lane",,10/27/2013
+Florida,Hillsborough,Riverview,"8615  Miller Drive",,11/08/2013
+Florida,"Santa Rosa",Navarre,"2167  Pepper Dr Road",,11/12/2013
+Florida,"Santa Rosa",Navarre,"8385  Segura St Street",,11/15/2013
+Florida,Escambia,Pensacola,"1096  Cobblestone Drive",,11/21/2013
+Florida,Okaloosa,Crestview,"5352  County Road 393 Road",,12/17/2013
+Florida,Okaloosa,Baker,"1894  Wadsworth Rd Road",,12/19/2013
+Florida,Hillsborough,Dover,"3605  Jordan Rd Road",,12/27/2013
+Florida,Hillsborough,Tampa,"11317 North N 51st St Street 307",,12/27/2013
+Florida,"Santa Rosa",Milton,"6600  Ridge Crest Drive",,01/03/2014
+Florida,"St. Johns","Saint Augustine","131  Palmer Street",,01/03/2014
+Florida,"Santa Rosa",Milton,"6529  Robie Road",,01/03/2014
+Florida,Citrus,"Floral City","8009 East E Partridge Ln Lane",,01/05/2014
+Florida,Citrus,"Beverly Hills","8009 East Partridge Lane",,01/05/2014
+Florida,Citrus,Lecanto,"399 South S Ponder Ave Avenue",,01/14/2014
+Florida,Citrus,Homosassa,"2143 South S Rock Crusher Rd Road",,01/16/2014
+Florida,Pasco,"New Port Richey","65659 West Echo Road",,01/17/2014
+Florida,Citrus,Inverness,"3643 East Bulldog Lane",,01/28/2014
+Florida,Osceola,Kissimmee,"1843 Sailfish Court",,02/04/2014
+Florida,Okaloosa,"Fort Walton Beach","108  Monahan Dr Drive 3",,02/07/2014
+Florida,"Santa Rosa",Milton,"6951  Datura Street",,02/10/2014
+Florida,Hernando,"Spring Hill","11349  Elgin Blvd",,02/13/2014
+Florida,Leon,Tallahassee,"445 South Appleyard Drive C16",,02/14/2014
+Florida,"St. Johns","Saint Augustine","2644  Gorda Bella Avenue",,02/18/2014
+Florida,Nassau,"Fernandina Beach","95552  Arbor Lane",,03/10/2014
+Florida,Citrus,Inverness,"327 South Us Highway 41 S/s Florida Ave/us-41 (s)/sr-45 (n)/us-41 S Highway",,03/12/2014
+Florida,Citrus,Inverness,"8901 South S Berkshire Ave Avenue",,03/13/2014
+Florida,Volusia,"Daytona Beach","501  Butler Avenue 1",,03/14/2014
+Florida,Citrus,Dunnellon,"11201 North N Riverbend Rd/w River Bend Rd Road",,03/15/2014
+Florida,"Santa Rosa",Milton,"6204  Fox Chase Court",,03/16/2014
+Florida,Walton,"Defuniak Springs","193  Seminole Terrace",,03/19/2014
+Florida,Lake,Leesburg,"615 North 14th Street",,03/19/2014
+Florida,Escambia,Pensacola,"288 East Olive Road 6c",,03/26/2014
+Florida,Hernando,Brooksville,"11475  Eskimo Curlew Rd Road",,03/28/2014
+Florida,Escambia,Pensacola,"618 North 77th Avenue",,03/31/2014
+Florida,Volusia,"Daytona Beach","150  Coates Avenue",,04/08/2014
+Florida,Lake,Leesburg,"718  Marietta Street",,05/01/2014
+Florida,Volusia,"Daytona Beach","219  Oakridge Boulevard  Box Apt 1",,05/16/2014
+Florida,Volusia,"Holly Hill","842  State Street  Box 6",,06/24/2014
+Florida,"St. Johns","Saint Augustine","300  Whispering Woods Lane  Box 15",,08/04/2014
+Florida,"Santa Rosa",Navarre,"2759  Hillview Court",,10/03/2014
+Florida,"Santa Rosa",Milton,"6639  Lee Street",,10/29/2014
+Florida,Walton,"Defuniak Springs","70  Bens",,12/03/2014
+Florida,Walton,"Defuniak Springs","935  Campbell",,12/03/2014
+Florida,"St. Johns","Saint Augustine","958  Wynfield Circle",,12/03/2014
+Florida,Milton,Milton,"3908  Legend Creek Drive",,12/08/2014
+Florida,Milton,Milton,"3035  North 38th Avenue",,12/09/2014
+Florida,Volusia,Edgewater,"3318  Kumquat",,12/10/2014
+Florida,Alachua,"Santa Rosa Beach","103  Santa Rosa",,12/10/2014
+Florida,Volusia,"Daytona Beach","145  Wild Olive Avenue",,12/13/2014
+Florida,Escambia,Pensacola,"7965  Le Jeune Drive",,12/13/2014
+Florida,Volusia,"Ormond Beach","1300  Hand Avenue  Box F 21",,12/21/2014
+Florida,Volusia,"New Smyrna Beach","903  Myrtle Avenue",,12/27/2014
+Florida,"Santa Rosa",Milton,"4899  Lynn Drive",,12/30/2014
+Florida,"Santa Rosa",Milton,"4137  Polks Avenue",,12/30/2014
+Florida,Volusia,"Port Orange","509  Commonwealth Boulevard",,01/01/2015
+Florida,Hillsborough,Riverview,"6232  Krycul Avenue",,01/07/2015
+Florida,Hillsborough,Riverview,"11518  Downs Loop",,01/09/2015
+Florida,"Santa Rosa",Milton,"3886  Avalon Boulevard",,01/23/2015
+Florida,Volusia,"Daytona Beach","1216 N 10th Street",,02/04/2015
+Florida,Walton,"Santa Rosa Beach","103  Santa Rosa Street",,02/06/2015
+Florida,Volusia,Deltona,"1799  Village Drive",,02/10/2015
+Florida,Hillsborough,Tampa,"819  East Broad Street",,02/15/2015
+Florida,Okaloosa,Shalimar,"51  6th Avenue",,02/17/2015
+Florida,Okaloosa,"Fort Walton Beach","705 W Sunset Boulevard",,02/18/2015
+Florida,Marion,Ocala,"5311 Se 29th Court",,02/25/2015
+Florida,"Santa Rosa",Milton,"6385  Butternut Drive",,03/04/2015
+Florida,Escambia,Pensacola,"708  Lasalle Circle",,03/05/2015
+Florida,Charlotte,"Port Charlotte","1190  Barbour Avenue",,03/06/2015
+Florida,"Santa Rosa",Milton,"4627  Fowler Drive",,03/11/2015
+Florida,Volusia,"New Smyrna Beach","1050  Wayne Avenue Box Apt 38",,03/14/2015
+Florida,"Santa Rosa",Milton,"4246  Celtic Circle",,03/19/2015
+Florida,"Santa Rosa",Milton,"5708  Meadow Road",,03/19/2015
+Florida,"Santa Rosa",Milton,"6469  Bruce Lane",,03/21/2015
+Florida,Hillsborough,Tampa,"5507  Baptist Church Road",,04/19/2015
+Florida,Hillsborough,Tampa,"10307  Fembrook Lane",,04/26/2015
+Florida,Citrus,Hernando,"4734 N Apache Trail",,05/07/2015
+Florida,Volusia,Deltona,"2525  Boswell Street",,05/07/2015
+Florida,Citrus,"Crystal River","6235 W Fox Lane",,05/14/2015
+Florida,Volusia,"Daytona Beach","600  Oakridge Boulevard Box 1",,05/23/2015
+Florida,Pinellas,Largo,"612 Ne Beverly Avenue",,05/31/2015
+Florida,Pinellas,"Saint Petersburg","5701 N Haines Road Box 210",,06/01/2015
+Florida,Volusia,"Daytona Beach","1161  Cordova Avenue",,06/04/2015
+Florida,Volusia,"New Smyrna Beach","4610  Van Kleeck Drive",,06/04/2015
+Florida,"St Johns","St Augustine","530  Colee Street Box K",,06/06/2015
+Florida,Marion,Summerfield,"10110 Se 169th Lane",,06/08/2015
+Florida,"Santa Rosa",Milton,"199  Miller Road Box 33",,06/11/2015
+Florida,Volusia,"Orange City","340  Dogwood Avenue",,06/12/2015
+Florida,Okaloosa,Crestview,"127  Beacons Bend Road",,07/01/2015
+Florida,"Santa Rosa",Milton,"5015  Poi Terrace",,07/03/2015
+Florida,Citrus,"Floral City","4924 E Stage Coach Trail",,07/07/2015
+Florida,Hernando,"Spring Hill","1085  Marlow Avenue",,07/09/2015
+Florida,Citrus,Lecanto,"3539 W Cherub Court",,07/10/2015
+Florida,"Santa Rosa",Milton,"4296 W Avenida De Golf Street",,07/28/2015
+Florida,Volusia,"Ormond Beach","4  Sea Oats Terrace",,08/04/2015
+Florida,Volusia,Deltona,"1300  Pacific Court",,08/05/2015
+Florida,Volusia,"New Smyrna Beach","910  Cavedo Street",,08/06/2015
+Florida,Volusia,"Oak Hill","1125  Maytown Road",,08/07/2015
+Florida,Volusia,Edgewater,"3228  Eels Grove Road",,08/10/2015
+Florida,Escambia,Pensacola,"128  Airport Boulevard",,08/11/2015
+Florida,"Saint Johns","Saint Augustine","125  Vilano Road Box 9",,08/21/2015
+Florida,Seminole,"Lake Mary","Lake Mary Blvd And Ridge Drive",,08/27/2015
+Florida,Volusia,"Ormond Beach","1300  Hand Avenue Box E12",,10/01/2015
+Florida,Pinellas,"Saint Petersburg","5000 N 28th Street Box 32",,10/03/2015
+Florida,Volusia,"Oak Hill","121  Center Street",,10/05/2015
+Florida,Walton,"Defuniak Springs","173  Lancelot Road",,10/06/2015
+Florida,Marion,"Fort Mccoy","0  12530 East Hwy 318",,10/09/2015
+Florida,Volusia,Deltona,"2299  Lake Helen Osteen Road",,10/10/2015
+Florida,Volusia,Edgewater,"3132  Kumquat Drive",,10/17/2015
+Florida,Volusia,"Daytona Beach","267  Morningside Avenue",,10/18/2015
+Florida,Volusia,Edgewater,"112  Charles Street",,10/24/2015
+Florida,Marion,"Ocala Ridge","5055 Sw 154th Loop",,11/02/2015
+Florida,Volusia,"Port Orange","494  Leslie Drive",,12/05/2015
+Florida,"Santa Rosa",Milton,"7864  Fleetwood Drive",,12/09/2015
+Florida,Lake,Leesburg,"34525  Laralack Avenue",,12/17/2015
+Florida,Seminole,Sanford,"1206  Limestone Run",,01/01/2016
+Florida,Duval,Jacksonville,"8285  Phillips Highway Box 307",,01/01/2016
+Florida,Pinellas,"Saint Petersburg","3901 N 46th Avenue Box 11",,02/06/2016
+Florida,Pinellas,"Saint Petersburg","4297 N 41st Avenue",,02/07/2016
+Florida,"Santa Rosa",Milton,"6642  Walker Street",,05/05/2016
+Florida,Pinellas,"Saint Petersburg","1321 N Mentone Drive",,06/01/2016
+Florida,Hillsborough,Seffner,"11614  Canterbury Dr",,06/04/2016
+Florida,"St. Lucie","Fort Pierce","424 S 21st St",,08/31/2016
+Florida,Lake,Leesburg,"34138 Lee Ave",,09/13/2016
+Florida,Volusia,,"12 Orange St",,09/30/2016
+Florida,Volusia,"Daytona Beach","2119 S Penninsula Dr",,10/13/2016
+Florida,"Santa Rosa",Milton,"6010 Syrcle Ave",,10/13/2016
+Florida,Putnam,Palatka,"111 Little Acres Dr",,10/21/2016
+Florida,Hillsborough,Thonotosassa,"5530 Wilkins Rd",,02/01/2017
+Florida,Volusia,"Daytona Beach","900 Sickler Dr",,02/02/2017
+Florida,Marion,Belleview,"0 11164 Se 55th Ave Rd",,06/06/2017
+Florida,Lake,Umatilla,"16200 Lenord St.",,11/19/2017
+Florida,Alachua,"High Springs","0 23467 Nw 189th Ave",,12/01/2017
+Florida,Volusia,Edgewater,"117 Arbor Ln",,12/07/2017
+Florida,Marion,,"0 16745 Ne Hwy 315",,12/15/2017
+Florida,Marion,Ocala,"0 4800 Northeast 25th Place",,12/20/2017
+Florida,Volusia,"Daytona Beach","2234 S. Penninsula Dr",,02/14/2018
+Florida,Marion,Summerfield,"0 14870 South Hwy 441",,03/07/2018
+Florida,Volusia,Deltona,"730 Cloverleaf Blvd",,10/10/2018
+Florida,Marion,"Silver Springs","0 163 Ne 170th Court",,11/13/2018

@@ -1,0 +1,1283 @@
+state,county,city,address1,address2,date
+Ohio,Summit,Barberton,"688 Charles St",,01/15/2000
+Ohio,Summit,Akron,"697 Sherman St",,04/04/2000
+Ohio,Cuyahoga,Cleveland,"9521 Raymond Ave",,05/03/2000
+Ohio,Summit,Akron,"1306 Curtis St",,07/03/2000
+Ohio,Montgomery,Dayton,"218 Pleasant Ave",,07/28/2000
+Ohio,Brown,"Mount Orab","17244 Us 68 Green Township",,10/26/2000
+Ohio,Clinton,Midland,"101 Vine St",,10/27/2000
+Ohio,Fayette,Jeffersonville,"43 State St A & B",,10/29/2000
+Ohio,Summit,Akron,"674 Cole Ave",,11/16/2000
+Ohio,Hamilton,Cincinnati,"4769 Hart Ave",,11/20/2000
+Ohio,Montgomery,Kettering,"2105 Colton Dr",,11/27/2000
+Ohio,Greene,"Spring Valley","1850 42 State S Rt",,11/27/2000
+Ohio,Summit,Tallmadge,"38 Thomas S Ave C",,12/07/2000
+Ohio,Summit,Akron,"1530 Preston Ave",,12/08/2000
+Ohio,Montgomery,Miamisburg,"412 Second S St",,12/21/2000
+Ohio,Adams,Peebles,"350 Fields Hollow Rd",,01/02/2001
+Ohio,Summit,Akron,"557 Fairfield Ave",,02/12/2001
+Ohio,Summit,Akron,"775 Howard N St",,02/25/2001
+Ohio,Washington,Belpre,"1209 Wyatt Ln C",,03/17/2001
+Ohio,Clermont,Blanchester,"5949 Hunt Rd",,04/14/2001
+Ohio,Washington,Belpre,"616 Walnut St",,04/20/2001
+Ohio,Highland,Hillsboro,"10600 Lois Ln",,04/27/2001
+Ohio,Brown,Sardinia,"5260 Stephan Rd",,05/01/2001
+Ohio,Warren,Loveland,"9359 Chestnut Dr",,05/09/2001
+Ohio,Clinton,Wilmington,"2252 Brimstone Rd",,05/13/2001
+Ohio,Adams,"West Union","210 Rice Dr 19",,05/24/2001
+Ohio,Highland,Hillsboro,"7131 Field Ln",,05/29/2001
+Ohio,Summit,Stow,"4222 Stormrise St",,06/05/2001
+Ohio,Montgomery,Kettering,"2028 Valley Green Dr",,06/27/2001
+Ohio,Highland,Hillsboro,"6759 Heather Moor Trail",,06/27/2001
+Ohio,Montgomery,Riverside,"2506 Amble Way",,07/06/2001
+Ohio,Darke,Greenville,"2298 Mcfeeley-petry Rd",,07/06/2001
+Ohio,Shelby,Sidney,"123 Poplar St",,07/09/2001
+Ohio,Highland,Hillsboro,"2299 New Market W Rd",,07/26/2001
+Ohio,Holmes,Wooster,"223 Curry Ct",,07/27/2001
+Ohio,Summit,Springfield,"2347 Waterloo E Rd",,08/02/2001
+Ohio,Clermont,Milford,"4694 Tealtown Rd",,08/20/2001
+Ohio,Brown,Sardinia,"3031 St Rt 321",,08/27/2001
+Ohio,Greene,Springfield,"2801 Division E 17",,08/31/2001
+Ohio,Jackson,"Oak Hill","147 Scenic Dr",,09/05/2001
+Ohio,Clermont,Batavia,"5222 Locust St",,10/01/2001
+Ohio,Trumbull,Warren,"489 Highland Sw",,11/05/2001
+Ohio,Summit,Tallmadge,"1179 Munroe S Rd",,11/16/2001
+Ohio,Clermont,"Pleasant Plain","3220 Martin Rd",,12/12/2001
+Ohio,Clermont,Goshen,"3271 Bishop Rd",,01/07/2002
+Ohio,Jackson,Jackson,"9290 State 776 Rt",,01/12/2002
+Ohio,Wayne,Orrville,"631 Smithville Rd",,02/14/2002
+Ohio,Brown,Winchester,"12611 Mound Rd",,02/17/2002
+Ohio,Scioto,Lucasville,"1421 Lusasvill-minford Rd",,02/20/2002
+Ohio,Pickaway,Circleville,"148 Starkey St",,02/20/2002
+Ohio,Clermont,Batavia,"4672 Shepherd Rd",,03/26/2002
+Ohio,Washington,Coolville,"125 Frost Rd",,03/28/2002
+Ohio,Summit,Akron,"880 1/2 Iona Ave",,03/31/2002
+Ohio,Montgomery,Dayton,"2230 Lodell",,04/04/2002
+Ohio,Fairfield,Lancaster,"537 1/2 Main E St",,04/10/2002
+Ohio,Cuyahoga,Cleveland,"9508 Cardwell Ave",,04/11/2002
+Ohio,Montgomery,Trotwood,"2112 Union Rd",,04/15/2002
+Ohio,Cuyahoga,Bedford,"134 Maria Dr",,04/19/2002
+Ohio,Portage,Randolph,"3294 Waterloo Rd",,05/06/2002
+Ohio,Adams,"Blue Creek","21805 State Route 125",,05/08/2002
+Ohio,Summit,Akron,"75 Akers Ave 4",,05/08/2002
+Ohio,Butler,Fairfield,"6516 State Route 4",,05/10/2002
+Ohio,Hamilton,Cincinnati,"4250 Virginia Ave",,05/21/2002
+Ohio,Adams,"West Union","466 Chaparral Rd",,05/27/2002
+Ohio,Scioto,Lucasville,"2879 Miller's Run Rd",,06/04/2002
+Ohio,Lucas,Toledo,"2030 Ashland Ave 505",,06/11/2002
+Ohio,Montgomery,Dayton,"231 Hunter Ave",,06/17/2002
+Ohio,Adams,"West Union","222 Rice Dr 3",,08/08/2002
+Ohio,Defiance,Hicksville,"418 Elm St 2",,08/13/2002
+Ohio,Hamilton,Harrison,"133 Flintstone Dr",,08/14/2002
+Ohio,Greene,Fairborn,"436 Ironwood Dr",,08/23/2002
+Ohio,Scioto,Mcdermott,"2614 Tatman Cove Rd",,09/04/2002
+Ohio,Brown,Fayetteville,"410 Russell St",,09/22/2002
+Ohio,Greene,Fairborn,"507 Lohnes Dr",,09/26/2002
+Ohio,Summit,Akron,"710 Patterson Ave",,10/07/2002
+Ohio,Ashtabula,Andover,"2290 Pymatuning Lake Rd",,10/18/2002
+Ohio,Summit,Akron,"270 Goodview Ave 2",,10/30/2002
+Ohio,Franklin,Franklin,"765 Main S St",,10/30/2002
+Ohio,Clark,Springfield,"3327 Overlook Dr",,11/01/2002
+Ohio,Ashtabula,Geneva,"257 Main E St",,11/03/2002
+Ohio,Pike,Piketon,"947 Schuster Rd",,11/19/2002
+Ohio,Highland,Hillsboro,"7509 Walker Rd",,11/20/2002
+Ohio,Summit,Akron,"1751 Main S St 2",,11/24/2002
+Ohio,Summit,Akron,"650 Spicer St",,12/01/2002
+Ohio,Ross,Chillicothe,"677 East Main St",,12/10/2002
+Ohio,Summit,"Cuyahoga Falls","2270 Winter Pkwy 1",,12/11/2002
+Ohio,Geauga,Burton,"12619 Jackson Dr",,12/14/2002
+Ohio,Hamilton,Cincinnati,"905 Rodsemont Rd",,12/19/2002
+Ohio,Clermont,Goshen,"22 Holly Ln",,12/23/2002
+Ohio,Clermont,Marathon,"1010 Predmore Rd",,12/25/2002
+Ohio,Clark,Medway,"1417 Park N Dr",,01/02/2003
+Ohio,Adams,Seaman,"304 Vine St",,01/20/2003
+Ohio,Montgomery,"Huber Heights","7511 Dial Dr",,01/31/2003
+Ohio,Highland,Mowrystown,"82 Main W St",,01/31/2003
+Ohio,Scioto,Lucasville,"811 Alints Hollow Rd",,02/03/2003
+Ohio,Adams,Peebles,"2600 Parker Ridge Rd",,02/15/2003
+Ohio,Ashtabula,Ashtabula,"6250 New London N Rd",,02/18/2003
+Ohio,Clermont,"New Richmond","2896 Pisgah Rd",,02/25/2003
+Ohio,Franklin,Obetz,"4332 Thelma Dr",,03/06/2003
+Ohio,Summit,Akron,"655 Oxford N Ave Upper",,03/15/2003
+Ohio,Preble,Camden,"6999 Rose Blvd",,03/15/2003
+Ohio,Holmes,Millersburg,"151 Tanager St",,03/20/2003
+Ohio,Summit,Tallmadge,"554 West Ave 205",,03/26/2003
+Ohio,Warren,"West Chester","5063 A Columbia Cir",,03/27/2003
+Ohio,Summit,Akron,"508 Buchtel E Ave 2h",,04/01/2003
+Ohio,Montgomery,"Jefferson Twp","8667 Dayton Famersville Rd",,04/03/2003
+Ohio,Hamilton,Cincinnati,"3223 Clendora Ave",,04/08/2003
+Ohio,Summit,Akron,"28 Mapledale E Ave",,04/17/2003
+Ohio,Ashtabula,Ashtabula,"3903 North Ridge West N",,04/18/2003
+Ohio,Clermont,Bethel,"2028 Justin Ln",,04/22/2003
+Ohio,Jackson,Wellston,"249 13th W St 54",,05/01/2003
+Ohio,Greene,Fairborn,"30 Goodman E",,05/16/2003
+Ohio,Pike,Waverly,"1017 State Route 552",,05/20/2003
+Ohio,Pike,Lucasville,"403 Worth S St",,05/22/2003
+Ohio,Scioto,Portsmouth,"1222 Milldale Rd",,05/26/2003
+Ohio,Adams,"West Union","147 Over Dr",,05/26/2003
+Ohio,Summit,Akron,"843 Minota St",,05/28/2003
+Ohio,Holmes,Millersburg,"5671 State Route 83",,06/12/2003
+Ohio,Greene,Fairborn,"64 Erie St",,06/13/2003
+Ohio,Ashtabula,Geneva,"3107 Myers S Rd",,06/14/2003
+Ohio,Clermont,"New Richmond","851 Old Us 52",,06/20/2003
+Ohio,Clermont,"Wayne Township","6198 Taylor Pike",,06/20/2003
+Ohio,Summit,Akron,"1147 Sylvan Ave",,06/22/2003
+Ohio,Miami,Piqua,"703 Willard St",,06/24/2003
+Ohio,Ashtabula,"Rock Creek","3740 St. Rt. 534 S",,06/29/2003
+Ohio,Ashtabula,"North Kingsville","2088 Center W Rd",,07/10/2003
+Ohio,Greene,Fairborn,"647 Dayton Yellow Springs E",,07/15/2003
+Ohio,Fairfield,Pleasantville,"7480 Grubb Rd",,07/19/2003
+Ohio,Fairfield,Reynoldsburg,"2786 John Stevens Way",,08/06/2003
+Ohio,Summit,Tallmadge,"282 North Ave",,08/19/2003
+Ohio,Summit,Lakemore,"1551 Front St",,08/19/2003
+Ohio,Adams,"West Union","100 Chesley",,09/12/2003
+Ohio,Adams,Peebles,"32505 State Route 41",,09/15/2003
+Ohio,Lorain,Oberlin,"43303 Hasting Rd",,09/23/2003
+Ohio,Lorain,Oberlin,"13552 Hale Rd",,09/23/2003
+Ohio,Summit,Tallmadge,"600 Parkside Ln",,09/25/2003
+Ohio,Summit,Barberton,"1638 Wooster W Rd",,09/27/2003
+Ohio,Clinton,Clarksville,"2502 Creek Rd",,10/07/2003
+Ohio,Scioto,Mcdermott,"1420 Mcdermott Pond Creek Rd B",,10/09/2003
+Ohio,Scioto,Lucasville,"60 North St",,10/17/2003
+Ohio,Summit,Akron,"378 Wonder Lake Dr",,10/30/2003
+Ohio,Ashtabula,Ashtabula,"711 52nd W St Up",,11/05/2003
+Ohio,Mercer,Celina,"6720 (b) Wabash Rd",,11/06/2003
+Ohio,Mercer,Celina,"6720 (a) Wabash Rd",,11/07/2003
+Ohio,Summit,Akron,"499 Columbine S Ave",,12/21/2003
+Ohio,Licking,Newark,"626 Glenbrook Dr 33",,12/29/2003
+Ohio,Champaign,Urbana,"3400 State Route 68",,01/02/2004
+Ohio,Ashtabula,Geneva,"2600 Walter Main N Rd",,01/04/2004
+Ohio,Summit,Akron,"313 Baird",,01/05/2004
+Ohio,Summit,Akron,"2561 Edwin Ave",,01/05/2004
+Ohio,Summit,Akron,"2178 Killian Rd",,01/12/2004
+Ohio,Defiance,Hicksville,"208 Columbia St",,01/13/2004
+Ohio,Medina,Wadsworth,"123 Water St",,01/21/2004
+Ohio,Summit,Akron,"2865 Unwood",,01/23/2004
+Ohio,Scioto,Portsmouth,"3941 Woods Ridge Rd",,01/24/2004
+Ohio,Summit,Akron,"634 Essex St",,01/25/2004
+Ohio,Highland,Lynchburg,"7730 Spickard Rd",,02/03/2004
+Ohio,Brown,Winchester,"10434 John Woods Rd",,02/06/2004
+Ohio,Summit,Akron,"642 Plum Ave",,02/08/2004
+Ohio,Scioto,Lucasville,"655 Dace Rd",,02/24/2004
+Ohio,Scioto,Mcdermott,"44 Carpenter Rd",,02/24/2004
+Ohio,Knox,"Mount Vernon","1100 New Gambier Rd",,02/25/2004
+Ohio,Summit,Springfield,"2161 Canton Rd",,03/02/2004
+Ohio,Williams,Alvordton,"16445 County Road 20",,03/02/2004
+Ohio,Darke,Versailles,"10241 Greenville St. Mary's Rd",,03/02/2004
+Ohio,Summit,Akron,"166 Lakota Ave",,03/04/2004
+Ohio,Pike,Piketon,"126 Hopper Rd",,03/04/2004
+Ohio,Defiance,Sherwood,"06324 Openlunder Rd",,03/04/2004
+Ohio,Summit,"Munroe Falls","176 Hunter Ave",,03/08/2004
+Ohio,Marion,Marion,"314 Windsor St",,03/18/2004
+Ohio,Ashtabula,Jefferson,"1554 Black Sea S Rd",,03/19/2004
+Ohio,Logan,Bellefontaine,"317 Columbus E St 3",,03/22/2004
+Ohio,Montgomery,Dayton,"215 Edmund St",,03/28/2004
+Ohio,Miami,Piqua,"519 Boone St",,03/30/2004
+Ohio,Williams,Alvordton,"106 1/2 Main E St",,04/01/2004
+Ohio,Clark,Springfield,"703 Cassilly St",,04/08/2004
+Ohio,Knox,"Mount Vernon","303 Gay N St 1",,04/10/2004
+Ohio,Summit,Akron,"1059 Lexington Ave",,04/12/2004
+Ohio,Summit,Akron,"944 Oregon Ave",,04/12/2004
+Ohio,Summit,Akron,"1316 Waterloo W Rd",,04/14/2004
+Ohio,Summit,Barberton,"637 Cassell E Ave",,04/14/2004
+Ohio,Highland,Hillsboro,"1100 Northview Dr 11b",,04/20/2004
+Ohio,Pike,Lucasville,"2080 Owl Creek Rd",,04/28/2004
+Ohio,Greene,Fairborn,"44 Thornton Dr",,05/04/2004
+Ohio,Summit,Mogadore,"3799 Dick St",,05/05/2004
+Ohio,Wayne,Doylestown,"15099 Hametown Rd",,05/12/2004
+Ohio,Summit,Akron,"908 Howard N",,05/17/2004
+Ohio,Summit,Akron,"2294 17th Sw St",,05/20/2004
+Ohio,Summit,Stow,"1517 Meadowbrook Blvd",,05/27/2004
+Ohio,Ashtabula,Ashtabula,"1530 8th W St",,06/08/2004
+Ohio,Summit,Akron,"549 Dayton St",,06/10/2004
+Ohio,Summit,Akron,"935 Harrison Ave",,06/11/2004
+Ohio,Hamilton,Cincinnati,"8690 Lawrenceburg Ave",,06/16/2004
+Ohio,Summit,Green,"3187 Walnut St",,06/16/2004
+Ohio,Wayne,Orrville,"317 Walnut St",,06/22/2004
+Ohio,Stark,"North Canton","121 Holl Ne Rd",,06/26/2004
+Ohio,Summit,"Cuyahoga Falls","2247 11th St",,07/01/2004
+Ohio,Summit,Akron,"1913 2nd Sw St",,07/02/2004
+Ohio,Ashtabula,Rome,"4851 St. Rt. 45 S",,07/03/2004
+Ohio,Ashtabula,Ashtabula,"1712 Ohio Ave",,07/06/2004
+Ohio,Summit,"Cuyahoga Falls","1300 Bailey Rd",,07/08/2004
+Ohio,Summit,Akron,"1142 Welsh St B",,07/08/2004
+Ohio,Clinton,Wilmington,"267 Columbus St",,07/10/2004
+Ohio,Summit,"Cuyahoga Falls","3370 Caleb St",,07/16/2004
+Ohio,Summit,Akron,"2238 East Ave",,07/28/2004
+Ohio,Brown,"Mount Orab","118 Pine Ridge Ln",,08/02/2004
+Ohio,Licking,Utica,"1902 Homer Rd",,08/03/2004
+Ohio,Licking,Pataskala,"12769 Worthington Rd",,08/05/2004
+Ohio,Summit,Akron,"1750 East Ave",,08/07/2004
+Ohio,Highland,Hillsboro,"6311 Wilkam W Rd",,08/09/2004
+Ohio,Summit,Akron,"1882 Marks Dr",,08/11/2004
+Ohio,Williams,Edgerton,"2750 Co. Rd. 6",,08/14/2004
+Ohio,Summit,Akron,"1273 Wilbeth W Rd B",,08/17/2004
+Ohio,Montgomery,Dayton,"254 (a) Findlay S St",,08/20/2004
+Ohio,Shelby,Sidney,"12636 Kirkwood Rd",,09/01/2004
+Ohio,Summit,Akron,"2305 Waterloo E Rd 18",,09/11/2004
+Ohio,Williams,Bryan,"1012 Center St",,09/16/2004
+Ohio,Brown,Fayetteville,"4904 Eubanks Rd",,09/27/2004
+Ohio,Summit,Akron,"610 Wilbeth W Rd",,09/30/2004
+Ohio,Summit,Barberton,"27 20th St",,10/04/2004
+Ohio,Fairfield,Bremen,"5285 Marietta Rd",,10/04/2004
+Ohio,Ross,Frankfort,"2897 Simmons",,10/08/2004
+Ohio,Ross,Bainbridge,"441 Quarry S",,10/10/2004
+Ohio,Montgomery,Union,"7031 Scerold Rd",,10/11/2004
+Ohio,Crawford,Crestline,"8157 Oldfield Rd",,10/12/2004
+Ohio,Summit,Akron,"502 Lessig Ave",,10/12/2004
+Ohio,Summit,Akron,"607 Johnston St",,10/13/2004
+Ohio,Ashtabula,Windsor,"6371 Ireland Rd",,10/14/2004
+Ohio,Summit,Akron,"2599 Roming Rd 14",,10/14/2004
+Ohio,Summit,Green,"2446 Providence",,10/16/2004
+Ohio,Summit,Barberton,"84 20th Sw St",,10/18/2004
+Ohio,Adams,Seaman,"386a Mark Tilger Road",,10/30/2004
+Ohio,Adams,Seaman,"386 (b) Mark Tilger Rd",,10/30/2004
+Ohio,Summit,Akron,"218 Polonia Ave",,11/01/2004
+Ohio,Summit,Akron,"507 Flora Ave",,11/01/2004
+Ohio,Summit,Clinton,"8659 Glenridge Nw Ave",,11/02/2004
+Ohio,Montgomery,Dayton,"418 Pritz Ave",,11/07/2004
+Ohio,Summit,Akron,"677 Corice St",,11/07/2004
+Ohio,Knox,Danville,"18825 State Route 41",,11/08/2004
+Ohio,Summit,Akron,"4901 Provens Dr",,11/11/2004
+Ohio,Summit,Akron,"2672 Chelsea Dr",,11/17/2004
+Ohio,Summit,Akron,"1312 Sevilla Ave",,11/23/2004
+Ohio,Summit,Akron,"3094 Krebs Dr",,11/24/2004
+Ohio,Summit,Akron,"1993 Ninth St",,11/27/2004
+Ohio,Ashtabula,"Rock Creek","2769 Windsor Mechanics Ville Rd",,12/03/2004
+Ohio,Darke,Greenville,"925 Peters Rd",,12/06/2004
+Ohio,Portage,Ravenna,"2268 Tallmadge Rd",,12/15/2004
+Ohio,Franklin,Groveport,"788 Breathitt Ave",,12/16/2004
+Ohio,"Van Wert","Van Wert","415 Boyd Ave",,12/21/2004
+Ohio,"Van Wert","Van Wert","637 Franklin N St 1",,12/21/2004
+Ohio,"Van Wert","Van Wert","1122 Leeson Ave",,12/21/2004
+Ohio,Ross,Bainbridge,"440 Quarry St",,12/22/2004
+Ohio,Erie,Sandusky,"415 Fulton St",,12/29/2004
+Ohio,Cuyahoga,Bedford,"33 Monroe W St",,12/31/2004
+Ohio,Ashtabula,Dorset,"3960 Marrian Rd",,01/05/2005
+Ohio,Summit,Tallmadge,"115 Whitehall Dr 115",,01/10/2005
+Ohio,Summit,Akron,"11 Faircourt",,01/20/2005
+Ohio,Warren,Morrow,"2724 Shamrock Dr",,01/21/2005
+Ohio,Clermont,Williamsburg,"107 Main W St",,01/24/2005
+Ohio,Summit,Akron,"1028 Jefferson Ave",,01/24/2005
+Ohio,Greene,Fairborn,"241 Madison St",,01/24/2005
+Ohio,Shelby,Sidney,"714 West Court Street",,01/26/2005
+Ohio,Brown,"Mount Orab","11971 Sterling East",,01/26/2005
+Ohio,Wood,Cygnet,"15383 Hammansburg Rd",,01/28/2005
+Ohio,Summit,Akron,"193 Hubbard St",,01/31/2005
+Ohio,Franklin,Columbus,"1250 Fairwood Avenue",,02/02/2005
+Ohio,Warren,Franklin,"922 Park Ave",,02/03/2005
+Ohio,Franklin,Columbus,"2744 Great Woods Ln",,02/04/2005
+Ohio,Summit,Akron,"1188 Atwood",,02/07/2005
+Ohio,Ashland,Perrysville,"32 1/2 Bridge N St",,02/08/2005
+Ohio,Summit,Barberton,"60 Ettling Ave",,02/09/2005
+Ohio,Summit,Akron,"107 Radnor",,02/09/2005
+Ohio,Summit,Akron,"722 Sherman",,02/15/2005
+Ohio,Pike,Beaver,"1545 Holbrook Rd",,02/15/2005
+Ohio,Summit,Barberton,"693 Charles",,02/16/2005
+Ohio,Fairfield,Lancaster,"637 1/2 6th E St",,02/22/2005
+Ohio,Portage,Aurora,"977 Lloyd Ave",,02/26/2005
+Ohio,Adams,Winchester,"191(a) Winchester Russellville Rd",,03/01/2005
+Ohio,Portage,Mantua,"5191 Streeter Rd",,03/04/2005
+Ohio,Warren,Franklin,"401 Bridge St",,03/07/2005
+Ohio,Summit,Akron,"382 Fuller St",,03/09/2005
+Ohio,Warren,Franklin,"140 Deardoff Dr",,03/09/2005
+Ohio,Clinton,Blanchester,"108 Pansy Pike",,03/10/2005
+Ohio,Portage,Ravenna,"746 Lake E St",,03/10/2005
+Ohio,Franklin,Columbus,"4580 Wyandot Rd",,03/11/2005
+Ohio,Fulton,Delta,"407 Madison S St",,03/18/2005
+Ohio,Lake,Madison,"65 Palm Blvd",,03/22/2005
+Ohio,Warren,Blanchester,"8826 Waynes Way",,03/24/2005
+Ohio,Summit,Akron,"1168 Weiser Ave",,03/25/2005
+Ohio,Summit,Akron,"698 Seiberling St",,03/30/2005
+Ohio,Pike,Waverly,"5812 Camp Creek Rd",,03/31/2005
+Ohio,Clermont,Batavia,"1638 State Route 28",,04/01/2005
+Ohio,Lake,Perry,"3805 Ridge S Rd",,04/01/2005
+Ohio,Williams,Edon,"211 (a) Walnut St",,04/01/2005
+Ohio,Scioto,Mcdermott,"1991 Mcdermott Rushtown",,04/02/2005
+Ohio,Scioto,Lucasville,"445 Davis Camp Rd",,04/03/2005
+Ohio,Summit,Tallmadge,"53 Northeast Ave",,04/03/2005
+Ohio,Summit,Akron,"859 Edge St",,04/04/2005
+Ohio,Madison,"Plain City","12505 Taylor Rd",,04/06/2005
+Ohio,Summit,Akron,"846 Waterloo E Rd",,04/06/2005
+Ohio,Portage,Kent,"3989 Ranfield Rd",,04/07/2005
+Ohio,Summit,Akron,"65 Akers Ct 1",,04/08/2005
+Ohio,Warren,Franklin,"61 Montgomery Ave",,04/11/2005
+Ohio,Licking,Newark,"116 Smithview Rd",,04/14/2005
+Ohio,Coshocton,Warsaw,"8580 County Road 3 Apt D",,04/14/2005
+Ohio,Clark,Springfield,"49 Laverne Ln",,04/14/2005
+Ohio,Scioto,"West Portsmouth","1617 Jenkins Ln",,04/15/2005
+Ohio,Hamilton,Cincinnati,"11474 Gresham Pl",,04/15/2005
+Ohio,Clermont,Milford,"5585 Sugar Ca,p Rd",,04/21/2005
+Ohio,Butler,Hamilton,"1816 Pankomo Ave",,04/29/2005
+Ohio,Ashtabula,Jefferson,"2142 Sr 46 North",,04/30/2005
+Ohio,Scioto,Portsmouth,"2018 6th E St",,05/01/2005
+Ohio,Scioto,Portsmouth,"2004 Jackson E Ave",,05/01/2005
+Ohio,Hamilton,Sharonville,"308 Teneriton Dr",,05/03/2005
+Ohio,Clinton,Midland,"122 State Route 28",,05/07/2005
+Ohio,Summit,Akron,"635 Koerber Ave",,05/11/2005
+Ohio,Guernsey,"New Concord","2235 Indian Camp Run Road",,05/16/2005
+Ohio,Stark,Canton,"162 Saratoga Sw St",,05/17/2005
+Ohio,Summit,Akron,"1247 Main N St",,05/23/2005
+Ohio,Scioto,Portsmouth,"1018 Forrest Rd",,05/27/2005
+Ohio,Portage,Ravenna,"8566 Weaver Rd",,05/28/2005
+Ohio,Montgomery,Miamisburg,"1027 East Central Avenue",,05/30/2005
+Ohio,Lake,Concord,"9880 Old Johnnycake Rd 2",,06/05/2005
+Ohio,Portage,Ravenna,"6921 Puk Rd",,06/18/2005
+Ohio,Medina,Medina,"447 Springbrook Dr 104",,06/23/2005
+Ohio,Summit,Akron,"2390 Igleheart Rd",,06/24/2005
+Ohio,Washington,Marietta,"618 8th St",,06/24/2005
+Ohio,Cuyahoga,"Seven Hills","5700 Chatham Ave",,06/26/2005
+Ohio,Hamilton,Harrison,"9140 Lawrenceburg Rd",,07/01/2005
+Ohio,Portage,Ravenna,"6605 State Route 5 72",,07/01/2005
+Ohio,Summit,Akron,"1174 Manning Ave",,07/02/2005
+Ohio,Greene,Fairborn,"1923 Zimmerman 20",,07/03/2005
+Ohio,Portage,Ravenna,"2255 Iraquois",,07/12/2005
+Ohio,Summit,Everett,"234 Geoppert Rd",,07/13/2005
+Ohio,Preble,Eaton,"114 Chicago W St",,07/21/2005
+Ohio,Stark,Louisville,"203 Depot N St",,07/29/2005
+Ohio,Clermont,Milford,"501 Milford Commons",,08/01/2005
+Ohio,Summit,Akron,"3047.5 Massillon Rd",,08/03/2005
+Ohio,Summit,Akron,"964 Stanwood Ave",,08/06/2005
+Ohio,Butler,"Seven Mile","205 Walnut St B",,08/10/2005
+Ohio,Clermont,Milford,"5900 Mcpicken Dr",,08/15/2005
+Ohio,Ashtabula,Jefferson,"1341 State Route 307 E",,08/17/2005
+Ohio,Hamilton,Harrison,"7066 Lawrenceburg Rd",,08/20/2005
+Ohio,Summit,Akron,"791 Evans Ave",,08/24/2005
+Ohio,Defiance,Defiance,"610 Grover Ave",,08/31/2005
+Ohio,Highland,Greenfield,"925 Spring St",,09/05/2005
+Ohio,Warren,"Blue Ball","855 Harvard Dr",,09/05/2005
+Ohio,Stark,"North Lawrence","14844 Northwest Churchfield Street",,09/06/2005
+Ohio,Summit,Akron,"3175 Mogadore Rd",,09/12/2005
+Ohio,Gallia,Gallipolis,"2650 Bleden Rd",,09/19/2005
+Ohio,Highland,Hillsboro,"10642 Horse Shoe Rd",,09/19/2005
+Ohio,Highland,Lynchburg,"10642 Horseshoe Rd",,09/19/2005
+Ohio,Stark,Canton,"1109 Oak Nw Ave",,09/24/2005
+Ohio,Scioto,Portsmouth,"7858 Pond Creek Rd",,09/30/2005
+Ohio,Wayne,Doylestown,"325 High St B",,10/01/2005
+Ohio,Hamilton,Harrison,"8789 Lawrenceburg Rd",,10/07/2005
+Ohio,Summit,Akron,"1106 Diana Ave",,10/19/2005
+Ohio,Warren,"South Lebanon","205 Mary Ellen St",,10/22/2005
+Ohio,Clinton,Blanchester,"3569 Woodville Rd",,10/27/2005
+Ohio,Brown,Fayetteville,"2995 Us 50",,10/29/2005
+Ohio,Franklin,Columbus,"382 Kanawaha Ave",,10/30/2005
+Ohio,Summit,Akron,"2304 8th Sw St",,11/04/2005
+Ohio,Butler,Middletown,"2363 South Sutphin Street",,11/06/2005
+Ohio,Summit,Akron,"952 Saxon Ave",,11/06/2005
+Ohio,Lake,Madison,"13 Eddie Road",,11/10/2005
+Ohio,Lake,Madison,"243 West Main Street",,11/10/2005
+Ohio,Preble,Eaton,"411 Village 1",,11/20/2005
+Ohio,Highland,Lynchburg,"10545 Horse Shoe",,11/23/2005
+Ohio,Clermont,Loveland,"6731 Oakland Rd",,11/23/2005
+Ohio,Ross,Chillicothe,"2586 Valley Rd",,12/01/2005
+Ohio,Summit,Akron,"22 Bachtel Ave",,12/07/2005
+Ohio,Summit,Akron,"1275 Kenmore Blvd",,12/12/2005
+Ohio,Summit,Akron,"831 Bairdst",,12/20/2005
+Ohio,Summit,Akron,"2408 7th Sw St",,12/22/2005
+Ohio,Summit,Barberton,"284 Northwest 14th Street",,01/02/2006
+Ohio,Summit,Akron,"1270 Kentucky Ave",,01/06/2006
+Ohio,Hocking,Laurelville,"17649 Hartssough Rd",,01/06/2006
+Ohio,"Van Wert","Van Wert","1155 Bell Ave M",,01/07/2006
+Ohio,Licking,Newark,"15955 Pinewood Trail",,01/07/2006
+Ohio,Scioto,Minford,"14384 State Route 139",,01/10/2006
+Ohio,Summit,Akron,"1949 Englewood Dr",,01/12/2006
+Ohio,Hamilton,"Forest Park","11474 Gresham Ave",,01/17/2006
+Ohio,Portage,Kent,"968 Silver Meadows Boulevard",,01/17/2006
+Ohio,Summit,Akron,"591 Greissing Ter",,01/20/2006
+Ohio,Summit,Akron,"2284 Pressler Road",,01/21/2006
+Ohio,Licking,Newark,"3411 Albright Rd",,01/23/2006
+Ohio,Scioto,Lucasville,"753 Crow Hollow Road",,01/23/2006
+Ohio,Knox,Gambier,"4010 Martinsburg Rd",,01/26/2006
+Ohio,Franklin,Westerville,"165 Juniper Avenue",,01/31/2006
+Ohio,Clermont,Loveland,"122 Green Acres Mhp Dr",,01/31/2006
+Ohio,Mahoning,Youngstown,"561 West Delason Avenue",,02/01/2006
+Ohio,Clermont,Bethel,"3032 Pitzer Rd",,02/03/2006
+Ohio,Williams,Montpelier,"112.5 South Jonesville Street",,02/09/2006
+Ohio,Summit,Akron,"1116 Evans Ave",,02/10/2006
+Ohio,Stark,Alliance,"9555 St Peter's Church Rd",,02/19/2006
+Ohio,Cuyahoga,"Garfield Heights","4710 Blythin",,02/27/2006
+Ohio,Summit,Akron,"2938 Ellet Ave",,03/01/2006
+Ohio,Scioto,Portsmouth,"665 Carpenter Road",,03/01/2006
+Ohio,Hardin,Ada,"4643 County Road 65 Rd",,03/02/2006
+Ohio,Summit,Akron,"958 Cole Ave",,03/05/2006
+Ohio,Stark,Uniontown,"3604 Kimmel Drive",,03/06/2006
+Ohio,Summit,Copley,"2767 Mull Ave",,03/11/2006
+Ohio,Summit,Akron,"2507 East Ave 3",,03/15/2006
+Ohio,Ashtabula,"Rock Creek","2974 High St",,03/20/2006
+Ohio,Summit,Akron,"1189 Magdalyn Dr",,03/22/2006
+Ohio,Portage,Brimfield,"4282 South Beal Drive",,03/24/2006
+Ohio,Ashtabula,Geneva,"4161 State Route 534",,03/29/2006
+Ohio,Ashtabula,Dorset,"3837 State Route 193",,03/29/2006
+Ohio,Summit,Akron,"59 Leicester Rd",,03/29/2006
+Ohio,Summit,Akron,"1022 Mohawk Trl",,03/30/2006
+Ohio,Brown,Hamersville,"2705 Eden Road",,04/01/2006
+Ohio,Ross,Chillicothe,"1290 Massieville Road",,04/04/2006
+Ohio,Brown,"Mount Orab","3200 Lake Grant Access Road",,04/05/2006
+Ohio,Fairfield,Lancaster,"200 Tenant S St",,04/05/2006
+Ohio,Summit,Akron,"540 Gage St",,04/10/2006
+Ohio,Summit,Akron,"899 Eastland Avenue",,04/10/2006
+Ohio,Summit,Akron,"592 Cove Boulevard",,04/15/2006
+Ohio,Scioto,Lucasville,"468 Butler Hollow Road",,04/16/2006
+Ohio,Ashtabula,Austinburg,"3911 Woodside Drive",,04/20/2006
+Ohio,Summit,Akron,"1205 Grandview Avenue",,04/24/2006
+Ohio,Clermont,Felicity,"236 Walnut Street",,04/26/2006
+Ohio,Summit,Akron,"1207 East Avenue",,04/27/2006
+Ohio,Greene,Cedarville,"48 West North Street",,04/30/2006
+Ohio,Clark,Springfield,"4630 Old Springfield Road",,05/01/2006
+Ohio,Lake,"Fairport Harbor","416 King Street",,05/01/2006
+Ohio,Summit,Akron,"2561 Edwin Avenue",,05/03/2006
+Ohio,Summit,"Cuyahoga Falls","1150 Ruth Avenue",,05/03/2006
+Ohio,Summit,Akron,"568 Stetler Avenue",,05/11/2006
+Ohio,Summit,"Cuyahoga Falls","611 Sackett Avenue",,05/18/2006
+Ohio,Franklin,"Grove City","1979 Harrisburg Pike",,05/19/2006
+Ohio,Preble,Eaton,"5405 West State Route 35",,05/22/2006
+Ohio,Summit,Green,"3945 Mayfair Road",,05/23/2006
+Ohio,Allen,Lima,"826 Findlay Road",,05/25/2006
+Ohio,Summit,Barberton,"132 Norman Street",,05/27/2006
+Ohio,Summit,"Cuyahoga Falls","2015 Newberry Street",,05/30/2006
+Ohio,Clermont,Bethel,"2095 Canter Road",,06/01/2006
+Ohio,Summit,Akron,"97 Kent Court",,06/02/2006
+Ohio,Clinton,Blanchester,"3228 Martin Road",,06/05/2006
+Ohio,Williams,Pioneer,"18840 State Route 15",,06/09/2006
+Ohio,Summit,Akron,"2291 27th Street",,06/14/2006
+Ohio,Mahoning,"Lake Milton","15847 Creed Road",,06/15/2006
+Ohio,Preble,"West Alexandria","6058 Ivy Lane",,06/22/2006
+Ohio,Summit,Clinton,"5806 Starview Drive",,06/25/2006
+Ohio,Muskingum,Roseville,"7860 Payne Road",,06/26/2006
+Ohio,Clermont,Bethel,"2253 Dean Road",,06/29/2006
+Ohio,Clermont,Bethel,"6400 Bethel Maple Road",,06/29/2006
+Ohio,Gallia,Patriot,"212 Cadmus Road",,07/10/2006
+Ohio,Scioto,Lucasville,"1336 Big Bear Creek Road",,08/13/2006
+Ohio,Summit,Norton,"3441 Wadsworth Road",,08/18/2006
+Ohio,Summit,"Cuyahoga Falls","439 Lynn Drive",,08/26/2006
+Ohio,Summit,"Cuyahoga Heights","1945 Cook Street",,08/29/2006
+Ohio,Summit,Akron,"1425 California Avenue",,09/02/2006
+Ohio,Summit,Akron,"388 Lindenwood Avenue",,09/06/2006
+Ohio,Scioto,Lucasville,"1741 Big Run Road",,09/07/2006
+Ohio,Summit,Akron,"1539 Brown Street",,09/11/2006
+Ohio,Summit,Tallmadge,"72 South Thomas Road",,09/26/2006
+Ohio,Ashtabula,Jefferson,"5737 Loveland Road",,10/13/2006
+Ohio,Scioto,Portsmouth,"27 Camp Road",,10/13/2006
+Ohio,Summit,Akron,"860 Avon Street",,10/22/2006
+Ohio,Ashtabula,Ashtabula,"1278 Carson Road",,11/09/2006
+Ohio,Scioto,Mcdermott,"180 Lute Cemetery Road",,11/11/2006
+Ohio,Scioto,Mcdermott,"2104 Wrights Run A",,11/22/2006
+Ohio,Hamilton,Cincinnati,"25 Lori Lane",,11/22/2006
+Ohio,Summit,Akron,"2911 Aldis Drive",,11/29/2006
+Ohio,Summit,Copley,"1189 Magdalyn Drive",,11/30/2006
+Ohio,Licking,Newark,"44 South Morris Street",,11/30/2006
+Ohio,Summit,Akron,"1230 Sparhawk Avenue",,11/30/2006
+Ohio,Summit,Akron,"158 Pocantico Avenue",,12/05/2006
+Ohio,Ashtabula,Ashtabula,"1020 Alfred Drive",,12/05/2006
+Ohio,Ashtabula,Ashtabula,"3214 Lake Avenue",,12/06/2006
+Ohio,Summit,Akron,"140 Davenport Avenue",,12/07/2006
+Ohio,Summit,Akron,"810 South Arlington Street",,12/08/2006
+Ohio,Summit,Akron,"492 Flora Avenue",,12/10/2006
+Ohio,Summit,Akron,"152 Miles Avenue",,12/15/2006
+Ohio,Geauga,Thompson,"17748 Rock Creek Road",,12/18/2006
+Ohio,Summit,Akron,"476 West Waterloo Road",,01/06/2007
+Ohio,Summit,Akron,"715 East Waterloo Road A",,01/08/2007
+Ohio,Summit,Akron,"689.5 Schiller Street",,01/23/2007
+Ohio,Preble,"West Alexandria","12 East Dayton Street",,01/25/2007
+Ohio,Ashtabula,"Monroe Twp","5830 Scribner Road",,01/30/2007
+Ohio,Summit,Akron,"330 Richards Court",,01/31/2007
+Ohio,Ashtabula,Ashtabula,"5118 Reed Avenue",,01/31/2007
+Ohio,Fairfield,Lancaster,"123 West Walnut Street",,02/01/2007
+Ohio,Pike,Lucasville,"5972 Camp Creek Road",,02/02/2007
+Ohio,Summit,Akron,"987 Mohawk Trail",,02/02/2007
+Ohio,Summit,Akron,"947 Kennebee Avenue",,02/25/2007
+Ohio,Summit,Akron,"525 Crosby Street",,03/02/2007
+Ohio,Clermont,Cincinnati,"4373 Mt Carmel Tobasco Road",,03/07/2007
+Ohio,Summit,Akron,"1134 Neptune Avenue",,04/05/2007
+Ohio,Summit,Akron,"1357 Hammel Street",,04/07/2007
+Ohio,Summit,Akron,"1111 West Wilbeth Avenue",,04/09/2007
+Ohio,Summit,Akron,"1724 Mcchesney Road",,04/09/2007
+Ohio,Hamilton,Cincinnati,"3675 Lawrenceburg Road",,04/19/2007
+Ohio,Clermont,Blanchester,"3977 Pettett Road",,04/30/2007
+Ohio,Adams,Peebles,"18 Smalley Road",,05/04/2007
+Ohio,Muskingum,Roseville,"6275 Butcher Knife Road",,05/07/2007
+Ohio,Scioto,Lucasville,"3492 Millers Run",,05/09/2007
+Ohio,Ashtabula,Geneva,"3583 Austin Road",,05/14/2007
+Ohio,Summit,Akron,"92 West Dartmore Avenue",,05/23/2007
+Ohio,Summit,Akron,"775 Johnston Street",,05/26/2007
+Ohio,Summit,Akron,"851 Inman Street",,05/27/2007
+Ohio,Preble,Eaton,"828 North Beech Street",,06/03/2007
+Ohio,Summit,Akron,"1026 Tritt Drive",,06/17/2007
+Ohio,Adams,Winchester,"1365 Mathias Road",,06/25/2007
+Ohio,Summit,Akron,"1094 Neptune Avenue",,06/25/2007
+Ohio,Summit,Akron,"465 Canton Road",,07/02/2007
+Ohio,Preble,Eaton,"216 Richmond Pike",,07/05/2007
+Ohio,Summit,Akron,"1057 Merton Avenue",,07/06/2007
+Ohio,Summit,Akron,"724 Payne Avenue",,07/09/2007
+Ohio,Summit,Akron,"706 Alicia Walk D",,07/22/2007
+Ohio,Licking,Heath,"61 Vicki Lane",,07/31/2007
+Ohio,Preble,Eaton,"795 East High Street",,08/05/2007
+Ohio,Summit,Akron,"465 South Canton Road 1c",,08/07/2007
+Ohio,Preble,"West Alexandria","218 Nation Avenue",,08/07/2007
+Ohio,Summit,Akron,"3095 Pickle Road",,08/17/2007
+Ohio,Lake,Madison,"6067 North Ridge Road",,08/20/2007
+Ohio,Summit,Akron,"867 Woodsfield Drive",,08/24/2007
+Ohio,Summit,Akron,"83 Donova Lane",,08/25/2007
+Ohio,Summit,Akron,"878 Sherman Street",,09/04/2007
+Ohio,Summit,Akron,"3184 South Main Street",,09/11/2007
+Ohio,Summit,"Cuyahoga Heights","2534 Berk Street",,09/11/2007
+Ohio,Allen,Lima,"633 South Primerose Place",,09/15/2007
+Ohio,Summit,Akron,"1288 Pondview Avenue #1",,09/15/2007
+Ohio,Portage,Randolph,"3726 Waterloo Road",,10/01/2007
+Ohio,Summit,Akron,"1495 Kenmore Boulevard",,10/06/2007
+Ohio,Shelby,Sidney,"650 Fair Road",,10/22/2007
+Ohio,Summit,Akron,"2430 Meadow Spring Circle",,10/29/2007
+Ohio,Summit,Akron,"152 Fulmer Avenue",,10/31/2007
+Ohio,Summit,Akron,"184 Prairie Drive",,11/07/2007
+Ohio,Summit,Akron,"573 North Firestone Boulevard",,11/08/2007
+Ohio,Summit,Akron,"150 Colony Crescent",,11/13/2007
+Ohio,Highland,Hillsboro,"6075 Clark Road",,11/25/2007
+Ohio,Preble,Eaton,"3911 West U.s. Route 35",,12/08/2007
+Ohio,Clermont,Goshen,"7080 Hill Station Road",,12/15/2007
+Ohio,Summit,Akron,"1215 Florida Avenue",,12/20/2007
+Ohio,Hamilton,Cincinnati,"10087 Flora Road",,12/20/2007
+Ohio,Summit,Akron,"1053 Fairbanks Place",,01/04/2008
+Ohio,Highland,"New Vienna","5915 Ross Road",,01/09/2008
+Ohio,Portage,Ravenna,"4370 Court Street",,01/13/2008
+Ohio,Preble,Eaton,"317 West High Street",,01/16/2008
+Ohio,Summit,Akron,"1211 East Archwood Avenue",,01/28/2008
+Ohio,Summit,Akron,"101 West Miller Avenue",,01/29/2008
+Ohio,Summit,Akron,"206 Melbourne Street",,02/04/2008
+Ohio,Trumbull,"North Bloomfield","2016 Cooks Lane",,02/07/2008
+Ohio,Summit,Akron,"2376 East Market Street",,02/25/2008
+Ohio,Summit,Akron,"760 Excelsior Avenue",,02/27/2008
+Ohio,Summit,Akron,"129 North Arlington",,02/29/2008
+Ohio,Clermont,Batavia,"2615 Sioux Court 53",,03/06/2008
+Ohio,Clermont,Batavia,"2615 Sweet Briar Drive 237",,03/06/2008
+Ohio,Ashtabula,Orwell,"7530 Fee Road",,03/15/2008
+Ohio,Williams,Bryan,"128 North Myers Street",,03/17/2008
+Ohio,Summit,Akron,"420 Lockwood Street",,03/19/2008
+Ohio,Stark,Alliance,"259 North Union Avenue 1",,03/19/2008
+Ohio,Summit,Akron,"2785 Nesmith Lake Boulevard",,03/27/2008
+Ohio,Summit,Akron,"85 Akers Avenue",,03/30/2008
+Ohio,Summit,"Cuyahoga Heights","307 Broad Boulevard 3",,04/03/2008
+Ohio,Summit,Akron,"1466 Oakwood Avenue",,04/15/2008
+Ohio,Licking,Utica,"221 Mill Street H",,04/20/2008
+Ohio,Summit,Akron,"271 West Center Street",,04/21/2008
+Ohio,Summit,Akron,"497 East Park Boulevard",,04/24/2008
+Ohio,Franklin,Columbus,"3830 Sunbury Road",,04/25/2008
+Ohio,Ashtabula,Rome,"5400 Mechanicsvile Road",,04/28/2008
+Ohio,Summit,Akron,"403 Eastwood Avenue",,04/28/2008
+Ohio,Williams,Bryan,"946 East Wilson Street 15",,05/02/2008
+Ohio,Summit,Akron,"1469 Alphada Avenue B6",,05/08/2008
+Ohio,Summit,Akron,"101 West Miller Street",,05/28/2008
+Ohio,Williams,Bryan,"403 North Cherry Street",,06/23/2008
+Ohio,Summit,Akron,"29 Verdun Drive Down",,06/27/2008
+Ohio,Mahoning,Boardman,"1853 Mathews Road",,06/29/2008
+Ohio,Fairfield,Lancaster,"352 Witte Street",,07/01/2008
+Ohio,Summit,Akron,"328 Ira Avenue",,07/14/2008
+Ohio,Summit,Akron,"2357 Southwest 19th Street",,07/26/2008
+Ohio,Licking,Newark,"267 Mt Vernon Road",,07/29/2008
+Ohio,Greene,Fairborn,"315 Buckeye Street",,07/31/2008
+Ohio,Ashtabula,Conneaut,"7061 Richardson Road",,07/31/2008
+Ohio,Williams,Montpelier,"704 Mill Street",,08/01/2008
+Ohio,Summit,Akron,"1646 Preston Avenue",,08/01/2008
+Ohio,Summit,Akron,"1286 Laird Street",,08/07/2008
+Ohio,Summit,Akron,"1070 Belden Avenue",,08/12/2008
+Ohio,Hardin,Alger,"1540 Co 92 Road",,08/22/2008
+Ohio,Williams,Bryan,"840 East Trevitt",,09/02/2008
+Ohio,Williams,Bryan,"617 South Main C",,09/02/2008
+Ohio,Summit,Akron,"685 Russell Avenue",,09/19/2008
+Ohio,Montgomery,Dayton,"3044 Jewelstone Drive 203",,09/20/2008
+Ohio,Richland,Mansfield,"460.5 North Stewart Road",,10/04/2008
+Ohio,Summit,Akron,"1164 Duane Avenue",,10/04/2008
+Ohio,Summit,Akron,"1371 Neptune Avenue",,10/17/2008
+Ohio,Williams,Bryan,"614 North Walnut Street",,10/21/2008
+Ohio,Summit,Akron,"1755 Grace Road",,10/22/2008
+Ohio,Summit,Summit,"588 Bertha Street",,10/23/2008
+Ohio,Licking,"Saint Louisville","12487 Camp Ohio Road",,10/24/2008
+Ohio,Paulding,Paulding,"17572 County 156 Road",,10/29/2008
+Ohio,Summit,Akron,"161 South Portage Path Drive",,10/30/2008
+Ohio,Summit,Lakemore,"129 Plaza Court",,10/31/2008
+Ohio,Highland,Hillsboro,"4821 Carmel Road",,11/08/2008
+Ohio,Adams,Peebles,"4910 Lawshe Road",,11/09/2008
+Ohio,Summit,Akron,"475 Inman Street",,11/17/2008
+Ohio,Summit,Akron,"1902 Manchester Road C",,11/18/2008
+Ohio,Summit,Akron,"215 West Long Street",,11/18/2008
+Ohio,Williams,Bryan,"17618 County Road H",,11/18/2008
+Ohio,Summit,Akron,"1172 Triplett Boulevard",,11/19/2008
+Ohio,Summit,Akron,"119 Bachtel Avenue",,11/21/2008
+Ohio,Williams,Bryan,"11465 County Road D",,11/28/2008
+Ohio,Summit,Akron,"1306 Curtis Street",,12/03/2008
+Ohio,Summit,Akron,"589 Moraine Avenue",,12/04/2008
+Ohio,Summit,Akron,"721 Beechview Drive",,12/10/2008
+Ohio,Hamilton,Cincinnati,"6100 Blue Rock Road 228",,12/11/2008
+Ohio,Summit,Akron,"2250 Southwest 18th Street Rear",,12/29/2008
+Ohio,Montgomery,Dayton,"2241 Coronette Avenue",,12/30/2008
+Ohio,Summit,Barberton,"889 Lockwood Road",,12/30/2008
+Ohio,Summit,"North Canton","1209 East Nimisila Road",,01/07/2009
+Ohio,Summit,"Cuyahoga Falls","548 Taylor Avenue",,01/08/2009
+Ohio,Perry,"Mount Perry","10108 South Wesley Chapel Road",,01/14/2009
+Ohio,Summit,Akron,"903 East Crosler Street 1",,01/15/2009
+Ohio,Summit,Akron,"2367 Market Street",,01/21/2009
+Ohio,Summit,Akron,"1228 Iona Avenue",,01/22/2009
+Ohio,Hamilton,Cincinnati,"3603 Mchenry Avenue",,01/22/2009
+Ohio,Summit,Akron,"788 Bertha Avenue",,02/05/2009
+Ohio,Summit,Akron,"1620 Mohawk Drive",,02/05/2009
+Ohio,Columbiana,"East Liverpool","729 Avondale Street",,02/05/2009
+Ohio,Summit,Akron,"65 Byers Avenue 904",,02/05/2009
+Ohio,Summit,Akron,"2545 Southwest 31st Street",,02/15/2009
+Ohio,Ashtabula,Conneaut,"275 Harbor Street 1",,02/18/2009
+Ohio,Summit,Akron,"861 Nevin Street",,02/18/2009
+Ohio,Preble,"New Paris","6371 Whitewater-el Dorado",,02/21/2009
+Ohio,Summit,Akron,"1642 Wildon Avenue",,02/27/2009
+Ohio,Adams,Manchester,"202 East Fifth Street",,02/28/2009
+Ohio,Summit,Akron,"409 Rexford Street",,03/05/2009
+Ohio,Allen,Lima,"1820 South Wapak Road",,03/07/2009
+Ohio,Summit,Akron,"1938 Southwest 19th Street",,03/09/2009
+Ohio,Summit,Akron,"2354 Southwest 12th",,03/12/2009
+Ohio,Adams,"West Union","992 Eagle Creek Road",,03/12/2009
+Ohio,Greene,Fairborn,"4659 Byron Road",,03/18/2009
+Ohio,Summit,Akron,"445 Lamparter Street",,03/19/2009
+Ohio,Fairfield,Lancaster,"14 Northwest Lake Road",,03/19/2009
+Ohio,Summit,Akron,"562 Cole Avenue",,03/19/2009
+Ohio,Highland,Leesburg,"12541 Stafford Road",,03/19/2009
+Ohio,Summit,Akron,"1198 Keys Place",,03/19/2009
+Ohio,Perry,Somerset,"3662 Reading Township Road 124",,03/27/2009
+Ohio,Summit,Akron,"1002 Johnston Street",,03/28/2009
+Ohio,Logan,Bellefontaine,"637 Township Road 46",,04/02/2009
+Ohio,Summit,Akron,"26 West York Street",,04/06/2009
+Ohio,Williams,Bryan,"805 Haver Drive",,04/07/2009
+Ohio,Hamilton,Harrison,"125 Campbell Road",,04/10/2009
+Ohio,Summit,Barberton,"127 Southeast 2nd Street F",,04/13/2009
+Ohio,Summit,Akron,"1882 Penthley Avenue",,04/14/2009
+Ohio,Washington,Belpre,"341 Tadpole Run Road",,04/15/2009
+Ohio,Preble,Eaton,"1724 Washington Landing Drive",,04/18/2009
+Ohio,Summit,Akron,"82 Dellenberger Avenue",,04/20/2009
+Ohio,Highland,Hillsboro,"99 Willetsville Park",,04/21/2009
+Ohio,Pickaway,Circleville,"2179 North Court Street",,04/22/2009
+Ohio,Ashtabula,Jefferson,"409 Clay Street",,04/25/2009
+Ohio,Greene,Fairborn,"415 Vine Street",,05/01/2009
+Ohio,Summit,Akron,"2559 Pelton Avenue",,05/02/2009
+Ohio,Perry,"Junction City","1909 South Jackson Township 131b Road",,05/05/2009
+Ohio,Williams,Bryan,"502 East Butler Street",,05/07/2009
+Ohio,Williams,Stryker,"205 East Short Street",,05/07/2009
+Ohio,Ashtabula,Conneaut,"801 Middle Road",,05/14/2009
+Ohio,Delaware,Delaware,"97 North Union Street",,05/14/2009
+Ohio,Perry,Glenford,"13660 Hopewell Township 64 Road",,05/17/2009
+Ohio,Summit,Akron,"236 Watson Street Down",,05/28/2009
+Ohio,Summit,Akron,"2147 Southwest 8th Street 2",,06/04/2009
+Ohio,Summit,Akron,"5221 Renninger Road",,06/10/2009
+Ohio,Williams,Edgerton,"02750 County Road 6",,06/20/2009
+Ohio,Cuyahoga,"Shaker Heights","16510 Scottsdale Road 400",,06/26/2009
+Ohio,Butler,Middletown,"1505 Smith Avenue",,07/09/2009
+Ohio,Highland,Hillsboro,"7160 Hill Road",,07/17/2009
+Ohio,Ashtabula,Jefferson,"2870 Netcher Road",,07/21/2009
+Ohio,Allen,Lima,"124 Pilgrim Trail",,07/23/2009
+Ohio,Highland,Hillsboro,"375 Harry Sauner Road 75",,07/23/2009
+Ohio,Clinton,Blanchester,"302 North Street",,08/05/2009
+Ohio,Summit,Akron,"2354 Kermit Avenue",,08/16/2009
+Ohio,Summit,Akron,"165 Pauline Avenue",,08/18/2009
+Ohio,Summit,"Cuyahoga Falls","306 Linwood Avenue",,08/24/2009
+Ohio,Summit,Akron,"932 Silvercrest Avenue",,08/25/2009
+Ohio,Summit,Akron,"86 Stull Avenue",,09/01/2009
+Ohio,Williams,Bryan,"13936 County Road F",,09/02/2009
+Ohio,Highland,Hillsboro,"444 East Main Street",,09/02/2009
+Ohio,Summit,Akron,"333 Dean Street",,09/03/2009
+Ohio,Highland,Hillsboro,"326 Bigelow Street E1",,09/22/2009
+Ohio,Ashtabula,Jefferson,"3578 State Route 46",,09/27/2009
+Ohio,Franklin,"Canal Winchester","6822 Sowers Drive",,09/28/2009
+Ohio,Hamilton,Cincinnati,"126 Revere Avenue 7",,10/14/2009
+Ohio,Clermont,Loveland,"6685 Oakland Road",,10/19/2009
+Ohio,Adams,Lynx,"99 William Taylor Road",,10/19/2009
+Ohio,Warren,Springboro,"9192 Clearcreek-franklin Road",,10/22/2009
+Ohio,Williams,Bryan,"404 Pleasant Wood",,10/22/2009
+Ohio,Highland,Hillsboro,"149 East South Street",,11/02/2009
+Ohio,Summit,Akron,"3501 South Arlington Road",,11/02/2009
+Ohio,Summit,"Cuyahoga Falls","3217 8th Street",,11/07/2009
+Ohio,Perry,Crooksville,"338 Whitehouse Street",,11/11/2009
+Ohio,Summit,Akron,"1454 Wade Park Avenue",,11/13/2009
+Ohio,Defiance,Hicksville,"616 Spencerville Street",,11/17/2009
+Ohio,Summit,Akron,"1251 Wyley Avenue",,11/19/2009
+Ohio,Preble,Eaton,"216 South Franklin Street",,11/28/2009
+Ohio,Montgomery,Brookville,"16 Walnut Street",,12/01/2009
+Ohio,Mercer,Celina,"111 Bayview Drive",,12/01/2009
+Ohio,Clermont,Williamsburg,"235 Nevels",,12/13/2009
+Ohio,Highland,Hillsboro,"3765 Point Liberty Road",,12/17/2009
+Ohio,Williams,Alvordton,"308 East Main Street",,12/17/2009
+Ohio,Summit,Akron,"131 Cole Avenue",,12/18/2009
+Ohio,Summit,"Cuyahoga Falls","2227 4th Street",,12/22/2009
+Ohio,Summit,Akron,"1675 Rockford Street",,12/26/2009
+Ohio,Allen,Lima,"1409 Wilson",,12/30/2009
+Ohio,Allen,Lima,"916 Crayton",,12/30/2009
+Ohio,Greene,Fairborn,"166 Delwood Street",,01/02/2010
+Ohio,Seneca,Tiffin,"96 Clinton Avenue",,01/12/2010
+Ohio,Highland,Hillsboro,"13731 Sawmill Road",,01/31/2010
+Ohio,Hamilton,Cincinnati,"5834 Panama Avenue",,02/17/2010
+Ohio,Summit,Barberton,"64 1/2 Diamond Avenue",,02/17/2010
+Ohio,Highland,"New Vienna","6199 Round Head Road",,02/22/2010
+Ohio,Summit,Akron,"969 Triplett Boulevard",,02/22/2010
+Ohio,Highland,Hillsboro,"4795 Concord Road",,02/22/2010
+Ohio,Defiance,Hicksville,"604 East Smith Street",,02/23/2010
+Ohio,Fairfield,Lancaster,"136 North Ewing Street",,02/23/2010
+Ohio,Williams,Edgerton,"Colonial Drive Lt #25",,03/01/2010
+Ohio,Williams,Montpelier,"183 Biscayne",,03/02/2010
+Ohio,Summit,Tallmadge,"565 Perry Road",,03/03/2010
+Ohio,Summit,Akron,"2169 Southwest 5th Street",,03/04/2010
+Ohio,Preble,Eaton,"3536 Spacht Road 3",,03/17/2010
+Ohio,Clinton,Martinsville,"5883 Farmers Road",,03/24/2010
+Ohio,Summit,Barberton,"147 Northwest 16th",,03/28/2010
+Ohio,Clinton,Wilmington,"113 Fairland Avenue",,04/03/2010
+Ohio,Highland,Greenfield,"401 South Washington Street",,04/04/2010
+Ohio,Holmes,Millersburg,"6037 County Road 59",,04/08/2010
+Ohio,Highland,Greenfield,"623 Pine Street",,04/08/2010
+Ohio,Summit,Akron,"684 Junior Avenue",,04/09/2010
+Ohio,Clermont,Loveland,"6521 Arborcrest Road",,04/13/2010
+Ohio,Warren,Oregonia,"7114 Us Route 350",,04/15/2010
+Ohio,Summit,Akron,"2206 Southwest 25th Street",,04/20/2010
+Ohio,Clermont,Williamsburg,"124 Concord Square Lane",,04/25/2010
+Ohio,Clinton,"Port William","330 Walnut Street",,05/01/2010
+Ohio,Highland,Hillsboro,"11428 Holiday Way 45133",,05/01/2010
+Ohio,Clinton,Midland,"2468 West St Rt 28",,05/06/2010
+Ohio,Adams,"West Union","409 Plum Street",,05/11/2010
+Ohio,Summit,Akron,"1624 Merrill Avenue",,05/12/2010
+Ohio,Hamilton,Loveland,"816 Glenden Drive",,05/17/2010
+Ohio,Summit,Akron,"2311 Southwest 12th Street",,05/17/2010
+Ohio,Williams,Montpelier,"112 South Jonesville Street 3",,05/19/2010
+Ohio,Summit,Akron,"1809 Adalaide Boulevard",,05/22/2010
+Ohio,Summit,Green,"3937 Mayfair Road",,05/24/2010
+Ohio,Hocking,Rockbridge,"19682 Buena Vista Road",,05/24/2010
+Ohio,Summit,Copley,"2131 Copley Road B22",,06/02/2010
+Ohio,Warren,Franklin,"9135 Deardoff Road",,06/02/2010
+Ohio,Clinton,Wilmington,"961 Higgins Street",,06/02/2010
+Ohio,Williams,Montpelier,"4214 County Road R",,06/08/2010
+Ohio,Cuyahoga,"Garfield Heights","13117 Willard Avenue",,06/09/2010
+Ohio,Cuyahoga,Lakewood,"1380 Lakeland Avenue",,06/09/2010
+Ohio,Licking,Newark,"22 East Channel Street",,06/10/2010
+Ohio,Highland,Lynchburg,"212 South Sycamore Street",,06/17/2010
+Ohio,Butler,Hamilton,"2218 Grand Avenue",,07/02/2010
+Ohio,Summit,Akron,"487 Sullivan Avenue",,07/11/2010
+Ohio,Highland,Greenfield,"1000 South 5th Street",,07/14/2010
+Ohio,Clinton,Wilmington,"695 Fife Avenue",,07/15/2010
+Ohio,Summit,Akron,"82 Stull Avenue",,07/20/2010
+Ohio,Wayne,Orrville,"2004 South Kansas Road",,07/28/2010
+Ohio,Fairfield,Bremen,"411 New Street",,07/29/2010
+Ohio,Clinton,Sabina,"7161 State Route 729",,08/01/2010
+Ohio,Clark,"New Carlisle","11200 Stafford Road",,08/02/2010
+Ohio,Clinton,Clarksville,"93 Sugartree Street",,08/06/2010
+Ohio,Wayne,Doylestown,"18592 Edwards Road 216",,08/06/2010
+Ohio,Highland,Hillsboro,"10306 North Union Road",,08/12/2010
+Ohio,Franklin,Columbus,"1230 South Eureka Avenue",,08/17/2010
+Ohio,Clinton,Wilmington,"530 Vine Street",,08/17/2010
+Ohio,Summit,Barberton,"613 Holmes Avenue 2",,08/19/2010
+Ohio,Summit,Akron,"3013 Shelburn Avenue",,08/21/2010
+Ohio,Adams,Manchester,"923 Pumpkin Ridge Road",,08/21/2010
+Ohio,Clinton,Blanchester,"1432 North State Route 133",,08/22/2010
+Ohio,Summit,Akron,"211 Gleason Avenue",,08/25/2010
+Ohio,Summit,Akron,"1539 East Market Street Up",,08/27/2010
+Ohio,Highland,Hillsboro,"7161 East Highland Trail",,09/01/2010
+Ohio,Summit,Akron,"1878 Ford Avenue",,09/09/2010
+Ohio,Summit,Akron,"2399 Sadler Street",,09/10/2010
+Ohio,Franklin,Columbus,"2755 Eakin Road L",,09/10/2010
+Ohio,Summit,Macedonia,"8647 Wiltshire Drive",,09/14/2010
+Ohio,Highland,Hillsboro,"115 East Pleasant Street",,09/24/2010
+Ohio,Clinton,Blanchester,"1953 Dudley Road",,10/14/2010
+Ohio,Highland,Hillsboro,"702 North West Street",,10/17/2010
+Ohio,Clermont,Loveland,"6726 Russell Street",,10/23/2010
+Ohio,Stark,Alliance,"2360 Ansley",,10/27/2010
+Ohio,Summit,Norton,"2019 Wadsworth Road",,10/29/2010
+Ohio,Summit,Akron,"348 Malacca Street",,11/04/2010
+Ohio,Clark,Springfield,"736 West High Street",,11/12/2010
+Ohio,Summit,Akron,"363 Black Street",,11/15/2010
+Ohio,Perry,Somerset,"5475 Rushcreek Road",,12/02/2010
+Ohio,Summit,Akron,"438 Downing Place",,12/05/2010
+Ohio,Williams,Montpelier,"119 Platt Street",,12/06/2010
+Ohio,Ashland,Loudonville,"507 Kettering Drive",,12/14/2010
+Ohio,Stark,Canton,"1451 Northwest Rachel Street 58",,12/29/2010
+Ohio,Stark,Massillon,"821 Northeast 1st Street",,01/05/2011
+Ohio,Seneca,Tiffin,"627 East Township 152 Road",,01/07/2011
+Ohio,Shelby,Sidney,"531 South Miami Avenue",,01/11/2011
+Ohio,Franklin,Reynoldsburg,"693 Stow Place",,01/13/2011
+Ohio,Clermont,Goshen,"4237 Moore Marathon Radial",,01/20/2011
+Ohio,Warren,Mason,"202 Frank Street",,01/21/2011
+Ohio,Summit,Akron,"25 Mcnaughton Street 4",,01/22/2011
+Ohio,Butler,Sharonville,"14 Yorktown Drive",,01/24/2011
+Ohio,Summit,Akron,"604 Upson Street 6",,01/26/2011
+Ohio,Clermont,Milford,"100 Rivers Edge Drive",,01/26/2011
+Ohio,Summit,Akron,"476 Perkins Street",,01/27/2011
+Ohio,Franklin,Columbus,"2595 Sparrow Hill Road",,02/01/2011
+Ohio,Summit,Akron,"356 Cole Avenue",,02/02/2011
+Ohio,Highland,Hillsboro,"5981 Skeen Road",,02/04/2011
+Ohio,Seneca,Tiffin,"107 Clinton Avenue",,02/05/2011
+Ohio,Summit,Akron,"625 Hazel Street",,02/07/2011
+Ohio,Summit,Akron,"1061 Wilbur Avenue",,02/14/2011
+Ohio,Williams,Bryan,"1000 Buffalo Road 4",,02/28/2011
+Ohio,Licking,Newark,"119 Moull Street",,02/28/2011
+Ohio,Licking,Newark,"145 5th Street",,03/03/2011
+Ohio,Greene,Fairborn,"212 Euclid Avenue",,03/06/2011
+Ohio,Highland,Hillsboro,"12917 Us Rt 50",,03/09/2011
+Ohio,Williams,Montpelier,"540 South East Street",,03/11/2011
+Ohio,Williams,Bryan,"221 Lewis Street",,03/16/2011
+Ohio,Williams,Bryan,"115 North Myers Street",,03/21/2011
+Ohio,Seneca,Tiffin,"115 Coe Street",,03/23/2011
+Ohio,Preble,Eaton,"702 Oakland Drive",,03/31/2011
+Ohio,Summit,Akron,"606 Gibbs Road",,03/31/2011
+Ohio,Williams,Edgerton,"1 Autumn Drive",,04/06/2011
+Ohio,Summit,Barberton,"417 North Wooster Road",,04/06/2011
+Ohio,Clinton,Wilmington,"35 Jodie Lane G",,04/07/2011
+Ohio,Summit,Akron,"1532 Raymond Avenue",,04/07/2011
+Ohio,Crawford,Middletown,"700 Crawford",,04/18/2011
+Ohio,Summit,Akron,"1158 Manning",,04/25/2011
+Ohio,Muskingum,Zanesfield,"343 Linn Street",,05/04/2011
+Ohio,Muskingum,Zanesville,"255 Luck Avenue",,05/07/2011
+Ohio,Perry,"New Lexington","121 Porcelin Street B",,05/13/2011
+Ohio,Summit,Barberton,"43 22 Street",,05/14/2011
+Ohio,Muskingum,Zanesville,"732 Market Street",,05/14/2011
+Ohio,Clermont,Milford,"5744 Wilnean Drive",,05/19/2011
+Ohio,Greene,Fairborn,"1708 Lowell Road",,05/20/2011
+Ohio,Summit,Akron,"1644 Rock Cliff Drive",,05/22/2011
+Ohio,Summit,Akron,"2145 Goodyear Boulevard",,06/01/2011
+Ohio,Summit,Akron,"2679 North Bender Avenue",,06/03/2011
+Ohio,Mahoning,"Berlin Center","4446 Bedell Road",,06/10/2011
+Ohio,Clinton,Wilmington,"6320 South Us 68",,06/10/2011
+Ohio,Meigs,Pomeroy,"1681 Lincoln Heights",,06/16/2011
+Ohio,Wayne,Orrville,"519 Beaver Street 17",,06/19/2011
+Ohio,Summit,Akron,"167 Chittenden Street 8",,06/26/2011
+Ohio,Summit,Akron,"919 Mohawk Trail",,07/01/2011
+Ohio,Summit,Akron,"386 Vincent Street",,07/01/2011
+Ohio,Darke,"Union City","2632 West 47 Route",,07/06/2011
+Ohio,Portage,Streetsboro,"1545 Lady Anne Drive",,07/07/2011
+Ohio,Warren,Morrow,"203 Penders Avenue",,07/08/2011
+Ohio,Greene,Xenia,"1483 Cheyenne Drive",,07/13/2011
+Ohio,Portage,Atwater,"6396 Waterloo Road Unit A",,07/14/2011
+Ohio,Butler,Hamilton,"4 Balford Court",,07/14/2011
+Ohio,Summit,Akron,"489 Taylor Avenue",,07/23/2011
+Ohio,Mercer,Celina,"1874 Schroeder Road",,07/26/2011
+Ohio,Portage,Ravenna,"516 North Park Avenue 516",,07/27/2011
+Ohio,Franklin,Columbus,"789 Whitethorn Avenue",,07/29/2011
+Ohio,Summit,Akron,"2246 Southwest 14th Street",,08/05/2011
+Ohio,Summit,Mogadore,"3380 Mogadore Road",,08/05/2011
+Ohio,Summit,Barberton,"1285 Benton Street",,08/10/2011
+Ohio,Summit,Akron,"236 Prairie Drive",,08/12/2011
+Ohio,Summit,Barberton,"200 Northwest 17th Street",,08/17/2011
+Ohio,Summit,Barberton,"701 West Park Avenue",,08/18/2011
+Ohio,Summit,Akron,"2356 Newton Street",,08/21/2011
+Ohio,Clermont,"New Richmond","2060 Bethel New Richmond Road",,08/24/2011
+Ohio,Summit,Akron,"1001 Silvercrest Avenue",,08/25/2011
+Ohio,Highland,Hillsboro,"1020 Northwest Street",,09/04/2011
+Ohio,Franklin,Columbus,"1146 Summit Street",,09/08/2011
+Ohio,Summit,Stow,"2106 Uniondale Drive",,09/13/2011
+Ohio,Summit,Akron,"2905 Mogadore Road",,09/21/2011
+Ohio,Clermont,Goshen,"3081 Albers Way",,09/22/2011
+Ohio,Clermont,Batavia,"2272 Baas Road",,09/27/2011
+Ohio,Summit,Akron,"107 West Mildred Avenue",,12/02/2011
+Ohio,Portage,Kent,"319 West Elm Street",,12/14/2011
+Ohio,Portage,Atwater,"5054  Waterloo Road",,12/26/2011
+Ohio,Cuyahoga,"Maple Heights","15356  Broadway Avenue Up",,02/22/2012
+Ohio,Cuyahoga,"Maple Heights","19581  Raymond Avenue",,02/24/2012
+Ohio,Summit,Akron,"325  Stanton Avenue",,06/01/2012
+Ohio,Highland,Hillsboro,"5094  Us Rt 50",,06/04/2012
+Ohio,Summit,Akron,"440  Bruner Street",,06/05/2012
+Ohio,Summit,Akron,"1441  League Street",,06/06/2012
+Ohio,Stark,"Kendall Heights","250 South River Street A3",,06/06/2012
+Ohio,Medina,Wadsworth,"436  Plum Creek Boulevard",,07/05/2012
+Ohio,Summit,Akron,"625  Wyandot Avenue",,07/05/2012
+Ohio,Summit,Akron,"1211  Moore Street",,07/07/2012
+Ohio,Wayne,Wooster,"430 North Honeytown Road",,07/09/2012
+Ohio,Summit,Akron,"1220  Grant Street",,07/10/2012
+Ohio,Fairfield,Lancaster,"1006  Meda Avenue",,07/11/2012
+Ohio,Summit,Akron,"2204 Southwest 17th Street",,07/13/2012
+Ohio,Summit,Tallmadge,"76  Barnes Drive",,07/13/2012
+Ohio,Summit,Mogadore,"3377  Dick Street 5",,07/17/2012
+Ohio,Summit,Akron,"528  Stevenson",,07/17/2012
+Ohio,Defiance,Hicksville,"01021  Spencerville Road",,07/20/2012
+Ohio,Highland,Hillsboro,"900 South High Street A",,07/24/2012
+Ohio,Summit,Barberton,"206 Southwest 35th Street",,07/25/2012
+Ohio,Ross,Adelphi,"19058  State Route 327",,07/25/2012
+Ohio,Stark,Alliance,"111  Glamorgan Street B 10",,07/26/2012
+Ohio,Licking,Newark,"215  Hoover Street C",,07/29/2012
+Ohio,Cuyahoga,"Parma Heights","6439  Newland Road",,07/29/2012
+Ohio,Summit,Akron,"26 West Emerling Street",,07/30/2012
+Ohio,Lawrence,Chesapeake,"276 North Country Road 124",,08/01/2012
+Ohio,Portage,Ravenna,"825  Cleveland Road",,08/04/2012
+Ohio,Summit,Akron,"1868  Oakes Drive",,08/04/2012
+Ohio,Summit,Akron,"1233  Sherman Street",,08/05/2012
+Ohio,Summit,Akron,"341  Stevenson Avenue",,08/05/2012
+Ohio,Portage,Rootstown,"4289  Sandy Lake Road",,08/10/2012
+Ohio,Summit,Akron,"272  Ira Avenue",,08/11/2012
+Ohio,Summit,Akron,"1124  Ivor Avenue",,08/13/2012
+Ohio,Summit,"Cuyahoga Falls","3782  Northampton Road",,08/16/2012
+Ohio,Stark,Alliance,"946 South Freedom Avenue Down",,09/04/2012
+Ohio,Summit,Akron,"345  Kenmore Boulevard",,10/01/2012
+Ohio,Scioto,Lucasville,"57  Oakwood Avenue",,10/02/2012
+Ohio,Portage,"Newton Falls","6835  Benita Avenue",,10/06/2012
+Ohio,Summit,Akron,"787 East Wilbeth Road 13",,10/11/2012
+Ohio,Butler,Hamilton,"431 North 3rd Street",,10/17/2012
+Ohio,Summit,Akron,"191 South Rhodes Alley 1",,10/21/2012
+Ohio,Summit,Akron,"1721  Adelaide Boulevard",,10/24/2012
+Ohio,Summit,Akron,"100  Willard Street",,10/28/2012
+Ohio,Summit,Akron,"92  Willard Street",,10/28/2012
+Ohio,Clinton,Wilmington,"41  Fairland Avenue",,11/05/2012
+Ohio,Summit,Akron,"736  Eastland Ave Avenue",,11/05/2012
+Ohio,Summit,Akron,"99 East Mapledale Ave Avenue",,11/06/2012
+Ohio,Highland,Hillsboro,"11993  Spruance Road 124a",,11/13/2012
+Ohio,Summit,Akron,"852  Polk Avenue",,12/01/2012
+Ohio,Summit,Akron,"2401  Ladd Street",,12/03/2012
+Ohio,Clermont,Loveland,"245 South 2nd Street",,12/04/2012
+Ohio,Summit,Akron,"926  Chester Ave Avenue",,12/05/2012
+Ohio,Ashtabula,Williamsfield,"6262  State Route 322",,12/05/2012
+Ohio,Summit,Akron,"1063  Harrison Ave Avenue",,01/02/2013
+Ohio,Ashtabula,Geneva,"100  Woodlawn Street 6",,01/03/2013
+Ohio,Butler,Middletown,"4510  Roosevelt Ave Avenue 8",,01/04/2013
+Ohio,Summit,Akron,"752  Blaine Avenue 2",,01/05/2013
+Ohio,Summit,Akron,"752  Blaine Avenue 3",,01/05/2013
+Ohio,Summit,Akron,"752  Blaine Avenue Basement",,01/05/2013
+Ohio,Knox,"Mount Vernon","111 East Lamartine Street",,01/05/2013
+Ohio,Summit,Akron,"113 West Burns Ave Avenue",,01/07/2013
+Ohio,Montgomery,Dayton,"141 North Garfield Street",,01/08/2013
+Ohio,Ashtabula,Conneaut,"690  Maple Avenue",,01/10/2013
+Ohio,Gallia,Gallipolis,"2107  Chatham Avenue",,01/10/2013
+Ohio,Ashtabula,Conneaut,"133 West Main Road",,01/10/2013
+Ohio,Allen,Lima,"530 East Kibby Street",,01/11/2013
+Ohio,Summit,Norton,"1275  Norton Ave Avenue C9",,01/11/2013
+Ohio,Summit,Akron,"1101  Dietz Avenue",,01/11/2013
+Ohio,Knox,"Mount Vernon","22  Mansfield Avenue",,01/12/2013
+Ohio,Highland,Lynchburg,"4399  Panhandle Road",,01/12/2013
+Ohio,Clermont,Batavia,"2272  Chesterfield Drive",,01/15/2013
+Ohio,Summit,Akron,"715 East Waterloo Road B",,01/16/2013
+Ohio,Highland,Lynchburg,"433 North South Broadway Avenue",,01/17/2013
+Ohio,Summit,Akron,"282  Malacca Street",,01/20/2013
+Ohio,Summit,Akron,"721  Kenmore Boulevard",,01/21/2013
+Ohio,Knox,"Mount Vernon","4 East Chestnut Street",,01/22/2013
+Ohio,Ashtabula,Conneaut,"405  Buffalo Street",,01/22/2013
+Ohio,Highland,Hillsboro,"6900  Cherri Drive",,01/23/2013
+Ohio,Clermont,Blanchester,"3220  Martin Road",,01/23/2013
+Ohio,Clermont,Blanchester,"6884  Garrison Spurling Road",,01/23/2013
+Ohio,Summit,Akron,"1306  Curtis Street",,01/26/2013
+Ohio,Gallia,Gallipolis,"1962  Georges Creek Road",,01/31/2013
+Ohio,Summit,Akron,"1385  Brandon Ave Avenue",,03/01/2013
+Ohio,Clinton,Martinsville,"5219  Jonesboro Road",,03/01/2013
+Ohio,Ashtabula,Ashtabula,"1728 West 6th Street Up",,03/05/2013
+Ohio,Portage,Ravenna,"261 South Sycamore Street 2",,03/05/2013
+Ohio,Ashtabula,Ashtabula,"5411  Main Avenue",,03/05/2013
+Ohio,Gallia,Gallipolis,"399  State Street",,03/18/2013
+Ohio,Muskingum,Zanesville,"54 West Dave Longaberger Drive 5c",,04/02/2013
+Ohio,Ashtabula,Geneva,"286 North Broadway Street",,04/03/2013
+Ohio,Highland,Hillsboro,"830 West Main Street",,04/04/2013
+Ohio,Stark,Canton,"344 Northeast Fenton Avenue",,04/05/2013
+Ohio,Ashtabula,Andover,"6257  State 7 Highway Upstairs",,04/06/2013
+Ohio,Summit,Akron,"40 West Archwood Ave Avenue",,04/06/2013
+Ohio,Paulding,Oakwood,"20746  County Road 128",,04/09/2013
+Ohio,Warren,Morrow,"6051 East Us 22 Highway 10",,04/09/2013
+Ohio,Champaign,Urbana,"1046 North Russell Street",,04/10/2013
+Ohio,Summit,Akron,"724  Hudson Avenue",,04/10/2013
+Ohio,Wayne,Doylestown,"533 North Portage Terrace",,04/13/2013
+Ohio,Meigs,Cheshire,"848  Storys Road",,04/13/2013
+Ohio,Montgomery,Dayton,"1965  Gondert Ave Avenue",,04/16/2013
+Ohio,Gallia,Gallipolis,"1710  Chatham Avenue",,04/16/2013
+Ohio,Muskingum,Zanesville,"5363  Frazeysburg Road 36",,04/16/2013
+Ohio,Gallia,Bidwell,"3636  State Route 850",,04/16/2013
+Ohio,Gallia,Gallipolis,"2730  Kemper Hollow Road",,04/16/2013
+Ohio,Muskingum,Dresden,"30 West 5th Street",,04/17/2013
+Ohio,Gallia,Gallipolis,"115  4th Avenue",,04/17/2013
+Ohio,Muskingum,Dresden,"54 West Dave Longaberger Drive 12c",,04/17/2013
+Ohio,Summit,Akron,"1334  Evelyn Lane",,04/18/2013
+Ohio,Highland,Hillsboro,"6747  Heathermoore Trail",,04/19/2013
+Ohio,Summit,Akron,"110  Lake Street",,04/19/2013
+Ohio,Trumbull,Warren,"438 Northwest Douglas Street",,04/22/2013
+Ohio,Ross,Chillicothe,"365 East 2nd Street",,04/23/2013
+Ohio,Summit,Akron,"980  Concord Avenue",,04/24/2013
+Ohio,Ross,Chillicothe,"87 North Rose Street",,04/25/2013
+Ohio,Summit,"New Franklin","934 West Turkeyfoot Lake Road",,04/28/2013
+Ohio,Stark,Canton,"1422 Northeast Shriver Avenue",,05/01/2013
+Ohio,Fairfield,Baltimore,"1835  Blacklick-eastern Road",,05/01/2013
+Ohio,Marion,Marion,"710 North Prospect Street D",,05/02/2013
+Ohio,Ashtabula,Andover,"153  Chestnut Street",,05/05/2013
+Ohio,Summit,Akron,"349  Cleveland Street Up",,05/06/2013
+Ohio,Summit,Akron,"1454  Kendale Drive",,05/06/2013
+Ohio,Summit,Akron,"1965  Adelaide Boulevard",,05/09/2013
+Ohio,Fairfield,Lancaster,"310  Miller Avenue",,05/09/2013
+Ohio,Highland,Hillsboro,"8397  Dunham Road",,05/10/2013
+Ohio,Summit,Akron,"874  Berwin Street",,05/11/2013
+Ohio,Holmes,Holmesville,"102 North Wood Street",,05/12/2013
+Ohio,Fairfield,Lancaster,"207  Perry Street 6",,05/12/2013
+Ohio,Summit,Akron,"1218  Weiser Avenue",,05/13/2013
+Ohio,Summit,"Cuyahoga Falls","1982  High Street",,05/13/2013
+Ohio,Perry,"New Lexington","1399 Southeast Township Road 195",,05/14/2013
+Ohio,Vinton,Vinton,"42058  Clarion Road",,05/14/2013
+Ohio,Summit,Akron,"50 South Bates Street Down",,05/15/2013
+Ohio,Summit,Akron,"865  Ghent Ridge Road",,05/15/2013
+Ohio,Summit,Akron,"386  Vincent Street",,05/16/2013
+Ohio,Fairfield,Amanda,"10527 Garrett Road",,05/16/2013
+Ohio,Summit,Akron,"1805  Adelaide Boulevard",,05/19/2013
+Ohio,Summit,Akron,"763  Vernon Odom Boulevard",,05/21/2013
+Ohio,Highland,Hillsboro,"7612  Mad River Road",,05/23/2013
+Ohio,Pike,Beaver,"262  Brigner Road",,05/25/2013
+Ohio,Montgomery,Dayton,"1912  Patterson Road",,06/01/2013
+Ohio,Perry,"New Lexington","699 North State Street",,06/03/2013
+Ohio,Lake,Painesville,"587  Shelby Avenue",,06/04/2013
+Ohio,Fairfield,Lancaster,"228  Perry Street",,06/06/2013
+Ohio,Belmont,"Martins Ferry","507  Clinton Street",,06/06/2013
+Ohio,Highland,Hillsboro,"6747  Heather Moore Trail",,06/07/2013
+Ohio,Summit,Akron,"137 East Mildred Ave Avenue",,06/08/2013
+Ohio,Highland,Lynchburg,"319.5 South Broadway Street",,06/08/2013
+Ohio,Highland,Greenfield,"762  Mirabeau Street",,06/08/2013
+Ohio,Summit,Akron,"618  Grifton Ave Avenue",,06/08/2013
+Ohio,Ross,Chillicothe,"359 West 4th Street",,06/09/2013
+Ohio,Summit,Akron,"2512  Conrad Avenue",,06/10/2013
+Ohio,Summit,Akron,"275  Hottle Street",,06/11/2013
+Ohio,Fairfield,Lancaster,"6099  Chillicothe-lancaster Road",,06/11/2013
+Ohio,Warren,Butlerville,"8545  State 132 Highway",,06/11/2013
+Ohio,Highland,Lynchburg,"431 South Sycamore Street",,06/12/2013
+Ohio,Highland,Hillsboro,"6430  Riber Road",,06/13/2013
+Ohio,Pickaway,Circleville,"320  Cedar Heights",,06/18/2013
+Ohio,Pickaway,Circleville,"6791  State 56 Highway",,06/18/2013
+Ohio,Highland,Hillsboro,"10863  Cinderella Drive",,06/18/2013
+Ohio,Summit,Akron,"809  Dayton Street",,06/19/2013
+Ohio,Clinton,Wilmington,"711 West Locust Street 1b",,07/03/2013
+Ohio,Fulton,Archbold,"408 South Lincoln Street",,07/05/2013
+Ohio,Montgomery,Miamisburg,"625  Maple Street",,07/09/2013
+Ohio,Summit,Akron,"48  Mcnaughton Street",,07/11/2013
+Ohio,Henry,"Liberty Center","109  Mary Anne Street",,07/12/2013
+Ohio,Athens,Nelsonville,"13081  Carr Road",,07/15/2013
+Ohio,Fulton,Archbold,"600  Park Street 33",,07/16/2013
+Ohio,Lake,"Mentor Headlands","4763  Forest Road",,07/19/2013
+Ohio,Summit,"Cuyahoga Falls","2449  4th Street",,07/25/2013
+Ohio,Ashtabula,Ashtabula,"617  Joseph Avenue",,10/01/2013
+Ohio,Paulding,Antwerp,"2320  Road 424",,10/01/2013
+Ohio,Summit,Akron,"261  Dennison Avenue",,10/01/2013
+Ohio,Highland,Leesburg,"225  Eastern Avenue F",,10/02/2013
+Ohio,Summit,Akron,"753  Dayton Street",,10/04/2013
+Ohio,Athens,Albany,"2725  Crabtree Rd",,10/05/2013
+Ohio,Summit,Akron,"1295  Tampa Avenue",,10/06/2013
+Ohio,Summit,Akron,"61  Ira Avenue Rear",,10/14/2013
+Ohio,Summit,Akron,"117  Lakota Avenue",,10/14/2013
+Ohio,Hocking,Logan,"14703 South State Route 93",,10/16/2013
+Ohio,Tuscarawas,Uhrichsville,"1612  Roanoke Avenue",,11/01/2013
+Ohio,Warren,Morrow,"4333  Middleboro Road",,11/04/2013
+Ohio,Montgomery,Trotwood,"50  Whispering Drive",,11/11/2013
+Ohio,Summit,Akron,"1174  Chandler Avenue 7",,11/11/2013
+Ohio,Meigs,Pomeroy,"111  Ebenzer Street",,11/11/2013
+Ohio,Summit,Akron,"2090 Southwest 16th St Sw Street",,12/01/2013
+Ohio,Wood,Luckey,"206  Adams St Street",,12/02/2013
+Ohio,Meigs,Middleport,"704  Sixth Street",,12/03/2013
+Ohio,Hamilton,Cincinnati,"8314  Jadwin St Street",,12/04/2013
+Ohio,Fairfield,Lancaster,"118 South S Baker Ave Avenue",,12/05/2013
+Ohio,Portage,Ravenna,"4712  Hayes Rd Road",,12/05/2013
+Ohio,Marion,Marion,"516  Avondale Avenue",,12/05/2013
+Ohio,Summit,Akron,"984  Cole Ave Avenue",,12/15/2013
+Ohio,Clermont,Bethel,"3570  Starling Rd Road",,12/15/2013
+Ohio,Hamilton,Cincinnati,"1330  Manss Ave Harbor",,12/20/2013
+Ohio,Summit,Akron,"874  Donald Ave Street",,01/02/2014
+Ohio,Summit,"Cuyahoga Falls","1542  Front St Street 9",,01/03/2014
+Ohio,Summit,"Cuyahoga Falls","1598  Front St Street 3",,01/03/2014
+Ohio,Summit,Akron,"1357  Aster Ave Avenue",,01/04/2014
+Ohio,Perry,Thornville,"14876  Empire Road",,01/05/2014
+Ohio,Lorain,"North Ridgeville","33124  Glenwood Ct Court",,01/06/2014
+Ohio,Butler,Middletown,"2106  Erie Avenue",,01/06/2014
+Ohio,Summit,"Cuyahoga Falls","2275  Winter Pky Parkway 158",,01/06/2014
+Ohio,Muskingum,Zanesville,"129  Brighton Blvd Boulevard",,01/08/2014
+Ohio,Athens,Athens,"10174  State Route 682/oh-682/s Plains Rd",,01/09/2014
+Ohio,Clermont,Goshen,"6015  Meadow Ave Avenue",,01/11/2014
+Ohio,Perry,Somerset,"105  Summit Street",,01/12/2014
+Ohio,Fairfield,Lancaster,"302 West W Fair Ave Avenue",,01/13/2014
+Ohio,Ashtabula,Jefferson,"1600  Lenox-new Lyme Rd/county Road 21 Road 24",,01/16/2014
+Ohio,Summit,Green,"196  Flynn Ave/mcd Bdy Avenue",,01/18/2014
+Ohio,Hocking,"Sugar Grove","598  Navajo Ln Lane",,01/21/2014
+Ohio,Tuscarawas,"New Philadelphia","1237  Independence Cir Se Street",,01/21/2014
+Ohio,Scioto,Lucasville,"2080  Owl Creek Road",,01/22/2014
+Ohio,Clermont,Bethel,"2354  Donald Rd Road",,01/24/2014
+Ohio,Clermont,Cincinnati,"4373  Mt. Carmel Tobasco Road",,01/25/2014
+Ohio,Perry,Somerset,"3594  Township Road 124",,01/26/2014
+Ohio,Hocking,Laurelville,"16242  Pike St Street B7",,01/27/2014
+Ohio,Summit,Barberton,"418  Snyder Ave",,01/29/2014
+Ohio,Columbiana,Salem,"922 West W Pershing St Terrace",,02/26/2014
+Ohio,Clinton,Wilmington,"247  Dehan Rd/mulberry St Road",,03/03/2014
+Ohio,Sandusky,Fremont,"902 West E State St Street",,03/04/2014
+Ohio,Fairfield,Lancaster,"2165  Clearcreek Rd Sw/cr-69 Road",,03/05/2014
+Ohio,Perry,"New Lexington","1738  Township Rd 128/township Road 128 Se",,03/06/2014
+Ohio,Summit,Akron,"1268  Kansas Ave Avenue",,03/09/2014
+Ohio,Hocking,"South Bloomingville","22130  State Route 56/oh-56",,03/11/2014
+Ohio,Summit,Akron,"1605  Treetop Trl Trail A",,03/11/2014
+Ohio,Clermont,Felicity,"417  Main St",,03/12/2014
+Ohio,Montgomery,Dayton,"68  Mcreynolds Street",,03/12/2014
+Ohio,Pickaway,Amanda,"9198 Southwest Broad Street",,03/13/2014
+Ohio,Butler,Middletown,"3112  Rufus St Street",,03/19/2014
+Ohio,Warren,Middletown,"3115  Rufus Street",,03/19/2014
+Ohio,Greene,Jamestown,"10 South S Buckles St/s Buckles Ave Avenue",,03/20/2014
+Ohio,Wayne,Wooster,"629  Nold Ave Avenue 1/2",,03/23/2014
+Ohio,Columbiana,Lisbon,"215 East W Lincoln Way Street",,06/09/2014
+Ohio,Tuscarawas,"New Philadelphia","233 Northwest 4th St Nw/oh-800 Street  Box C",,06/10/2014
+Ohio,Tuscarawas,"New Philadelphia","1085 Northwest Maple Avenue",,06/16/2014
+Ohio,Greene,Fairborn,"1010  Lexington Ave Avenue",,07/02/2014
+Ohio,Fairfield,Lancaster,"928  Washington Ave Avenue  Box A",,07/13/2014
+Ohio,Fairfield,Lancaster,"417 South S Columbus St Street",,07/16/2014
+Ohio,Butler,Oxford,"6102  Joseph Dr Drive  Box W",,07/31/2014
+Ohio,Summit,"Munroe Falls","336 North N Main St Street  Box 4",,08/23/2014
+Ohio,Summit,Akron,"596  Gibbs Rd Road",,08/25/2014
+Ohio,Richland,Mansfield,"173  Gordon Place   Box 1/2",,10/01/2014
+Ohio,Ashtabula,Orwell,"8369  Fortney Road",,10/01/2014
+Ohio,Fairfield,Lancaster,"524 East Locust St.",,10/02/2014
+Ohio,Summit,Akron,"803 North Howard Street",,10/05/2014
+Ohio,Summit,Akron,"512  Harvey Avenue",,12/01/2014
+Ohio,Summit,Akron,"1188  Keys Place",,12/02/2014
+Ohio,Summit,Barberton,"304  Wooster Road",,12/03/2014
+Ohio,Scioto,Portsmouth,"1739  6th Street",,12/06/2014
+Ohio,Marion,Marion,"133  Dewolfe Court",,12/06/2014
+Ohio,Summit,Akron,"1447  Hite Street",,12/07/2014
+Ohio,Cuyahoga,Cleveland,"4021  Brooklyn Avenue",,12/08/2014
+Ohio,Mahoning,"North Benton","9500  Bandy Road",,12/14/2014
+Ohio,Jackson,Wellston,"217 North Wisconsin Avenue",,12/14/2014
+Ohio,Wayne,Wooster,"581  Northwestern Avenue",,12/15/2014
+Ohio,Highland,Hillsboro,"609 North West Street",,12/17/2014
+Ohio,Ashtabula,Andover,"190  Orchard",,12/18/2014
+Ohio,Fairfield,Lancaster,"100  Williamsburg",,12/23/2014
+Ohio,Summit,Akron,"236  Watson Street  Box Up",,12/30/2014
+Ohio,Ashtabula,Ashtabula,"3125  Wade Avenue",,01/03/2015
+Ohio,Portage,Ravenna,"5108  59  Box Lot F 40",,01/04/2015
+Ohio,Wayne,Wooster,"4969  Lincoln Way",,01/04/2015
+Ohio,Athens,Buchtel,"5036  78",,01/05/2015
+Ohio,Brown,Aberdeen,"1229  Maryland Street",,01/05/2015
+Ohio,Summit,Akron,"1000  Morningview Avenue",,01/05/2015
+Ohio,Ashtabula,Ashtabula,"6352  Bend Road",,01/05/2015
+Ohio,Montgomery,Miamisburg,"309 N 1st Street",,01/05/2015
+Ohio,Highland,Hillsboro,"1100  Northview Drive Box 5f",,01/06/2015
+Ohio,Harrison,Jewett,"112 W Main Street",,01/06/2015
+Ohio,Mahoning,Sebring,"1005  Lake Park Boulevard Box 85",,01/06/2015
+Ohio,Highland,Hillsboro,"1100  Northview Drive Box 5g",,01/06/2015
+Ohio,Greene,Bowersville,"3288  Long Street",,01/06/2015
+Ohio,Athens,Nelsonville,"164 W Franklin  Box 1/2",,01/08/2015
+Ohio,Butler,Somerville,"1248  Northern Road",,01/09/2015
+Ohio,Summit,Akron,"1067  Abington Road",,01/09/2015
+Ohio,Pike,Waverly,"11190  23  Box 146",,01/09/2015
+Ohio,Summit,Akron,"906  Crestline Drive",,01/09/2015
+Ohio,Wayne,Wooster,"249  Minerva Street",,01/11/2015
+Ohio,Clermont,Amelia,"3469  Locust Drive",,01/12/2015
+Ohio,Adams,Seaman,"26  Lewis",,01/12/2015
+Ohio,Summit,Lakemore,"1557  Raymond Avenue",,01/12/2015
+Ohio,Stark,Alliance,"759 S Lincoln Avenue",,01/14/2015
+Ohio,Fairfield,Lancaster,"320 S Broad Street Box D",,01/15/2015
+Ohio,Summit,Akron,"2794  Ithaca Avenue",,01/16/2015
+Ohio,Columbiana,Lisbon,"330 E Washington Street",,01/16/2015
+Ohio,Mahoning,Sebring,"206 E Oregon Avenue",,01/20/2015
+Ohio,Columbiana,Salem,"162 W Pershing Street",,01/23/2015
+Ohio,Adams,Manchester,"1764  136",,01/24/2015
+Ohio,Tuscarawas,"New Philadelphia","1063  Maple Street",,01/25/2015
+Ohio,Fairfield,Lancaster,"180  Sells Road Box B-8",,02/03/2015
+Ohio,Licking,Hebron,"130  Broadway Street Box 15",,02/03/2015
+Ohio,Wayne,Wooster,"303 W Vine St",,02/04/2015
+Ohio,Greene,Fairborn,"152  Fitchland Avenue",,02/05/2015
+Ohio,Fairfield,Lancaster,"141 W 5th Avenue",,02/09/2015
+Ohio,Coshocton,Coshocton,"912 S 6th Street",,02/10/2015
+Ohio,Richland,Mansfield,"185 S Franklin Street",,02/10/2015
+Ohio,Summit,Akron,"249  Oberlin Court",,02/11/2015
+Ohio,Tuscarawas,"New Philadelphia","350 Se Front Street",,02/12/2015
+Ohio,Gallia,Gallipolis,"1261  Jackson Park Box 22",,03/01/2015
+Ohio,Licking,Newark,"1264  Green Valley Drive",,03/01/2015
+Ohio,Perry,Crooksville,"10 N Buckeye Street",,03/03/2015
+Ohio,Summit,Akron,"1159  Flanders Avenue",,03/05/2015
+Ohio,Holmes,Millersburg,"710 S Washington Street Box 11",,04/01/2015
+Ohio,Preble,Camden,"97 E Central Avenue",,04/01/2015
+Ohio,Fairfield,Lancaster,"215 S Mount Pleasant Avenue",,04/02/2015
+Ohio,Geauga,Thompson,"7140  Sidley Road",,04/03/2015
+Ohio,Muskingum,Zanesville,"1030  Blue Avenue",,04/06/2015
+Ohio,Stark,Green,"4831  Massillon Road Box C",,04/06/2015
+Ohio,Geauga,Huntsburg,"15720  Pioneer Road",,04/08/2015
+Ohio,Summit,Akron,"2984  Manchester Road Box 3",,04/12/2015
+Ohio,Summit,Akron,"220  Barder Avenue",,04/14/2015
+Ohio,Warren,Franklin,"627  David Boulevard",,05/01/2015
+Ohio,Stark,Canton,"4904 Nw South Boulevard Box 9,10",,05/04/2015
+Ohio,Summit,Akron,"1953  Myersville",,05/04/2015
+Ohio,Hamilton,Harrison,"300 N Sycamore Street",,05/04/2015
+Ohio,Wayne,Wooster,"301  Spink",,05/13/2015
+Ohio,Clinton,Wilmington,"291 W Main Street Box C",,06/02/2015
+Ohio,Hamilton,Springdale,"196  Harter Street",,06/08/2015
+Ohio,Hamilton,Cincinnati,"2512  Roosevelt Avenue",,06/11/2015
+Ohio,Lake,Madison,"1972  Aberdeen Road",,06/11/2015
+Ohio,Summit,Akron,"209  Pfeiffer Avenue",,06/12/2015
+Ohio,Stark,Alliance,"181 W Ely Street",,06/14/2015
+Ohio,Fairfield,Lancaster,"180  Sells Road Box B8",,06/16/2015
+Ohio,Summit,Akron,"1119  Johnston Street Box 6",,06/16/2015
+Ohio,Athens,Nelsonville,"44444 Carbon Hill Buchtel Road",,06/22/2015
+Ohio,Stark,Canton,"3639 Ne Ellis Avenue",,06/22/2015
+Ohio,Scioto,Minford,"1307  Salem Road",,07/01/2015
+Ohio,Fairfield,Lancaster,"222  Washington Ave",,09/11/2015
+Ohio,Stark,Minerva,"9171 Nw Arrow Road",,09/14/2015
+Ohio,Stark,Alliance,"1444  Parkway Boulevard",,09/17/2015
+Ohio,Summit,Akron,"1111  Sutherland Avenue",,09/17/2015
+Ohio,Mahoning,Youngstown,"24 N Brockway Avenue",,10/01/2015
+Ohio,Hocking,Haydenville,"16746 E Haydenville Road",,10/06/2015
+Ohio,Summit,Akron,"123  Plaza Court",,10/08/2015
+Ohio,Hancock,"Mount Blanchard","16305  Township Road 150",,10/09/2015
+Ohio,Tuscarawas,"New Philadelphia","130 Nw 5th",,10/09/2015
+Ohio,Ashtabula,Dorset,"4189  Hayes Road",,10/09/2015
+Ohio,Stark,Alliance,"13955 Ne Bayton Street",,10/12/2015
+Ohio,Montgomery,Moraine,"3427  Cozy Camp Road",,10/13/2015
+Ohio,Holmes,Millersburg,"71 N Mad Anthony Street",,10/13/2015
+Ohio,Summit,Stow,"3946  Fishcreek Road Box B16",,10/15/2015
+Ohio,Richland,Mansfield,"479  Wayne Street",,10/19/2015
+Ohio,Ashtabula,Ashtabula,"1702 E 29th Street",,10/20/2015
+Ohio,Stark,Canton,"2442 Ne Winfield Way Box Upper",,10/22/2015
+Ohio,Stark,Canton,"1453 Nw Rachel Woods Drive Box 32",,11/01/2015
+Ohio,Clermont,Loveland,"6704  Coke Avenue",,11/04/2015
+Ohio,Clermont,"New Richmond","2353  Laurel Nicholsville Road",,11/04/2015
+Ohio,Fairfield,Amanda,"7521  Circleville Street",,11/05/2015
+Ohio,Ashtabula,Geneva,"1561  Barnum Roads",,11/18/2015
+Ohio,Clermont,Goshen,"6886  Garrison Spurling",,11/19/2015
+Ohio,Wayne,Wooster,"439  Nold Avenue",,12/02/2015
+Ohio,Stark,Canton,"32 S 10th Street",,12/03/2015
+Ohio,Ross,Chillicothe,"154 N Mulberry Street",,12/30/2015
+Ohio,Ashtabula,Andover,"249  Gates Street",,03/04/2016
+Ohio,Ashtabula,Geneva,"3170 S Myers Road",,03/05/2016
+Ohio,Summit,Barberton,"1307  Benton Street",,03/07/2016
+Ohio,Athens,Nelsonville,"3760  Perry Ridge Road",,03/08/2016
+Ohio,Athens,Athens,"3613  Enlow Road",,04/05/2016
+Ohio,Summit,Akron,"884  Sherman St",,04/10/2016
+Ohio,Summit,Akron,"661  Carpenter St",,04/16/2016
+Ohio,Columbiana,Hanoverton,"11327  Gavers Rd",,06/02/2016
+Ohio,Cuyahoga,Cleveland,"4505  Burger",,06/02/2016
+Ohio,Clermont,Goshen,"3087  Meek",,06/03/2016
+Ohio,Marion,Morral,"7632  Irvin Shoots Rd",,06/07/2016
+Ohio,Licking,Heath,"397  Franklin Ave",,06/14/2016
+Ohio,Summit,Copley,"1755  Knox Boulevard",,07/01/2016
+Ohio,Cuyahoga,Cleveland,"2002  Spring Road",,07/03/2016
+Ohio,Stark,Canton,"1114 Se Gonder Avenue Box 316",,07/05/2016
+Ohio,Tuscarawas,"New Philadelphia","3691  Club Lane",,07/06/2016
+Ohio,Summit,Akron,"765  Tallkron Drive",,07/12/2016
+Ohio,Ashtabula,Ashtabula,"1022  Myrtle Avenue",,07/14/2016
+Ohio,Paulding,[unspecified],"15803  Road 191",,07/19/2016
+Ohio,Trumbull,Cortland,"7436 Ridge Rd",,08/04/2016
+Ohio,Tuscarawas,Newcomerstown,"131 Neighbor St",,08/13/2016
+Ohio,Scioto,Portsmouth,"1211 14th St",,08/22/2016
+Ohio,Ashtabula,Ashtabula,"5302 Woodman Ave",,08/24/2016
+Ohio,Clermont,Felicity,"703 Vine St",,08/26/2016
+Ohio,Shelby,Lockington,"10320 Black Fox Trail",,08/30/2016
+Ohio,Athens,Athens,"17636 Mush Run Rd",,08/30/2016
+Ohio,Clinton,Wilmington,"759 W Locust St",,09/01/2016
+Ohio,Lorain,Elyria,"41417 Elmwood St",,09/01/2016
+Ohio,Highland,Hillsboro,"143 W Pleasant St",,09/06/2016
+Ohio,Clermont,"New Richmond","1916 Pearl St",,09/08/2016
+Ohio,Scioto,"Franklin Furnace","36 French Grant Rd",,09/08/2016
+Ohio,Marion,Morral,"104 S West St",,09/13/2016
+Ohio,Scioto,Portsmouth,"1507 Summit St",,09/15/2016
+Ohio,Highland,Hillsboro,"11204 Careytown Rd",,09/18/2016
+Ohio,Scioto,"Franklin Furnace","80 Arizona St",,09/22/2016
+Ohio,Vinton,Mcarthur,"62833 Bolar Rd",,09/24/2016
+Ohio,Stark,Alliance,"999 S Freedom Ave",,09/28/2016
+Ohio,Columbiana,Salem,"609 S Union Ave",,09/28/2016
+Ohio,Ashtabula,Andover,"Gates Street",,10/04/2016
+Ohio,Highland,Hillsboro,"3934 E Danville Rd",,10/07/2016
+Ohio,Trumbull,Cortland,"7904 Thompson Sharpsville Road",,10/07/2016
+Ohio,Trumbull,"Newton Falls","27 W Liberty St",,10/11/2016
+Ohio,Jefferson,Rayland,"861 County Road 1",,10/25/2016
+Ohio,Athens,"The Plains","9 W 2nd St",,10/26/2016
+Ohio,Warren,Lebanon,"175 Summit St",,10/31/2016
+Ohio,Ashtabula,Ashtabula,"5867 Woodman Ave",,11/07/2016
+Ohio,Butler,Hamilton,"6115 Jericho Lane",,11/08/2016
+Ohio,Cuyahoga,Cleveland,"3424 W 62nd St",,11/09/2016
+Ohio,Summit,Akron,"3416 Albrecht Ave",,11/17/2016
+Ohio,Warren,Franklin,"30 Beam Dr",,11/22/2016
+Ohio,Clinton,Clarksville,"2777 Pansy Rd",,11/29/2016
+Ohio,Lorain,Lorain,"231 Iowa",,02/15/2017
+Ohio,Athens,Coolville,"465 State Route 124",,02/16/2017
+Ohio,Jefferson,Amsterdam,"106 Liberty St",,02/17/2017
+Ohio,Ross,Waverly,"2140 Valley Rd",,02/17/2017
+Ohio,Pike,Piketon,"6419 Truesdell Road",,02/18/2017
+Ohio,Clinton,Blanchester,"613 South Broadway",,06/14/2017
+Ohio,Clermont,Goshen,"6564 State Route 133",,09/06/2017
+Ohio,Knox,Frazeysburg,"26377 Jug Run Rd",,12/13/2017
+Ohio,Muskingum,Nashport,"3045 Powelson",,03/04/2018

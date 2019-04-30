@@ -1,0 +1,308 @@
+state,county,city,address1,address2,date
+"West Virginia",Kanawha,Charleston,"1515 Livingston Ave",,01/13/2004
+"West Virginia",Kanawha,"Saint Albans","65 Whispering Oaks St",,01/16/2004
+"West Virginia",Kanawha,Elkview,"5101 Elk River Rd",,01/19/2004
+"West Virginia",Kanawha,Charleston,"1505 Windsor Dr",,01/21/2004
+"West Virginia",Kanawha,Sissonville,"519 Wolfpen Dr",,01/28/2004
+"West Virginia",Kanawha,"Saint Albans","104 Third N Ave",,01/31/2004
+"West Virginia",Kanawha,"Saint Albans","2843 Mac Corkle Ave 109",,02/02/2004
+"West Virginia",Kanawha,Charleston,"5301 1/2 Maccorkle Ave A",,02/05/2004
+"West Virginia",Kanawha,Dunbar,"400 Wilson Ave",,02/07/2004
+"West Virginia",Kanawha,Dunbar,"860 Dutch Hollow Rd",,02/10/2004
+"West Virginia",Kanawha,Sissonville,"13 Whitetail Ln",,02/14/2004
+"West Virginia",Kanawha,"South Charleston","832 Willow Dr",,02/26/2004
+"West Virginia",Kanawha,Charleston,"211 Hickory Rd",,03/04/2004
+"West Virginia",Kanawha,"Saint Albans","700 Dames Hill Rd",,03/04/2004
+"West Virginia",Kanawha,Charleston,"2652 Evergreen Dr",,03/10/2004
+"West Virginia",Kanawha,Charleston,"1145 Barlow Dr",,03/15/2004
+"West Virginia",Raleigh,Midway,"225 1/2 Brammer St",,03/17/2004
+"West Virginia",Kanawha,Sissonville,"1790b Tolley Rd",,03/23/2004
+"West Virginia",Kanawha,Sissonville,"1788 Tolley Rd",,03/23/2004
+"West Virginia",Kanawha,Nitro,"2321 23rd St",,03/31/2004
+"West Virginia",Kanawha,Charleston,"1607 Bigley Ave 105",,03/31/2004
+"West Virginia",Kanawha,"South Charleston","224 1/2 5th Ave",,04/01/2004
+"West Virginia",Kanawha,Charleston,"1522 7th Ave",,04/06/2004
+"West Virginia",Kanawha,"Saint Albans","820 Hughes Dr",,04/08/2004
+"West Virginia",Boone,Wharton,"30099 Pond Fork Rd",,04/08/2004
+"West Virginia",Kanawha,"South Charleston","610 Green Rd",,04/16/2004
+"West Virginia",Kanawha,"St Albanys","2746 Lincoln Ave",,04/22/2004
+"West Virginia",Kanawha,Elkview,"121 New Hope Rd",,04/23/2004
+"West Virginia",Kanawha,Elkview,"565 New Hope Rd",,04/23/2004
+"West Virginia",Kanawha,"Saint Albans","526 Barrett St",,06/02/2004
+"West Virginia",Roane,Spencer,"161 Arnoldsburg Rd",,06/03/2004
+"West Virginia",Kanawha,"Saint Albans","104 Third N St",,06/10/2004
+"West Virginia",Kanawha,"Saint. Albans","5606 Habitat St",,06/15/2004
+"West Virginia",Kanawha,Charleston,"100 Washington St 726",,06/19/2004
+"West Virginia",Kanawha,Marmet,"316 9th St A",,06/22/2004
+"West Virginia",Kanawha,Clendenin,"350 Elk River N Rd",,06/23/2004
+"West Virginia",Kanawha,Charleston,"489 Ruffne S Rd",,06/25/2004
+"West Virginia",Kanawha,Charleston,"1105 Stuart St",,06/27/2004
+"West Virginia",Kanawha,"South Charleston","120 Shepard Ave D",,07/07/2004
+"West Virginia",Roane,Walton,"626 Long Ridge Rd",,07/21/2004
+"West Virginia",Kanawha,Charleston,"268 Newhouse Rd C",,07/27/2004
+"West Virginia",Cabell,Huntington,"411 9th St",,08/01/2004
+"West Virginia",Cabell,Ona,"2632 Yates Crossing Rd",,08/10/2004
+"West Virginia",Kanawha,Sissonville,"201 Legg Star Rt",,08/27/2004
+"West Virginia",Cabell,Milton,"1590 Balls Gap Rd",,09/01/2004
+"West Virginia",Jackson,Cottageville,"34 Pinell St",,09/02/2004
+"West Virginia",Boone,Bloomingrose,"54 Mcclung Ln",,09/10/2004
+"West Virginia",Taylor,Grafton,"605 Watkins St",,09/11/2004
+"West Virginia",Kanawha,Charleston,"681 Wayside Dr",,09/21/2004
+"West Virginia",Kanawha,"Cross Lanes","631 Valley View Dr",,09/22/2004
+"West Virginia",Kanawha,Nitro,"1107 Park Ave",,09/27/2004
+"West Virginia",Kanawha,Charleston,"268 Newhouse Branch Rd",,10/01/2004
+"West Virginia",Cabell,Milton,"1035 Newmans Branch Rd",,10/03/2004
+"West Virginia",Kanawha,"Cross Lanes","5106 Shannon Dr 427",,10/12/2004
+"West Virginia",Kanawha,"Saint Albans","434 Weimer Ave",,10/17/2004
+"West Virginia",Kanawha,"Saint Albans","1006 Green Valley Dr",,10/26/2004
+"West Virginia",Kanawha,Charleston,"5318 Main St",,11/05/2004
+"West Virginia",Kanawha,Charleston,"403 1/2 Swinburn St",,11/10/2004
+"West Virginia",Gilmer,Glenville,"#10 Howard St",,11/24/2004
+"West Virginia",Kanawha,Charleston,"4324 Washington W St",,11/26/2004
+"West Virginia",Kanawha,Charleston,"622 Randolph St B",,11/30/2004
+"West Virginia",Putnam,Poca,"54 Haning Dr",,12/09/2004
+"West Virginia",Gilmer,Glenville,"706 Lewis N St",,12/10/2004
+"West Virginia",Kanawha,Charleston,"2529 Sissonville Dr",,12/11/2004
+"West Virginia",Kanawha,"Saint Albans","5593 Kanawha Turnpike",,12/22/2004
+"West Virginia",Kanawha,Charleston,"506 Ruffner S Rd",,12/28/2004
+"West Virginia",Kanawha,"Saint Albans","2644 Furlong Ave",,12/29/2004
+"West Virginia",Kanawha,Sissonville,"44 Fisher's Branch Rd",,12/31/2004
+"West Virginia",Kanawha,Charleston,"2413 Bench Rd",,01/11/2005
+"West Virginia",Cabell,Milton,"1113 Amos St",,01/24/2005
+"West Virginia",Putnam,"Scott Depot","209 Beechwood Estates",,01/24/2005
+"West Virginia",Kanawha,"Saint Albans","2612 Furlong Ave",,01/31/2005
+"West Virginia",Kanawha,"Cross Lanes","5308 Rocky Fork Rd",,02/02/2005
+"West Virginia",Kanawha,Elkview,"632 Jake's Run Rd",,02/03/2005
+"West Virginia",Kanawha,Charleston,"2505 Sissonville Dr A",,02/03/2005
+"West Virginia",Kanawha,Nitro,"18 Shadow Hills Park",,02/03/2005
+"West Virginia",Kanawha,Nitro,"2403 24th St",,02/03/2005
+"West Virginia",Braxton,Sutton,"2434 Sutton Ln",,02/04/2005
+"West Virginia",Kanawha,"South Charleston","713 Chesapeake Ave",,02/04/2005
+"West Virginia",Kanawha,"Saint Albans","725 Park St",,02/08/2005
+"West Virginia",Kanawha,Charleston,"403 1/2 Swinburn",,02/09/2005
+"West Virginia",Roane,Spencer,"40 Front St",,02/10/2005
+"West Virginia",Kanawha,Charleston,"2606 (a) 6th Ave A",,02/11/2005
+"West Virginia",Putnam,Eleanor,"202 Chestnut E St",,02/16/2005
+"West Virginia",Kanawha,Charleston,"4200 Bush St",,02/17/2005
+"West Virginia",Kanawha,Charleston,"1524 Chandler Dr",,02/19/2005
+"West Virginia",Kanawha,"Saint Albans","850 Austin Dr",,02/26/2005
+"West Virginia",Kanawha,"Saint Albans","111 West St",,03/02/2005
+"West Virginia",Kanawha,"South Charleston","109 10th Ave",,03/05/2005
+"West Virginia",Kanawha,Charleston,"611 Harper Rd",,03/08/2005
+"West Virginia",Kanawha,Tornado,"100 Coal River Rd",,03/11/2005
+"West Virginia",Kanawha,"Cross Lanes","103 Oakwood Rd",,03/11/2005
+"West Virginia",Kanawha,Dunbar,"2701 Fairlawn Ave 56",,03/12/2005
+"West Virginia",Kanawha,Charleston,"5311 Washington Ave",,03/13/2005
+"West Virginia",Kanawha,Charleston,"1518 Lewis St",,03/14/2005
+"West Virginia",Kanawha,Sissonville,"6438 Starlite Dr",,03/15/2005
+"West Virginia",Kanawha,Dunbar,"1352 Dutch Hollow Rd",,03/17/2005
+"West Virginia",Randolph,Elkins,"306 First St 6",,03/18/2005
+"West Virginia",Kanawha,Charleston,"1524 Chandler",,03/21/2005
+"West Virginia",Putnam,Winfield,"102 Harmons Branch Rd",,03/24/2005
+"West Virginia",Kanawha,Charleston,"1021 Hendrix Ave",,03/25/2005
+"West Virginia",Kanawha,"Cross Lanes","5039 Delores",,03/28/2005
+"West Virginia",Kanawha,Winifrede,"522 Winifrede Hollow Rd",,03/28/2005
+"West Virginia",Roane,Gandeeville,"2602 Kettle Dr",,03/29/2005
+"West Virginia",Kanawha,"Cabin Creek","138 1/2 Hill St",,03/30/2005
+"West Virginia",Kanawha,Charleston,"613 Tennessee Ave 1/2",,04/01/2005
+"West Virginia",Kanawha,Nitro,"3996 39th E St",,04/05/2005
+"West Virginia",Kanawha,Charleston,"4410 Sissonville Dr",,04/05/2005
+"West Virginia",Kanawha,Sissonville,"698 Clearview Heights E",,04/12/2005
+"West Virginia",Kanawha,Dunbar,"1842 Roxaiana Rd",,04/13/2005
+"West Virginia",Kanawha,"Saint Albans","692 Austin Dr",,04/13/2005
+"West Virginia",Boone,Racine,"148 Valley Vista Cir",,04/18/2005
+"West Virginia",Kanawha,Charleston,"137 Scenic Dr",,04/18/2005
+"West Virginia",Mason,"Point Pleasant","2107 Monroe Ave",,04/19/2005
+"West Virginia",Jackson,Ravenswood,"706 Ritchie S Ave",,04/20/2005
+"West Virginia",Kanawha,Charleston,"3535 Spring Fork Rd",,04/22/2005
+"West Virginia",Kanawha,"Saint Albans","127 Miracle Dr",,04/26/2005
+"West Virginia",Roane,Spencer,"146 Bear Fork",,04/29/2005
+"West Virginia",Braxton,Sutton,"356 Buck Fork Rd",,05/01/2005
+"West Virginia",Kanawha,Charleston,"1911 Iris Dr",,05/03/2005
+"West Virginia",Kanawha,"Cross Lanes","1002 Lisa Ct",,05/04/2005
+"West Virginia",Raleigh,"Crab Orchard","106 Eaton St",,05/06/2005
+"West Virginia",Jackson,Kenna,"1930 Fisher Ridge Rd",,05/09/2005
+"West Virginia",Randolph,Elkins,"15 Central St",,05/09/2005
+"West Virginia",Kanawha,Charleston,"500 Slack St D",,05/11/2005
+"West Virginia",Kanawha,"Saint Albans","500 Holley",,05/12/2005
+"West Virginia",Kanawha,"Saint Albans","2418 Washington Ave",,05/26/2005
+"West Virginia",Cabell,Milton,"1114 Lee Creek Rd",,06/02/2005
+"West Virginia",Mason,"Point Pleasant","3318 Howard Ave",,06/03/2005
+"West Virginia",Kanawha,"Cross Lanes","5039 Dolores Dr",,06/14/2005
+"West Virginia",Kanawha,"Saint Albans","2630 Furlong",,06/15/2005
+"West Virginia",Kanawha,Charleston,"1023 South Park Rd",,06/18/2005
+"West Virginia",Kanawha,Charleston,"807 Westminster Way",,06/25/2005
+"West Virginia",Kanawha,"Cross Lanes","5135 Crystal Dr",,06/30/2005
+"West Virginia",Kanawha,"Saint Albans","214 Valencia Pl",,07/05/2005
+"West Virginia",Cabell,Huntington,"4128 5th St",,07/09/2005
+"West Virginia",Kanawha,Charleston,"611 Mary St",,07/10/2005
+"West Virginia",Kanawha,Charleston,"340 Walker Rd G",,07/28/2005
+"West Virginia",Cabell,Milton,"1649 James River Turnpike",,08/02/2005
+"West Virginia",Kanawha,"Saint Albans","45 B St 8",,08/03/2005
+"West Virginia",Gilmer,Glenville,"4640 Highway 5 W",,08/11/2005
+"West Virginia",Roane,Spencer,"2370 Charleston Rd",,08/23/2005
+"West Virginia",Jackson,Murraysville,"1085 Skull Run Rd",,08/25/2005
+"West Virginia",Webster,Cowen,"7 Mcguire Ave",,08/31/2005
+"West Virginia",Trempealeau,Blair,"34022 Urlain N Rd",,09/02/2005
+"West Virginia",Kanawha,"South Charleston","707 Hamdor St A",,09/12/2005
+"West Virginia",Kanawha,"Saint Albans","417 Dupont Ave",,09/15/2005
+"West Virginia",Greenbrier,"White Sulphur Springs","200 Main W St",,09/17/2005
+"West Virginia",Greenbrier,"White Sulphur Springs","205 (b) Spring St",,09/17/2005
+"West Virginia",Kanawha,"South Charleston","507 Chestnut Rd",,09/21/2005
+"West Virginia",Putnam,"Saint Albans","448 Woods Dr",,10/19/2005
+"West Virginia",Cabell,Lesage,"5001 Kathy Ln 8",,10/19/2005
+"West Virginia",Braxton,Gassaway,"702 1/2 Kanawha St",,10/22/2005
+"West Virginia",Roane,Amma,"1193 Amma Rd",,11/17/2005
+"West Virginia",Lincoln,Culloden,"1326 Coon Creek Rd",,12/10/2005
+"West Virginia",Kanawha,Nitro,"604 6th St",,12/22/2005
+"West Virginia",Kanawha,Charleston,"4212 Winterberry Ln",,01/13/2006
+"West Virginia",Braxton,Sutton,"595 Sutton Lane",,01/13/2006
+"West Virginia",Raleigh,"Glen Morgan","353 Ritter Dr",,01/16/2006
+"West Virginia",Kanawha,Nitro,"54 31st E St",,01/19/2006
+"West Virginia",Kanawha,Charleston,"131 Lude Rd",,01/25/2006
+"West Virginia",Kanawha,"South Charleston","131 Lube Road",,01/25/2006
+"West Virginia",Kanawha,"Saint Albans","300 Short St.",,01/29/2006
+"West Virginia",Kanawha,Charleston,"1516 Cascade Dr",,02/02/2006
+"West Virginia",Kanawha,"Saint Albans","126 1/2 Hudson Valley Drive",,02/08/2006
+"West Virginia",Jackson,Kenna,"517 Watts Chapel Rd",,02/25/2006
+"West Virginia",Kanawha,Tad,"112 Pulterson",,03/15/2006
+"West Virginia",Kanawha,"Saint Albans","103 3rd N Ave",,03/23/2006
+"West Virginia",Kanawha,"South Charleston","131 Lude Road",,03/25/2006
+"West Virginia",Kanawha,Charleston,"136 Lakin St.",,03/29/2006
+"West Virginia",Kanawha,Tornado,"137 Buckner Road",,04/09/2006
+"West Virginia",Kanawha,Charleston,"1516 1/2 East Lee St",,04/11/2006
+"West Virginia",Cabell,Ona,"114 Bethesda Drive",,04/12/2006
+"West Virginia",Kanawha,Charleston,"1519 Lewis Street",,04/15/2006
+"West Virginia",Kanawha,Charleston,"1519 Lewis St.",,04/15/2006
+"West Virginia",Cabell,Milton,"1421 Glenwood Street",,04/17/2006
+"West Virginia",Kanawha,Charleston,"396 Rt 5",,05/30/2006
+"West Virginia",Cabell,Barboursville,"1902 Hash Ridge Road 64b",,06/01/2006
+"West Virginia",Kanawha,Charleston,"571 A Mundy Hollow Road",,06/05/2006
+"West Virginia",Kanawha,"South Charleston","78 Route 7",,06/12/2006
+"West Virginia",Kanawha,Charleston,"78 Route 7 (lincoln Drive)",,06/12/2006
+"West Virginia",Kanawha,Charleston,"202 Fore Drive",,06/27/2006
+"West Virginia",Kanawha,Charleston,"325b Route 5",,07/04/2006
+"West Virginia",Kanawha,Charleston,"923 Heavenly Drive",,08/20/2006
+"West Virginia",Kanawha,Charleston,"2223 Falcon Drive",,08/29/2006
+"West Virginia",Kanawha,Charleston,"822 South Ruffiner Road",,09/09/2006
+"West Virginia",Lincoln,"Alum Creek","101 Upper Molly's Branch Road",,09/25/2006
+"West Virginia",Kanawha,Elkview,"138 Cemetery Hill",,11/30/2006
+"West Virginia",Kanawha,"Saint Albans","1483 Pennslyvania Avenue",,11/30/2006
+"West Virginia",Kanawha,Charleston,"1400 Watts Street B",,12/14/2006
+"West Virginia",Kanawha,Charleston,"1317 Crescent Road",,12/21/2006
+"West Virginia",Kanawha,Charleston,"79 Smith Creek Road",,12/28/2006
+"West Virginia",Kanawha,Elkview,"220b Big Fork Road",,01/03/2007
+"West Virginia",Kanawha,Charleston,"1509 Kirkwood Drive",,01/22/2007
+"West Virginia",Kanawha,Charleston,"5134 Derrick's Creek Road",,01/31/2007
+"West Virginia",Kanawha,Charleston,"1890 Corvair Drive",,02/02/2007
+"West Virginia",Kanawha,"Saint Albans","218 West Virginia Street",,03/06/2007
+"West Virginia",Kanawha,Charleston,"127 Cline Hollow Road",,03/16/2007
+"West Virginia",Kanawha,"Saint Albans","1421 Scott Drive",,03/23/2007
+"West Virginia",Kanawha,Charleston,"831 Woodward Drive",,04/13/2007
+"West Virginia",Kanawha,Charleston,"5 Pine Valley Drive",,04/28/2007
+"West Virginia",Kanawha,Charleston,"Rt 5 340f",,06/01/2007
+"West Virginia",Kanawha,Tad,"193 Rensford Star Route",,06/02/2007
+"West Virginia",Kanawha,Charleston,"307 Ada Mae Drive",,06/20/2007
+"West Virginia",Kanawha,Charleston,"836 Greendale Drive",,06/23/2007
+"West Virginia",Kanawha,Elkview,"210 Vine Drive",,06/26/2007
+"West Virginia",Kanawha,Charleston,"915 Hunt Avenue",,08/06/2007
+"West Virginia",Kanawha,Charleston,"108 Wildwood Acres",,08/21/2007
+"West Virginia",Kanawha,Clendenin,"185 Spencer Road 185",,11/13/2007
+"West Virginia",Kanawha,Charleston,"5102 Greg Tan Lane",,11/19/2007
+"West Virginia",Kanawha,Charleston,"364 Rt 5 Bayou",,01/01/2008
+"West Virginia",Kanawha,Sissonville,"2140 Derricks Creek Road",,01/09/2008
+"West Virginia",Kanawha,Tornado,"208 Ferrell Road 208",,01/16/2008
+"West Virginia",Kanawha,Elkview,"429a Church Road",,01/26/2008
+"West Virginia",Kanawha,Kanawha,"333 Walker Drive",,01/30/2008
+"West Virginia",Kanawha,"Cross Lanes","138 Brick Lane",,02/05/2008
+"West Virginia",Kanawha,"Saint Albans","404 High Street C",,02/08/2008
+"West Virginia",Kanawha,Charleston,"1521 Smith Road 6",,02/10/2008
+"West Virginia",Kanawha,"South Charleston","705 Kinder Street",,02/29/2008
+"West Virginia",Kanawha,Charleston,"514 Falcon Drive",,03/10/2008
+"West Virginia",Kanawha,Nitro,"1609 16th Street",,03/20/2008
+"West Virginia",Kanawha,Dunbar,"334 17th Street",,04/24/2008
+"West Virginia",Kanawha,"Cross Lanes","5243 Dalewood Drive",,04/28/2008
+"West Virginia",Kanawha,Sissonville,"1790 Tolley Road",,05/05/2008
+"West Virginia",Kanawha,"Saint Albans","202 Fairview Drive",,05/21/2008
+"West Virginia",Kanawha,"South Charleston","306 Eastwood Avenue",,07/17/2008
+"West Virginia",Kanawha,Clendenin,"1585 Reamer Road",,07/21/2008
+"West Virginia",Kanawha,Elkview,"6 Givens Trailer Park",,07/21/2008
+"West Virginia",Kanawha,"Saint Albans","2314 Jefferson Avenue",,08/19/2008
+"West Virginia",Kanawha,"Cross Lanes","326 Rt 6 (jones Ridge) Road",,08/25/2008
+"West Virginia",Kanawha,"Saint Albans","117 Miracle Drive",,09/02/2008
+"West Virginia",Kanawha,Charleston,"341g 5 Route",,09/15/2008
+"West Virginia",Kanawha,Charleston,"208 Kelly's Creek Road",,09/24/2008
+"West Virginia",Kanawha,"South Charleston","326 3 Avenue",,10/19/2008
+"West Virginia",Kanawha,"Cross Lanes","4803 Washington Street West",,10/22/2008
+"West Virginia",Kanawha,Chesapeake,"11917 Mccorkle Avenue",,11/04/2008
+"West Virginia",Kanawha,Charleston,"2372 Savary Drive",,11/19/2008
+"West Virginia",Kanawha,Charleston,"156 Wildwood Acres Road A",,11/20/2008
+"West Virginia",Kanawha,"South Charleston","319 Central Avenue",,11/23/2008
+"West Virginia",Kanawha,Sissonville,"7375 Sissonville Drive",,11/24/2008
+"West Virginia",Kanawha,Charleston,"2107 6th Avenue",,12/31/2008
+"West Virginia",Kanawha,Charleston,"4903 Washington Avenue 12",,04/08/2009
+"West Virginia",Kanawha,Charleston,"999 Wills Creek",,04/10/2009
+"West Virginia",Kanawha,Sissonville,"7626 Hughart Drive",,04/13/2009
+"West Virginia",Kanawha,"Saint Albans","754 Coal River Road",,04/15/2009
+"West Virginia",Kanawha,"South Charleston","1636 Oakhurst Drive",,04/29/2009
+"West Virginia",Kanawha,"Cross Lanes","4728 Big Tyler Road",,05/15/2009
+"West Virginia",Kanawha,Nitro,"149 Main Avenida 4",,05/25/2009
+"West Virginia",Kanawha,"Saint Albans","425 Sexton Road B",,05/26/2009
+"West Virginia",Kanawha,Charleston,"136-5 Dutch Creek Road",,06/17/2009
+"West Virginia",Kanawha,Sissonville,"1996 Legg Fork Road",,06/29/2009
+"West Virginia",Kanawha,"Saint Albans","1 Tompkins Crossing Road",,06/29/2009
+"West Virginia",Kanawha,Charleston,"514  Falcon Drive",,01/11/2010
+"West Virginia",Kanawha,Charleston,"1630  Clay Avenue",,01/13/2010
+"West Virginia",Kanawha,Nitro,"1428  Main Avenue",,01/25/2010
+"West Virginia",Kanawha,"Saint Albans","425b  Sexton Road",,01/28/2010
+"West Virginia",Kanawha,Charleston,"2009  Weberwood Drive",,02/02/2010
+"West Virginia",Kanawha,"Saint Albans","2644a  Furlong Avenue",,02/03/2010
+"West Virginia",Kanawha,Sissonville,"134  Pine Valley Drive",,02/19/2010
+"West Virginia",Kanawha,Charleston,"200  Tuppers Creek Road",,03/30/2010
+"West Virginia",Upshur,Buckhannon,"9   Route 352",,04/21/2010
+"West Virginia",Kanawha,Charleston,"1910  Iris Drive",,05/12/2010
+"West Virginia",Kanawha,Elkview,"201  Fernridge Drive",,05/13/2010
+"West Virginia",Kanawha,"Saint Albans","181  Miracle Drive",,05/28/2010
+"West Virginia",Kanawha,Dunbar,"528  21st Street",,05/29/2010
+"West Virginia",Kanawha,"Saint Albans","304  Virginia Avenue",,06/29/2010
+"West Virginia",Kanawha,"Saint Albans","832  Green Valley Drive",,08/02/2010
+"West Virginia",Kanawha,"Saint Albans","711  Russell Road",,08/03/2010
+"West Virginia",Kanawha,Sissonville,"329b  Sigmond Fork Road",,08/05/2010
+"West Virginia",Jackson,Sandyville,"3  Stonegate Road",,08/26/2010
+"West Virginia",Jackson,Ripley,"427  Bullfrog Road",,08/26/2010
+"West Virginia",Kanawha,Sissonville,"13486  Derricks Creek Road",,08/31/2010
+"West Virginia",Kanawha,Charleston,"2029  Carson Street",,09/14/2010
+"West Virginia",Kanawha,"Saint Albans","408  Birch Street",,01/04/2011
+"West Virginia",Kanawha,Nitro,"1111  1st Avenue",,01/22/2011
+"West Virginia",Kanawha,Charleston,"496  Falcon Drive",,01/26/2011
+"West Virginia",Wood,Vienna,"1012  18th Street 2",,02/04/2011
+"West Virginia",Kanawha,Elkview,"94  Dickens Road",,02/16/2011
+"West Virginia",Kanawha,Charleston,"616  Ruffner Avenue",,04/14/2011
+"West Virginia",Tyler,Middlebourne,"8794  Wick Road",,09/09/2011
+"West Virginia",Kanawha,Elkview,"254  Poinsettia Lane",,11/28/2011
+"West Virginia",Kanawha,"Saint Albans","2601  Monroe Avenida",,12/05/2011
+"West Virginia",Calhoun,Annamoriah,"51  Katies Run",,12/20/2011
+"West Virginia",Kanawha,Charleston,"152  Fore Drive",,12/23/2011
+"West Virginia",Kanawha,Charleston,"1658  Franklin Avenue",,01/19/2012
+"West Virginia",Kanawha,Nitro,"1106  11th Street",,02/14/2012
+"West Virginia",Kanawha,"Cross Lanes","206  Broadlawn Terrace",,07/05/2012
+"West Virginia",Kanawha,Nitro,"423  Washington Street",,07/06/2012
+"West Virginia",Kanawha,Elkview,"1107  Park Avenue",,07/17/2012
+"West Virginia",Mason,Mason,"480  Pine Drive",,08/02/2012
+"West Virginia",Kanawha,Charleston,"5045  Big Tyler Road",,08/05/2012
+"West Virginia",Kanawha,"Saint Albans","1307  Five Mile Road",,08/14/2012
+"West Virginia",Kanawha,Charleston,"17611  Derrick Creek Road",,10/17/2012
+"West Virginia",Wood,Vienna,"700  21st St.  B",,11/12/2012
+"West Virginia",Wood,Parkersburg,"2813  Soyer Street 8",,04/16/2013
+"West Virginia",Kanawha,"S Charleston","443 Southwest 2nd Ave Circle",,04/24/2013
+"West Virginia",Kanawha,"Saint Albans","201  Short Street",,05/02/2013
+"West Virginia",Kanawha,Charleston,"1411  1/2  Jackson Street B",,05/03/2013
+"West Virginia",Kanawha,Charleston,"2008  Hutchinson Street",,06/05/2013
+"West Virginia",Kanawha,Dunbar,"136  Francis Street",,06/12/2013
+"West Virginia",Kanawha,"Saint Albans","919  Jackson Road",,06/19/2013
+"West Virginia",Kanawha,Charleston,"1520  Huron Terrace",,06/25/2013
+"West Virginia",Kanawha,"Saint Albans","2843 Southwest Maccorkle Avenue 115",,11/20/2013
+"West Virginia",Kanawha,"South Charleston","63  Fairview Acres Road",,05/12/2014
+"West Virginia",Kanawha,"Charles Town","1528 E 1/2 Lee Street",,06/18/2015
+"West Virginia",Kanawha,Clendenin,"21  Govenor Drive",,01/21/2016
+"West Virginia",Marshall,Cameron,"26 Pennsylvania Ave",,11/08/2016

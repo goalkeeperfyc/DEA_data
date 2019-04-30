@@ -1,0 +1,2358 @@
+state,county,city,address1,address2,date
+Oklahoma,Tulsa,Tulsa,"1132 North Wheeling Avenue",,
+Oklahoma,Tulsa,Tulsa,"801 North Mingo Road #453",,
+Oklahoma,Tulsa,Tulsa,"1012  Canton Avenida",,
+Oklahoma,Tulsa,Tulsa,"2536 East 6th Street",,
+Oklahoma,Tulsa,Tulsa,"2154 East Newton Street",,
+Oklahoma,Tulsa,Tulsa,"1602 North Delaware Avenue",,
+Oklahoma,Tulsa,Tulsa,"1069 North Irvington Avenue",,
+Oklahoma,Tulsa,Tulsa,"1223 North Columbia Avenue",,
+Oklahoma,Tulsa,Tulsa,"18543 East Admiral Boulevard",,
+Oklahoma,Washita,"Burns Flat","410 East Edens Street 12",,01/03/2000
+Oklahoma,Osage,Barnsdall,"1400 East 36th Street",,01/03/2000
+Oklahoma,Oklahoma,"Oklahoma City","8700 17th Ne St",,01/03/2000
+Oklahoma,Tulsa,Tulsa,"101 East 1st Street",,01/04/2000
+Oklahoma,Tulsa,Tulsa,"18424 North Lewis",,01/04/2000
+Oklahoma,Tulsa,Tulsa,"803 East 4th Street",,01/05/2000
+Oklahoma,Muskogee,Muskogee,"1527 10 E Hwy",,01/09/2000
+Oklahoma,Creek,"Sand Springs","190 Wekiwa W Rd",,01/09/2000
+Oklahoma,Oklahoma,"Midwest City","10101 Blanche  Ln",,01/12/2000
+Oklahoma,Oklahoma,"Oklahoma City","9800 21st Ne St 53",,01/13/2000
+Oklahoma,Osage,Fairfax,"4775 224 N Rd",,01/14/2000
+Oklahoma,Grady,Tuttle,"1210 Idaho W Ave",,01/15/2000
+Oklahoma,Tulsa,Tulsa,"8112 Harvard N Ave",,01/16/2000
+Oklahoma,Creek,"Sand Springs","11506 56 W St",,01/17/2000
+Oklahoma,Creek,"Sand Springs","1004 Forrest E Dr",,01/19/2000
+Oklahoma,Ottawa,Wyandotte,"2013 Southwest P",,01/19/2000
+Oklahoma,Oklahoma,"Oklahoma City","2504 Murray  Dr",,01/20/2000
+Oklahoma,Tulsa,Tulsa,"304 2nd N",,01/21/2000
+Oklahoma,Tulsa,Tulsa,"309 South Cincinnati Avenue",,01/23/2000
+Oklahoma,Comanche,Lawton,"1419 Bishop Sw St",,01/23/2000
+Oklahoma,Washington,Dewey,"1701 Southwest Middlepath",,01/26/2000
+Oklahoma,Tulsa,Tulsa,"310 West 90th Place",,01/27/2000
+Oklahoma,Tulsa,Tulsa,"8500 North Lewis Avenue",,01/28/2000
+Oklahoma,Tulsa,"Broken Arrow","117 4th E St",,01/31/2000
+Oklahoma,Wagoner,Coweta,"6080 263rd East S Ave",,02/02/2000
+Oklahoma,Tulsa,Tulsa,"1803 West 57th Place",,02/02/2000
+Oklahoma,Muskogee,Muskogee,"494 2 Mile N Rd",,02/02/2000
+Oklahoma,Tulsa,Tulsa,"1832 North Columbia Place",,02/03/2000
+Oklahoma,Cleveland,Norman,"906 Quannah Parker Trail",,02/03/2000
+Oklahoma,Oklahoma,"Oklahoma City","710 Poplar N Ln",,02/04/2000
+Oklahoma,Pottawatomie,Mcloud,"1301 Bernard  St",,02/04/2000
+Oklahoma,Tulsa,Tulsa,"2156 29 North E St",,02/04/2000
+Oklahoma,Tulsa,"Broken Arrow","7600 Eagle  Dr 204",,02/04/2000
+Oklahoma,Tulsa,"Broken Arrow","15723 167th E St",,02/04/2000
+Oklahoma,Washita,"Burns Flat","9th W St",,02/05/2000
+Oklahoma,Oklahoma,"Oklahoma City","6629 Zebra  St",,02/08/2000
+Oklahoma,Tulsa,Tulsa,"8231 77 East S Ave 1135",,02/08/2000
+Oklahoma,Tulsa,Tulsa,"3106 26 E St",,02/08/2000
+Oklahoma,Pottawatomie,Earlsboro,"1100 Mississippi S",,02/09/2000
+Oklahoma,Payne,Stillwater,"111 South Rose Avenue",,02/12/2000
+Oklahoma,Oklahoma,"Oklahoma City","1513 Kudu  St",,02/12/2000
+Oklahoma,Tulsa,Tulsa,"609 Peoria S Ave",,02/17/2000
+Oklahoma,Creek,Mounds,"13145 Edwards  Rd",,02/18/2000
+Oklahoma,Seminole,Seminole,"3045 Allen Point   20",,02/20/2000
+Oklahoma,Oklahoma,"Oklahoma City","1801 St Luke N",,02/22/2000
+Oklahoma,Osage,Barnsdall,"217 West 9th Street",,02/22/2000
+Oklahoma,Tulsa,Tulsa,"6315 22 W St",,02/22/2000
+Oklahoma,Tulsa,Tulsa,"6500 8 W St",,02/23/2000
+Oklahoma,Tulsa,Tulsa,"4109 34th West S",,02/23/2000
+Oklahoma,Cleveland,Moore,"2128 Nail Parkway",,02/24/2000
+Oklahoma,Tulsa,Tulsa,"9747 12 E St",,02/26/2000
+Oklahoma,Oklahoma,"Del City","515 Southeast Creek Avenue",,02/27/2000
+Oklahoma,Creek,Sapulpa,"1015  Jackson N E",,02/28/2000
+Oklahoma,Payne,Stillwater,"5606 104th E St",,02/29/2000
+Oklahoma,Tulsa,"Broken Arrow","17272 South 91st East Avenue",,03/01/2000
+Oklahoma,Cleveland,Norman,"112 Hayes W",,03/01/2000
+Oklahoma,Payne,Stillwater,"7514 104th E Ave",,03/06/2000
+Oklahoma,Oklahoma,"Oklahoma City","104 Rose E Dr",,03/06/2000
+Oklahoma,Oklahoma,"Oklahoma City","110 Lisa  Ln",,03/07/2000
+Oklahoma,Tulsa,"Broken Arrow","16919 South Memorial Drive",,03/11/2000
+Oklahoma,Kay,Tonkawa,"1314 6th S St",,03/12/2000
+Oklahoma,Oklahoma,"Oklahoma City","2700 Minster Nw",,03/13/2000
+Oklahoma,Tulsa,"Sand Springs","401 Dogwood S St B",,04/05/2000
+Oklahoma,Tulsa,"Sand Springs","6019 South 62nd West Avenue",,04/05/2000
+Oklahoma,Tulsa,Tulsa,"8923 19 E St",,04/26/2000
+Oklahoma,Oklahoma,"Oklahoma City","1400 Lafayette  Dr",,06/17/2000
+Oklahoma,Tulsa,Tulsa,"848 92 N Ave",,06/23/2000
+Oklahoma,Sequoyah,Vian,"105 South Pine Street",,06/28/2000
+Oklahoma,Tulsa,Mannford,"3939 161st E St",,06/28/2000
+Oklahoma,Tulsa,Tulsa,"9031 Delaware S  703",,06/28/2000
+Oklahoma,Creek,Sapulpa,"510 1st N St",,06/30/2000
+Oklahoma,Tulsa,"Broken Arrow","7500 South East 151st Street 58",,06/30/2000
+Oklahoma,Tulsa,Tulsa,"12014 22 E Pl",,07/04/2000
+Oklahoma,Oklahoma,"Oklahoma City","4322 Blackwelder N",,07/06/2000
+Oklahoma,Wagoner,Okay,"28609 138th E St",,07/06/2000
+Oklahoma,Oklahoma,"Oklahoma City","3606 Oklahoma S",,07/08/2000
+Oklahoma,Oklahoma,"Midwest City","225 East Edwards Street",,07/09/2000
+Oklahoma,Grady,Ninnekah,"615 9th N St",,07/12/2000
+Oklahoma,Oklahoma,"Oklahoma City","1115 Youngs N Blvd",,07/12/2000
+Oklahoma,Oklahoma,"Oklahoma City","421 26th Se",,07/18/2000
+Oklahoma,Logan,Guthrie,"707 Ash",,07/19/2000
+Oklahoma,Oklahoma,"Oklahoma City","2804 Durango  Cir",,07/21/2000
+Oklahoma,Mcclain,Blanchard,"210 Whitaker N St",,07/22/2000
+Oklahoma,Okmulgee,Beggs,"5404 Macarthur N Blvd",,07/28/2000
+Oklahoma,Wagoner,"Broken Arrow","139 North Quebec Avenue",,08/02/2000
+Oklahoma,Oklahoma,"Del City","6214 33rd Nw St C",,08/04/2000
+Oklahoma,Wagoner,"Broken Arrow","4652 South 28th W. Avenue",,08/06/2000
+Oklahoma,Oklahoma,"Oklahoma City","7817 Young S",,08/07/2000
+Oklahoma,Cleveland,Norman,"313 Indian Hills W Rd",,08/07/2000
+Oklahoma,Oklahoma,"Oklahoma City","4401 Nebraska S",,08/07/2000
+Oklahoma,Oklahoma,"Midwest City","1237 Pebbly N Rd",,08/09/2000
+Oklahoma,Oklahoma,"Oklahoma City","2130 59th Se St 122",,08/09/2000
+Oklahoma,Oklahoma,"Oklahoma City","4212 16th Nw St",,08/10/2000
+Oklahoma,Oklahoma,"Oklahoma City","2424 39th Sw St",,08/15/2000
+Oklahoma,Canadian,Yukon,"12026 16th Sw",,08/18/2000
+Oklahoma,Oklahoma,"Oklahoma City","8091 23 Nw St",,08/19/2000
+Oklahoma,Pushmataha,Clayton,"221 9th E St A",,08/24/2000
+Oklahoma,Tulsa,"Sand Springs","7102 129th N Ave",,08/24/2000
+Oklahoma,Oklahoma,"Oklahoma City","2801 42nd Sw St 11",,08/28/2000
+Oklahoma,Oklahoma,"Oklahoma City","2620 Santa Fe S",,08/29/2000
+Oklahoma,Okmulgee,Okmulgee,"10165 Chestnut  St",,09/01/2000
+Oklahoma,Oklahoma,"Oklahoma City","4628 Brookline N",,09/06/2000
+Oklahoma,Oklahoma,"Oklahoma City","1157 89th Nw",,09/07/2000
+Oklahoma,Comanche,Lawton,"911 11th Sw",,09/09/2000
+Oklahoma,Caddo,Hydro,"433 Hunt  St",,09/11/2000
+Oklahoma,Oklahoma,"Oklahoma City","3917 Liberty  Dr",,09/14/2000
+Oklahoma,Johnston,Tishomingo,"224 East 1st Street",,09/15/2000
+Oklahoma,Love,Marietta,"2725 Triplett E Rd",,09/22/2000
+Oklahoma,Oklahoma,"Warr Acres","2805 Southeast 57th Street",,09/25/2000
+Oklahoma,Muskogee,Muskogee,"1430 Poplar E Sr",,09/26/2000
+Oklahoma,Oklahoma,"Midwest City","19 Liberty Lane",,09/26/2000
+Oklahoma,Tulsa,"Sand Springs","8623 77th East N Ave",,09/27/2000
+Oklahoma,Canadian,"El Reno","201 Hoff N St",,09/28/2000
+Oklahoma,Wagoner,"Broken Arrow","2235 South Maybelle Avenue",,09/29/2000
+Oklahoma,Oklahoma,"Oklahoma City","5500 Barnes S",,10/01/2000
+Oklahoma,Creek,Sapulpa,"111 Poplar N  D",,10/04/2000
+Oklahoma,Oklahoma,"Oklahoma City","1317 31st Sw St",,10/05/2000
+Oklahoma,Creek,Kellyville,"17 1/2 Buffalo W St",,10/06/2000
+Oklahoma,Tulsa,Tulsa,"4431 31 E  102",,10/12/2000
+Oklahoma,Oklahoma,"Oklahoma City","600 79th Se St",,10/12/2000
+Oklahoma,Grady,Nicut,"3002 4 S St",,10/13/2000
+Oklahoma,Oklahoma,Luther,"601 Vista Lane S  80",,10/14/2000
+Oklahoma,Stephens,Marlow,"1201 9th S St",,10/18/2000
+Oklahoma,Oklahoma,"Oklahoma City","2308 12th Se St",,10/18/2000
+Oklahoma,Oklahoma,"Oklahoma City","12209 28th Sw",,10/18/2000
+Oklahoma,Leflore,Panama,"17117  Shelley Carlile Drive",,10/21/2000
+Oklahoma,Johnston,"Mill Creek","815 Zinn S",,10/24/2000
+Oklahoma,Payne,Stillwater,"3405 South Brush Creek",,10/25/2000
+Oklahoma,Tulsa,"Sand Springs","11509 112 E Pl",,10/26/2000
+Oklahoma,Tulsa,Tulsa,"9417 38 E St",,10/30/2000
+Oklahoma,Comanche,Lawton,"2402 Cornell S",,11/02/2000
+Oklahoma,Oklahoma,"Oklahoma City","2709 1/2 35th Sw",,11/02/2000
+Oklahoma,Creek,Sapulpa,"225 Linden N St",,11/03/2000
+Oklahoma,Muskogee,Muskogee,"715 Shady  St",,11/07/2000
+Oklahoma,Oklahoma,"Oklahoma City","706 26th Nw",,11/08/2000
+Oklahoma,Oklahoma,"Oklahoma City","10900 Powell  Rd",,11/10/2000
+Oklahoma,Tulsa,"Broken Arrow","13407 South 79th E Avenue",,11/11/2000
+Oklahoma,Tulsa,Tulsa,"6384 11th W Pl",,11/11/2000
+Oklahoma,Tulsa,Tulsa,"2900 Toledo N",,11/12/2000
+Oklahoma,Oklahoma,"Oklahoma City","1735 11th Nw",,11/15/2000
+Oklahoma,Johnston,Tishomingo,"904 West C Street",,11/15/2000
+Oklahoma,Haskell,Mccurtain,"603 Main S",,11/15/2000
+Oklahoma,Tulsa,"Sand Springs","11509 112th E Pl",,11/15/2000
+Oklahoma,Oklahoma,"Oklahoma City","1320 38th Se",,11/16/2000
+Oklahoma,Grant,Nash,"708 Kiowa W",,11/17/2000
+Oklahoma,Oklahoma,"Oklahoma City","3949 23rd Nw St",,11/17/2000
+Oklahoma,Creek,Sapulpa,"122 Mill E",,11/17/2000
+Oklahoma,Oklahoma,"Oklahoma City","11239 Pennsylvania N Ave 1010",,11/18/2000
+Oklahoma,Oklahoma,"Oklahoma City","3524 51st Nw St 2",,11/18/2000
+Oklahoma,Tulsa,"Broken Arrow","13402 South 75th East Avenue",,11/18/2000
+Oklahoma,Muskogee,Muskogee,"1454 East Popular",,11/30/2000
+Oklahoma,Oklahoma,"Oklahoma City","4100 Post S Rd",,12/01/2000
+Oklahoma,Tulsa,Tulsa,"6618 Latimer E Pl",,12/04/2000
+Oklahoma,Creek,Bristow,"33684 193 West S Ave",,12/05/2000
+Oklahoma,Canadian,Yukon,"1008 Elm  St",,12/06/2000
+Oklahoma,Oklahoma,"Oklahoma City","828 4th Se",,12/08/2000
+Oklahoma,Stephens,Marlow,"906 4th N St",,12/10/2000
+Oklahoma,Canadian,Mustang,"11730 Mustang S Rd",,12/11/2000
+Oklahoma,Oklahoma,Bethany,"123 Stanley",,12/15/2000
+Oklahoma,Oklahoma,"Oklahoma City","12224 15th Sw Ter",,12/16/2000
+Oklahoma,Oklahoma,"Oklahoma City","2432 18th Nw St",,12/17/2000
+Oklahoma,Oklahoma,"Oklahoma City","605 27th Sw St",,12/18/2000
+Oklahoma,Tulsa,"Broken Arrow","305 East 2nd Street",,12/21/2000
+Oklahoma,Payne,Stillwater,"423 Northwest 3rd Street 5",,12/23/2000
+Oklahoma,Oklahoma,"Oklahoma City","504 22nd Se St",,12/26/2000
+Oklahoma,Oklahoma,Edmond,"721 Sooner S Rd",,12/28/2000
+Oklahoma,Oklahoma,"Oklahoma City","2749 1/2 22nd Nw St",,12/28/2000
+Oklahoma,Logan,Guthrie,"9520 116th W St",,12/28/2000
+Oklahoma,Logan,Stillwater,"5050 David Payne  Rd",,12/29/2000
+Oklahoma,Tulsa,Tulsa,"722 Waco N Ave",,01/04/2001
+Oklahoma,Oklahoma,"Oklahoma City","3240 15th Nw",,01/04/2001
+Oklahoma,Oklahoma,"Oklahoma City","7300 13th Nw St",,01/04/2001
+Oklahoma,Logan,Guthrie,"1011 Jefferson E",,01/05/2001
+Oklahoma,Oklahoma,"Oklahoma City","2141 50th Sw St",,01/06/2001
+Oklahoma,Tulsa,"Broken Arrow","1052 East 121st South Street",,01/06/2001
+Oklahoma,Tulsa,"Broken Arrow","326 8 S St",,01/06/2001
+Oklahoma,Woodward,Woodward,"512 12th W",,01/08/2001
+Oklahoma,Okmulgee,Okmulgee,"1211 Dollins N",,01/08/2001
+Oklahoma,Washington,Dewey,"101 South 1/2 Chickasaw Avenue",,01/09/2001
+Oklahoma,Oklahoma,"Oklahoma City","5025 Briarwood  Dr",,01/09/2001
+Oklahoma,Tulsa,Tulsa,"10513 Admiral E Blvd",,01/09/2001
+Oklahoma,Tulsa,"Broken Arrow","4332 Elm S St",,01/11/2001
+Oklahoma,Comanche,Lawton,"613 Euclid  St",,01/11/2001
+Oklahoma,Oklahoma,"Oklahoma City","804 Anita N Dr",,01/12/2001
+Oklahoma,Oklahoma,Harrah,"4773 26 Se St",,01/12/2001
+Oklahoma,Payne,Stillwater,"710 East 104th Street",,01/15/2001
+Oklahoma,Mcclain,Blanchard,"245 North 438 Road",,01/15/2001
+Oklahoma,Ottawa,Picher,"306 Northeast 11th Place",,01/16/2001
+Oklahoma,Okmulgee,Okmulgee,"31445 South 210 Road",,01/16/2001
+Oklahoma,Tulsa,Tulsa,"5937 67th West S Ave",,01/16/2001
+Oklahoma,Tulsa,Tulsa,"12303 Archer E  E",,01/16/2001
+Oklahoma,Payne,Stillwater,"204 Northeast 5th",,01/16/2001
+Oklahoma,Oklahoma,"Oklahoma City","6305 Santa Fe S  4",,01/17/2001
+Oklahoma,Creek,Sapulpa,"113 1/2 Birch N",,01/21/2001
+Oklahoma,Payne,Stillwater,"918 West Freeman  #19",,01/24/2001
+Oklahoma,Oklahoma,Edmond,"4304 Vickie S",,01/24/2001
+Oklahoma,Tulsa,Tulsa,"20 30 West N Ave",,01/25/2001
+Oklahoma,Tulsa,Tulsa,"1742 Erie S Ave",,01/25/2001
+Oklahoma,Pottawatomie,Shawnee,"315 West 2nd",,01/26/2001
+Oklahoma,Pittsburg,Hartshorne,"8484 East Valley Springs Road",,01/26/2001
+Oklahoma,Payne,Stillwater,"401 South Morton Street",,01/27/2001
+Oklahoma,Creek,Mannford,"125 Gardenia  Cir  1040",,01/28/2001
+Oklahoma,Tulsa,"Broken Arrow","26302 51st E St",,01/30/2001
+Oklahoma,Wagoner,"Broken Arrow","1425 South Erie Avenue",,01/31/2001
+Oklahoma,Leflore,Spiro,"606 Missouri",,01/31/2001
+Oklahoma,Payne,Stillwater,"6909 Range S Rd",,01/31/2001
+Oklahoma,Leflore,Spiro,"803 Mckenzie W Ave",,01/31/2001
+Oklahoma,Creek,Mounds,"8430 183rd  St",,02/01/2001
+Oklahoma,Oklahoma,"Warr Acres","5613  Arrow Drive",,02/01/2001
+Oklahoma,Oklahoma,"Oklahoma City","6804 Lancer  Ln",,02/02/2001
+Oklahoma,Tulsa,Tulsa,"5804 Charles Page W Blvd",,02/06/2001
+Oklahoma,Tulsa,Tulsa,"10130 Admiral E Blvd A",,02/06/2001
+Oklahoma,Osage,Sperry,"114 Bighorn N St 9",,02/06/2001
+Oklahoma,Oklahoma,"Oklahoma City","1320 28th Se",,02/07/2001
+Oklahoma,Creek,Mannford,"369th W Ave",,02/08/2001
+Oklahoma,Logan,Edmond,"2217 7 W St",,02/08/2001
+Oklahoma,Oklahoma,"Oklahoma City","2941 1/2 27th Sw St 1/2",,02/10/2001
+Oklahoma,Delaware,Grove,"1531 80th  St",,02/13/2001
+Oklahoma,Ottawa,Wyandotte,"315 Northwest S Street",,02/16/2001
+Oklahoma,Tulsa,Tulsa,"1336 72nd East N Ave",,02/18/2001
+Oklahoma,Tulsa,Tulsa,"3616 2nd E St 28",,02/20/2001
+Oklahoma,Tulsa,Tulsa,"2156 29th E St",,02/20/2001
+Oklahoma,Oklahoma,"Oklahoma City","330 23rd Se St",,02/20/2001
+Oklahoma,Oklahoma,"Oklahoma City","2400 Macarthur N",,02/22/2001
+Oklahoma,Oklahoma,"Oklahoma City","2400 Mcarthur S St 115",,02/22/2001
+Oklahoma,Pottawatomie,Tecumseh,"318 Minnesota S",,02/25/2001
+Oklahoma,Tulsa,Tulsa,"5418 7th E St",,02/25/2001
+Oklahoma,Tulsa,Tulsa,"3614 120th East S Ave",,02/26/2001
+Oklahoma,Tulsa,Tulsa,"6834 52 E St",,02/26/2001
+Oklahoma,Oklahoma,"Oklahoma City","425 26th Se St",,02/27/2001
+Oklahoma,Pittsburg,Hartshorne,"801 South Greystone Street",,03/01/2001
+Oklahoma,Logan,Guthrie,"404 Meadow Back",,03/05/2001
+Oklahoma,Oklahoma,"Oklahoma City","711 28th Se St",,03/05/2001
+Oklahoma,Wagoner,"Broken Arrow","2556 South 135th E. Avenue 74104",,03/05/2001
+Oklahoma,Oklahoma,"Oklahoma City","1128 25th Sw St",,03/06/2001
+Oklahoma,Oklahoma,"Oklahoma City","1237 Peebly N Rd",,03/06/2001
+Oklahoma,Mcclain,Blanchard,"5525 South 427",,03/07/2001
+Oklahoma,Oklahoma,"Del City","5203 Mueller",,03/08/2001
+Oklahoma,Payne,Cushing,"305 West Delaware Street 8",,03/09/2001
+Oklahoma,Mcclain,Cole,"710 Saltwell N St",,03/11/2001
+Oklahoma,Oklahoma,"Valley Brook","4805 Brookline S Ave",,03/12/2001
+Oklahoma,Oklahoma,"Oklahoma City","11010 May N Ave 234",,03/13/2001
+Oklahoma,Oklahoma,"Oklahoma City","904 Tabor  Dr",,03/15/2001
+Oklahoma,Tulsa,"Broken Arrow","822 Norman W St",,03/18/2001
+Oklahoma,Oklahoma,"Oklahoma City","4219 Young N  141",,03/19/2001
+Oklahoma,Payne,Stillwater,"500 Mcdonald N St 90-3",,03/20/2001
+Oklahoma,Creek,Sapulpa,"4511 Ray W Ln",,03/20/2001
+Oklahoma,Oklahoma,"Oklahoma City","1720 14th Nw St",,03/20/2001
+Oklahoma,Tulsa,Tulsa,"11911 22 E St",,03/21/2001
+Oklahoma,Tulsa,Tulsa,"2133 Birmingham N Pl",,03/22/2001
+Oklahoma,Pottawatomie,Tecumseh,"228 Center S",,03/22/2001
+Oklahoma,Pottawatomie,Tecumseh,"632 Chapman N St",,03/22/2001
+Oklahoma,Woodward,Woodward,"508 Clay E",,03/23/2001
+Oklahoma,Payne,Stillwater,"8203 44th E St",,03/23/2001
+Oklahoma,Cleveland,Moore,"2712 Yorkshire  Ave",,03/25/2001
+Oklahoma,Tulsa,Tulsa,"102 Maybelle N Ave",,03/25/2001
+Oklahoma,Okmulgee,Henryetta,"4702 Harvard N Ave",,03/25/2001
+Oklahoma,Adair,Westville,"101 10 Cherry E",,03/26/2001
+Oklahoma,Tulsa,Jenks,"13195 East 129th Place N Place",,03/27/2001
+Oklahoma,Bryan,Calera,"618 Mckinley S St  311",,03/27/2001
+Oklahoma,Caddo,Anadarko,"629 Tottingham W Dr",,03/28/2001
+Oklahoma,Oklahoma,"Del City","6706 24th Nw St",,03/28/2001
+Oklahoma,Bryan,Durant,"223 13th N",,03/28/2001
+Oklahoma,Tulsa,Tulsa,"1308 Trenton N Ave",,03/29/2001
+Oklahoma,Woodward,Woodward,"308 Allen  St",,03/30/2001
+Oklahoma,Ottawa,Fairland,"3536 35th W N Ave",,03/30/2001
+Oklahoma,Washington,Bartlesville,"310 State S St",,03/30/2001
+Oklahoma,Oklahoma,"Oklahoma City","2400 Macarthur N  115",,03/31/2001
+Oklahoma,Oklahoma,"Del City","6607 32 Nw",,03/31/2001
+Oklahoma,Tulsa,Tulsa,"5904 68th S Ave",,04/01/2001
+Oklahoma,Washington,Bartlesville,"606 1 St Ne St",,04/02/2001
+Oklahoma,Tulsa,Tulsa,"4550 30th S",,04/02/2001
+Oklahoma,Logan,Guthrie,"300 Chisolm  Trl",,04/04/2001
+Oklahoma,Oklahoma,"Oklahoma City","3836 11th Nw",,04/04/2001
+Oklahoma,Ottawa,Wyandotte,"321 Northwest Park Avenue",,04/04/2001
+Oklahoma,Washington,Bartlesville,"504 Northwest 5th Street 1",,04/04/2001
+Oklahoma,Woodward,Woodward,"201 5th N",,04/04/2001
+Oklahoma,Jefferson,Waurika,"415 1/2 Nona E",,04/06/2001
+Oklahoma,Tulsa,Tulsa,"4550 30 West S Ave",,04/07/2001
+Oklahoma,Oklahoma,"Oklahoma City","2913 26th Sw",,04/10/2001
+Oklahoma,Oklahoma,"Oklahoma City","4680 Penny W",,04/11/2001
+Oklahoma,Oklahoma,"Oklahoma City","1535 34th Nw St",,04/11/2001
+Oklahoma,Tulsa,Tulsa,"4117 Independence W St",,04/13/2001
+Oklahoma,Oklahoma,"Oklahoma City","6100 Macarthur Park  Ln 2006",,04/15/2001
+Oklahoma,Pottawatomie,Tecumseh,"308 Louisa S St",,04/16/2001
+Oklahoma,Oklahoma,"Warr Acres","708  Waterview Road",,04/17/2001
+Oklahoma,Caddo,Carnegie,"6 Main E St",,04/18/2001
+Oklahoma,Tulsa,Tulsa,"6530 Pine E Pl",,04/19/2001
+Oklahoma,Tulsa,Tulsa,"1511 Delaware N Pl",,04/19/2001
+Oklahoma,Tulsa,Collinsville,"1308 South 30th Street",,04/19/2001
+Oklahoma,Tulsa,Tulsa,"3105 147 East S Ave  G",,04/21/2001
+Oklahoma,Tulsa,Tulsa,"2217 59 E St 221",,04/21/2001
+Oklahoma,Tulsa,Tulsa,"34 Gary N Ave 1/2",,04/21/2001
+Oklahoma,Pontotoc,Stonewall,"2  Rural Route 13",,04/22/2001
+Oklahoma,Oklahoma,"Oklahoma City","1916 Ann Arbor N Pl",,04/23/2001
+Oklahoma,Bryan,Calera,"513 Ryan E St",,04/23/2001
+Oklahoma,Tulsa,Tulsa,"2513 Norwood N Pl",,04/24/2001
+Oklahoma,Tulsa,Tulsa,"612 Atlanta S Ave",,04/25/2001
+Oklahoma,Comanche,Lawton,"2406 12th Nw St",,04/25/2001
+Oklahoma,Carter,"Lone Grove","Sue Miller  Rd  291",,04/25/2001
+Oklahoma,Tulsa,Tulsa,"10103 22nd E St",,04/26/2001
+Oklahoma,Oklahoma,Newalla,"601 Douglas N Blvd",,04/30/2001
+Oklahoma,Oklahoma,"Oklahoma City","1324 44th Nw St",,05/02/2001
+Oklahoma,Tulsa,Tulsa,"5830 Charles Page W",,05/02/2001
+Oklahoma,Tulsa,Tulsa,"6616 4th Street South E",,05/03/2001
+Oklahoma,Haskell,Stigler,"512 West Broadway Street",,05/04/2001
+Oklahoma,Leflore,"Shady Point","310 Illinois N St",,05/04/2001
+Oklahoma,Oklahoma,Wilson,"2708 Cramer",,05/04/2001
+Oklahoma,Ottawa,Commerce,"3536 35th N St",,05/04/2001
+Oklahoma,Leflore,"Shady Point","800 Washington",,05/04/2001
+Oklahoma,Oklahoma,"Oklahoma City","501 44th Se  131",,05/06/2001
+Oklahoma,Comanche,Lawton,"1602 Columbia Nw St 1",,05/06/2001
+Oklahoma,Muskogee,Muskogee,"1107 East Pierce Street",,05/07/2001
+Oklahoma,Creek,Drumright,"205 Bristown  St",,05/09/2001
+Oklahoma,Oklahoma,"Oklahoma City","12115 89th Se St",,05/09/2001
+Oklahoma,Okmulgee,Okmulgee,"509 Northeast 1st Street",,05/10/2001
+Oklahoma,Oklahoma,"Oklahoma City","4022 Meridian N",,05/10/2001
+Oklahoma,Leflore,Heavener,"1800 South Gray Street",,05/13/2001
+Oklahoma,Logan,Stillwater,"3 Oak Park",,05/14/2001
+Oklahoma,Cleveland,Noble,"901 Maguire  Rd 38",,05/15/2001
+Oklahoma,Tulsa,Tulsa,"1535 Joplin N Ave",,05/15/2001
+Oklahoma,Oklahoma,Harrah,"3912 Lamar",,05/17/2001
+Oklahoma,Oklahoma,"Oklahoma City","1027 66 Sw St",,05/19/2001
+Oklahoma,Tulsa,Tulsa,"632 Latimer E Ct",,05/21/2001
+Oklahoma,Oklahoma,"Oklahoma City","1505 49th Terrace Se",,05/22/2001
+Oklahoma,Oklahoma,"Oklahoma City","5500 Barnes S St",,05/24/2001
+Oklahoma,Ottawa,Afton,"4110 West 53rd N Avenue",,05/25/2001
+Oklahoma,Creek,Sapulpa,"11379 153rd W S Ave",,05/27/2001
+Oklahoma,Tulsa,Tulsa,"12936 35th E St 1006",,05/27/2001
+Oklahoma,Tulsa,Tulsa,"4481 31 E St 293",,05/28/2001
+Oklahoma,Tulsa,Tulsa,"501 73rd West S Ave",,05/31/2001
+Oklahoma,Marshall,Kingston,"21500 B Charter Oak E Rd",,05/31/2001
+Oklahoma,Pottawatomie,Shawnee,"29880 Parkwood  Rd",,05/31/2001
+Oklahoma,Pottawatomie,Shawnee,"13080 County Line  Rd",,05/31/2001
+Oklahoma,Rogers,Claremore,"320 Clearlock",,06/01/2001
+Oklahoma,Payne,Stillwater,"810 Jardot S",,06/01/2001
+Oklahoma,Tulsa,Tulsa,"8906 East 49th Place",,06/04/2001
+Oklahoma,Oklahoma,"Oklahoma City","4601 Shallowbrook  Dr",,06/05/2001
+Oklahoma,Logan,Luther,"1403 Oklahoma E",,06/06/2001
+Oklahoma,Tulsa,Tulsa,"233 70 East S Ave",,06/07/2001
+Oklahoma,Oklahoma,"Oklahoma City","1344 Williams  Dr",,06/09/2001
+Oklahoma,Creek,Sapulpa,"7836 65th West S Ave",,06/11/2001
+Oklahoma,Grady,Minco,"1616 Eight  St",,06/11/2001
+Oklahoma,Delaware,Grove,"60950 360 E Rd",,06/12/2001
+Oklahoma,Tulsa,Tulsa,"6345 4th E Ter",,06/13/2001
+Oklahoma,Tulsa,Tulsa,"1133 Xanthus S Ave",,06/14/2001
+Oklahoma,Tulsa,Tulsa,"105 21st E St 7",,06/14/2001
+Oklahoma,Tulsa,Tulsa,"535 73 E S Ave",,06/15/2001
+Oklahoma,Oklahoma,"Oklahoma City","6040 Britton W Rd D",,06/17/2001
+Oklahoma,Rogers,Claremore,"19907 22nd E St",,06/18/2001
+Oklahoma,Tulsa,Tulsa,"2733 Norwood N",,06/18/2001
+Oklahoma,Oklahoma,"Oklahoma City","3605 Liberty W",,06/19/2001
+Oklahoma,Tulsa,Tulsa,"3867 118th E S Ave",,06/21/2001
+Oklahoma,Ellis,Fargo,"316 Walnut S",,06/21/2001
+Oklahoma,Rogers,Claremore,"504 Ryan W St",,06/25/2001
+Oklahoma,Tulsa,Tulsa,"29 Lakewood N Ave 113",,06/27/2001
+Oklahoma,Tulsa,Tulsa,"5820 Charles Page W Blvd",,06/27/2001
+Oklahoma,Osage,Skiatook,"3732 Kelly  Ave",,06/28/2001
+Oklahoma,Creek,Bristow,"45470 151st South W",,06/28/2001
+Oklahoma,Wagoner,"Broken Arrow","401 South 37th W. Avenue",,06/29/2001
+Oklahoma,Osage,Sperry,"4 J-vine  Rd",,06/29/2001
+Oklahoma,Oklahoma,"Midwest City","23901 Lynn  Ln",,07/01/2001
+Oklahoma,Tulsa,Tulsa,"613 65th W S Ave",,07/02/2001
+Oklahoma,Oklahoma,Bethany,"5010 River N Dr",,07/02/2001
+Oklahoma,Oklahoma,"Del City","7223 45th Nw St",,07/03/2001
+Oklahoma,Tulsa,Tulsa,"12115 32nd E Pl",,07/04/2001
+Oklahoma,Oklahoma,"Oklahoma City","226 41st Sw St",,07/04/2001
+Oklahoma,Woodward,Woodward,"812 Whitmer",,07/05/2001
+Oklahoma,Tulsa,"Broken Arrow","2800 Louisville E St",,07/05/2001
+Oklahoma,Tulsa,"Broken Arrow","28350 51st E St",,07/05/2001
+Oklahoma,Tulsa,Tulsa,"3612  114th East S Ave",,07/06/2001
+Oklahoma,Tulsa,Tulsa,"2712 116 East S Pl",,07/06/2001
+Oklahoma,Oklahoma,"Oklahoma City","2701 46th Sw Ter",,07/07/2001
+Oklahoma,Oklahoma,"Oklahoma City","3803 42nd Sw St",,07/09/2001
+Oklahoma,Oklahoma,"Midwest City","19796 Northeast 23rd",,07/10/2001
+Oklahoma,Oklahoma,"Oklahoma City","4100 10th Nw  108",,07/10/2001
+Oklahoma,Oklahoma,Luther,"14 Woodland W Dr",,07/11/2001
+Oklahoma,Wagoner,"Broken Arrow","6730  25th Place",,07/12/2001
+Oklahoma,Oklahoma,"Oklahoma City","2317 Lindley W",,07/15/2001
+Oklahoma,Creek,Sapulpa,"7379 58th W S Ave",,07/16/2001
+Oklahoma,Oklahoma,"Oklahoma City","3527 38th Sw",,07/18/2001
+Oklahoma,Tulsa,"Broken Arrow","303 9th N  33",,07/23/2001
+Oklahoma,Seminole,Konawa,"12310  N 152nd E Ave",,07/23/2001
+Oklahoma,Creek,Sapulpa,"713 12th N St",,07/24/2001
+Oklahoma,Tulsa,Tulsa,"3932 Cincinnatti S Ave B",,07/24/2001
+Oklahoma,Oklahoma,"Oklahoma City","4031 8th Nw St",,07/25/2001
+Oklahoma,Cherokee,Tahlequah,"313 Bailey  Blvd",,07/25/2001
+Oklahoma,Tulsa,Tulsa,"7122 Erie S Ave 803",,07/26/2001
+Oklahoma,Creek,Kiefer,"207 Broadway W St",,07/26/2001
+Oklahoma,Oklahoma,"Oklahoma City","3217 Goff S",,07/26/2001
+Oklahoma,Tulsa,Tulsa,"3648 Galveston S Ave",,07/26/2001
+Oklahoma,Tulsa,Tulsa,"2922 137 East S Pl",,07/26/2001
+Oklahoma,Wagoner,"Broken Arrow","1328 South 23rd E. Avenue",,07/27/2001
+Oklahoma,Cleveland,Norman,"213 Mercedes S",,07/27/2001
+Oklahoma,Logan,Guthrie,"1023 Harrison E",,07/27/2001
+Oklahoma,Oklahoma,"Oklahoma City","11900 Ecker N Dr",,07/27/2001
+Oklahoma,Canadian,Yukon,"105 Cedar",,07/29/2001
+Oklahoma,Payne,Orlando,"1209  Green Lee",,07/31/2001
+Oklahoma,Oklahoma,"Oklahoma City","1140 48th Sw St",,08/01/2001
+Oklahoma,Cleveland,Norman,"9351 142nd Ne Ave",,08/02/2001
+Oklahoma,Tulsa,Tulsa,"2542 61st E St",,08/04/2001
+Oklahoma,Oklahoma,"Nicoma Park","3804 Shadywood N Dr 105",,08/06/2001
+Oklahoma,Oklahoma,"Oklahoma City","121 15th Se St",,08/06/2001
+Oklahoma,Tulsa,Tulsa,"2706 Haskell E St",,08/07/2001
+Oklahoma,Oklahoma,"Oklahoma City","416 12th Sw",,08/07/2001
+Oklahoma,Oklahoma,"Oklahoma City","3327a 28th Sw St",,08/09/2001
+Oklahoma,Tulsa,"Broken Arrow","1305 Waco W St",,08/09/2001
+Oklahoma,Okmulgee,Okmulgee,"307 North 7th Street",,08/09/2001
+Oklahoma,Oklahoma,"Oklahoma City","128 56 Sw St",,08/10/2001
+Oklahoma,Oklahoma,"Oklahoma City","522 Westwood  Ct",,08/10/2001
+Oklahoma,Oklahoma,"Oklahoma City","3333 46th Sw St",,08/16/2001
+Oklahoma,Oklahoma,"Del City","4102 Council N  4",,08/17/2001
+Oklahoma,Oklahoma,"Midwest City","13925 Harrah N Rd",,08/18/2001
+Oklahoma,Tulsa,Tulsa,"2034 51st E St B",,08/21/2001
+Oklahoma,Tulsa,Tulsa,"903 Knoxville N Ave",,08/22/2001
+Oklahoma,Marshall,,"1778 Black Bass  Ln",,08/22/2001
+Oklahoma,Love,Overbrook,"2500 Blackoak",,08/23/2001
+Oklahoma,Rogers,Claremore,"15725 Netwon E St",,08/28/2001
+Oklahoma,Stephens,Marlow,"1330 7th N St",,08/28/2001
+Oklahoma,Tulsa,Tulsa,"3312 149th E S Ave",,08/30/2001
+Oklahoma,Oklahoma,"Oklahoma City","4117 Harvey S Ave",,08/30/2001
+Oklahoma,Garfield,Enid,"575 Davis N",,09/01/2001
+Oklahoma,Oklahoma,"Oklahoma City","3927 Barnes N Ave",,09/03/2001
+Oklahoma,Oklahoma,"Oklahoma City","9516 Shields S Blvd 118",,09/04/2001
+Oklahoma,Payne,Drumright,"1040 Brethren S Rd",,09/04/2001
+Oklahoma,Oklahoma,"Oklahoma City","6301 Santa Fe S  3",,09/04/2001
+Oklahoma,Oklahoma,"Oklahoma City","7619 Sacramento S Dr",,09/04/2001
+Oklahoma,Tulsa,Tulsa,"8901 51st S W St",,09/06/2001
+Oklahoma,Pawnee,Terlton,"110 Sloan S St",,09/07/2001
+Oklahoma,Washington,Dewey,"720 Southeast Creek Avenue",,09/10/2001
+Oklahoma,Tulsa,Tulsa,"3211 (a) Easton E St",,09/13/2001
+Oklahoma,Canadian,Mustang,"616 Highland S",,09/17/2001
+Oklahoma,Pottawatomie,Mcloud,"1300 Sandy Creek",,09/17/2001
+Oklahoma,Creek,Sapulpa,"2611 Hickory Bluff  Rd",,09/17/2001
+Oklahoma,Oklahoma,"Oklahoma City","3417 Independence S Ave",,09/17/2001
+Oklahoma,Creek,Sapulpa,"3120 Hickory Bluff  Rd",,09/17/2001
+Oklahoma,Ottawa,Picher,"307 Northwest L Street",,09/18/2001
+Oklahoma,Creek,Kellyville,"8235 127th West S Ave",,09/19/2001
+Oklahoma,Tulsa,Tulsa,"3211 (b) Easton E St",,09/19/2001
+Oklahoma,Creek,Sapulpa,"5411 Ray W Ln",,09/21/2001
+Oklahoma,Oklahoma,"Oklahoma City","2750 59th Se St B",,09/23/2001
+Oklahoma,Tulsa,"Broken Arrow","116 Chestnut S Ave",,09/23/2001
+Oklahoma,Wagoner,Coweta,"8501 257th East S Ave",,09/24/2001
+Oklahoma,Oklahoma,"Midwest City","17501 Hogback N Rd",,09/25/2001
+Oklahoma,Osage,"Sand Springs","823 East 12th Street",,09/27/2001
+Oklahoma,Oklahoma,"Oklahoma City","2823 Hudson N St",,09/27/2001
+Oklahoma,Tulsa,Tulsa,"421 76th East S Ave",,09/28/2001
+Oklahoma,Oklahoma,"Oklahoma City","3544 37 Sw St",,09/30/2001
+Oklahoma,Tulsa,"Broken Arrow","2324 Commercial W St",,10/04/2001
+Oklahoma,Ottawa,Miami,"106 Ross S",,10/05/2001
+Oklahoma,Logan,Guthrie,"13200 Armadillo  Dr",,10/06/2001
+Oklahoma,Wagoner,Wagoner,"15492 South 292nd East Avenue",,10/07/2001
+Oklahoma,Oklahoma,"Del City","3108 Choctaw S Rd",,10/09/2001
+Oklahoma,Tulsa,Collinsville,"1774 South Poplar Avenue",,10/10/2001
+Oklahoma,Tulsa,Glenpool,"13090 91st East N",,10/11/2001
+Oklahoma,Oklahoma,"Oklahoma City","3504 Goff S Ave",,10/12/2001
+Oklahoma,Canadian,Calumet,"13508 Elm W",,10/14/2001
+Oklahoma,Oklahoma,"Oklahoma City","2801 44th Nw St",,10/18/2001
+Oklahoma,Tulsa,Tulsa,"519 73rd East S Ave",,10/23/2001
+Oklahoma,Oklahoma,"Oklahoma City","3208 86th Sw St",,10/24/2001
+Oklahoma,Tulsa,Tulsa,"7339 58th E Pl",,10/25/2001
+Oklahoma,Cleveland,Norman,"101 Monticello  Rd",,10/25/2001
+Oklahoma,Osage,Pawhuska,"439 Carter  Ave",,10/25/2001
+Oklahoma,Pottawatomie,Mcloud,"3300 Mississippi N St",,10/25/2001
+Oklahoma,Tulsa,Tulsa,"1627 Archer E St",,10/29/2001
+Oklahoma,Tulsa,Tulsa,"7434 Lewis S Ave 7b",,11/02/2001
+Oklahoma,Tulsa,"Sand Springs","11509 112th Pl. North E",,11/06/2001
+Oklahoma,Oklahoma,"Oklahoma City","1604 Binkley Sw Ave",,11/07/2001
+Oklahoma,Tulsa,Tulsa,"4720 29th West S Ave",,11/12/2001
+Oklahoma,Tulsa,Tulsa,"5217 36th E St",,11/12/2001
+Oklahoma,Mccurtain,"Broken Arrow","223 Main N St 3",,11/13/2001
+Oklahoma,Mccurtain,"Broken Bow","519 Brule W St",,11/13/2001
+Oklahoma,Tulsa,Tulsa,"4749 Maybelle S Ave",,11/13/2001
+Oklahoma,Tulsa,Tulsa,"1612 131 East S Pl C",,11/15/2001
+Oklahoma,Pushmataha,Daisy,"15409 North Gaddy Road",,11/15/2001
+Oklahoma,Woodward,Woodward,"115 1/2 4th",,11/15/2001
+Oklahoma,Tulsa,Tulsa,"2626 15th E St",,11/16/2001
+Oklahoma,Tulsa,Jenks,"1612 West Oak Street",,11/30/2001
+Oklahoma,Okmulgee,Henryetta,"1225 Anderson W",,12/03/2001
+Oklahoma,Ottawa,Quapaw,"207 Southeast M Street 1",,12/05/2001
+Oklahoma,Ottawa,Picher,"57765 East 40th Road",,12/06/2001
+Oklahoma,Payne,Cushing,"99 Club  Rd",,12/07/2001
+Oklahoma,Wagoner,Coweta,"12110 225th S Ave",,12/07/2001
+Oklahoma,Tulsa,Tulsa,"11220 Archer E Pl 104",,12/08/2001
+Oklahoma,Rogers,Inola,"417 First E St",,12/11/2001
+Oklahoma,Rogers,Inola,"2090 Lynn Riggs S Blvd 44",,12/11/2001
+Oklahoma,Oklahoma,"Oklahoma City","8102 Britton W Rd 10",,12/12/2001
+Oklahoma,Tulsa,Tulsa,"717 49th W St 112",,12/21/2001
+Oklahoma,Mayes,Pryor,"34203 South 4505 Road",,12/26/2001
+Oklahoma,Pottawatomie,Shawnee,"36 Quailwood Run",,12/27/2001
+Oklahoma,Oklahoma,"Oklahoma City","8112 W Britton N  10",,12/31/2001
+Oklahoma,Tulsa,"Broken Arrow","2704 Norman E St",,01/01/2002
+Oklahoma,Tulsa,Tulsa,"12326 Archer E St G",,01/02/2002
+Oklahoma,Tulsa,Tulsa,"532 57th W S Ave",,01/02/2002
+Oklahoma,Oklahoma,"Oklahoma City","2434 27 Sw St",,01/05/2002
+Oklahoma,Tulsa,Tulsa,"1416 King E St",,01/10/2002
+Oklahoma,Bryan,Durant,"1901 Mississippi   G75",,01/10/2002
+Oklahoma,Oklahoma,"Oklahoma City","2232 1/2 34 Nw St",,01/14/2002
+Oklahoma,Tulsa,Owasso,"814 Beaver E St",,01/14/2002
+Oklahoma,Oklahoma,"Del City","2808 Clark  St",,01/15/2002
+Oklahoma,Tulsa,Tulsa,"8118 16th E St 110",,01/16/2002
+Oklahoma,Mayes,Pryor,"318 Magnolia",,01/19/2002
+Oklahoma,Mayes,Vinita,"28 Cotton Wood  St",,01/21/2002
+Oklahoma,Creek,Sapulpa,"2207 Cedar S St",,01/22/2002
+Oklahoma,Oklahoma,"Oklahoma City","2616 36th Sw St",,01/23/2002
+Oklahoma,Oklahoma,"Oklahoma City","2744 34th Sw St",,01/24/2002
+Oklahoma,Tulsa,Tulsa,"6326 Virgin E St",,01/26/2002
+Oklahoma,Oklahoma,"Oklahoma City","5526 23rd Nw St 119",,01/28/2002
+Oklahoma,Bryan,Durant,"1901 Mississippi   H90",,01/29/2002
+Oklahoma,Oklahoma,"Oklahoma City","3316 39 Sw St",,01/29/2002
+Oklahoma,Beckham,"Elk City","230 Shell",,02/02/2002
+Oklahoma,Okmulgee,Okmulgee,"415 East Orange Street",,02/04/2002
+Oklahoma,Tulsa,Tulsa,"1904 Mohawk E Blvd",,02/06/2002
+Oklahoma,Tulsa,Tulsa,"12422 14th E St",,02/07/2002
+Oklahoma,Tulsa,"Sand Springs","701 North Birch Street",,02/07/2002
+Oklahoma,Oklahoma,"Oklahoma City","1140 17th Se St",,02/07/2002
+Oklahoma,Tulsa,Tulsa,"416 44 S Ave",,02/08/2002
+Oklahoma,Creek,Sapulpa,"1501 9th N St 41",,02/09/2002
+Oklahoma,Oklahoma,"Oklahoma City","2309 Walnut S",,02/11/2002
+Oklahoma,Washita,"Burns Flat","118 Creek N St",,02/13/2002
+Oklahoma,Oklahoma,"Oklahoma City","2613 30th Sw",,02/15/2002
+Oklahoma,Pittsburg,Quinton,"305 North 1st",,02/16/2002
+Oklahoma,Oklahoma,"Oklahoma City","2800 11th Nw",,02/18/2002
+Oklahoma,Choctaw,Hugo,"112 Clayton W St",,02/19/2002
+Oklahoma,Muskogee,Muskogee,"304 Seminole S St",,02/20/2002
+Oklahoma,Oklahoma,"Oklahoma City","3217 40 Sw",,02/21/2002
+Oklahoma,Creek,Sapulpa,"8718 Sunset  Dr",,02/21/2002
+Oklahoma,Oklahoma,"Oklahoma City","1118 Indiana N Ave B",,02/21/2002
+Oklahoma,Tulsa,Tulsa,"2705 Admiral E Ct",,02/22/2002
+Oklahoma,Tulsa,"Broken Arrow","808 Iola W Pl",,02/25/2002
+Oklahoma,Oklahoma,"Oklahoma City","1115 9 Nw",,02/27/2002
+Oklahoma,Oklahoma,"Oklahoma City","3808 Cashion  Pl",,03/01/2002
+Oklahoma,Johnston,"Mill Creek","21124  State Highway 19",,03/01/2002
+Oklahoma,Tulsa,"Sand Springs","402 South Cedar Street",,03/01/2002
+Oklahoma,Bryan,Durant,"1312 6th N St 11",,03/03/2002
+Oklahoma,Oklahoma,"Oklahoma City","2116 49 Sw",,03/03/2002
+Oklahoma,Mccurtain,Millerton,"5 Parle Se Dr",,03/06/2002
+Oklahoma,Beaver,Beaver,"910 G  Ave 5",,03/07/2002
+Oklahoma,Tulsa,Tulsa,"4104 130th S Ave 411",,03/08/2002
+Oklahoma,Okmulgee,Okmulgee,"203 South 17th Street",,03/08/2002
+Oklahoma,Leflore,Arkoma,"1209 Rock Island E",,03/10/2002
+Oklahoma,Tulsa,Jenks,"119 South 9th Street",,03/10/2002
+Oklahoma,Beckham,"Elk City","1200 Van Buren S  77",,03/11/2002
+Oklahoma,Oklahoma,"Midwest City","21420 Bowman  Rd",,03/12/2002
+Oklahoma,Oklahoma,"Oklahoma City","1312 38 Se",,03/15/2002
+Oklahoma,Oklahoma,Harrah,"21 Eastbrook  Dr",,03/15/2002
+Oklahoma,Creek,Mannford,"132 Lake County",,03/15/2002
+Oklahoma,Oklahoma,"Pauls Valley","2916 53 Sw St",,03/18/2002
+Oklahoma,Oklahoma,"Oklahoma City","3420 Quapah  Ave",,03/18/2002
+Oklahoma,Oklahoma,Choctaw,"9800 Sky Ridge",,03/20/2002
+Oklahoma,Oklahoma,"Midwest City","1317 Avery",,03/21/2002
+Oklahoma,Canadian,Yukon,"220 7th S St",,03/27/2002
+Oklahoma,Tulsa,Tulsa,"6011 Marion S Ave",,03/28/2002
+Oklahoma,Custer,Butler,"320 Ames N",,03/29/2002
+Oklahoma,Tulsa,Tulsa,"820 Quaker S Ave",,03/29/2002
+Oklahoma,Osage,Burbank,"917 West First",,03/30/2002
+Oklahoma,Cleveland,"Oklahoma City","10300 Kear  Dr",,04/01/2002
+Oklahoma,Tulsa,Tulsa,"2115 Southwest  Blvd",,04/01/2002
+Oklahoma,Beckham,Carter,"301 3rd S",,04/02/2002
+Oklahoma,Tulsa,Tulsa,"5537 47 E Pl 213",,04/02/2002
+Oklahoma,Leflore,Calhoun,"18712  Hudson Corner Road",,04/03/2002
+Oklahoma,Beckham,Erick,"112 Pine S St",,04/04/2002
+Oklahoma,Oklahoma,"Oklahoma City","2720 74th Sw St 30",,04/04/2002
+Oklahoma,Garfield,Enid,"601 Oklahoma W",,04/05/2002
+Oklahoma,Custer,Clinton,"1006 Orient",,04/05/2002
+Oklahoma,Tulsa,"Sand Springs","9911 East 120th N. Street",,04/07/2002
+Oklahoma,Tulsa,Tulsa,"1148 73rd East S Ave 74112",,04/09/2002
+Oklahoma,Oklahoma,"Oklahoma City","1528 Indiana S",,04/11/2002
+Oklahoma,Latimer,Wilburton,"County Road 290 N",,04/12/2002
+Oklahoma,Pottawatomie,Shawnee,"4411 Smoking Tree",,04/13/2002
+Oklahoma,Cherokee,Hulbert,"107 North Elm",,04/16/2002
+Oklahoma,Oklahoma,"Oklahoma City","812 26th Se",,04/17/2002
+Oklahoma,Jefferson,Addington,"427 Everett",,04/19/2002
+Oklahoma,Rogers,Claremore,"20520 East Pine Street",,04/19/2002
+Oklahoma,Oklahoma,"Oklahoma City","2120 34th Nw",,04/19/2002
+Oklahoma,Oklahoma,"Oklahoma City","5421 Drexel S Ave",,04/23/2002
+Oklahoma,Jackson,Altus,"118 Southwest C Street",,04/23/2002
+Oklahoma,Latimer,Wilburton,"623 Stephens S",,04/24/2002
+Oklahoma,Oklahoma,"Oklahoma City","1921 8 Nw St",,04/24/2002
+Oklahoma,Pottawatomie,Shawnee,"27 Sequayah  St",,04/25/2002
+Oklahoma,Osage,Pawhuska,"560 1 N St",,04/25/2002
+Oklahoma,Rogers,Claremore,"215 East Denbo Street",,04/26/2002
+Oklahoma,Beckham,"Elk City","508 D W Ave",,04/26/2002
+Oklahoma,Oklahoma,Harrah,"4409 Sycamore  Ln",,04/28/2002
+Oklahoma,Tulsa,Tulsa,"1322 Maplewood N Ave",,04/30/2002
+Oklahoma,Grady,Minco,"1013 Washington W",,04/30/2002
+Oklahoma,Oklahoma,"Del City","4720 Choctaw S Rd",,05/01/2002
+Oklahoma,Latimer,Wilburton,"11th W St 113d",,05/01/2002
+Oklahoma,Tulsa,Tulsa,"7841 2nd E St",,05/02/2002
+Oklahoma,Atoka,Atoka,"105 Voca Sw Rd",,05/03/2002
+Oklahoma,Beaver,Elmwood,"14 Of Elmwood Hy 412 E",,05/07/2002
+Oklahoma,Mcclain,Newcastle,"444414 Centerlane  Dr",,05/07/2002
+Oklahoma,Comanche,Lawton,"509 Washington Sw Ave",,05/07/2002
+Oklahoma,Tulsa,Tulsa,"1809 73rd E St 209",,05/08/2002
+Oklahoma,Muskogee,Muskogee,"502 West Skelly  708",,05/14/2002
+Oklahoma,Osage,Tulsa,"415 North Choctaw Street",,05/15/2002
+Oklahoma,Leflore,Pocola,"203 Blackwell  St",,05/17/2002
+Oklahoma,Woodward,Woodward,"6410 10th",,05/17/2002
+Oklahoma,Tulsa,"Sand Springs","4534 225th W S Ave",,05/19/2002
+Oklahoma,Tulsa,Tulsa,"1109 68th N Ave",,05/21/2002
+Oklahoma,Oklahoma,"Oklahoma City","1103 Carol N Ln C",,05/23/2002
+Oklahoma,Lincoln,Wellston,"1 Waits Lane  Rt  2828",,05/23/2002
+Oklahoma,Tulsa,Tulsa,"2640 Haskell E St",,05/23/2002
+Oklahoma,Tulsa,Tulsa,"5317 Marshall E Ct",,05/24/2002
+Oklahoma,Creek,Sapulpa,"2203 Main S St",,05/25/2002
+Oklahoma,Ottawa,Commerce,"6002 58th Nw St",,05/27/2002
+Oklahoma,Cherokee,Tahlequah,"15759 N Bryant W Rd",,05/28/2002
+Oklahoma,Creek,Bristow,"402 3rd W",,05/31/2002
+Oklahoma,Tulsa,Tulsa,"3317 Marion S Ave",,05/31/2002
+Oklahoma,Oklahoma,"Oklahoma City","1517 42 Nw St",,06/01/2002
+Oklahoma,Tulsa,Tulsa,"8130 12th E St G1",,06/03/2002
+Oklahoma,Rogers,Inola,"10804 202nd East N Ave",,06/04/2002
+Oklahoma,Woodward,Woodward,"418 Main N St",,06/05/2002
+Oklahoma,Tulsa,Tulsa,"531 27th N Ave",,06/06/2002
+Oklahoma,Tulsa,Tulsa,"1548 Lewis S Ave C",,06/06/2002
+Oklahoma,Osage,Tulsa,"213 North Buffalo Street",,06/10/2002
+Oklahoma,Oklahoma,"Oklahoma City","137 25th Se St",,06/11/2002
+Oklahoma,Oklahoma,"Oklahoma City","2513 46 Sw St",,06/11/2002
+Oklahoma,Oklahoma,"Oklahoma City","1608 Binkley Sw St",,06/12/2002
+Oklahoma,Oklahoma,"Oklahoma City","1256 20th Se St",,06/12/2002
+Oklahoma,Oklahoma,"Oklahoma City","1512 62 Sw St",,06/12/2002
+Oklahoma,Leflore,Poteau,"113 Hickman  St",,06/13/2002
+Oklahoma,Muskogee,Warner,"1613  Dorchester Street",,06/13/2002
+Oklahoma,Oklahoma,"Oklahoma City","3229 Portland S Ave",,06/15/2002
+Oklahoma,Tulsa,Tulsa,"2417 Marshall E St",,06/20/2002
+Oklahoma,Muskogee,Muskogee,"603 Dayton  St",,06/22/2002
+Oklahoma,Logan,Guthrie,"3207 Two Creeks  Rd",,06/22/2002
+Oklahoma,Leflore,Panama,"739 Riverside  Dr",,06/22/2002
+Oklahoma,Oklahoma,"Oklahoma City","1638 Westwood",,06/24/2002
+Oklahoma,Tulsa,"Sand Springs","2200 Campbell Creek S Rd 25",,06/24/2002
+Oklahoma,Osage,"Sand Springs","8 Timberline",,06/25/2002
+Oklahoma,Oklahoma,"Oklahoma City","3737 29th Nw St",,06/26/2002
+Oklahoma,Oklahoma,"Oklahoma City","1638 Westwood  Blvd",,06/26/2002
+Oklahoma,Oklahoma,"Oklahoma City","3212 45 Sw St",,06/29/2002
+Oklahoma,Oklahoma,"Oklahoma City","1823 9th Nw  1",,07/01/2002
+Oklahoma,Muskogee,Muskogee,"2417 Cherokee S",,07/02/2002
+Oklahoma,Oklahoma,"Oklahoma City","2309 Walnut S Ave",,07/08/2002
+Oklahoma,Canadian,"El Reno","412 Evans S St",,07/09/2002
+Oklahoma,Oklahoma,"Oklahoma City","6100 Macarthur Park  Ln 1608",,07/09/2002
+Oklahoma,Muskogee,Muskogee,"4421 Denison  St",,07/10/2002
+Oklahoma,Oklahoma,"Oklahoma City","708 60th Se Ter",,07/12/2002
+Oklahoma,Oklahoma,"Oklahoma City","6707 8th Nw",,07/12/2002
+Oklahoma,Rogers,Talala,"15304 South 4240 Road",,07/12/2002
+Oklahoma,Tulsa,"Broken Arrow","905 Elgin E St",,07/17/2002
+Oklahoma,Leflore,Poteau,"601 Indiana S St",,07/17/2002
+Oklahoma,Osage,Fairfax,"206 5 N St",,07/18/2002
+Oklahoma,Mccurtain,"Broken Bow","110 Blanchard",,07/19/2002
+Oklahoma,Oklahoma,"Midwest City","327 Campbell W Dr",,07/21/2002
+Oklahoma,Mayes,Pryor,"638 East Pawnee Avenue",,07/26/2002
+Oklahoma,Logan,Guthrie,"10675 Arcadia  Ln",,07/26/2002
+Oklahoma,Wagoner,Coweta,"2607 Princeton E Ct",,07/27/2002
+Oklahoma,Tulsa,Tulsa,"7316 Newton E St",,07/27/2002
+Oklahoma,Rogers,Claremore,"20520 East Pine Street 3",,07/27/2002
+Oklahoma,Kay,"Ponca City","901 Maytubby N",,07/30/2002
+Oklahoma,Washington,Bartlesville,"403  Hall Avenue",,07/31/2002
+Oklahoma,Oklahoma,"Oklahoma City","2237 12 Nw St",,08/02/2002
+Oklahoma,Osage,Skiatook,"Catfish Drive 252",,08/05/2002
+Oklahoma,Creek,Mannford,"39484 Highway 33 W",,08/07/2002
+Oklahoma,Logan,Meridian,"10124 Ridgecrest  Rd",,08/10/2002
+Oklahoma,Oklahoma,"Oklahoma City","5732 16th Nw  2",,08/14/2002
+Oklahoma,Creek,Depew,"28587 465 West S Ave",,08/15/2002
+Oklahoma,Oklahoma,"Oklahoma City","1608 Oakhill",,08/16/2002
+Oklahoma,Tulsa,Tulsa,"10740 42nd E St 903",,08/17/2002
+Oklahoma,Cherokee,Tahlequah,"310 1/2 B College  St",,08/19/2002
+Oklahoma,Tulsa,Tulsa,"8642 86th East S Ave",,08/19/2002
+Oklahoma,Tulsa,Tulsa,"7102 129th East N Ave",,08/21/2002
+Oklahoma,Oklahoma,"Oklahoma City","2440 42nd Nw St",,08/21/2002
+Oklahoma,Garfield,Enid,"605 6 N St",,08/22/2002
+Oklahoma,Oklahoma,"Midwest City","1400 Christine  Dr",,08/22/2002
+Oklahoma,Harmon,Hollis,"4208 Vernon  Dr",,08/22/2002
+Oklahoma,Tillman,Frederick,"7 Caddo N St",,08/23/2002
+Oklahoma,Tulsa,Tulsa,"3139 Mingo S Rd 904",,08/26/2002
+Oklahoma,Oklahoma,"Oklahoma City","7512 Bradley N Ave",,08/27/2002
+Oklahoma,Creek,Bristow,"45470 151st W St",,08/29/2002
+Oklahoma,Tulsa,Tulsa,"2015 2nd E St A",,08/29/2002
+Oklahoma,Creek,Drumright,"400 Virginia S Ave",,08/29/2002
+Oklahoma,Mayes,Langley,"4005 West 380 Road",,08/30/2002
+Oklahoma,Tulsa,Tulsa,"1969 1/2 Tecumseh E St",,08/30/2002
+Oklahoma,Oklahoma,"Oklahoma City","611 6th Sw",,09/02/2002
+Oklahoma,Creek,Bristow,"207 Washington E",,09/03/2002
+Oklahoma,Tulsa,Tulsa,"1611 Knocksville  Ave",,09/06/2002
+Oklahoma,Leflore,Panama,"205 Choctaw  St",,09/07/2002
+Oklahoma,Okmulgee,Okmulgee,"21355  Smith Road",,09/08/2002
+Oklahoma,Okfuskee,Weleetka,"912 Seminole W",,09/08/2002
+Oklahoma,Bryan,Durant,"401 13 S Ave",,09/08/2002
+Oklahoma,Tulsa,Tulsa,"6753 Independence E Pl",,09/09/2002
+Oklahoma,Oklahoma,"Oklahoma City","2332 1/2 42nd Sw",,09/10/2002
+Oklahoma,Tillman,Manitou,"815 8th W St",,09/11/2002
+Oklahoma,Tulsa,Tulsa,"21 39th West N Ave",,09/12/2002
+Oklahoma,Oklahoma,"Oklahoma City","2936 65 Nw",,09/13/2002
+Oklahoma,Tulsa,Tulsa,"1915 Norwood N Ave",,09/13/2002
+Oklahoma,Muskogee,Haskell,"405 West Maple Street",,09/18/2002
+Oklahoma,Oklahoma,"Oklahoma City","3713 28 Nw",,09/19/2002
+Oklahoma,Tulsa,Tulsa,"10855 15th E St",,09/19/2002
+Oklahoma,Oklahoma,"Oklahoma City","2237 12 Nw",,09/20/2002
+Oklahoma,Tulsa,Tulsa,"1327 64th E St 6",,09/23/2002
+Oklahoma,Rogers,Claremore,"313 Ezzard E St",,09/23/2002
+Oklahoma,Kay,"Ponca City","1100 South Byrd Street 37",,09/25/2002
+Oklahoma,Oklahoma,"Oklahoma City","17 Grand Se",,09/27/2002
+Oklahoma,Oklahoma,"Oklahoma City","1711 Blackwelder N",,09/27/2002
+Oklahoma,Tulsa,"Broken Arrow","3105 217th E S Ave",,09/27/2002
+Oklahoma,Cleveland,Moore,"3804 Country Club S",,09/27/2002
+Oklahoma,Oklahoma,"Oklahoma City","2109 117th Nw St",,09/29/2002
+Oklahoma,Carter,Wilson,"301 Ash W",,09/30/2002
+Oklahoma,Cherokee,"Park Hill","35144 488 N Rd",,09/30/2002
+Oklahoma,Oklahoma,"Oklahoma City","8521 Drexel S Ave",,10/01/2002
+Oklahoma,Oklahoma,"Oklahoma City","923 64 Ne",,10/02/2002
+Oklahoma,Muskogee,Muskogee,"1630 Center  Ln",,10/03/2002
+Oklahoma,Muskogee,Muskogee,"709 K N St",,10/03/2002
+Oklahoma,Oklahoma,"Oklahoma City","8917 Sowell  Rd",,10/04/2002
+Oklahoma,Mccurtain,Haworth,"299 Camp  St",,10/07/2002
+Oklahoma,Tulsa,Tulsa,"4012 Lewis N Ave",,10/08/2002
+Oklahoma,Oklahoma,"Oklahoma City","2809 80th Sw St",,10/08/2002
+Oklahoma,Osage,Pawhuska,"903 Mckinnely",,10/08/2002
+Oklahoma,Tulsa,Tulsa,"6827 Trenton N Ave 1",,10/08/2002
+Oklahoma,Tulsa,Tulsa,"1115 Rockford S Ave B",,10/09/2002
+Oklahoma,Tulsa,Tulsa,"3710 Toledo S Ave",,10/10/2002
+Oklahoma,Oklahoma,"Oklahoma City","4000 Post S  A",,10/10/2002
+Oklahoma,Oklahoma,"Oklahoma City","4317 22nd Sw St 1909",,10/12/2002
+Oklahoma,Tulsa,Tulsa,"1543 54th E St",,10/14/2002
+Oklahoma,Tulsa,Tulsa,"847 64th W Ave S",,10/16/2002
+Oklahoma,Ottawa,Picher,"2040 Northeast A Street",,10/17/2002
+Oklahoma,Tulsa,Tulsa,"109 36th W. S Ave",,10/17/2002
+Oklahoma,Oklahoma,"Midwest City","1419 Midwest N Blvd 135",,10/19/2002
+Oklahoma,Oklahoma,"Oklahoma City","1511 27th Sw St",,10/19/2002
+Oklahoma,Leflore,Heavener,"2406 Pryor E Ave",,10/20/2002
+Oklahoma,Tulsa,Tulsa,"7816 College S Ave Tulsa",,10/21/2002
+Oklahoma,Tulsa,"Broken Arrow","921 Elgin E Pl",,10/21/2002
+Oklahoma,Tulsa,Tulsa,"5919 68th W S Ave",,10/21/2002
+Oklahoma,Sequoyah,Sallisaw,"South 4769 Road",,10/21/2002
+Oklahoma,Okmulgee,Henryetta,"17501 Hoggback  Rd",,10/22/2002
+Oklahoma,Tulsa,"Broken Arrow","107 Washington W St 20",,10/22/2002
+Oklahoma,Pittsburg,Mcalester,"800  G Street",,10/23/2002
+Oklahoma,Tulsa,Tulsa,"2831 Garrison N Pl",,10/23/2002
+Oklahoma,Sequoyah,Sallisaw,"474832 East 1075 Road",,10/24/2002
+Oklahoma,Tulsa,Tulsa,"2121 Ute E",,10/26/2002
+Oklahoma,Muskogee,Muskogee,"714 21st S St",,10/28/2002
+Oklahoma,Pottawatomie,Tecumseh,"220.5 Lincoln S St",,10/30/2002
+Oklahoma,Pottawatomie,Tecumseh,"13004 Valley View  Rd",,10/30/2002
+Oklahoma,Tulsa,Tulsa,"2129 103rd East S Ave",,10/30/2002
+Oklahoma,Rogers,Claremore,"14292e 500 E Rd",,10/30/2002
+Oklahoma,Tulsa,Skiatook,"4818 South Grenada Drive",,10/30/2002
+Oklahoma,Oklahoma,"Oklahoma City","1401 Straka  Ter",,11/01/2002
+Oklahoma,Oklahoma,"Oklahoma City","4301 Kelly N Ave",,11/05/2002
+Oklahoma,Canadian,Mustang,"317 Carol N Ter",,11/05/2002
+Oklahoma,Oklahoma,"Oklahoma City","2936 65th Nw",,11/08/2002
+Oklahoma,Kingfisher,Hennessey,"218 South Palm Street",,11/08/2002
+Oklahoma,Tulsa,Tulsa,"6704 Independence E St",,11/09/2002
+Oklahoma,Tulsa,Glenpool,"2335 Broadway W",,11/12/2002
+Oklahoma,Tulsa,Glenpool,"11601 East 126th Street",,11/12/2002
+Oklahoma,Ottawa,Quapaw,"21 Northeast H",,11/12/2002
+Oklahoma,Tulsa,Tulsa,"2934 66th W St",,11/13/2002
+Oklahoma,Oklahoma,"Midwest City","929 Locust N Ln",,11/13/2002
+Oklahoma,Oklahoma,"Oklahoma City","641 36th Se",,11/16/2002
+Oklahoma,Tulsa,Tulsa,"336 45th E Ct",,11/16/2002
+Oklahoma,Oklahoma,"Oklahoma City","1244 20th Se",,11/17/2002
+Oklahoma,Tulsa,"Broken Arrow","1907 Lions S Ave",,11/18/2002
+Oklahoma,Oklahoma,"Oklahoma City","913 Klien N",,11/18/2002
+Oklahoma,Tulsa,Tulsa,"2138 45 W Pl",,11/19/2002
+Oklahoma,Tulsa,Tulsa,"702 129th S",,11/21/2002
+Oklahoma,Jackson,Olustee,"8218 County Rd 121 E Rd",,11/23/2002
+Oklahoma,Tulsa,Tulsa,"2725 Cameron W St",,11/23/2002
+Oklahoma,Tulsa,Tulsa,"4630 Darlington S Ave 45",,11/24/2002
+Oklahoma,Leflore,Spiro,"1700 Central  St",,11/26/2002
+Oklahoma,Oklahoma,"Oklahoma City","3300 Highland Park  Dr",,12/01/2002
+Oklahoma,Tulsa,Tulsa,"3608 Galveston S Ave",,12/02/2002
+Oklahoma,Oklahoma,"Oklahoma City","2605 50th Nw",,12/02/2002
+Oklahoma,Bryan,Durant,"4805 9 S",,12/03/2002
+Oklahoma,Leflore,Heavener,"106  Rowe Avenue",,12/05/2002
+Oklahoma,Tulsa,Tulsa,"4704 30th S Ave",,12/05/2002
+Oklahoma,Leflore,Arkoma,"402 1/2 Main E",,12/07/2002
+Oklahoma,Tulsa,Tulsa,"323 11th E St 302",,12/08/2002
+Oklahoma,Oklahoma,"Oklahoma City","925 Rockwell N Ave 35",,12/09/2002
+Oklahoma,Oklahoma,"Oklahoma City","8700 Northeast 17th Street",,12/09/2002
+Oklahoma,Tulsa,Tulsa,"1543 59th W St",,12/10/2002
+Oklahoma,Sequoyah,Sallisaw,"109  Water Tower",,12/11/2002
+Oklahoma,Cleveland,"Oklahoma City","15500 Harrah S",,12/11/2002
+Oklahoma,Wagoner,"Broken Arrow","1704 26th N St",,12/12/2002
+Oklahoma,Creek,Sapulpa,"12033 250th West S Ave",,12/13/2002
+Oklahoma,Tulsa,Tulsa,"2223 Tecumseh E St",,12/15/2002
+Oklahoma,Oklahoma,"Oklahoma City","5501 Council S Rd",,12/15/2002
+Oklahoma,Tulsa,Tulsa,"4840 34th West W Ave",,12/18/2002
+Oklahoma,Bryan,Durant,"312 Louisiana  Ave",,12/18/2002
+Oklahoma,Tulsa,Tulsa,"1137 New Haven N Ave",,12/18/2002
+Oklahoma,Oklahoma,"Oklahoma City","2909 82nd Sw St",,12/19/2002
+Oklahoma,Muskogee,Muskogee,"950 32nd S  205a",,12/20/2002
+Oklahoma,Tulsa,Tulsa,"103 108th East S Ave",,12/21/2002
+Oklahoma,Oklahoma,"Oklahoma City","11713 Ross N Ave",,12/27/2002
+Oklahoma,Oklahoma,"Oklahoma City","5000 89th Se St",,12/28/2002
+Oklahoma,Ottawa,Fairland,"3034 West 43rd St N Street",,12/29/2002
+Oklahoma,Osage,Tulsa,"415 North Choctaw",,01/02/2003
+Oklahoma,Creek,Mannford,"36927 53 W",,01/02/2003
+Oklahoma,Ottawa,Fairland,"4744 North 53rd W Street",,01/04/2003
+Oklahoma,Kiowa,Hobart,"120 North Osage Street",,01/05/2003
+Oklahoma,Oklahoma,"Oklahoma City","9628 29th Se  9",,01/06/2003
+Oklahoma,Tulsa,Tulsa,"5174 33rd W S Ave",,01/06/2003
+Oklahoma,Oklahoma,"Oklahoma City","1331 Meridian S Ave",,01/07/2003
+Oklahoma,Oklahoma,"Oklahoma City","12831 Stratford N  128",,01/08/2003
+Oklahoma,Osage,Sperry,"4607 Munson W Rd",,01/08/2003
+Oklahoma,Tulsa,Tulsa,"8642  86 E S Ave",,01/09/2003
+Oklahoma,Tulsa,Tulsa,"4115 28th E Pl",,01/10/2003
+Oklahoma,Oklahoma,"Oklahoma City","525 72nd Se",,01/10/2003
+Oklahoma,Atoka,Atoka,"1302 11th E",,01/10/2003
+Oklahoma,Osage,Fairfax,"201 Maple W St",,01/12/2003
+Oklahoma,Grady,Tuttle,"1103 2nd Nw",,01/13/2003
+Oklahoma,Wagoner,"Broken Arrow","303 9th N St 28",,01/14/2003
+Oklahoma,Tulsa,"Broken Arrow","516 Houston W St",,01/16/2003
+Oklahoma,Tulsa,Tulsa,"216 187 E S Ave",,01/17/2003
+Oklahoma,Oklahoma,"Oklahoma City","2814 17th Nw",,01/17/2003
+Oklahoma,Oklahoma,"Oklahoma City","5801 Missouri S",,01/18/2003
+Oklahoma,Tulsa,Owasso,"2121 111th South W St",,01/18/2003
+Oklahoma,Oklahoma,Village,"1008 Southeast 51st Street",,01/18/2003
+Oklahoma,Tulsa,Tulsa,"924 37th E Pl",,01/21/2003
+Oklahoma,Canadian,Yukon,"12025 Ashford  Dr",,01/21/2003
+Oklahoma,Oklahoma,"Oklahoma City","3208 Cashion  Pl",,01/22/2003
+Oklahoma,Sequoyah,Sallisaw,"1100  East Road",,01/22/2003
+Oklahoma,Canadian,Yukon,"911 2nd S St",,01/23/2003
+Oklahoma,Tulsa,Tulsa,"532 Quanah N Ave",,01/23/2003
+Oklahoma,Tulsa,"Broken Arrow","1214 28th N St",,01/23/2003
+Oklahoma,Tulsa,Tulsa,"1737 Indianapolis S Ave",,01/24/2003
+Oklahoma,Oklahoma,"Oklahoma City","3826 38 Sw",,01/24/2003
+Oklahoma,Mayes,Salina,"305 Delaware S St",,01/24/2003
+Oklahoma,Tulsa,Tulsa,"15 30th West N Ave",,01/24/2003
+Oklahoma,Oklahoma,"Oklahoma City","3137 North Portland Avenue 103",,01/24/2003
+Oklahoma,Oklahoma,"Oklahoma City","1401 17th Nw St D",,01/25/2003
+Oklahoma,Okmulgee,Okmulgee,"2345 North 230 Plaza",,01/27/2003
+Oklahoma,Canadian,Yukon,"106 Cornwell S  1",,01/27/2003
+Oklahoma,Payne,Drumright,"3745 Linwood N Rd",,01/27/2003
+Oklahoma,Pittsburg,Arpelear,"922 East Will Rogers Street",,01/28/2003
+Oklahoma,Logan,Guthrie,"817 Cleveland E",,01/28/2003
+Oklahoma,Kiowa,"Mountain Park","9600 Main S",,01/28/2003
+Oklahoma,Washington,Bartlesville,"611 South Filmore  B",,01/29/2003
+Oklahoma,Osage,Bartlesville,"1002 North Williams",,01/29/2003
+Oklahoma,Tulsa,Tulsa,"6324 Newton E Pl",,01/29/2003
+Oklahoma,Stephens,Hastings,"403 5 N St",,01/30/2003
+Oklahoma,Oklahoma,"Oklahoma City","1449 13th Sw St",,01/31/2003
+Oklahoma,Okmulgee,Okmulgee,"14744  Creagor Road",,01/31/2003
+Oklahoma,Tulsa,Tulsa,"600 Civic Center",,01/31/2003
+Oklahoma,Oklahoma,"Oklahoma City","10017 Brookmill  Ct",,02/01/2003
+Oklahoma,Tulsa,Tulsa,"1710 Maplewood N Ave",,02/03/2003
+Oklahoma,Rogers,Owasso,"402 North J. M. Davis Boulevard",,02/03/2003
+Oklahoma,Tulsa,Tulsa,"6018 2nd E St",,02/03/2003
+Oklahoma,Tulsa,Tulsa,"9550 Latimer E St",,02/04/2003
+Oklahoma,Okfuskee,Weleetka,"18605  Deer Ridge Lane",,02/06/2003
+Oklahoma,Oklahoma,"Oklahoma City","5903 Sunnylane S",,02/06/2003
+Oklahoma,Tulsa,Tulsa,"3535 Archer E St",,02/07/2003
+Oklahoma,Canadian,"El Reno","520 Choctaw S  B",,02/10/2003
+Oklahoma,Oklahoma,"Oklahoma City","4000 25th Sw",,02/11/2003
+Oklahoma,Jackson,Blair,"4302 North 381 Road",,02/11/2003
+Oklahoma,Tulsa,Tulsa,"6143 9 Th W St",,02/11/2003
+Oklahoma,Cleveland,"Oklahoma City","12700 141 Se St",,02/15/2003
+Oklahoma,Oklahoma,"Oklahoma City","2632 30th Sw",,02/15/2003
+Oklahoma,Rogers,Claremore,"1012 Osage N Ave",,02/16/2003
+Oklahoma,Okmulgee,Okmulgee,"450 Grace N",,02/18/2003
+Oklahoma,Oklahoma,"Oklahoma City","2219 11 Nw St",,02/18/2003
+Oklahoma,Cleveland,"Oklahoma City","10305 Casa Linda  Dr",,02/18/2003
+Oklahoma,Oklahoma,"Oklahoma City","4017 18 Nw",,02/18/2003
+Oklahoma,Oklahoma,"Midwest City","8819 Windy Hollow  Dr 41",,02/19/2003
+Oklahoma,Oklahoma,"Oklahoma City","4017 26 Sw St",,02/20/2003
+Oklahoma,Tulsa,Sperry,"3425 South 75th West Avenue",,02/20/2003
+Oklahoma,Oklahoma,"Oklahoma City","3016 65 Sw Pl",,02/20/2003
+Oklahoma,Tulsa,Tulsa,"1007 Evanston N Ave",,02/21/2003
+Oklahoma,Tulsa,"Broken Arrow","721 Vandever W Blvd",,02/21/2003
+Oklahoma,Tulsa,"Broken Arrow","702 Elgin E Pl",,02/21/2003
+Oklahoma,Oklahoma,"Oklahoma City","107 74th Sw St A",,02/24/2003
+Oklahoma,Oklahoma,"Oklahoma City","2624 44th Sw",,02/24/2003
+Oklahoma,Cherokee,Hulbert,"5037 770th W Rd",,02/25/2003
+Oklahoma,Oklahoma,"Oklahoma City","1427 Sulzberger S St",,02/27/2003
+Oklahoma,Bryan,Durant,"505 Georgia E",,02/28/2003
+Oklahoma,Oklahoma,"Oklahoma City","2613 43rd Sw",,02/28/2003
+Oklahoma,Muskogee,Muskogee,"1516 Denver  St",,02/28/2003
+Oklahoma,Tulsa,Tulsa,"4519 31st West Ave S Ave",,03/01/2003
+Oklahoma,Oklahoma,"Oklahoma City","609 52nd Sw",,03/01/2003
+Oklahoma,Tulsa,Tulsa,"5409 71st E St 17",,03/01/2003
+Oklahoma,Oklahoma,"Oklahoma City","1401 13th Sw",,03/02/2003
+Oklahoma,Tulsa,Tulsa,"8523 Winston S Ave",,03/02/2003
+Oklahoma,Okfuskee,Weleetka,"114  Osage Street",,03/02/2003
+Oklahoma,Tulsa,Tulsa,"1212 Independence E St",,03/02/2003
+Oklahoma,Tulsa,Tulsa,"6220 Oklahoma E St",,03/03/2003
+Oklahoma,Rogers,Claremore,"520 8th E  Lot 4",,03/03/2003
+Oklahoma,Canadian,"Oklahoma City","5306 Mustang S Rd",,03/03/2003
+Oklahoma,Oklahoma,"Oklahoma City","712(a) 60 Terrace Se",,03/08/2003
+Oklahoma,Tulsa,Tulsa,"4019 130th East S Ave",,03/09/2003
+Oklahoma,Tulsa,Tulsa,"13008 17 Pl E",,03/10/2003
+Oklahoma,Oklahoma,"Oklahoma City","712(b) 60th Se Ter",,03/11/2003
+Oklahoma,Tulsa,Tulsa,"9727 11 E St 49",,03/13/2003
+Oklahoma,Oklahoma,"Oklahoma City","8416 Hiwassee S",,03/13/2003
+Oklahoma,Oklahoma,"Oklahoma City","911 Mobile  Way",,03/15/2003
+Oklahoma,Pottawatomie,Shawnee,"214 Oakland W St",,03/16/2003
+Oklahoma,Tulsa,Tulsa,"322 161 S St",,03/17/2003
+Oklahoma,Payne,Perkins,"1227 East Greenlee Street",,03/17/2003
+Oklahoma,Oklahoma,"Oklahoma City","10925 Fountain  Blvd",,03/18/2003
+Oklahoma,Pittsburg,Mcalester,"901 Lehigh   20",,03/19/2003
+Oklahoma,Tulsa,Tulsa,"4021 28th E St",,03/20/2003
+Oklahoma,Osage,Sperry,"5561 North Javine Hill Road",,03/21/2003
+Oklahoma,Tulsa,Tulsa,"116 Knoxville S Ave",,03/21/2003
+Oklahoma,Comanche,Lawton,"4208 Bedford Se Dr",,03/24/2003
+Oklahoma,Osage,Sperry,"704 South Pershing Street",,03/24/2003
+Oklahoma,Tulsa,"Broken Arrow","9208 193rd East S Ave",,03/25/2003
+Oklahoma,Creek,Mounds,"358 220 N Rd",,03/26/2003
+Oklahoma,Tulsa,Tulsa,"2618 Oswego S Ter",,03/26/2003
+Oklahoma,Tulsa,Tulsa,"534 91st N St",,03/27/2003
+Oklahoma,Tulsa,Tulsa,"202 193rd East S Ave 101",,03/27/2003
+Oklahoma,Pawnee,Cleveland,"68651 East Country Road 175",,03/27/2003
+Oklahoma,Stephens,Duncan,"631  Black Gum Landing Road",,03/28/2003
+Oklahoma,Tulsa,Tulsa,"13177 29th E St",,03/29/2003
+Oklahoma,Canadian,"El Reno","500 Hadden S",,03/29/2003
+Oklahoma,Tulsa,Tulsa,"718 39th West S Ave",,03/29/2003
+Oklahoma,Canadian,Mustang,"319 Hillcrest E Ln",,03/31/2003
+Oklahoma,Tulsa,Tulsa,"157 Delaware N Pl",,03/31/2003
+Oklahoma,Wagoner,Coweta,"3238 South 214th Avenue",,03/31/2003
+Oklahoma,Oklahoma,"Oklahoma City","3004 45th Nw",,04/02/2003
+Oklahoma,Washington,Bartlesville,"909 Northwest 3rd",,04/02/2003
+Oklahoma,Muskogee,Muskogee,"815 Denver  St",,04/03/2003
+Oklahoma,Kay,"Ponca City","1223 Lincoln W",,04/03/2003
+Oklahoma,Tulsa,Tulsa,"216 Yorktown S Ave",,04/03/2003
+Oklahoma,Tulsa,Tulsa,"2226 35th E St",,04/04/2003
+Oklahoma,Tulsa,Tulsa,"4828 74th S Ave 64-s",,04/05/2003
+Oklahoma,Tulsa,"Broken Arrow","712 Vicksburg W St",,04/08/2003
+Oklahoma,Tulsa,Tulsa,"3416 33rd E St",,04/09/2003
+Oklahoma,Oklahoma,"Midwest City","605 Foster  Pl",,04/09/2003
+Oklahoma,Washington,Bartlesville,"13957 237th S St",,04/10/2003
+Oklahoma,Tulsa,Tulsa,"1616 Admiral W Blvd",,04/10/2003
+Oklahoma,Muskogee,Muskogee,"2707 Oklahoma  St",,04/11/2003
+Oklahoma,Tulsa,Tulsa,"2731 134th S Ave",,04/11/2003
+Oklahoma,Muskogee,Muskogee,"2328 Fredonia  St",,04/11/2003
+Oklahoma,Tulsa,Tulsa,"2731 134th East S Ave",,04/11/2003
+Oklahoma,Washington,Bartlesville,"68360 South 313 Road",,04/12/2003
+Oklahoma,Tulsa,Tulsa,"1903 Brady W St",,04/15/2003
+Oklahoma,Sequoyah,Gore,"210 10th E St",,04/16/2003
+Oklahoma,Grady,"Rush Springs","1014 19th S St",,04/17/2003
+Oklahoma,Oklahoma,"Oklahoma City","716 22nd Se",,04/18/2003
+Oklahoma,Tulsa,Tulsa,"711 Lewis S Ave",,04/19/2003
+Oklahoma,Oklahoma,"Oklahoma City","1716 Phillips S",,04/20/2003
+Oklahoma,Cleveland,Norman,"1325 Crown Point  St 6",,04/21/2003
+Oklahoma,Tulsa,Tulsa,"1935 49th W St",,04/22/2003
+Oklahoma,Tulsa,Tulsa,"11916 37th E St",,04/22/2003
+Oklahoma,Wagoner,"Broken Arrow","9449 225th S Ave",,04/23/2003
+Oklahoma,Okmulgee,Okmulgee,"400 Oklahoma N St",,04/23/2003
+Oklahoma,Tulsa,Tulsa,"811 95th East N Ave",,04/24/2003
+Oklahoma,Oklahoma,"Oklahoma City","224 1/2 Tuttle N",,04/24/2003
+Oklahoma,Okmulgee,Okmulgee,"1200 Madison N",,04/24/2003
+Oklahoma,Oklahoma,"Oklahoma City","4520 Brookline S Ave",,04/25/2003
+Oklahoma,Tulsa,Tulsa,"2524 51st W St",,04/25/2003
+Oklahoma,Wagoner,"Broken Arrow","3105 214th East S Ave",,04/25/2003
+Oklahoma,Oklahoma,"Midwest City","902 Rose E",,04/25/2003
+Oklahoma,Tulsa,Tulsa,"2048 51 E St A",,04/25/2003
+Oklahoma,Tulsa,Tulsa,"7105 1st W St",,04/30/2003
+Oklahoma,Bryan,Calera,"#3 Smiser W St",,05/01/2003
+Oklahoma,Oklahoma,"Oklahoma City","3616 38th Sw St",,05/01/2003
+Oklahoma,Tulsa,Tulsa,"13 54th E Pl",,05/02/2003
+Oklahoma,Oklahoma,"Oklahoma City","10017 Brook Mill  Ct",,05/03/2003
+Oklahoma,Oklahoma,"Oklahoma City","2145 46th Sw",,05/06/2003
+Oklahoma,Cherokee,Tahlequah,"20455 Whipperwill Hollow  Rd",,05/06/2003
+Oklahoma,Washington,Bartlesville,"810 East 4th  8",,05/09/2003
+Oklahoma,Tulsa,"Broken Arrow","1301 Yellow Wood N Ave",,05/10/2003
+Oklahoma,Canadian,"El Reno","139 El Reno N St",,05/12/2003
+Oklahoma,Oklahoma,"Oklahoma City","4041 28th Sw St",,05/12/2003
+Oklahoma,Mayes,Adair,"205 Maytubby N",,05/14/2003
+Oklahoma,Washington,Bartlesville,"16246 3940 N Rd",,05/15/2003
+Oklahoma,Muskogee,Muskogee,"1606 Chestnut  St",,05/15/2003
+Oklahoma,Marshall,Kingston,"1718 Yost E Rd",,05/16/2003
+Oklahoma,Tulsa,Tulsa,"9143 Oklahoma E Pl",,05/16/2003
+Oklahoma,Tulsa,Tulsa,"503 Kingston N Ave",,05/17/2003
+Oklahoma,Caddo,Carnegie,"324 Broadway S",,05/19/2003
+Oklahoma,Wagoner,"Broken Arrow","21240 46th E St",,05/19/2003
+Oklahoma,Tulsa,Tulsa,"73 Zunis N Ave",,05/20/2003
+Oklahoma,Mayes,Pryor,"407 Mays  St",,05/21/2003
+Oklahoma,Caddo,Anadarko,"316 Oklahoma E St",,05/27/2003
+Oklahoma,Jackson,Altus,"306 Northeast 3rd",,05/29/2003
+Oklahoma,Ottawa,Miami,"314 Downing S",,05/29/2003
+Oklahoma,Tulsa,"Sand Springs","3809 225 West S Ave",,05/29/2003
+Oklahoma,Osage,Sperry,"4217 West Perrier Street",,05/31/2003
+Oklahoma,Osage,Hominy,"219 West Birch",,06/03/2003
+Oklahoma,Oklahoma,"Oklahoma City","2020 11th Nw St",,06/04/2003
+Oklahoma,Oklahoma,"Oklahoma City","3217 Portland N",,06/04/2003
+Oklahoma,Canadian,"Oklahoma City","10500 23rd Nw",,06/05/2003
+Oklahoma,Tulsa,Tulsa,"1136 Sandusky N Ave",,06/05/2003
+Oklahoma,Tulsa,Tulsa,"816 95 East N Ave",,06/05/2003
+Oklahoma,Pottawatomie,Shawnee,"23 Concord",,06/05/2003
+Oklahoma,Stephens,Duncan,"4520 East 975 Road",,06/06/2003
+Oklahoma,Wagoner,"Broken Arrow","1202 31st N St",,06/13/2003
+Oklahoma,Oklahoma,"Midwest City","713 Palmer  Dr",,06/16/2003
+Oklahoma,Tulsa,"Broken Arrow","755 Commercial W St",,06/16/2003
+Oklahoma,Oklahoma,"Oklahoma City","4624 Park W Pl",,06/17/2003
+Oklahoma,Mccurtain,"Broken Bow","401 Huffman  Rd",,06/17/2003
+Oklahoma,Oklahoma,"Oklahoma City","1020 50th Sw St",,06/17/2003
+Oklahoma,Tulsa,Tulsa,"1051 60th E St 928",,06/17/2003
+Oklahoma,Oklahoma,"Oklahoma City","3149 72nd Sw St",,06/24/2003
+Oklahoma,Cleveland,"Oklahoma City","14900 147th Se",,06/24/2003
+Oklahoma,Osage,Hominy,"West Maple Street 512",,06/25/2003
+Oklahoma,Tulsa,Tulsa,"2427 Pittsburg N Ave",,06/26/2003
+Oklahoma,Muskogee,Muskogee,"2000 Brockway  St",,06/26/2003
+Oklahoma,Oklahoma,"Oklahoma City","3300 28 Sw St 107",,06/27/2003
+Oklahoma,Tulsa,Tulsa,"4325 Braden S Pl",,06/28/2003
+Oklahoma,Oklahoma,"Oklahoma City","3917 Liberty W St",,06/30/2003
+Oklahoma,Oklahoma,"Oklahoma City","2432 48th Sw",,06/30/2003
+Oklahoma,Oklahoma,"Oklahoma City","2337 15 Nw St",,07/01/2003
+Oklahoma,Oklahoma,"Oklahoma City","5505 Brookline N Ave",,07/01/2003
+Oklahoma,Tulsa,Tulsa,"1548 Lewis S Ave A",,07/03/2003
+Oklahoma,Oklahoma,"Oklahoma City","105 44th Sw",,07/05/2003
+Oklahoma,Oklahoma,"Oklahoma City","2135 32 Nw",,07/07/2003
+Oklahoma,Leflore,Cameron,"29031  Cabin Lane",,07/08/2003
+Oklahoma,Beckham,"Elk City","820 Oliver N",,07/09/2003
+Oklahoma,Kay,Newkirk,"112 Lafevers",,07/09/2003
+Oklahoma,Tulsa,Tulsa,"708 72nd East Avenue N",,07/09/2003
+Oklahoma,Mayes,Chouteau,"103 Gunter E",,07/11/2003
+Oklahoma,Tulsa,Tulsa,"1006 St Louis S St A",,07/12/2003
+Oklahoma,Tulsa,Tulsa,"1611 Columbia N Ave",,07/12/2003
+Oklahoma,Oklahoma,Spencer,"2125 18th Nw",,07/13/2003
+Oklahoma,Tulsa,Tulsa,"2111 Erie N Ave",,07/18/2003
+Oklahoma,Oklahoma,"Oklahoma City","2029 31st Nw Ter",,07/21/2003
+Oklahoma,Harmon,Gould,"Gibson  Rd  793",,07/21/2003
+Oklahoma,Tulsa,"Broken Arrow","610 Cedar N St",,07/22/2003
+Oklahoma,Tulsa,Owasso,"1022 G W St",,07/22/2003
+Oklahoma,Canadian,Mustang,"219 Hillcrest E Ln",,07/23/2003
+Oklahoma,Leflore,Cameron,"20706  Fields Lane",,07/24/2003
+Oklahoma,Tulsa,Tulsa,"816 95th East N Ave",,07/25/2003
+Oklahoma,Creek,Bristow,"6th  St 519",,07/28/2003
+Oklahoma,Tulsa,Sperry,"106 North Grant Avenue",,08/01/2003
+Oklahoma,Grady,Tuttle,"1103 Second Nw St",,08/03/2003
+Oklahoma,Oklahoma,"Oklahoma City","1915 Dogwood  Ct",,08/06/2003
+Oklahoma,Oklahoma,"Oklahoma City","5314 Willow Cliff  Rd",,08/06/2003
+Oklahoma,Tulsa,Tulsa,"338 41st W. S Ave",,08/07/2003
+Oklahoma,Oklahoma,"Oklahoma City","2400 Macarthur S Ave 197",,08/07/2003
+Oklahoma,Rogers,Claremore,"15910 41821 E Rd",,08/09/2003
+Oklahoma,Kay,Tonkawa,"312 Perry S",,08/10/2003
+Oklahoma,Kay,"Ponca City","611 4th N St",,08/11/2003
+Oklahoma,Tulsa,Tulsa,"4317 27th E St",,08/12/2003
+Oklahoma,Creek,Bristow,"20456 401 W S Ave",,08/15/2003
+Oklahoma,Pittsburg,Ashland,"101 East 80th Street",,08/15/2003
+Oklahoma,Creek,Drumright,"316 Ohio N St",,08/15/2003
+Oklahoma,Craig,Welch,"156 First W Ave",,08/18/2003
+Oklahoma,Tulsa,Tulsa,"2540 Newton E St",,08/19/2003
+Oklahoma,Kay,"Ponca City","1301 West Coolidge Avenue",,08/20/2003
+Oklahoma,Creek,Bristow,"20601 401 W S St",,08/20/2003
+Oklahoma,Oklahoma,"Oklahoma City","12401 Macarthur N Ave 3207",,08/20/2003
+Oklahoma,Oklahoma,"Oklahoma City","8081 Shields Se  19",,08/21/2003
+Oklahoma,Tulsa,Tulsa,"9711 75th E St 521",,08/21/2003
+Oklahoma,Okmulgee,Okmulgee,"413 1/2 Taft N St",,08/23/2003
+Oklahoma,Mayes,"Locust Grove","109 North Howey Street",,08/25/2003
+Oklahoma,Oklahoma,"Oklahoma City","3109 72nd Sw St",,08/25/2003
+Oklahoma,Tulsa,Tulsa,"1520 66th E Pl",,08/25/2003
+Oklahoma,Creek,Drumright,"112 Wood E",,08/26/2003
+Oklahoma,Oklahoma,"Oklahoma City","4724 44th Se St C",,08/27/2003
+Oklahoma,Tulsa,Tulsa,"520 Oxford N Ave",,08/28/2003
+Oklahoma,Tulsa,Tulsa,"8642 86th E S Ave",,08/28/2003
+Oklahoma,Osage,Skiatook,"153  Victory Street",,08/28/2003
+Oklahoma,Creek,Bristow,"351 South W",,08/28/2003
+Oklahoma,Washita,Sentinel,"599 Morton",,09/01/2003
+Oklahoma,Washita,Canute,"700 Ross S",,09/02/2003
+Oklahoma,Tulsa,Tulsa,"3127 4th E St",,09/02/2003
+Oklahoma,Mayes,Adair,"206 Maytubby S",,09/03/2003
+Oklahoma,Grady,Tuttle,"209 1/2 Cemetery N Rd",,09/03/2003
+Oklahoma,Oklahoma,"Oklahoma City","147 74th Sw  H",,09/03/2003
+Oklahoma,Tulsa,Tulsa,"1548 Lewis S Ave",,09/04/2003
+Oklahoma,Tulsa,Tulsa,"6122 28th Place North E Pl",,09/04/2003
+Oklahoma,Oklahoma,"Oklahoma City","4016 47th Se",,09/08/2003
+Oklahoma,Seminole,Sasakwa,"18644 95th E",,09/08/2003
+Oklahoma,Tulsa,Tulsa,"9853 12th E St H",,09/08/2003
+Oklahoma,Latimer,Wilburton,"1501 D  St",,09/11/2003
+Oklahoma,Oklahoma,"Oklahoma City","333 5th Nw  1704",,09/12/2003
+Oklahoma,Jackson,Altus,"502 Northwest 3rd",,09/12/2003
+Oklahoma,Washington,Bartlesville,"3906 Indiana  St",,09/12/2003
+Oklahoma,Rogers,Claremore,"23855 66 S Hwy 210",,09/13/2003
+Oklahoma,Tulsa,Tulsa,"2930 66th East S Ave",,09/15/2003
+Oklahoma,Ottawa,Miami,"106 North 1st",,09/15/2003
+Oklahoma,Wagoner,Coweta,"7300 South 336th Avenue",,09/16/2003
+Oklahoma,Canadian,"Oklahoma City","9717 10 Nw St 339",,09/16/2003
+Oklahoma,Tulsa,Tulsa,"702 129th East S Ave",,09/16/2003
+Oklahoma,Oklahoma,"Oklahoma City","1304 Irving S St",,09/19/2003
+Oklahoma,Tulsa,Tulsa,"847 64 West S Ave",,09/22/2003
+Oklahoma,Tulsa,Tulsa,"818 51st W St 3",,09/22/2003
+Oklahoma,Ottawa,Miami,"310 Main N",,09/23/2003
+Oklahoma,Tulsa,Tulsa,"3508 43rd W Pl",,09/24/2003
+Oklahoma,Rogers,Claremore,"6911 4200 S Rd",,09/24/2003
+Oklahoma,Tulsa,Tulsa,"2425 51st W St",,09/24/2003
+Oklahoma,Comanche,Lawton,"2422 D Sw Ave",,09/25/2003
+Oklahoma,Oklahoma,"Oklahoma City","608 Anita N Dr",,09/28/2003
+Oklahoma,Oklahoma,"Oklahoma City","2505 90 Sw St",,09/29/2003
+Oklahoma,Tulsa,Tulsa,"12332 15th E St",,09/30/2003
+Oklahoma,Pittsburg,Hartshorne,"420  E Beaumont Ave  2",,10/03/2003
+Oklahoma,Bryan,Durant,"1016 Louisiana",,10/05/2003
+Oklahoma,Jackson,Altus,"705 Northwest 2nd",,10/05/2003
+Oklahoma,Garfield,Enid,"1210 Cypress E",,10/06/2003
+Oklahoma,Mccurtain,Eagletown,"702 Choctaw W",,10/07/2003
+Oklahoma,Muskogee,Muskogee,"1510 Ash  St",,10/09/2003
+Oklahoma,Tulsa,Tulsa,"9765 5th E St",,10/09/2003
+Oklahoma,Tulsa,Tulsa,"126 Nogalas N Ave",,10/10/2003
+Oklahoma,Grady,"Rush Springs","525 Washington W",,10/10/2003
+Oklahoma,Creek,Kellyville,"16118 Maple  Dr B",,10/13/2003
+Oklahoma,Oklahoma,"Oklahoma City","739 Village South  Dr 120",,10/13/2003
+Oklahoma,Wagoner,"Broken Arrow","21441 47th E St",,10/14/2003
+Oklahoma,Tulsa,Tulsa,"2854 44 Street North E",,10/14/2003
+Oklahoma,Johnston,Wapanucka,"407 8th N St",,10/14/2003
+Oklahoma,Tulsa,Tulsa,"412 Urbana S Ave",,10/15/2003
+Oklahoma,Oklahoma,"Oklahoma City","2230 28th Sw",,10/16/2003
+Oklahoma,Oklahoma,"Oklahoma City","1609 32nd Sw St",,10/16/2003
+Oklahoma,Oklahoma,"Warr Acres","7316  Kings Ridge Road",,10/21/2003
+Oklahoma,Tulsa,Tulsa,"2146 Newton E St",,10/21/2003
+Oklahoma,Tulsa,Tulsa,"3159 44th E St",,10/23/2003
+Oklahoma,Major,"Cleo Springs","821 North Wentz Street",,10/23/2003
+Oklahoma,Mccurtain,"Mt Herman Community","1400 14th Se St",,10/23/2003
+Oklahoma,Tulsa,Tulsa,"3114 Louisville S Ave",,10/23/2003
+Oklahoma,Tulsa,Tulsa,"4818 29th W S Ave",,10/24/2003
+Oklahoma,Wagoner,Catoosa,"3413 29th N St",,10/24/2003
+Oklahoma,Tulsa,Tulsa,"1507 Bowen W Pl",,10/25/2003
+Oklahoma,Tulsa,Tulsa,"1414 39 E St B",,10/27/2003
+Oklahoma,Canadian,"El Reno","2400 Sunset S  Lot 7",,10/27/2003
+Oklahoma,Tulsa,Tulsa,"1722 Marshall E Pl",,10/27/2003
+Oklahoma,Tulsa,Tulsa,"122 166 East S Ave",,10/29/2003
+Oklahoma,Tulsa,Tulsa,"6216 Archer E Pl",,10/29/2003
+Oklahoma,Beckham,"Elk City","309 Adams S",,10/29/2003
+Oklahoma,Canadian,"Union City","112 Grand  St",,10/31/2003
+Oklahoma,Carter,Ardmore,"1426 Rutledge Se St",,11/03/2003
+Oklahoma,Rogers,Catoosa,"601 8th Se St",,11/03/2003
+Oklahoma,Muskogee,Muskogee,"808 Cromwell  St",,11/03/2003
+Oklahoma,Tulsa,Tulsa,"5217 36 E St",,11/03/2003
+Oklahoma,Tulsa,"Broken Arrow","913 Ash S Ave",,11/05/2003
+Oklahoma,Tulsa,Tulsa,"9339 3rd E Pl",,11/07/2003
+Oklahoma,Wagoner,Wagoner,"38th E St 7401",,11/07/2003
+Oklahoma,Tulsa,Tulsa,"1424 Quaker S  C",,11/10/2003
+Oklahoma,Beckham,Sayre,"611 Sisson E",,11/11/2003
+Oklahoma,Tulsa,Tulsa,"3336 Marshall E St 9",,11/11/2003
+Oklahoma,Tulsa,Tulsa,"714 96th East N Ave",,11/13/2003
+Oklahoma,Tulsa,Tulsa,"1528 68th East N Ave",,11/13/2003
+Oklahoma,Oklahoma,"Oklahoma City","3039 11th Sw St",,11/16/2003
+Oklahoma,Oklahoma,"Oklahoma City","1528 82 Sw",,11/17/2003
+Oklahoma,Tulsa,Tulsa,"4803 Jackson S Ave 2",,11/18/2003
+Oklahoma,Beckham,"Elk City","1202 Boone S",,11/18/2003
+Oklahoma,Tulsa,Tulsa,"213 103 East S Ave",,11/19/2003
+Oklahoma,Tulsa,Tulsa,"2614 2nd E St",,11/19/2003
+Oklahoma,Tulsa,Tulsa,"4576 38th E St",,11/19/2003
+Oklahoma,Kingfisher,Dover,"Ft Oakland Road",,11/20/2003
+Oklahoma,Kingfisher,Dover,"209 East Liberty Avenue",,11/20/2003
+Oklahoma,Payne,Perkins,"1200 East Pecan  #16",,11/21/2003
+Oklahoma,Bryan,Cartwright,"Rt1 Wilufa Woods  Rd  52",,11/21/2003
+Oklahoma,Tulsa,Tulsa,"128 Sandusky N Ave",,11/21/2003
+Oklahoma,Oklahoma,"Oklahoma City","2512 22 Sw",,11/24/2003
+Oklahoma,Seminole,Konawa,"19024 Tracy E Rd",,11/26/2003
+Oklahoma,Oklahoma,"Oklahoma City","2009 8 Sw St",,11/27/2003
+Oklahoma,Tulsa,Tulsa,"126 Nogales N Ave",,11/27/2003
+Oklahoma,Oklahoma,"Oklahoma City","9717 10 Nw  339",,11/28/2003
+Oklahoma,Payne,Cushing,"225 Divine E St",,11/29/2003
+Oklahoma,Tulsa,Tulsa,"6544 6th E St",,12/01/2003
+Oklahoma,Oklahoma,"Oklahoma City","3305 48th Sw",,12/01/2003
+Oklahoma,Tulsa,"Sand Springs","1200 Willow N",,12/01/2003
+Oklahoma,Mcclain,Maysville,"207 Colvard W St",,12/01/2003
+Oklahoma,Washington,Bartlesville,"108 20th Se St",,12/01/2003
+Oklahoma,Oklahoma,"Oklahoma City","719 28 Se St",,12/03/2003
+Oklahoma,Tulsa,Tulsa,"4115 35th West S Ave",,12/03/2003
+Oklahoma,Tulsa,"Broken Arrow","210 Jackson W St",,12/03/2003
+Oklahoma,Beckham,"Elk City","303 Hoover  Cir",,12/04/2003
+Oklahoma,Wagoner,Coweta,"26700 East 61st Street",,12/04/2003
+Oklahoma,Payne,Cushing,"43101 East 43rd Road",,12/06/2003
+Oklahoma,Washington,Vera,"429 Southeast Creek Avenue",,12/09/2003
+Oklahoma,Creek,Sapulpa,"1301 Park S St C24",,12/12/2003
+Oklahoma,Kiowa,Hobart,"300 Frantz S",,12/13/2003
+Oklahoma,Tulsa,Tulsa,"6238 Oklahoma E Pl",,12/14/2003
+Oklahoma,Oklahoma,"Oklahoma City","3600 Wilshire E",,12/14/2003
+Oklahoma,Leflore,Muse,"22756 Cedar  Rd",,12/16/2003
+Oklahoma,Tulsa,Tulsa,"6710 Zunis S Ave 1605",,12/17/2003
+Oklahoma,Oklahoma,"Oklahoma City","1520 Youngs S",,12/18/2003
+Oklahoma,Wagoner,Wagoner,"3430 76th E St",,12/21/2003
+Oklahoma,Stephens,Duncan,"306  Durant",,12/28/2003
+Oklahoma,Tulsa,Tulsa,"8015 Wheeling S Ave D",,12/29/2003
+Oklahoma,Oklahoma,"Oklahoma City","2712 Indiana S Ave",,12/30/2003
+Oklahoma,Coal,Coalgate,"205 Oden",,12/30/2003
+Oklahoma,Oklahoma,"Oklahoma City","4025 Meridian N",,12/30/2003
+Oklahoma,Oklahoma,"Oklahoma City","4025 23rd Sw",,01/02/2004
+Oklahoma,Noble,Stillwater,"408  Millard Street Lot 8",,01/05/2004
+Oklahoma,Tulsa,Tulsa,"128 (a) Sandusky N Ave",,01/06/2004
+Oklahoma,Tulsa,Tulsa,"128 (b) Sandasky N Ave",,01/06/2004
+Oklahoma,Oklahoma,"Oklahoma City","916 Rockwood S",,01/08/2004
+Oklahoma,"Le Flore",Poteau,"306 Main E",,01/08/2004
+Oklahoma,Tulsa,Tulsa,"1344 1st E St 3",,01/09/2004
+Oklahoma,Tulsa,Tulsa,"259 104th East S Ave",,01/10/2004
+Oklahoma,Oklahoma,"Oklahoma City","7176 Lyrewood  Ln 289",,01/10/2004
+Oklahoma,Oklahoma,"Oklahoma City","2825 30 Sw",,01/12/2004
+Oklahoma,Leflore,Spiro,"704 Oklahoma  St",,01/12/2004
+Oklahoma,Tulsa,Tulsa,"1428 Winston N Ave",,01/12/2004
+Oklahoma,Bryan,Cartwright,"593 4th  Ave",,01/12/2004
+Oklahoma,Muskogee,Muskogee,"1932 Baltimore  Ave",,01/14/2004
+Oklahoma,Tulsa,Tulsa,"5613 Quaker S Ave A",,01/16/2004
+Oklahoma,Tulsa,Tulsa,"4440 Garnett S Rd 1414",,01/19/2004
+Oklahoma,Oklahoma,"Oklahoma City","5012 Brookline S",,01/20/2004
+Oklahoma,Tulsa,Tulsa,"9902 40th E St",,01/20/2004
+Oklahoma,Tulsa,Tulsa,"403 68th East S Ave",,01/21/2004
+Oklahoma,Oklahoma,"Oklahoma City","7408 Knight Lake  Dr 220",,01/21/2004
+Oklahoma,Wagoner,"Broken Arrow","1214 30th N St",,01/22/2004
+Oklahoma,Comanche,Lawton,"1210 G Sw Ave",,01/23/2004
+Oklahoma,Tulsa,"Broken Arrow","5611 Juniper S Pl",,01/23/2004
+Oklahoma,Oklahoma,Edmond,"3029 Del Rancho",,01/23/2004
+Oklahoma,Beckham,"Elk City","1907 Ave B W",,01/24/2004
+Oklahoma,Pittsburg,Pittsburg,"2622 North Ash Street",,01/26/2004
+Oklahoma,Ottawa,Miami,"116 Quincy N St",,01/26/2004
+Oklahoma,Creek,Sapulpa,"9608 71st South W St  9608",,01/26/2004
+Oklahoma,Bryan,Kenefic,"134 Kenefic  St",,01/28/2004
+Oklahoma,Wagoner,"Broken Arrow","9461 225th East S Ave",,01/28/2004
+Oklahoma,Pittsburg,Mcalester,"931 Lehigh  St 1 & 2",,01/28/2004
+Oklahoma,Bryan,Bennington,"3450 Pipeline  Rd",,02/01/2004
+Oklahoma,Tulsa,Tulsa,"4808 Elwood S  205",,02/03/2004
+Oklahoma,Oklahoma,"Oklahoma City","4322 Blackwelden N",,02/04/2004
+Oklahoma,Oklahoma,"Oklahoma City","1508 30 Sw",,02/07/2004
+Oklahoma,Tulsa,Tulsa,"13104 16th E St H",,02/09/2004
+Oklahoma,Oklahoma,"Midwest City","2009 Creekridge  Dr",,02/09/2004
+Oklahoma,Oklahoma,"Oklahoma City","1425 104 Nw Ter",,02/09/2004
+Oklahoma,Tulsa,Tulsa,"2530 Quebec S Ave",,02/12/2004
+Oklahoma,Wagoner,Wagoner,"4800 251-a E",,02/12/2004
+Oklahoma,Washington,Ramona,"216 South Creek Avenue",,02/13/2004
+Oklahoma,Oklahoma,"Oklahoma City","2312 Hudson S",,02/16/2004
+Oklahoma,Oklahoma,"Oklahoma City","6100 May N",,02/17/2004
+Oklahoma,Canadian,"El Reno","1725 Dillie S",,02/17/2004
+Oklahoma,Creek,Sapulpa,"1003 Pfendler E St",,02/19/2004
+Oklahoma,Beckham,"Elk City","310 Walker S",,02/19/2004
+Oklahoma,Oklahoma,"Oklahoma City","2035 Britton E Rd",,02/20/2004
+Oklahoma,Tulsa,Tulsa,"7831 King E Pl",,02/20/2004
+Oklahoma,Tulsa,Tulsa,"3646 Lakewood S Ave C",,02/20/2004
+Oklahoma,Mcclain,Purcell,"1045 Hamond Heights",,02/22/2004
+Oklahoma,Tulsa,Tulsa,"1337 39th W St",,02/23/2004
+Oklahoma,Kay,"Ponca City","277  Enlow Avenue",,02/24/2004
+Oklahoma,Kay,"Ponca City","509 North 1st Street",,02/25/2004
+Oklahoma,Tulsa,Tulsa,"4726 2nd E St",,02/26/2004
+Oklahoma,Tulsa,Tulsa,"1312 Rosedale N Ave 1/2",,02/27/2004
+Oklahoma,Tulsa,Tulsa,"913 Columbia N Pl",,02/27/2004
+Oklahoma,Muskogee,Muskogee,"540 Harris W Rd",,02/28/2004
+Oklahoma,Mayes,Adair,"1106 Gaye  St",,03/03/2004
+Oklahoma,Muskogee,Muskogee,"1418 Cherry  St",,03/03/2004
+Oklahoma,Tulsa,Tulsa,"8116 19th E St",,03/04/2004
+Oklahoma,Tulsa,Tulsa,"104 1/2 92nd East S Ave",,03/08/2004
+Oklahoma,Tulsa,Collinsville,"417  Carlyel",,03/08/2004
+Oklahoma,Tulsa,Tulsa,"1220 Zunis S Ave",,03/10/2004
+Oklahoma,Oklahoma,"Oklahoma City","6110 May N  27",,03/11/2004
+Oklahoma,Wagoner,"Broken Arrow","313 62nd S St",,03/11/2004
+Oklahoma,Stephens,Foster,"107 Chickasaw  St",,03/12/2004
+Oklahoma,Oklahoma,"Oklahoma City","7631 12th Nw",,03/12/2004
+Oklahoma,Tulsa,Tulsa,"1616 32nd E Pl",,03/14/2004
+Oklahoma,Tulsa,Tulsa,"10744 30 E St",,03/14/2004
+Oklahoma,Payne,Stillwater,"4514 Furman  Dr",,03/15/2004
+Oklahoma,Oklahoma,"Oklahoma City","2223 32 Sw St",,03/17/2004
+Oklahoma,Okmulgee,Okmulgee,"616 Florida S St",,03/18/2004
+Oklahoma,Tulsa,Tulsa,"10744 30th E St",,03/19/2004
+Oklahoma,Rogers,Claremore,"19400 106th North E St",,03/20/2004
+Oklahoma,Rogers,Claremore,"409 Cherokee N Ave",,03/20/2004
+Oklahoma,Oklahoma,"Oklahoma City","12027 Ashford  Dr",,03/21/2004
+Oklahoma,Tulsa,Tulsa,"8915 50th E St",,03/23/2004
+Oklahoma,Washita,Sentinel,"200b Cherokee  Trl",,03/23/2004
+Oklahoma,Washita,Sentinel,"175 Bryan E",,03/23/2004
+Oklahoma,Marshall,"Oak Brook","1589 Pin Oak  St 17",,03/24/2004
+Oklahoma,Pontotoc,Ada,"411 West Miami Street",,03/24/2004
+Oklahoma,Tulsa,Tulsa,"1319 Delaware N Ave",,03/25/2004
+Oklahoma,Washita,Cordell,"396801 West 1350 Drive",,03/25/2004
+Oklahoma,Grady,Blanchard,"2476 County Road 1339",,03/25/2004
+Oklahoma,Tulsa,Tulsa,"1211 Jackson S Ave",,03/27/2004
+Oklahoma,Oklahoma,"Oklahoma City","8101 Youngs S Blvd",,03/27/2004
+Oklahoma,Creek,Kellyville,"18318 167th W St",,03/30/2004
+Oklahoma,Tulsa,"Broken Arrow","1018 Wesley  Dr",,04/01/2004
+Oklahoma,Oklahoma,"Oklahoma City","6120 Country Ridge  Ln",,04/06/2004
+Oklahoma,Tulsa,Tulsa,"5919 25th E St",,04/06/2004
+Oklahoma,Tulsa,Tulsa,"1325 1st W St",,04/06/2004
+Oklahoma,Oklahoma,"Oklahoma City","3220 84 Sw St",,04/07/2004
+Oklahoma,Tulsa,Tulsa,"2103 Ute E St",,04/07/2004
+Oklahoma,Oklahoma,"Oklahoma City","1512 1/2 Youngs S Blvd",,04/07/2004
+Oklahoma,Oklahoma,"Oklahoma City","1312 25 Sw St 3",,04/08/2004
+Oklahoma,Wagoner,Cheuteau,"1111 27 N St",,04/13/2004
+Oklahoma,Oklahoma,"Oklahoma City","103 22 Sw St",,04/13/2004
+Oklahoma,Muskogee,Muskogee,"759 93rd South W St",,04/14/2004
+Oklahoma,Mayes,Adair,"1864 Twin Oak  St",,04/14/2004
+Oklahoma,Muskogee,Muskogee,"952 32nd S St 28",,04/15/2004
+Oklahoma,Tulsa,Tulsa,"8105 93rd E St 908",,04/15/2004
+Oklahoma,Tulsa,Tulsa,"1648 Xanthus N Ave",,04/15/2004
+Oklahoma,Tulsa,Tulsa,"5317 Detroit S Ave",,04/18/2004
+Oklahoma,Tulsa,Tulsa,"62 Arcner E St",,04/22/2004
+Oklahoma,Creek,Depew,"949 Sprudy S",,04/27/2004
+Oklahoma,Washita,Cordell,"604 East 6th Street",,04/29/2004
+Oklahoma,Custer,Clinton,"2401 28th S",,04/30/2004
+Oklahoma,Tulsa,Tulsa,"102 128 N Pl",,05/01/2004
+Oklahoma,Oklahoma,"Oklahoma City","1155 Wilshire W",,05/01/2004
+Oklahoma,Tulsa,Tulsa,"2444 1st E St",,05/01/2004
+Oklahoma,Tulsa,Tulsa,"3538 Latimer E Pl",,05/04/2004
+Oklahoma,Tulsa,Tulsa,"2736 Admiral E Ct",,05/06/2004
+Oklahoma,Tulsa,Tulsa,"317 Detroit S Ave",,05/06/2004
+Oklahoma,Oklahoma,"Oklahoma City","3501 Meta S Ave",,05/08/2004
+Oklahoma,Hughes,Calvin,"206  Burton Street",,05/09/2004
+Oklahoma,Oklahoma,"Oklahoma City","3824 37 Sw",,05/09/2004
+Oklahoma,Craig,Welch,"440 Washington S St",,05/10/2004
+Oklahoma,Tulsa,Tulsa,"5147 Haskell E Pl",,05/12/2004
+Oklahoma,Bryan,Caddo,"602 Russell  St",,05/15/2004
+Oklahoma,Tulsa,Tulsa,"7712 Victor S Ave 22b",,05/16/2004
+Oklahoma,Tulsa,Tulsa,"1207 Quaker S Ave 209",,05/21/2004
+Oklahoma,Washington,Vera,"7181 North 3970 Road",,05/21/2004
+Oklahoma,Kay,"Ponca City","5 Timberview  Pl",,05/26/2004
+Oklahoma,Oklahoma,"Midwest City","10611 Le Jean  Dr",,05/28/2004
+Oklahoma,Tulsa,Tulsa,"4 49th N St",,06/07/2004
+Oklahoma,Kiowa,"Mountain Park","414 North 7th Street",,06/08/2004
+Oklahoma,Pontotoc,Allen,"1208 2nd N St",,06/09/2004
+Oklahoma,Bryan,Caddo,"407 Choctaw S",,06/09/2004
+Oklahoma,Wagoner,"Broken Arrow","28610 51 E St",,06/17/2004
+Oklahoma,Tulsa,Tulsa,"1904 Gary N Ave",,06/21/2004
+Oklahoma,Oklahoma,"Oklahoma City","9628 29 Se St 4",,06/22/2004
+Oklahoma,Oklahoma,"Oklahoma City","4313 16 Nw",,06/22/2004
+Oklahoma,Beckham,Erick,"102 Pine S",,06/23/2004
+Oklahoma,Oklahoma,"Oklahoma City","5712 19 Nw St 215",,06/24/2004
+Oklahoma,Oklahoma,"Oklahoma City","2312 Hudson S  A",,06/24/2004
+Oklahoma,Tulsa,Tulsa,"219 Rosedale N Ave",,06/28/2004
+Oklahoma,Kay,"Ponca City","2901 Riverview W Rd",,06/30/2004
+Oklahoma,Oklahoma,"Oklahoma City","3500 Douglas S Blvd 11",,07/07/2004
+Oklahoma,Oklahoma,Edmond,"4415 1/2 Reno E",,07/09/2004
+Oklahoma,Comanche,Lawton,"4823 Winfield Ne Cir",,07/12/2004
+Oklahoma,Mccurtain,Idabel,"403  Oak Street",,07/13/2004
+Oklahoma,Oklahoma,"Oklahoma City","6805 13 Nw St",,07/21/2004
+Oklahoma,Rogers,Claremore,"6332 480 E Rd 8",,08/07/2004
+Oklahoma,Tulsa,Tulsa,"3117 145th S Ave H",,08/09/2004
+Oklahoma,Mccurtain,Eagletown,"11  Vaughn Drive",,08/09/2004
+Oklahoma,Hughes,Holdenville,"9th 207 Se St 5a",,08/11/2004
+Oklahoma,Noble,Perry,"9862 South 24th West Street",,08/17/2004
+Oklahoma,Logan,Guthrie,"3701 Prairie Grove",,08/17/2004
+Oklahoma,Tulsa,Tulsa,"9231 95th S Ave",,08/26/2004
+Oklahoma,Tulsa,Jenks,"1210 West Walnut",,08/28/2004
+Oklahoma,Muskogee,Muskogee,"1522 Cherry  St",,08/31/2004
+Oklahoma,Oklahoma,"Oklahoma City","1332 74 Sw St 227a",,08/31/2004
+Oklahoma,Muskogee,Muskogee,"403 Augusta W St",,08/31/2004
+Oklahoma,Canadian,Mustang,"2347 Highway 152 E",,08/31/2004
+Oklahoma,Tulsa,Tulsa,"1101 131st East S Ave",,08/31/2004
+Oklahoma,Oklahoma,"Oklahoma City","1201 9th Nw St",,08/31/2004
+Oklahoma,Oklahoma,Edmond,"4748 26th Se St",,09/01/2004
+Oklahoma,Oklahoma,Arcadia,"229 North Maple",,09/02/2004
+Oklahoma,Canadian,Mustang,"5800 Aloha  Ct",,09/02/2004
+Oklahoma,Greer,Russell,"1336 County Rd 1550",,09/03/2004
+Oklahoma,Canadian,Yukon,"10309 Birkenhead  Rd",,09/09/2004
+Oklahoma,Tulsa,Tulsa,"12918 23rd E St",,09/10/2004
+Oklahoma,Oklahoma,Bethany,"122 Chactaw N",,09/11/2004
+Oklahoma,Bryan,Blue,"64 Daisy Mae",,09/14/2004
+Oklahoma,Okmulgee,Okmulgee,"1406 Okmulgee N St",,09/15/2004
+Oklahoma,Tulsa,Tulsa,"5420 71st E Pl 1801",,09/16/2004
+Oklahoma,Okmulgee,Okmulgee,"10500 191 N Rd",,09/19/2004
+Oklahoma,Oklahoma,"Oklahoma City","6520 57th Se",,09/22/2004
+Oklahoma,Mccurtain,"Broken Bow","109 Minor Circle",,09/22/2004
+Oklahoma,Osage,Skiatook,"564  North City View",,09/28/2004
+Oklahoma,Oklahoma,"Oklahoma City","1417 96 Nw",,09/29/2004
+Oklahoma,Tulsa,Tulsa,"5516 1/2 Tecumsh E St",,09/30/2004
+Oklahoma,Johnston,Tishomingo,"602 7th E St",,10/02/2004
+Oklahoma,Washington,Ramona,"109  Mockingbird Lane",,10/06/2004
+Oklahoma,Stephens,Foster,"320 E. N St",,10/10/2004
+Oklahoma,Mccurtain,Ringold,"14 Central N",,10/17/2004
+Oklahoma,Muskogee,Muskogee,"1911 24 S St",,10/17/2004
+Oklahoma,Tulsa,Tulsa,"11012 14th E Ct",,10/27/2004
+Oklahoma,Grady,Chickasha,"2236  County Road 1236",,10/28/2004
+Oklahoma,Oklahoma,"Oklahoma City","27 42 Sw St",,11/05/2004
+Oklahoma,Ottawa,Wyandotte,"118 Southeast C Street",,11/05/2004
+Oklahoma,Jefferson,Waurika,"401 1/2 Morgan  St",,11/07/2004
+Oklahoma,Harmon,Vinson,"310 Cottonwood  Dr",,11/09/2004
+Oklahoma,Tulsa,Tulsa,"427 162nd East S Ave",,11/11/2004
+Oklahoma,Tulsa,Tulsa,"6237 Owasso S Pl",,11/11/2004
+Oklahoma,Oklahoma,"Oklahoma City","4801 Berryman  Rd",,11/12/2004
+Oklahoma,Muskogee,Muskogee,"2705 Oklahoma W St",,11/23/2004
+Oklahoma,Washington,Bartlesville,"2204 Osage S",,11/24/2004
+Oklahoma,Tulsa,Tulsa,"2501 Xyler E St",,12/03/2004
+Oklahoma,Washington,Bartlesville,"1325 14th W Pl B",,12/03/2004
+Oklahoma,Washington,Bartlesville,"311  Rural Road 5",,12/07/2004
+Oklahoma,Love,Marietta,"13400 Tumbleweed  Trl",,12/09/2004
+Oklahoma,Pontotoc,Stonewall,"7 Devils & Adamson  Rd",,12/12/2004
+Oklahoma,Tulsa,Tulsa,"325 11th E St 204",,12/13/2004
+Oklahoma,Tulsa,Tulsa,"5620 Quaker S St D",,12/14/2004
+Oklahoma,Marshall,Kingston,"1202 Duncan S",,12/17/2004
+Oklahoma,Tulsa,Tulsa,"621 106th East S Ave",,12/19/2004
+Oklahoma,Oklahoma,Edmond,"1305 Mallard  Dr",,12/21/2004
+Oklahoma,Oklahoma,"Oklahoma City","1425 51 Sw St",,12/25/2004
+Oklahoma,Oklahoma,"Oklahoma City","900 Fara N",,12/26/2004
+Oklahoma,Tulsa,Tulsa,"2029 Kingston N Ave",,12/28/2004
+Oklahoma,Tulsa,Tulsa,"5217 Vandalia S Ave 1 H",,01/07/2005
+Oklahoma,Tulsa,Tulsa,"6632 Peoria S Ave 306",,01/10/2005
+Oklahoma,Oklahoma,"Oklahoma City","5804 Harvey S Ave B",,01/10/2005
+Oklahoma,Tulsa,Tulsa,"6028 90th S Pl",,01/10/2005
+Oklahoma,Tulsa,Tulsa,"4840 Vancouver S Ave",,01/12/2005
+Oklahoma,Kay,"Kaw City","208 Broadway S",,01/13/2005
+Oklahoma,Marshall,Enos,"21500 A Charter Oak E Rd",,01/21/2005
+Oklahoma,Grady,"Rush Springs","902 Delaware  Ave",,01/23/2005
+Oklahoma,Tulsa,"Broken Arrow","310 7th S St",,01/30/2005
+Oklahoma,Tulsa,"Sand Springs","523 Wilson N",,01/31/2005
+Oklahoma,Tulsa,Tulsa,"202 193rd S Ave 10",,02/04/2005
+Oklahoma,Tulsa,Tulsa,"729 Kingston N Ave",,02/04/2005
+Oklahoma,Tulsa,Tulsa,"17313 13th E St",,02/08/2005
+Oklahoma,Oklahoma,"Oklahoma City","2444 Binkley W  C",,02/17/2005
+Oklahoma,Pushmataha,Rattan,"7 Spring Valley  Ln",,02/18/2005
+Oklahoma,Tulsa,Tulsa,"1314 89th N Ave 202",,02/19/2005
+Oklahoma,Sequoyah,Sallisaw,"106  Plum",,03/08/2005
+Oklahoma,Muskogee,Muskogee,"1108 Wood  St",,03/08/2005
+Oklahoma,Tulsa,Tulsa,"1941 Santa Fe N Pl",,03/10/2005
+Oklahoma,Muskogee,Muskogee,"827 York S St 9",,03/11/2005
+Oklahoma,Pushmataha,Antlers,"2 Seneca",,03/14/2005
+Oklahoma,Mccurtain,"Broken Bow","704 Dierks",,03/17/2005
+Oklahoma,Tulsa,Tulsa,"6315 4th E Ter",,04/04/2005
+Oklahoma,Tulsa,Tulsa,"4849 Nogales S Ave",,04/05/2005
+Oklahoma,Tulsa,"Broken Arrow","2716 Narcissus S Ave",,04/06/2005
+Oklahoma,Wagoner,Wagoner,"8141 North 58th Street",,04/10/2005
+Oklahoma,Muskogee,Muskogee,"712 Dayton  St",,04/19/2005
+Oklahoma,Cherokee,Cookson,"21115 West 888  Rd",,04/26/2005
+Oklahoma,Choctaw,Soper,"701 Main N St",,04/26/2005
+Oklahoma,Tulsa,Tulsa,"3228 127th S Ave",,05/01/2005
+Oklahoma,Oklahoma,"Oklahoma City","2004 27 Nw",,05/04/2005
+Oklahoma,Tulsa,Tulsa,"6827 King",,05/11/2005
+Oklahoma,Tulsa,Tulsa,"2738 136th S Ave",,05/24/2005
+Oklahoma,Sequoyah,Gans,"301 Main W",,05/24/2005
+Oklahoma,Cherokee,Moodys,"11019 530 N Rd",,05/31/2005
+Oklahoma,Sequoyah,Vian,"1100  Radio Station Road E",,06/07/2005
+Oklahoma,Tulsa,Tulsa,"7840 22 E St",,06/27/2005
+Oklahoma,Tulsa,Tulsa,"6619 King E St",,06/27/2005
+Oklahoma,Tulsa,Tulsa,"8115 19th E St 101",,07/05/2005
+Oklahoma,Tulsa,Tulsa,"1524 77th N Ave",,07/11/2005
+Oklahoma,Sequoyah,Vian,"Rt 1  Brushy Road Box 72",,07/20/2005
+Oklahoma,Sequoyah,Vian,"2716 East King Avenue",,07/20/2005
+Oklahoma,Sequoyah,Sallisaw,"1010 Main",,07/22/2005
+Oklahoma,Oklahoma,"Oklahoma City","8300 Douglas S",,08/03/2005
+Oklahoma,Marshall,Kingston,"408 2nd E St",,08/19/2005
+Oklahoma,Tulsa,Tulsa,"917 New Haven S Ave",,08/23/2005
+Oklahoma,Sequoyah,Muldrow,"908 Enid  St",,08/25/2005
+Oklahoma,Tulsa,Tulsa,"2118 Columbia N Ave",,09/08/2005
+Oklahoma,Tulsa,Tulsa,"2738 136th East S Ave",,09/09/2005
+Oklahoma,Bryan,Cartwright,"2569 Sand Creek  Rd",,09/27/2005
+Oklahoma,Oklahoma,"Oklahoma City","33 Copeland",,10/02/2005
+Oklahoma,Tulsa,Tulsa,"4010 33rd West S  C",,10/03/2005
+Oklahoma,Muskogee,Muskogee,"214 Geneva  St",,10/04/2005
+Oklahoma,Creek,Sapulpa,"222 Dewey W Ave",,10/04/2005
+Oklahoma,Choctaw,Hugo,"707 E. Lowery  St",,10/11/2005
+Oklahoma,Mccurtain,"Broken Bow","901 Dierks N",,10/12/2005
+Oklahoma,Muskogee,Muskogee,"321 3rd S St",,10/14/2005
+Oklahoma,Tulsa,Tulsa,"823 Columbia N Ave",,10/19/2005
+Oklahoma,Tulsa,Tulsa,"913 37th E St",,10/23/2005
+Oklahoma,Tulsa,Owasso,"517 6th N St",,10/24/2005
+Oklahoma,Tulsa,Owasso,"411 East Beaver Street",,10/24/2005
+Oklahoma,Tulsa,Owasso,"8734 South Peoria Avenue",,10/24/2005
+Oklahoma,Tulsa,Tulsa,"920 36th E Pl",,11/04/2005
+Oklahoma,Sequoyah,Sallisaw,"106 Lillard  Ln",,11/10/2005
+Oklahoma,Oklahoma,"Oklahoma City","3524 Dumas  Ave",,11/23/2005
+Oklahoma,Tulsa,Tulsa,"1333 17th E St",,12/08/2005
+Oklahoma,Tulsa,Tulsa,"609 51st W S Ave",,12/11/2005
+Oklahoma,Tulsa,Tulsa,"1528 Lewis N Pl",,12/11/2005
+Oklahoma,Tulsa,Oakhurst,"13940 Zenith",,01/03/2006
+Oklahoma,Muskogee,Muskogee,"1508 Cherry  St",,01/04/2006
+Oklahoma,Tulsa,Collinsville,"4511 South Gum Avenue",,01/11/2006
+Oklahoma,Muskogee,Muskogee,"4027 Oklahoma",,01/17/2006
+Oklahoma,Tulsa,Tulsa,"2015 Kingston N Ave B",,01/19/2006
+Oklahoma,Washington,Bartlesville,"1040 Maple Sw St",,01/20/2006
+Oklahoma,Tulsa,Tulsa,"6001 Haskell E Pl",,01/27/2006
+Oklahoma,Tulsa,Bixby,"900 Railroad  St",,01/27/2006
+Oklahoma,Tulsa,Tulsa,"3737 27th E Pl D",,01/31/2006
+Oklahoma,Tulsa,Tulsa,"12304 Admiral E Ct C",,02/02/2006
+Oklahoma,Oklahoma,"Oklahoma City","500 45 Se St",,02/03/2006
+Oklahoma,Oklahoma,Harrah,"1412 Paddock",,02/04/2006
+Oklahoma,Tulsa,Tulsa,"6662 Peoria S Ave 108",,02/07/2006
+Oklahoma,Oklahoma,"Oklahoma City","624 71 Se St",,02/13/2006
+Oklahoma,Sequoyah,Gore,"322 2nd E",,02/14/2006
+Oklahoma,Tulsa,Tulsa,"5163 33rd West S Ave",,02/14/2006
+Oklahoma,Tulsa,Tulsa,"1568 59th W St",,02/15/2006
+Oklahoma,Bryan,"Willifa Woods","54 Felton  Ln",,02/17/2006
+Oklahoma,Canadian,Calumet,"19915 West Hwy 270",,02/25/2006
+Oklahoma,Osage,,"9452 Osage N Dr",,02/26/2006
+Oklahoma,Tulsa,Tulsa,"7303 Jasper E St",,03/04/2006
+Oklahoma,Tulsa,"Broken Arrow","218 Cedar N Ave",,03/05/2006
+Oklahoma,Pottawatomie,Shawnee,"121 High N",,03/09/2006
+Oklahoma,Oklahoma,Luther,"1202 Blackwelder N",,03/10/2006
+Oklahoma,Creek,Bristow,"49189 West 142nd Street",,03/15/2006
+Oklahoma,Mayes,"Locust Grove","603 East 8th Street",,03/15/2006
+Oklahoma,Rogers,Claremore,"304 Lavira N Ave",,03/16/2006
+Oklahoma,Marshall,Kingston,"403 Creek W",,03/24/2006
+Oklahoma,Creek,Kiefer,"112  Stark Street",,03/27/2006
+Oklahoma,Oklahoma,"Oklahoma City","5607 Arrowood  Dr",,04/01/2006
+Oklahoma,Oklahoma,"Oklahoma City","3745 37th Sw St",,04/08/2006
+Oklahoma,Okmulgee,Mounds,"3 3  Rt  585",,04/10/2006
+Oklahoma,Oklahoma,"Oklahoma City","5720 19th Nw St 124",,04/11/2006
+Oklahoma,Canadian,"El Reno","520 South Choctaw Avenue",,04/18/2006
+Oklahoma,Tulsa,Collinsville,"2316 West Quincy Street",,05/05/2006
+Oklahoma,Tulsa,Tulsa,"6638 Peoria S Ave 305",,05/10/2006
+Oklahoma,Tulsa,Tulsa,"6634 Peoria S Ave 204",,05/10/2006
+Oklahoma,Tulsa,Tulsa,"3342.5 27th E Pl",,05/19/2006
+Oklahoma,Tulsa,Tulsa,"9419 Oklahoma E Pl",,05/19/2006
+Oklahoma,Tulsa,Tulsa,"120 17th E St 7",,05/22/2006
+Oklahoma,Tulsa,Tulsa,"832 64th West S Ave",,05/22/2006
+Oklahoma,Oklahoma,Edmond,"4208 28th Se St",,05/31/2006
+Oklahoma,Mccurtain,Ringold,"1604 Herron  St",,06/01/2006
+Oklahoma,Tulsa,Tulsa,"512 55 West S Ave",,06/12/2006
+Oklahoma,Sequoyah,Muldrow,"708 Wesley  St",,06/13/2006
+Oklahoma,Tulsa,Tulsa,"3919 28th E St C",,06/14/2006
+Oklahoma,Tulsa,Tulsa,"8323 32nd E St",,06/14/2006
+Oklahoma,Tulsa,Tulsa,"5657 South 85 Avenue",,06/14/2006
+Oklahoma,Tulsa,Collinsville,"303 West Fort Worth Street",,06/23/2006
+Oklahoma,Kay,Tonkawa,"1006 South Waverly Street",,06/27/2006
+Oklahoma,Tulsa,Tulsa,"3619 East Place",,06/28/2006
+Oklahoma,Adair,Bunch,"26676 East 888 Road",,07/10/2006
+Oklahoma,Craig,Vinita,"134  Saints Circle",,07/13/2006
+Oklahoma,Bryan,Colbert,"220  Collins Street",,07/15/2006
+Oklahoma,Cleveland,"Oklahoma City","1308 East Hills Drive",,07/20/2006
+Oklahoma,Carter,"Lone Grove","11700  Prairie Valley Road",,07/26/2006
+Oklahoma,Tulsa,Tulsa,"3619 East Place",,07/29/2006
+Oklahoma,Muskogee,Muskogee,"1510 Boston W St",,08/03/2006
+Oklahoma,Ottawa,Miami,"193 East 61201 Road",,08/06/2006
+Oklahoma,Wagoner,"Broken Arrow","1221 27th N St",,08/08/2006
+Oklahoma,Creek,Shamrock,"32 East 2nd",,08/09/2006
+Oklahoma,Tulsa,Tulsa,"5302 E. 9th Street",,08/16/2006
+Oklahoma,Tulsa,"Broken Arrow","1204 29th S St",,08/22/2006
+Oklahoma,Creek,Sapulpa,"505 North 2nd Street",,08/29/2006
+Oklahoma,Tulsa,Tulsa,"5302 East 9th Street",,09/06/2006
+Oklahoma,Tulsa,Tulsa,"1236 S. Darlington Ave",,09/07/2006
+Oklahoma,Logan,Guthrie,"810 Pine N St 2",,09/08/2006
+Oklahoma,Tulsa,Tulsa,"1236 South Darlington Avenue",,09/11/2006
+Oklahoma,Muskogee,Muskogee,"3231 Cherokee S St 17",,09/12/2006
+Oklahoma,Tulsa,Tulsa,"7922 East 27th Court",,09/12/2006
+Oklahoma,Osage,Skiatook,"3875 197th W N Ave",,09/14/2006
+Oklahoma,Tulsa,Collinsville,"508 East Madison Street J",,09/17/2006
+Oklahoma,Sequoyah,Sallisaw,"2111 Deveron W",,09/22/2006
+Oklahoma,Okmulgee,Okmulgee,"2409 4th E St",,09/24/2006
+Oklahoma,Tulsa,Tulsa,"1375 North 78th Avenue",,09/26/2006
+Oklahoma,Creek,"Sand Springs","6408  Merrimack Drive",,10/12/2006
+Oklahoma,Tulsa,Tulsa,"1379 North 78th Avenue",,10/15/2006
+Oklahoma,Jefferson,Waurika,"20447 E County Road 159",,10/23/2006
+Oklahoma,Tulsa,Tulsa,"6622 South Zunis Avenue",,12/06/2006
+Oklahoma,Ottawa,Miami,"2230 Willow  Ln",,12/07/2006
+Oklahoma,Tulsa,Tulsa,"4840 South Harvard Avenue",,12/17/2006
+Oklahoma,Tulsa,Tulsa,"428 South Quebec Avenue",,12/17/2006
+Oklahoma,Tulsa,Tulsa,"7714 South Harvard Place",,12/20/2006
+Oklahoma,Tulsa,Tulsa,"5638 North Lewis Avenue",,12/26/2006
+Oklahoma,Okfuskee,Paden,"104  Alvin Road",,12/28/2006
+Oklahoma,Oklahoma,"Oklahoma City","1721 1/2 4th Nw",,01/05/2007
+Oklahoma,Tulsa,Tulsa,"1569 West 59 Street",,01/16/2007
+Oklahoma,Tulsa,Tulsa,"2539 East 8th Street",,01/26/2007
+Oklahoma,Wagoner,Coweta,"382 285th E Ave",,02/03/2007
+Oklahoma,Payne,Stillwater,"1718 Yost  Rd",,02/09/2007
+Oklahoma,Caddo,"Fort Cobb","402  6th Street",,02/25/2007
+Oklahoma,Sequoyah,Muldrow,"304 12th Se St",,03/08/2007
+Oklahoma,Tulsa,Tulsa,"3814 South 94",,03/29/2007
+Oklahoma,Tulsa,"Broken Arrow","303 1/2 Commercial E St A",,04/22/2007
+Oklahoma,Sequoyah,Muldrow,"207 7th Se St",,05/04/2007
+Oklahoma,Osage,Skiatook,"9823 Movelia Hills",,05/09/2007
+Oklahoma,Sequoyah,Muldrow,"207 2nd Nw St",,05/11/2007
+Oklahoma,Sequoyah,Muldrow,"407 3rd Sw St A",,05/14/2007
+Oklahoma,Tulsa,Tulsa,"4437 Northeast 31 Street",,05/18/2007
+Oklahoma,Sequoyah,Muldrow,"501 9th Sw St",,05/22/2007
+Oklahoma,Sequoyah,Muldrow,"403 1/2 4th Sw St",,06/04/2007
+Oklahoma,Cherokee,Welling,"24283 South Welling Road",,06/11/2007
+Oklahoma,Adair,Westville,"506 South 2nd Street",,06/21/2007
+Oklahoma,Adair,Stilwell,"120 North 7th Street",,07/02/2007
+Oklahoma,Tulsa,Tulsa,"4124  1st Street",,07/09/2007
+Oklahoma,Sequoyah,Sallisaw,"Wildhorse Mt  Rd  1556",,07/10/2007
+Oklahoma,Bryan,Mead,"284  Crowder Road",,07/12/2007
+Oklahoma,Tulsa,Tulsa,"1207  5th Street",,07/20/2007
+Oklahoma,Custer,Canute,"Panther Creek Road Rt2 3a",,07/26/2007
+Oklahoma,Bryan,Cartwright,"34  Derryberry Lane",,07/27/2007
+Oklahoma,Tulsa,Tulsa,"3218  S 93rd East Avenue 237",,08/02/2007
+Oklahoma,Texas,Hooker,"900 Railroad S St",,08/21/2007
+Oklahoma,Adair,Stilwell,"120 South Seventh",,08/22/2007
+Oklahoma,Adair,Stilwell,"6  Rural Route  1605",,09/06/2007
+Oklahoma,Tulsa,Tulsa,"4616 East 80th Street",,09/11/2007
+Oklahoma,Sequoyah,Sallisaw,"1115 Cameo",,09/14/2007
+Oklahoma,Tulsa,"Broken Arrow","1600 5th S St",,09/26/2007
+Oklahoma,Bryan,Durant,"1614 South Lone Oak Road",,11/01/2007
+Oklahoma,Kay,"Ponca City","332 Osage S St 1",,11/03/2007
+Oklahoma,Adair,Watts,"1  Cherokee Rural Route",,11/06/2007
+Oklahoma,Tulsa,Tulsa,"3342 East 27th Place",,11/14/2007
+Oklahoma,Tulsa,Tulsa,"1115 East 60th Street",,11/18/2007
+Oklahoma,Ottawa,Miami,"505 Rockdale  Ave",,02/05/2008
+Oklahoma,Kay,Blackwell,"406 Moore E St",,02/13/2008
+Oklahoma,Muskogee,Muskogee,"300 40th N St 411",,02/19/2008
+Oklahoma,Pittsburg,Mcalester,"1530 Pennsylvania  Ave",,03/14/2008
+Oklahoma,Jackson,Eldorado,"201 Burns N St",,03/18/2008
+Oklahoma,Mccurtain,"Broken Bow","409 1/2 Park N Dr",,04/23/2008
+Oklahoma,Tulsa,Tulsa,"2006 East 12th Street",,05/02/2008
+Oklahoma,Osage,Pawhuska,"351 Tallchief",,05/06/2008
+Oklahoma,Tulsa,Tulsa,"111 South 53rd W Avenue",,05/09/2008
+Oklahoma,Jackson,Blair,"413 Vorhees N St",,05/09/2008
+Oklahoma,Tulsa,Tulsa,"310 North Rosedale Avenue",,05/27/2008
+Oklahoma,Tulsa,Tulsa,"5232 North 145th East Avenue",,06/09/2008
+Oklahoma,Tulsa,Tulsa,"5307 East 32 Place",,06/19/2008
+Oklahoma,Delaware,Grove,"1011 South Mill Street",,07/01/2008
+Oklahoma,Tulsa,Tulsa,"7111/2 South Phoenix Avenue",,07/02/2008
+Oklahoma,Ottawa,Fairland,"3808 West 43rd St. North",,07/02/2008
+Oklahoma,Osage,Sperry,"420 West 6th Street",,07/10/2008
+Oklahoma,Tulsa,Tulsa,"5115 East 47th Place",,07/21/2008
+Oklahoma,Sequoyah,Muldrow,"215  Milzue Road",,07/24/2008
+Oklahoma,Pittsburg,Haileyville,"2221 East Lydia Lane",,08/02/2008
+Oklahoma,Okmulgee,Okmulgee,"1408 Eufaula W St",,08/13/2008
+Oklahoma,Rogers,Collinsville,"2000 Frederick S Rd H-11",,08/17/2008
+Oklahoma,Sequoyah,Sallisaw,"2111 Cameo W",,08/20/2008
+Oklahoma,Tulsa,Tulsa,"626 South Sheridan Road",,09/05/2008
+Oklahoma,Kay,"Ponca City","812 Grand W",,09/23/2008
+Oklahoma,Kay,"Ponca City","410 8th N",,09/25/2008
+Oklahoma,Tulsa,Tulsa,"1050 East 61st, Unit 16 Drive",,09/27/2008
+Oklahoma,Tulsa,Tulsa,"3333 East Newton #3 Street",,10/09/2008
+Oklahoma,Tulsa,"Broken Arrow","400 Charleston W St",,10/16/2008
+Oklahoma,Creek,Sapulpa,"7925  New Sapulpa Road",,10/16/2008
+Oklahoma,Tulsa,Tulsa,"4219 East 4th Place",,10/16/2008
+Oklahoma,Tulsa,Tulsa,"219 North Rosedale Avenue",,10/19/2008
+Oklahoma,Osage,Skiatook,"9803 Briar Cliff  Rd",,10/22/2008
+Oklahoma,Tulsa,Tulsa,"1343 North Sandusky Avenue",,10/23/2008
+Oklahoma,Tulsa,Tulsa,"8506 East 62nd Street J",,10/23/2008
+Oklahoma,Tulsa,Tulsa,"3270 South Cincinnati Avenue 284",,10/23/2008
+Oklahoma,Tulsa,Tulsa,"13830 East 29th Street",,10/25/2008
+Oklahoma,Tulsa,"Sand Springs","3700 257 West S Ave",,10/26/2008
+Oklahoma,Tulsa,Tulsa,"1340 North Braden Avenue",,11/02/2008
+Oklahoma,Tulsa,Tulsa,"1028 North Winston Avenue",,11/13/2008
+Oklahoma,Tulsa,Tulsa,"6232 East Archer Street 129",,11/13/2008
+Oklahoma,Wagoner,Coweta,"668443 320 S Rd Rt 1 247aa",,11/20/2008
+Oklahoma,Tulsa,Tulsa,"817 North Gary Avenue",,11/25/2008
+Oklahoma,Tulsa,"Sand Springs","5119 227th West S Ave",,11/26/2008
+Oklahoma,Tulsa,Sperry,"916 North Grant Avenue",,11/26/2008
+Oklahoma,Ottawa,Miami,"225 8th Se Ave",,12/05/2008
+Oklahoma,Tulsa,Tulsa,"1015 South St Louis Avenue",,12/06/2008
+Oklahoma,Tulsa,Tulsa,"12719 East 39th Street",,12/10/2008
+Oklahoma,Tulsa,Tulsa,"4303 East Independence Street",,12/16/2008
+Oklahoma,Tulsa,Tulsa,"5012 South 33rd West Avenue",,12/17/2008
+Oklahoma,Tulsa,"Sand Springs","827 Valley  Dr",,12/17/2008
+Oklahoma,Tulsa,Tulsa,"2623 East 6th Street",,12/28/2008
+Oklahoma,Tulsa,Tulsa,"6146 West 10th Street",,12/28/2008
+Oklahoma,Tulsa,Tulsa,"1124 East 33rd Place",,12/28/2008
+Oklahoma,Rogers,Collinsville,"1000 Wewoka S Ave",,12/30/2008
+Oklahoma,Tulsa,Tulsa,"875 South 64th West Avenue",,01/02/2009
+Oklahoma,Tulsa,Tulsa,"102 South Zunis Avenue",,01/05/2009
+Oklahoma,Creek,Sapulpa,"1138 East Jones Avenue",,01/08/2009
+Oklahoma,Creek,Sapulpa,"16136 South Hickory  67",,01/10/2009
+Oklahoma,Tulsa,Tulsa,"3035 South Cincinnati Avenue",,01/13/2009
+Oklahoma,Tulsa,Tulsa,"1329 East 17th Street D",,01/14/2009
+Oklahoma,Tulsa,Tulsa,"2008 East 12 Street",,01/14/2009
+Oklahoma,Tulsa,Tulsa,"12712 East 22 Street",,01/20/2009
+Oklahoma,Tulsa,Tulsa,"4302 West 56th Place",,01/21/2009
+Oklahoma,Tulsa,Tulsa,"4712 West 8th Street",,01/21/2009
+Oklahoma,Tulsa,"Broken Arrow","1609 Hickory S Ave",,01/23/2009
+Oklahoma,Tulsa,Tulsa,"4851 South Jackson Avenue 4",,01/23/2009
+Oklahoma,Tulsa,Tulsa,"7802 West 18 Street",,01/28/2009
+Oklahoma,Tulsa,Tulsa,"6565 South Newport Avenue 409",,01/31/2009
+Oklahoma,Creek,Sapulpa,"12224  Shaw Drive",,02/02/2009
+Oklahoma,Pittsburg,Krebs,"420 East Beaumont Street 7",,02/02/2009
+Oklahoma,Tulsa,Tulsa,"3624 South Olympia Avenue",,02/02/2009
+Oklahoma,Tulsa,Tulsa,"1408 South Columbia Avenue",,02/03/2009
+Oklahoma,Tulsa,Tulsa,"1640 North Evanston Place",,02/04/2009
+Oklahoma,Tulsa,Tulsa,"221 East 54th North Place",,02/05/2009
+Oklahoma,Tulsa,Tulsa,"7909 South Wheeling Avenue A",,02/06/2009
+Oklahoma,Creek,Drumright,"118 East 4th Street",,02/06/2009
+Oklahoma,Tulsa,Skiatook,"214 North Walnut Creek Drive",,02/08/2009
+Oklahoma,Muskogee,Muskogee,"820 Missouri",,02/09/2009
+Oklahoma,Woodward,Woodward,"412 3rd  St",,02/09/2009
+Oklahoma,Tulsa,Bixby,"Sanner  Rd",,02/14/2009
+Oklahoma,Kay,"Ponca City","408 Palm N St",,02/16/2009
+Oklahoma,Tulsa,Tulsa,"2125 North Delaware Place",,02/17/2009
+Oklahoma,Tulsa,Tulsa,"2311 North Atlanta Avenue",,02/20/2009
+Oklahoma,Kay,"Ponca City","213 Gary W",,02/20/2009
+Oklahoma,Osage,Barnsdall,"100  Creek Forest  182",,02/20/2009
+Oklahoma,Beckham,"Elk City","622 West East Avenue",,02/21/2009
+Oklahoma,Tulsa,Tulsa,"120 West 50 Place",,02/24/2009
+Oklahoma,Wagoner,Wagoner,"8424 East 86th Street",,02/26/2009
+Oklahoma,Tulsa,Tulsa,"709 West 49 Street",,02/26/2009
+Oklahoma,Tulsa,Tulsa,"1611 South Main Street",,03/05/2009
+Oklahoma,Tulsa,Tulsa,"3146 East Woodrow Place",,03/06/2009
+Oklahoma,Tulsa,Tulsa,"3211 East Woodrow Street",,03/10/2009
+Oklahoma,Tulsa,"Sand Springs","605 Prattwood S Cir",,03/10/2009
+Oklahoma,Tulsa,Tulsa,"1206 North E 60th Place",,03/11/2009
+Oklahoma,Tulsa,Bixby,"907 May  St",,03/14/2009
+Oklahoma,Pittsburg,Mcalester,"30 Southeast 3rd",,03/14/2009
+Oklahoma,Tulsa,Tulsa,"1320 South 74th East Avenue",,03/14/2009
+Oklahoma,Tulsa,Skiatook,"505 West Broadway Street",,03/15/2009
+Oklahoma,Tulsa,Tulsa,"10957 East 23rd Street",,03/17/2009
+Oklahoma,Tulsa,Tulsa,"2024 East 51st Street A",,03/20/2009
+Oklahoma,Tulsa,Tulsa,"2181 North Norwood Place B",,03/24/2009
+Oklahoma,Tulsa,Tulsa,"6707 South Lewis Avenue 133",,03/25/2009
+Oklahoma,Tulsa,Tulsa,"1721 East 72 Street 1812",,03/25/2009
+Oklahoma,Tulsa,Tulsa,"1628 West 59th Street",,03/27/2009
+Oklahoma,Tulsa,Tulsa,"3346 East Jasper Street",,03/30/2009
+Oklahoma,Tulsa,"Broken Arrow","527 Galveston W St",,03/31/2009
+Oklahoma,Tulsa,Tulsa,"875 South 64 Avenue",,04/01/2009
+Oklahoma,Tulsa,Tulsa,"5123 South Norfolk Avenue 210",,04/01/2009
+Oklahoma,Creek,Sapulpa,"17365 South 97th West Avenue",,04/01/2009
+Oklahoma,Kay,"Ponca City","2100 Union N St 1201",,04/03/2009
+Oklahoma,Tulsa,Tulsa,"6330 South Owasso Avenue",,04/04/2009
+Oklahoma,Tulsa,Tulsa,"6306 West 11 Place",,04/08/2009
+Oklahoma,Tulsa,Tulsa,"5008 South 35th West Avenue",,04/09/2009
+Oklahoma,Tulsa,Tulsa,"5539 East 47th Place",,04/10/2009
+Oklahoma,Tulsa,"Sand Springs","137 Morrow W Rd",,04/12/2009
+Oklahoma,Tulsa,"Sand Springs","3301 115th West S Ave",,04/13/2009
+Oklahoma,Tulsa,Tulsa,"6111 West 11th Place 6111",,04/14/2009
+Oklahoma,Creek,Sapulpa,"811 North 10th",,04/14/2009
+Oklahoma,Muskogee,Muskogee,"1516 Denver W",,04/14/2009
+Oklahoma,Tulsa,Tulsa,"5023 South 35th West Avenue",,04/14/2009
+Oklahoma,Tulsa,Tulsa,"1359 East 37th Street",,04/14/2009
+Oklahoma,Tulsa,Owasso,"1022 West 94th Street",,04/15/2009
+Oklahoma,Tulsa,Tulsa,"4628 North St. Louis Avenue",,04/17/2009
+Oklahoma,Tulsa,Tulsa,"320 West 17th Street 212",,04/21/2009
+Oklahoma,Tulsa,Tulsa,"1601 South Elwood Avenue",,04/21/2009
+Oklahoma,Tulsa,Tulsa,"12932 East 35th Place 1409",,04/22/2009
+Oklahoma,Okmulgee,Okmulgee,"810 9th W St",,04/22/2009
+Oklahoma,Creek,Mannford,"5822 South Us Highway 48",,04/22/2009
+Oklahoma,Wagoner,Okay,"28525 150th E St",,04/22/2009
+Oklahoma,Tulsa,Tulsa,"2709 East 88th  665",,04/23/2009
+Oklahoma,Tulsa,Tulsa,"1348 North Yale Avenue",,04/23/2009
+Oklahoma,Tulsa,Tulsa,"1216.5 East Independence",,04/24/2009
+Oklahoma,Creek,Sapulpa,"420 West Bryan Avenue",,04/24/2009
+Oklahoma,Tulsa,Tulsa,"6329 East 9th Street",,04/28/2009
+Oklahoma,Tulsa,Tulsa,"632 East 9th Street 29",,04/30/2009
+Oklahoma,Tulsa,Skiatook,"613 North Roosevelt Avenue A",,05/03/2009
+Oklahoma,Tulsa,Tulsa,"1512 North Wheeling Avenue",,05/04/2009
+Oklahoma,Osage,Skiatook,"2223  Overlook Drive",,05/04/2009
+Oklahoma,Tulsa,Tulsa,"2436 East 5th Place 2",,05/06/2009
+Oklahoma,Tulsa,"Broken Arrow","1509 Vandalia W St",,05/06/2009
+Oklahoma,Muskogee,Muskogee,"2129 Fredonia",,05/06/2009
+Oklahoma,Tulsa,Tulsa,"7509 East Seminole Street",,05/06/2009
+Oklahoma,Creek,Tulsa,"6121 South 45th W Avenue",,05/07/2009
+Oklahoma,Tulsa,Tulsa,"7 North 48th West Avenue",,05/09/2009
+Oklahoma,Oklahoma,"Oklahoma City","1001 32nd Sw",,05/11/2009
+Oklahoma,Tulsa,Tulsa,"2321 East 4th Street",,05/11/2009
+Oklahoma,Tulsa,Tulsa,"3732 South Indianapolis Avenue 109",,05/12/2009
+Oklahoma,Osage,"Ponca City","1313 Canary  Dr",,05/13/2009
+Oklahoma,Tulsa,Tulsa,"827 North Kingston Avenue",,05/14/2009
+Oklahoma,Tulsa,Tulsa,"725 West 25th Street",,05/15/2009
+Oklahoma,Tulsa,Tulsa,"1632 South College Street",,05/15/2009
+Oklahoma,Tulsa,Tulsa,"3506 East 6th Street",,05/15/2009
+Oklahoma,Okmulgee,Beggs,"3719 St Charles N",,05/15/2009
+Oklahoma,Tulsa,Tulsa,"10115 East 26th Street",,05/15/2009
+Oklahoma,Tulsa,Tulsa,"11637 East 36th Street",,05/16/2009
+Oklahoma,Tulsa,Tulsa,"1241.5 South Lewis Place",,05/17/2009
+Oklahoma,Comanche,Elgin,"207 Northeast Little Bear Loop",,05/18/2009
+Oklahoma,Tulsa,Tulsa,"1136 South Fulton Avenue C",,05/19/2009
+Oklahoma,Osage,Barnsdall,"1231 West 6th Street 1",,05/20/2009
+Oklahoma,Craig,Vinita,"646 North Thompson Street",,05/21/2009
+Oklahoma,Osage,Osage,"12603  State Hwy 123",,05/24/2009
+Oklahoma,Payne,Perkins,"3923 North Linwood",,05/25/2009
+Oklahoma,Tulsa,Tulsa,"13236 East 30th Place A",,05/26/2009
+Oklahoma,Tulsa,Tulsa,"3708 South 92ndeast Avenue",,05/29/2009
+Oklahoma,Tulsa,Tulsa,"6241 East Latimer Street",,05/29/2009
+Oklahoma,Tulsa,Tulsa,"201 North Santa Fe Avenue",,06/02/2009
+Oklahoma,Tulsa,Tulsa,"3922 North Delaware Avenue",,06/03/2009
+Oklahoma,Tulsa,"Sand Springs","1029 Valley N Dr",,06/03/2009
+Oklahoma,Tulsa,Tulsa,"5726 East 51st Street A",,06/08/2009
+Oklahoma,Muskogee,Muskogee,"910 Osage  St",,06/10/2009
+Oklahoma,Tulsa,Tulsa,"1227 South Richmond Avenue",,06/10/2009
+Oklahoma,Okmulgee,Henryetta,"8775 220 N Rd",,06/10/2009
+Oklahoma,Tulsa,Tulsa,"4147 South 32nd West Avenue",,06/10/2009
+Oklahoma,Muskogee,Muskogee,"2821 West 39th Street",,06/12/2009
+Oklahoma,Creek,Sapulpa,"8333 South 127th West Avenue",,06/15/2009
+Oklahoma,Tulsa,Tulsa,"1530  E 63rd Street",,06/20/2009
+Oklahoma,Tulsa,Tulsa,"1523 East 13th Street 5",,06/24/2009
+Oklahoma,Tulsa,Tulsa,"4319 South 109th Avenue 312",,06/24/2009
+Oklahoma,Tulsa,Tulsa,"462 South 112th Avenue",,06/25/2009
+Oklahoma,Tulsa,Tulsa,"3635 South Quanah Avenue",,06/26/2009
+Oklahoma,Tulsa,Tulsa,"2908 North Toledo Avenue",,06/27/2009
+Oklahoma,Muskogee,"Fort Gibson","102  2nd Street",,06/28/2009
+Oklahoma,Muskogee,Muskogee,"1814 Fox  Ln",,06/28/2009
+Oklahoma,Tulsa,Tulsa,"34.5 North Gary Avenue",,06/29/2009
+Oklahoma,Tulsa,Tulsa,"1825 North Birmingham Place",,06/30/2009
+Oklahoma,Creek,Sapulpa,"11578  W 86th St S",,07/02/2009
+Oklahoma,Tulsa,Tulsa,"44 North Florence Avenue",,07/06/2009
+Oklahoma,Tulsa,Tulsa,"4679 South Troost Avenue",,07/07/2009
+Oklahoma,Tulsa,Tulsa,"6526 East 21st Place",,07/07/2009
+Oklahoma,Wagoner,Wagoner,"4403 East 76th Street",,07/12/2009
+Oklahoma,Tulsa,Tulsa,"106 North Tacoma Avenue",,07/18/2009
+Oklahoma,Tulsa,Jenks,"732 East Spring Street",,07/19/2009
+Oklahoma,Payne,Stillwater,"904 James S Ct",,07/22/2009
+Oklahoma,Tulsa,Tulsa,"11502  28th Street",,07/27/2009
+Oklahoma,Tulsa,Tulsa,"2119 North Norwood Place B",,07/30/2009
+Oklahoma,Tulsa,Tulsa,"5028 South 29 West Avenue",,07/30/2009
+Oklahoma,Tulsa,Tulsa,"1620 North Yorktown Place",,07/31/2009
+Oklahoma,Tulsa,Tulsa,"1217 South Quaker Avenue",,07/31/2009
+Oklahoma,Creek,Sapulpa,"9203  Grant Street",,07/31/2009
+Oklahoma,Tulsa,Tulsa,"801 North Mingo Road",,08/02/2009
+Oklahoma,Creek,Kellyville,"26275 West 171st Street",,08/02/2009
+Oklahoma,Kay,"Ponca City","5984 Lake Road",,08/03/2009
+Oklahoma,Tulsa,Tulsa,"5010 South Quaker Avenue 215",,08/03/2009
+Oklahoma,Pittsburg,Mcalester,"501 Carl Albert W Pkwy",,08/03/2009
+Oklahoma,Creek,Sapulpa,"12117 South Shaw Drive",,08/04/2009
+Oklahoma,Tulsa,Tulsa,"5025 West 6th Street",,08/04/2009
+Oklahoma,Tulsa,Tulsa,"2523 East 8th Street",,08/05/2009
+Oklahoma,Pittsburg,Mcalester,"900 Madison E St",,08/06/2009
+Oklahoma,Tulsa,Tulsa,"10535 East 4th Street",,08/07/2009
+Oklahoma,Tulsa,Tulsa,"5137 East 47th Place 14",,08/09/2009
+Oklahoma,Tulsa,Tulsa,"1414 South Rockford Avenue",,08/10/2009
+Oklahoma,Tulsa,Tulsa,"1713 South Memorial Drive 214",,08/11/2009
+Oklahoma,Tulsa,Tulsa,"4802 West 41st Street",,08/11/2009
+Oklahoma,Tulsa,Tulsa,"8117 East 19th Street 206",,08/13/2009
+Oklahoma,Tulsa,Tulsa,"4941 West 12th Street",,08/17/2009
+Oklahoma,Osage,Skiatook,"2998 West 177th West Avenue",,08/17/2009
+Oklahoma,Tulsa,Tulsa,"626 South Sheridan Road 7",,08/17/2009
+Oklahoma,Okmulgee,Henryetta,"405 North Muskogee Street",,08/18/2009
+Oklahoma,Tulsa,Tulsa,"5020 South 67th East Avenue 104",,08/18/2009
+Oklahoma,Tulsa,Tulsa,"6320 East 32nd Street A",,08/23/2009
+Oklahoma,Tulsa,Tulsa,"712 North Marion Avenue",,08/25/2009
+Oklahoma,Creek,Sapulpa,"14839 South 106th West Place 25",,08/25/2009
+Oklahoma,Payne,Perkins,"509 East Walnut",,08/25/2009
+Oklahoma,Cleveland,Norman,"1406  Dorchester Drive",,08/26/2009
+Oklahoma,Tulsa,Tulsa,"2140 North 36th Street",,08/26/2009
+Oklahoma,Washington,Bartlesville,"141 Seminole Nw St",,08/27/2009
+Oklahoma,Okmulgee,Okmulgee,"716 Emerson",,08/28/2009
+Oklahoma,Tulsa,Tulsa,"1429  Braden Avenue",,08/30/2009
+Oklahoma,Tulsa,Tulsa,"3012 West 55th Place",,08/30/2009
+Oklahoma,Creek,"Sand Springs","27625  Round Mountain Drive",,08/31/2009
+Oklahoma,Tulsa,Tulsa,"6000 South Memorial Drive",,09/01/2009
+Oklahoma,Muskogee,"Webbers Falls","1408  Callahan Street",,09/02/2009
+Oklahoma,Tulsa,Tulsa,"1020 North Delaware Avenue",,09/08/2009
+Oklahoma,Tulsa,Tulsa,"1527 North Louisville Avenue",,09/08/2009
+Oklahoma,Tulsa,Tulsa,"3809 East 40th Street",,09/09/2009
+Oklahoma,Tulsa,"Sand Springs","4825 Nassau S Cir",,09/10/2009
+Oklahoma,Tulsa,Tulsa,"2258 North Evanston Avenue",,09/12/2009
+Oklahoma,Tulsa,Tulsa,"2430 East 10th Street",,09/14/2009
+Oklahoma,Tulsa,Tulsa,"3915 West Easton Street",,09/14/2009
+Oklahoma,Okmulgee,Henryetta,"9881  Little Road",,09/17/2009
+Oklahoma,Tulsa,Tulsa,"1337 South Atlanta Place",,09/18/2009
+Oklahoma,Tulsa,Tulsa,"1219 South 51st  West Avenue",,09/20/2009
+Oklahoma,Tulsa,Tulsa,"13632 East 30 Place",,09/21/2009
+Oklahoma,Muskogee,Muskogee,"1000 23rd S",,09/21/2009
+Oklahoma,Creek,Sapulpa,"720 South Independence Street",,09/22/2009
+Oklahoma,Muskogee,Muskogee,"4941 East 103rd St S Street",,09/23/2009
+Oklahoma,Tulsa,Tulsa,"825 North Quebec Avenue",,09/24/2009
+Oklahoma,Tulsa,"Sand Springs","99 Pecan W",,09/24/2009
+Oklahoma,Hughes,Calvin,"30878 South Shw 82",,09/26/2009
+Oklahoma,Osage,Skiatook,"5028 North Buck Trail",,09/28/2009
+Oklahoma,Tulsa,Tulsa,"7136 East King Street",,09/28/2009
+Oklahoma,Muskogee,Haskell,"317 Jackson N St",,09/29/2009
+Oklahoma,Tulsa,Tulsa,"830 South 58th West Avenue",,10/01/2009
+Oklahoma,Tulsa,Tulsa,"3648 North Birmingham",,10/01/2009
+Oklahoma,Tulsa,Tulsa,"6277 East Latimer Place",,10/04/2009
+Oklahoma,Tulsa,Tulsa,"809  Birmingham Place",,10/06/2009
+Oklahoma,Tulsa,Tulsa,"907 South Vandalia Avenue",,10/06/2009
+Oklahoma,Muskogee,Muskogee,"2110 West Broadway Street",,10/07/2009
+Oklahoma,Okmulgee,Beggs,"5710 42nd Nw St",,10/08/2009
+Oklahoma,Payne,Stillwater,"1018 Knoblock  St",,10/11/2009
+Oklahoma,Muskogee,Muskogee,"2120  Hayes Street",,10/11/2009
+Oklahoma,Tulsa,Tulsa,"16606 East 2nd Street",,10/12/2009
+Oklahoma,Canadian,"El Reno","701 North Choctaw Avenue",,10/13/2009
+Oklahoma,Tulsa,Tulsa,"1419 South Evanston Avenue",,10/14/2009
+Oklahoma,Tulsa,Jenks,"13804 North 86th East Avenue",,10/15/2009
+Oklahoma,Tulsa,"Broken Arrow","316 Memphis W St",,10/16/2009
+Oklahoma,Creek,Sapulpa,"418 North 3rd Street",,10/19/2009
+Oklahoma,Tulsa,Tulsa,"5122 South Delaware Place A",,10/19/2009
+Oklahoma,Sequoyah,Roland,"111848 South 4760 Road",,10/20/2009
+Oklahoma,Washington,Bartlesville,"919 Delaware Se St",,10/21/2009
+Oklahoma,Tulsa,Tulsa,"6912 East 72nd Street",,10/21/2009
+Oklahoma,Tulsa,Tulsa,"708 North Grant",,10/22/2009
+Oklahoma,Tulsa,Tulsa,"143 East S 91st Avenue",,10/23/2009
+Oklahoma,Tulsa,Tulsa,"1568 North Marion Avenue",,10/24/2009
+Oklahoma,Tulsa,"Broken Arrow","701 North 14th Street",,10/25/2009
+Oklahoma,Tulsa,Tulsa,"1934 East 51 Street",,10/26/2009
+Oklahoma,Tulsa,"Broken Arrow","301 East Waco Place",,10/28/2009
+Oklahoma,Tulsa,Tulsa,"2423 East 2nd Street",,10/29/2009
+Oklahoma,Tulsa,Tulsa,"2828 East 45th Street",,10/29/2009
+Oklahoma,Tulsa,Collinsville,"1405 South Narcissus Avenue",,10/29/2009
+Oklahoma,Tulsa,Tulsa,"7618 East 77 Street",,11/02/2009
+Oklahoma,Okmulgee,Okmulgee,"12950 Banyan W Rd",,11/04/2009
+Oklahoma,Tulsa,Tulsa,"1110 East 59th Place",,11/05/2009
+Oklahoma,Tulsa,Tulsa,"2443 North Winston Avenue",,11/05/2009
+Oklahoma,Muskogee,Muskogee,"2129 East Okmulgee Avenue",,11/08/2009
+Oklahoma,Tulsa,Tulsa,"8226 East 38th Street",,11/11/2009
+Oklahoma,Washington,Dewey,"423 Southeast Chickasaw Avenue",,11/11/2009
+Oklahoma,Muskogee,Oktaha,"2121 North Main Street Apt # 201",,11/11/2009
+Oklahoma,Creek,Tulsa,"8418 South 36th West Avenue",,11/12/2009
+Oklahoma,Creek,Sapulpa,"317 South Hawthorn Street",,11/13/2009
+Oklahoma,Payne,Stillwater,"3019 Lakeview  St",,11/16/2009
+Oklahoma,Muskogee,Muskogee,"6301  Oklahoma",,11/17/2009
+Oklahoma,Wagoner,"Broken Arrow","9449 225th E S Ave",,11/17/2009
+Oklahoma,Tulsa,Tulsa,"4414 South Garnett Road 7",,11/20/2009
+Oklahoma,Tulsa,Tulsa,"1348.5 North Sandosky Avenue",,11/23/2009
+Oklahoma,Tulsa,Tulsa,"231 South 69th East Avenue",,11/23/2009
+Oklahoma,Tulsa,Tulsa,"6330 West 11th Place",,11/24/2009
+Oklahoma,Muskogee,Muskogee,"2200  Elmira Street",,11/25/2009
+Oklahoma,Muskogee,Muskogee,"1324  Summit Street",,11/26/2009
+Oklahoma,Wagoner,Coweta,"806 Broadway N",,11/28/2009
+Oklahoma,Tulsa,"Sand Springs","113 West 54th Street",,11/28/2009
+Oklahoma,Cleveland,Norman,"3490 South Classen Boulevard",,12/04/2009
+Oklahoma,Tulsa,Tulsa,"3333 East Newton Street 3",,12/07/2009
+Oklahoma,Tulsa,Tulsa,"7301 East 49th Street 102",,12/08/2009
+Oklahoma,Muskogee,Muskogee,"512  Galveston Street",,12/30/2009
+Oklahoma,Tulsa,Tulsa,"11920 East Admiral Place",,01/03/2010
+Oklahoma,Muskogee,Muskogee,"1708 South Cherokee Street",,01/04/2010
+Oklahoma,Tulsa,Skiatook,"506 North Industrial Avenue",,01/05/2010
+Oklahoma,Washington,Bartlesville,"1218 Adams E Blvd",,01/07/2010
+Oklahoma,Tulsa,"Broken Arrow","913 West Fredericksburg Street",,01/10/2010
+Oklahoma,Tulsa,Tulsa,"12908 East 24th Street",,01/13/2010
+Oklahoma,Pittsburg,Kiowa,"420 East Beaumont Street 5",,01/14/2010
+Oklahoma,Tulsa,Tulsa,"4402 East 68th Street 468",,01/15/2010
+Oklahoma,Muskogee,Muskogee,"4210 South Woodland Road",,01/17/2010
+Oklahoma,Tulsa,Tulsa,"6241 East Marshall Street",,01/18/2010
+Oklahoma,Tulsa,Tulsa,"3718 East 27th Place",,01/20/2010
+Oklahoma,Muskogee,Muskogee,"607  Marietta Street",,01/20/2010
+Oklahoma,Tulsa,Tulsa,"825 North 77th Avenue",,01/22/2010
+Oklahoma,Muskogee,Muskogee,"1206 East Augusta Street",,01/22/2010
+Oklahoma,Tulsa,Tulsa,"6619 East King Street",,01/22/2010
+Oklahoma,Tulsa,Sperry,"1206 North Main Street",,01/24/2010
+Oklahoma,Tulsa,"Broken Arrow","407 East Washington Street",,01/25/2010
+Oklahoma,Tulsa,"Sand Springs","869 South Long Street",,01/26/2010
+Oklahoma,Creek,Sapulpa,"540  Quail Run Lane",,01/27/2010
+Oklahoma,Creek,Sapulpa,"11322 South 193rd West Avenue",,02/02/2010
+Oklahoma,Tulsa,Tulsa,"1601 East 2nd Street",,02/05/2010
+Oklahoma,Tulsa,Tulsa,"1339 East 62nd Street",,02/09/2010
+Oklahoma,Washington,Bartlesville,"3822 Ohio Ne",,02/09/2010
+Oklahoma,Tulsa,Tulsa,"5137 East 47th Place 11",,02/10/2010
+Oklahoma,Tulsa,Tulsa,"11330 East 23rd Street",,02/11/2010
+Oklahoma,Tulsa,Tulsa,"2923 West 38th Street",,02/12/2010
+Oklahoma,Muskogee,Muskogee,"1203 East Broadway Street",,02/17/2010
+Oklahoma,Comanche,Apache,"4703 Northeast King Road",,02/17/2010
+Oklahoma,Tulsa,Bixby,"907 May N St",,02/18/2010
+Oklahoma,Tulsa,Tulsa,"6222 East Archer Street",,02/22/2010
+Oklahoma,Osage,Pawhuska,"518 1st W",,02/22/2010
+Oklahoma,Okmulgee,Okmulgee,"1400 Okmulgee N St",,02/23/2010
+Oklahoma,Creek,Jennings,"47519 West 51st Street",,02/24/2010
+Oklahoma,Muskogee,"Webbers Falls","2420  Elgin Street",,02/25/2010
+Oklahoma,Washington,Bartlesville,"313 Virginia Sw",,02/25/2010
+Oklahoma,Tulsa,"Sand Springs","21215 West 51 Highway",,03/06/2010
+Oklahoma,Tulsa,Tulsa,"420 South 56th Avenue",,03/09/2010
+Oklahoma,Caddo,Carnegie,"404 South Carol",,03/09/2010
+Oklahoma,Okmulgee,Henryetta,"9984  Old Hwy 75",,03/09/2010
+Oklahoma,Washington,Bartlesville,"1584 Penn S",,03/11/2010
+Oklahoma,Creek,Drumright,"105 East 3rd Street",,03/13/2010
+Oklahoma,Creek,Sapulpa,"9701  New Sapulpa Road 29a",,03/15/2010
+Oklahoma,Seminole,Earlsboro,"12310 North 152nd Avenue",,03/18/2010
+Oklahoma,Tulsa,Tulsa,"1037 North Florence Street",,03/22/2010
+Oklahoma,Okmulgee,Okmulgee,"10165 Chestnut  Rd",,03/25/2010
+Oklahoma,Creek,Oakhurst,"6300  W 61 Street",,03/28/2010
+Oklahoma,Tulsa,Tulsa,"4509 South Yukon",,03/29/2010
+Oklahoma,Osage,"Ponca City","1519  Denoya",,03/31/2010
+Oklahoma,Okmulgee,Okmulgee,"1721 Collins N St",,04/01/2010
+Oklahoma,Tulsa,Tulsa,"5539 East 47th Place 228",,04/05/2010
+Oklahoma,Tulsa,Tulsa,"5913 East King Place",,04/06/2010
+Oklahoma,Oklahoma,"Oklahoma City","4147 20 Nw",,04/12/2010
+Oklahoma,Washington,Dewey,"1715 Southwest 2nd",,04/12/2010
+Oklahoma,Muskogee,Muskogee,"130 East Smith Ferry Road",,04/14/2010
+Oklahoma,Muskogee,Muskogee,"628 South B Street",,04/15/2010
+Oklahoma,Tulsa,Tulsa,"7404 North Iroquois",,04/20/2010
+Oklahoma,Tulsa,"Broken Arrow","218 West Houston Street",,04/20/2010
+Oklahoma,Tulsa,"Sand Springs","218 North Grant Avenue 6",,04/25/2010
+Oklahoma,Creek,Tulsa,"7522 South 63rd West Avenue",,04/27/2010
+Oklahoma,Tulsa,Tulsa,"1027 North Rockford Avenue",,05/04/2010
+Oklahoma,Nowata,Delaware,"1300  64 Highway 6b",,05/09/2010
+Oklahoma,Tulsa,"Sand Springs","4018 South Rawson Road",,05/11/2010
+Oklahoma,Rogers,Claremore,"1114 16th W St",,05/14/2010
+Oklahoma,Sequoyah,Muldrow,"302 East Shawntel Smith Boulevard",,05/18/2010
+Oklahoma,Tulsa,Tulsa,"12631 East 27th Street",,05/18/2010
+Oklahoma,Tulsa,Tulsa,"6428 East 94th Place",,05/19/2010
+Oklahoma,Haskell,Stigler,"314 College  St",,05/20/2010
+Oklahoma,Tulsa,"Sand Springs","100 West 55th Street",,05/20/2010
+Oklahoma,Muskogee,Muskogee,"8th South Court Street",,05/31/2010
+Oklahoma,Pittsburg,Stuart,"819 East Delaware",,06/02/2010
+Oklahoma,Washington,Bartlesville,"728 Creek S",,06/09/2010
+Oklahoma,Muskogee,Warner,"1613  Rochester Street",,06/15/2010
+Oklahoma,Muskogee,Muskogee,"3504  Fondulac Street",,06/17/2010
+Oklahoma,Rogers,Claremore,"1326 Quarles W St",,06/20/2010
+Oklahoma,Muskogee,Muskogee,"2423  Carolyn Street",,06/24/2010
+Oklahoma,Ottawa,Afton,"1403 Union N Ave",,06/24/2010
+Oklahoma,Payne,Yale,"2813 West Lisa Circle",,07/01/2010
+Oklahoma,Payne,Stillwater,"225 1/2 Husband N  2",,07/02/2010
+Oklahoma,Tulsa,Tulsa,"7141 East King Street",,07/07/2010
+Oklahoma,Creek,Sapulpa,"1469 East Jones",,07/10/2010
+Oklahoma,Tulsa,Tulsa,"2128 East Queen Place",,07/14/2010
+Oklahoma,Creek,Mounds,"18391 South 89th West Avenue",,07/15/2010
+Oklahoma,Creek,Sapulpa,"12418 South 241 West Avenue",,07/16/2010
+Oklahoma,Muskogee,Muskogee,"832 South F Street",,07/17/2010
+Oklahoma,Sequoyah,Muldrow,"205 Northwest 2nd Street",,07/21/2010
+Oklahoma,Craig,Vinita,"443454 East 320 Road",,07/22/2010
+Oklahoma,Muskogee,Muskogee,"5207  Denison Street",,07/26/2010
+Oklahoma,Muskogee,Muskogee,"214  Geneva Street",,07/27/2010
+Oklahoma,Creek,Sapulpa,"15248  Greenhill Drive",,07/28/2010
+Oklahoma,Creek,Sapulpa,"11379 South 153rd  W. Avenue",,07/29/2010
+Oklahoma,Tulsa,Bixby,"212 North Jackson",,07/29/2010
+Oklahoma,Tulsa,Tulsa,"135 South 36th West Avenue",,08/03/2010
+Oklahoma,Tulsa,Tulsa,"438 West 54th Street",,08/05/2010
+Oklahoma,Tulsa,Tulsa,"4018 East 25th Place",,08/06/2010
+Oklahoma,Muskogee,Muskogee,"1821 North York Street 1",,08/07/2010
+Oklahoma,Tulsa,"Broken Arrow","1101 West Decatur",,08/09/2010
+Oklahoma,Creek,Kellyville,"441 East Allen Street",,08/09/2010
+Oklahoma,Love,Overbrook,"2087 Allen  Rd",,08/10/2010
+Oklahoma,Oklahoma,"Valley Brook","512 Northwest 9th Street",,08/10/2010
+Oklahoma,Creek,Mannford,"8226 South Hwy 48",,08/11/2010
+Oklahoma,Pittsburg,Canadian,"8422 East 67th Street",,08/11/2010
+Oklahoma,Comanche,Lawton,"824 Northwest 20th Street",,08/12/2010
+Oklahoma,Lincoln,Chandler,"312 Main N St",,08/13/2010
+Oklahoma,Payne,Perkins,"6619 West Main Street",,08/13/2010
+Oklahoma,Tulsa,Tulsa,"5822 South Owasso Avenue 1331",,08/16/2010
+Oklahoma,Tulsa,Tulsa,"2715 South Louisville",,08/18/2010
+Oklahoma,Payne,Yale,"201 East 32rd",,08/18/2010
+Oklahoma,Payne,Yale,"208 North Husband Street",,08/18/2010
+Oklahoma,Tulsa,Tulsa,"406 South 69th West Avenue",,08/20/2010
+Oklahoma,Creek,Sapulpa,"623 South Elm",,08/20/2010
+Oklahoma,Tulsa,Tulsa,"5340  S 86th West Ave",,08/20/2010
+Oklahoma,Noble,"Red Rock","509  Cemetary Road",,08/21/2010
+Oklahoma,Tulsa,Tulsa,"122 North Delaware Place",,08/21/2010
+Oklahoma,Tulsa,Tulsa,"3647 South Maybelle Avenue",,08/22/2010
+Oklahoma,Creek,Mounds,"117 East 5th Street",,08/24/2010
+Oklahoma,Tulsa,Tulsa,"1808 East 62nd Street North Street",,08/26/2010
+Oklahoma,Tulsa,Tulsa,"1011 South 49th West Avenue",,08/29/2010
+Oklahoma,Tulsa,Tulsa,"11504 East 22nd Street",,08/31/2010
+Oklahoma,Tulsa,Tulsa,"5204 South Lewis Place 2008",,08/31/2010
+Oklahoma,Tulsa,Collinsville,"301 East Greely Street",,09/01/2010
+Oklahoma,Tulsa,Tulsa,"7514 East 6th Street",,09/02/2010
+Oklahoma,Tulsa,Tulsa,"131 East Latimer Street",,09/02/2010
+Oklahoma,Okmulgee,Okmulgee,"3465  Pickering Drive",,09/04/2010
+Oklahoma,Payne,Perkins,"1307 Main N St",,09/07/2010
+Oklahoma,Creek,Sapulpa,"212  Division",,09/07/2010
+Oklahoma,Tulsa,Bixby,"225 6th N St",,09/07/2010
+Oklahoma,Payne,Perkins,"523.5 East Moses Street",,09/07/2010
+Oklahoma,Muskogee,Muskogee,"2203  Ward Street",,09/08/2010
+Oklahoma,Creek,Kellyville,"20843  Indian Road",,09/10/2010
+Oklahoma,Tulsa,Tulsa,"3232 North Wheeling Place",,09/11/2010
+Oklahoma,Washington,Copan,"351 Southeast Hillside Drive",,09/12/2010
+Oklahoma,Tulsa,Tulsa,"3317 West 59th Street",,09/12/2010
+Oklahoma,Creek,Sapulpa,"10380 South 235th W Avenue",,09/15/2010
+Oklahoma,Tulsa,Tulsa,"1578 East 54th Street",,09/16/2010
+Oklahoma,Creek,Sapulpa,"111 East Burnham",,09/16/2010
+Oklahoma,Tulsa,Collinsville,"804 12th S St",,09/20/2010
+Oklahoma,Tulsa,Tulsa,"1700 South Memorial Drive",,09/20/2010
+Oklahoma,Creek,Bristow,"9021/2 West 9th Street",,09/20/2010
+Oklahoma,Tulsa,Tulsa,"4327 South Maplewood Avenue",,09/21/2010
+Oklahoma,Muskogee,Muskogee,"301  Baltimore Street",,09/29/2010
+Oklahoma,Washington,Bartlesville,"1319 Dewey S",,10/02/2010
+Oklahoma,Ottawa,Miami,"11619 Lake S Dr",,10/05/2010
+Oklahoma,Muskogee,Warner,"519 South Creek Street",,10/06/2010
+Oklahoma,Osage,Hominy,"322  County Toad 3002",,10/07/2010
+Oklahoma,Muskogee,Oktaha,"1015  Eastside Boulevard",,10/07/2010
+Oklahoma,Muskogee,Muskogee,"1120  Fite Street",,10/11/2010
+Oklahoma,Tulsa,Tulsa,"1015 South St. Louis Avenue",,10/12/2010
+Oklahoma,Tulsa,Tulsa,"11405 East 32nd Place",,10/12/2010
+Oklahoma,Tulsa,Tulsa,"140 North New Haven Avenue",,10/13/2010
+Oklahoma,Tulsa,Tulsa,"1625 South 31st East Place Street",,10/14/2010
+Oklahoma,Osage,Bartlesville,"1006 West 7th Street",,10/14/2010
+Oklahoma,Tulsa,Tulsa,"1343 South Louisville Avenue",,10/18/2010
+Oklahoma,Muskogee,Muskogee,"721 North G Street",,10/21/2010
+Oklahoma,Tulsa,Tulsa,"3317 West 59th South Street",,10/24/2010
+Oklahoma,Tulsa,Tulsa,"507 North Birmingham",,10/26/2010
+Oklahoma,Muskogee,Muskogee,"2911 South York",,10/26/2010
+Oklahoma,Wagoner,Tulsa,"224 South Broadway",,10/27/2010
+Oklahoma,Creek,Kellyville,"14756 South 246th West Avenue",,10/28/2010
+Oklahoma,Tulsa,Tulsa,"3161 South 129th East Avenue",,10/29/2010
+Oklahoma,Haskell,Stigler,"320 Versa E",,11/01/2010
+Oklahoma,Washington,Bartlesville,"218 Park N",,11/01/2010
+Oklahoma,Creek,Sapulpa,"1140 East Mckinley Avenue",,11/02/2010
+Oklahoma,Tulsa,Tulsa,"4732 West 47th Street",,11/03/2010
+Oklahoma,Creek,Mounds,"17639 South 49th West Avenue",,11/03/2010
+Oklahoma,Tulsa,Tulsa,"4847 South 27th West Avenue",,11/04/2010
+Oklahoma,Okmulgee,Okmulgee,"1200 North Madison",,11/05/2010
+Oklahoma,Tulsa,Tulsa,"1216 North Yale Avenue",,11/05/2010
+Oklahoma,Creek,Bristow,"20270 South 401st West Avenue",,11/06/2010
+Oklahoma,Tulsa,Tulsa,"7970 South Sheridan Road",,11/07/2010
+Oklahoma,Oklahoma,"Oklahoma City","1628 7th Nw",,11/07/2010
+Oklahoma,Muskogee,Muskogee,"808  Hamilton Street",,11/10/2010
+Oklahoma,Tulsa,"Broken Arrow","001 South 95th East Avenue",,11/13/2010
+Oklahoma,Tulsa,Tulsa,"5236 North Zunis",,11/15/2010
+Oklahoma,Tulsa,Tulsa,"1533 North Vandalia Avenue",,11/16/2010
+Oklahoma,Tulsa,Tulsa,"2703 West Brady Street",,11/16/2010
+Oklahoma,Muskogee,Muskogee,"1706 South Cherokee Street",,11/17/2010
+Oklahoma,Creek,Kellyville,"18425 South 177th W Avenue",,11/17/2010
+Oklahoma,Tulsa,Tulsa,"1839 North Oswego Place",,11/17/2010
+Oklahoma,Tulsa,Tulsa,"109 North Phoenix Avenue",,11/20/2010
+Oklahoma,Tulsa,Tulsa,"573 East 59th North Street",,11/21/2010
+Oklahoma,Okmulgee,Okmulgee,"1611  Park Lane",,11/22/2010
+Oklahoma,Sequoyah,Sallisaw,"704 Wallnut",,11/22/2010
+Oklahoma,Washington,Copan,"1022 Southwest Keeler Avenue",,11/23/2010
+Oklahoma,Tulsa,Tulsa,"417 South Wheeling Avenue",,11/28/2010
+Oklahoma,Wagoner,Haskell,"30470 121st E St",,12/03/2010
+Oklahoma,Tulsa,Tulsa,"3639 South Maybelle Avenue",,12/05/2010
+Oklahoma,Tulsa,Tulsa,"140 North Richmond Avenue",,12/05/2010
+Oklahoma,Tulsa,Tulsa,"5316 West 8th Street",,12/06/2010
+Oklahoma,Tulsa,Tulsa,"1009 West 48th St S",,12/06/2010
+Oklahoma,Washington,Bartlesville,"1700 Southeast Barlow Drive Apt: 24",,12/07/2010
+Oklahoma,Tulsa,Jenks,"721 West Spring Street",,12/07/2010
+Oklahoma,Tulsa,Tulsa,"6565 South Newport Avenue 228",,12/08/2010
+Oklahoma,Muskogee,Muskogee,"5103 West Broadway Street 4",,12/08/2010
+Oklahoma,Tulsa,Tulsa,"523 North Quaker Avenue A",,12/08/2010
+Oklahoma,Payne,Stillwater,"1315 Fern S",,12/09/2010
+Oklahoma,Tulsa,Tulsa,"6565 South Newport Avenue 227",,12/09/2010
+Oklahoma,Tulsa,Tulsa,"3959 East Admiral Court",,12/09/2010
+Oklahoma,Tulsa,Tulsa,"1140 South 101st",,12/12/2010
+Oklahoma,Muskogee,Muskogee,"911  Choctaw Street",,12/15/2010
+Oklahoma,Tulsa,Tulsa,"2123 North Norwood Place C",,12/15/2010
+Oklahoma,Tulsa,Tulsa,"1137 South Erie Avenue C",,12/16/2010
+Oklahoma,Okmulgee,Okmulgee,"2710 North Miami Avenue 403",,12/17/2010
+Oklahoma,Osage,Bartlesville,"718 North Griffin Avenue",,12/18/2010
+Oklahoma,Okmulgee,Okmulgee,"1402 East 4th Street",,12/20/2010
+Oklahoma,Rogers,Claremore,"900 Blue Starr W Dr 23",,12/31/2010
+Oklahoma,Tulsa,Tulsa,"1441 North Harvard Avenue",,12/31/2010
+Oklahoma,Tulsa,"Sand Springs","113 West 54th",,01/02/2011
+Oklahoma,Tulsa,Tulsa,"1545 North Joplin Avenue",,01/03/2011
+Oklahoma,Tulsa,Tulsa,"2132 East 46th Street",,01/04/2011
+Oklahoma,Tulsa,Tulsa,"1729 South Memorial Drive 101",,01/06/2011
+Oklahoma,Tulsa,Tulsa,"729 South Troost Avenue",,01/06/2011
+Oklahoma,Tulsa,Skiatook,"314 North Washington  9",,01/07/2011
+Oklahoma,Tulsa,Tulsa,"3225 East 30th Place 125",,01/08/2011
+Oklahoma,Wagoner,Wagoner,"19814 East 4th Street",,01/12/2011
+Oklahoma,Muskogee,Muskogee,"1428  Cherry Street",,01/12/2011
+Oklahoma,Tulsa,Tulsa,"1300 North Columbia Avenue",,01/13/2011
+Oklahoma,Tulsa,Tulsa,"2325 West 44th Street",,01/13/2011
+Oklahoma,Payne,Glencoe,"700 South Cleveland Avenue",,01/14/2011
+Oklahoma,Muskogee,Muskogee,"2423  Carolyn Avenue",,01/14/2011
+Oklahoma,Payne,Stillwater,"8 Country  Ln",,01/14/2011
+Oklahoma,Kay,Blackwell,"109 1/2 Kimp S",,01/18/2011
+Oklahoma,Ottawa,Miami,"114 1/2 F Nw St",,01/18/2011
+Oklahoma,Tulsa,Tulsa,"4301 West 61st Street",,01/19/2011
+Oklahoma,Tulsa,Tulsa,"1050 East 61st Street 62",,01/21/2011
+Oklahoma,Muskogee,Muskogee,"529  Frankfort",,01/22/2011
+Oklahoma,Muskogee,Muskogee,"4031  Oklahoma Street",,01/22/2011
+Oklahoma,Tulsa,Tulsa,"4529 South 30th West Avenue",,01/23/2011
+Oklahoma,Muskogee,Muskogee,"10750 West 43rd South Street",,01/25/2011
+Oklahoma,Tulsa,Tulsa,"149 North College Avenue",,01/30/2011
+Oklahoma,Muskogee,Oktaha,"1611 West Broadway",,01/31/2011
+Oklahoma,Pontotoc,Allen,"Rural Route 1  2432",,02/04/2011
+Oklahoma,Delaware,Eucha,"181  Mobile Vista Drive",,02/05/2011
+Oklahoma,Ottawa,Wyandotte,"321 Picher  St",,02/07/2011
+Oklahoma,Tulsa,Tulsa,"1911 East 49th  218",,02/08/2011
+Oklahoma,Washington,Bartlesville,"241 Northwest Henry Street",,02/08/2011
+Oklahoma,Tulsa,Tulsa,"104 North Yorktown Avenue",,02/08/2011
+Oklahoma,Tulsa,Tulsa,"2238 North Toledo Place",,02/12/2011
+Oklahoma,Tulsa,Owasso,"6201 60th W St",,02/14/2011
+Oklahoma,Tulsa,Tucker,"109 North 136 Street",,02/14/2011
+Oklahoma,Tulsa,Tulsa,"5932 East Marshall Street",,02/17/2011
+Oklahoma,Tulsa,Tulsa,"402.5 South Quebec Avenue",,02/17/2011
+Oklahoma,Osage,Bartlesville,"1412 West 6th Street",,02/18/2011
+Oklahoma,Tulsa,Tulsa,"4120 South 130th East Avenue",,02/18/2011
+Oklahoma,Tulsa,Tulsa,"233 South 89th E Avenue",,02/20/2011
+Oklahoma,Wagoner,Wagoner,"227 Main S St",,03/03/2011
+Oklahoma,Tulsa,Tulsa,"1023 East 60 Street 518",,03/03/2011
+Oklahoma,Mayes,Pryor,"405 Radcliff E",,03/05/2011
+Oklahoma,Tulsa,Tulsa,"1125 South Yorktown Avenue",,03/06/2011
+Oklahoma,Noble,Stillwater,"303 5th  Ave",,03/09/2011
+Oklahoma,Muskogee,Muskogee,"2316  Fredonia Street",,03/10/2011
+Oklahoma,Tulsa,Tulsa,"6320  Owasso Avenue C",,03/11/2011
+Oklahoma,Tulsa,Tulsa,"711 North 96th Avenue",,03/12/2011
+Oklahoma,Tulsa,Tulsa,"4115 South Zunis Avenue",,03/15/2011
+Oklahoma,Tulsa,Tulsa,"1536 South College Avenue",,03/15/2011
+Oklahoma,Tulsa,Tulsa,"1028 East 77th Avenue",,03/16/2011
+Oklahoma,Wagoner,"Broken Arrow","1223 30th N St",,03/16/2011
+Oklahoma,Tulsa,Tulsa,"3500 West 1st Street",,03/16/2011
+Oklahoma,Comanche,Lawton,"1525 Northwest 43rd Street",,03/18/2011
+Oklahoma,Tulsa,Tulsa,"4550 East 33rd Street",,03/18/2011
+Oklahoma,Tulsa,"Broken Arrow","313 West Memphis",,03/18/2011
+Oklahoma,Tulsa,Tulsa,"4664 South Winston",,03/18/2011
+Oklahoma,Delaware,Colcord,"362  Serenity Drive",,03/19/2011
+Oklahoma,Ottawa,Miami,"412 Northwest J Street",,03/21/2011
+Oklahoma,Tulsa,Tulsa,"735 North Atlanta Avenue",,03/22/2011
+Oklahoma,Tulsa,Tulsa,"3214 South Winston Avenue 25",,03/23/2011
+Oklahoma,Tulsa,Tulsa,"1618 South 131",,03/25/2011
+Oklahoma,Tulsa,Tulsa,"2129 North Birmingham Place",,03/27/2011
+Oklahoma,Creek,Tulsa,"6715 West South 64th Street B",,03/28/2011
+Oklahoma,Tulsa,Tulsa,"3327 East 7th",,03/29/2011
+Oklahoma,Washington,Bartlesville,"535 Northwest Turner Place",,03/29/2011
+Oklahoma,Tulsa,Tulsa,"5818 S  Owasso",,03/30/2011
+Oklahoma,Mccurtain,Idabel,"5 Park Se Dr",,03/30/2011
+Oklahoma,Tulsa,Tulsa,"5823 East 76th Place",,03/31/2011
+Oklahoma,Tulsa,Tulsa,"12534 East 7th Street 311",,04/01/2011
+Oklahoma,Creek,Sapulpa,"9410 West Southfork Road",,04/07/2011
+Oklahoma,Tulsa,Tulsa,"8181 East 41st Street",,04/09/2011
+Oklahoma,Tulsa,Tulsa,"3232 East Independence Street",,04/13/2011
+Oklahoma,Tulsa,Tulsa,"2260 North Columbia Avenue",,04/20/2011
+Oklahoma,Tulsa,Tulsa,"3316 East 4th Place",,04/21/2011
+Oklahoma,Tulsa,Tulsa,"336 East 11th Street 9",,04/28/2011
+Oklahoma,Tulsa,Tulsa,"4707 South 32nd West Avenue",,05/03/2011
+Oklahoma,Tulsa,Tulsa,"4304 South 109th Avenue 1305",,05/06/2011
+Oklahoma,Tulsa,Tulsa,"2215 East 10th Street",,05/10/2011
+Oklahoma,Tulsa,Tulsa,"720  51st West Avenue",,05/13/2011
+Oklahoma,Tulsa,Tulsa,"7913 South Wheeling Avenue",,05/16/2011
+Oklahoma,Tulsa,Tulsa,"733 West 23rd Street",,05/19/2011
+Oklahoma,Tulsa,Tulsa,"1728 East 129th Avenue",,05/20/2011
+Oklahoma,Tulsa,Tulsa,"1050 East 61st Street 98",,05/21/2011
+Oklahoma,Tulsa,Tulsa,"2423 East 51st N Street",,05/22/2011
+Oklahoma,Tulsa,Tulsa,"3505  27th Street",,05/23/2011
+Oklahoma,Tulsa,Tulsa,"1114 West 1st Street",,06/01/2011
+Oklahoma,Tulsa,Tulsa,"3505 East 27th Place",,06/08/2011
+Oklahoma,Tulsa,Tulsa,"527 South 48 W Avenue",,06/08/2011
+Oklahoma,Tulsa,Tulsa,"5318 East Latimer Court",,06/10/2011
+Oklahoma,Tulsa,Tulsa,"1320  S 73rd East Ave",,06/16/2011
+Oklahoma,Tulsa,Tulsa,"3624  S Jackson Ave",,06/28/2011
+Oklahoma,Tulsa,Tulsa,"1140 East 61st Street 36",,06/29/2011
+Oklahoma,Tulsa,Tulsa,"5623 South Quincy Avenue 7",,07/06/2011
+Oklahoma,Tulsa,Tulsa,"4550 East 33rd Street 101",,07/06/2011
+Oklahoma,Tulsa,Tulsa,"11922 East 37th Place",,07/07/2011
+Oklahoma,Tulsa,Tulsa,"4120  Charles Page Boulevard",,07/08/2011
+Oklahoma,Tulsa,Tulsa,"6100 West 11th Place",,07/12/2011
+Oklahoma,Tulsa,Tulsa,"717 North Sandusky Avenue",,07/12/2011
+Oklahoma,Tulsa,"Sand Springs","14 East 7th Street",,07/19/2011
+Oklahoma,Tulsa,Tulsa,"118 North Colombia Place",,07/21/2011
+Oklahoma,Okmulgee,Mounds,"1204 Dollins N St",,07/22/2011
+Oklahoma,Tulsa,Oakhurst,"14489 26th West S Ave",,07/25/2011
+Oklahoma,Noble,Glencoe,"2016  Denver Street",,07/25/2011
+Oklahoma,Tulsa,"Sand Springs","916 North Franklin Avenue",,07/25/2011
+Oklahoma,Okmulgee,Okmulgee,"800 North Okmulgee Street",,07/27/2011
+Oklahoma,Tulsa,Tulsa,"4054 East 27th Street",,07/28/2011
+Oklahoma,Tulsa,Tulsa,"1707 South Memorial Drive Unit 242",,07/31/2011
+Oklahoma,Tulsa,"Broken Arrow","1308 North Fern Avenue",,08/01/2011
+Oklahoma,Tulsa,Tulsa,"5546 South Lewis Court",,08/01/2011
+Oklahoma,"Le Flore",Spiro,"1313 Main E",,08/03/2011
+Oklahoma,Tulsa,Tulsa,"2550 South 135 East Avenue",,08/10/2011
+Oklahoma,Ottawa,Miami,"1400 Northeast 16th Avenue",,08/10/2011
+Oklahoma,Wagoner,Okay,"28426 East 141st Street",,08/11/2011
+Oklahoma,Tulsa,Tulsa,"2642 East 3rd Street",,08/13/2011
+Oklahoma,Tulsa,Tulsa,"2104 North Atlanta Place",,08/14/2011
+Oklahoma,Alfalfa,Aline,"419  Walnut",,08/15/2011
+Oklahoma,Okmulgee,Okmulgee,"815 West 7 Street",,08/16/2011
+Oklahoma,Wagoner,Okay,"31014 East 211th S Street",,08/17/2011
+Oklahoma,Tulsa,Tulsa,"2550 South 135th East Avenue",,08/23/2011
+Oklahoma,Washington,Bartlesville,"1600 Southwest Jack Lane",,08/24/2011
+Oklahoma,Okmulgee,Beggs,"6037 58th Nw St",,08/26/2011
+Oklahoma,Tulsa,Tulsa,"344 South Zunis Avenue",,08/26/2011
+Oklahoma,Cleveland,Moore,"824 Northwest 16th Street",,08/27/2011
+Oklahoma,Tulsa,Tulsa,"2103 East Tecumseh Avenue",,08/29/2011
+Oklahoma,Adair,Westville,"103  Cherry 104",,08/31/2011
+Oklahoma,Adair,Westville,"317  Maple Street",,08/31/2011
+Oklahoma,Tulsa,"Sand Springs","1010 North Wilson Avenue",,09/01/2011
+Oklahoma,Tulsa,Tulsa,"239 South 69th E. Avenue",,09/04/2011
+Oklahoma,Tulsa,Tucker,"318 East 3rd",,09/05/2011
+Oklahoma,Okmulgee,Henryetta,"18460 Hoffman  Rd",,09/08/2011
+Oklahoma,Okmulgee,Okmulgee,"618 South Morton Avenue",,09/08/2011
+Oklahoma,Tulsa,"Sand Springs","308 North Grant Avenue",,09/08/2011
+Oklahoma,Tulsa,Tulsa,"1759 East Oklahoma Street",,09/09/2011
+Oklahoma,Washington,Bartlesville,"4721 Southeast Amherst Drive",,09/10/2011
+Oklahoma,Tulsa,"Sand Springs","110  54th Place",,09/11/2011
+Oklahoma,Tulsa,Tulsa,"244 South 73rd E Avenue",,09/13/2011
+Oklahoma,Tulsa,Tulsa,"3731  Quaker Avenue",,09/13/2011
+Oklahoma,Tulsa,Tulsa,"2420 North Oxford Avenida",,09/14/2011
+Oklahoma,Tulsa,"Sand Springs","1220 East 9th Street",,09/14/2011
+Oklahoma,Tulsa,Tulsa,"4928 East Easton Street",,09/15/2011
+Oklahoma,Muskogee,Muskogee,"325 North 7th Street",,09/15/2011
+Oklahoma,Johnston,Tishomingo,"702 A E St",,09/17/2011
+Oklahoma,Tulsa,Tulsa,"10117  11th Street 224",,09/18/2011
+Oklahoma,Tulsa,Tulsa,"2636 East Archer Street",,09/18/2011
+Oklahoma,Tulsa,Tulsa,"1328 South 123rd E. Avenue",,09/19/2011
+Oklahoma,Tulsa,Tulsa,"3335 East 7th Street",,09/20/2011
+Oklahoma,Pittsburg,Quinton,"911 East Tennessee",,09/21/2011
+Oklahoma,Muskogee,Muskogee,"205  Golf Lane",,09/22/2011
+Oklahoma,Mccurtain,"Broken Bow","Gibson  Rd 107",,09/22/2011
+Oklahoma,Tulsa,Tulsa,"1440 North Gary Place",,09/22/2011
+Oklahoma,Muskogee,Muskogee,"4014 West 73rd Street",,09/25/2011
+Oklahoma,Tulsa,Tulsa,"5408 East 71st Place 1914",,09/25/2011
+Oklahoma,Payne,Cushing,"314 Luella N St",,09/26/2011
+Oklahoma,Tulsa,Tulsa,"2536 East 6th Street 2",,09/27/2011
+Oklahoma,Tulsa,Tulsa,"4628 North Main Street",,09/27/2011
+Oklahoma,Delaware,Bernice,"206  Skyline",,09/29/2011
+Oklahoma,Tulsa,Tulsa,"3104 South 124 E Avenue",,09/30/2011
+Oklahoma,Tulsa,Tulsa,"1060 East 60 Street 223",,10/03/2011
+Oklahoma,Craig,Vinita,"401 East Attucks",,10/04/2011
+Oklahoma,Tulsa,Tulsa,"1429 North Bradden Avenue",,10/04/2011
+Oklahoma,Tulsa,Tulsa,"1313 East 62 Street",,10/06/2011
+Oklahoma,Tulsa,Tulsa,"132 North Columbia Avenue",,10/09/2011
+Oklahoma,Tulsa,Tulsa,"5727 East 18th Street",,10/09/2011
+Oklahoma,Tulsa,Tulsa,"5123 East Easton Street",,10/12/2011
+Oklahoma,Tulsa,Tulsa,"12958 East 28th Place",,10/13/2011
+Oklahoma,Tulsa,Tulsa,"1843 North Harvard",,10/18/2011
+Oklahoma,Tulsa,Tulsa,"510 South Owasso Avenue",,10/25/2011
+Oklahoma,Tulsa,Tulsa,"824 North Quebec Avenue",,10/27/2011
+Oklahoma,Tulsa,Tulsa,"2716 South 109th E. Avenue",,11/01/2011
+Oklahoma,Tulsa,Tulsa,"2752 East Archer Street",,11/08/2011
+Oklahoma,Tulsa,Tulsa,"6108 West 11th Street",,11/17/2011
+Oklahoma,Tulsa,Tulsa,"2656 South 135 Avenue",,11/17/2011
+Oklahoma,Tulsa,Tulsa,"3218 South 93 E. Avenue 229",,11/26/2011
+Oklahoma,Cherokee,Hulbert,"10336 North 427 Road",,12/28/2011
+Oklahoma,Noble,Perry,"414  Jackson",,12/29/2011
+Oklahoma,Ottawa,Quapaw,"200  Chestnut Street",,02/01/2012
+Oklahoma,Sequoyah,Roland,"100  Shady Lane 37",,02/02/2012
+Oklahoma,Tulsa,"Sand Springs","621 North Terrace Drive",,02/05/2012
+Oklahoma,Creek,Terlton,"989  Trail End Road",,02/07/2012
+Oklahoma,Washington,Ramona,"403190 West 3500 Road",,02/07/2012
+Oklahoma,Washington,Ramona,"34930 North 4030 Road",,02/08/2012
+Oklahoma,Muskogee,"Webbers Falls","109 West Commercial Street",,02/08/2012
+Oklahoma,Creek,Mannford,"3547 South 369th W Avenue",,02/08/2012
+Oklahoma,Cherokee,Tahlequah,"408 East Normal Street",,02/08/2012
+Oklahoma,Tulsa,Tulsa,"2328 North Birmingham Avenue",,02/11/2012
+Oklahoma,Tulsa,"Sand Springs","13003 West 56th Street",,02/15/2012
+Oklahoma,Tulsa,Tulsa,"9*01  Elgin Avenue",,02/15/2012
+Oklahoma,Payne,Stillwater,"3102 South Main Street F107",,02/19/2012
+Oklahoma,Logan,Coyle,"7706 South Vasspr Road",,02/21/2012
+Oklahoma,Kay,"Ponca City","1000 South 5th Street",,02/21/2012
+Oklahoma,Tulsa,Tulsa,"5314 West 4th Street",,02/21/2012
+Oklahoma,Tulsa,Tulsa,"715 South 101st East Avenue 107",,02/22/2012
+Oklahoma,Tulsa,Tulsa,"1547 East Independence Street",,02/23/2012
+Oklahoma,Payne,Cushing,"925 East 2nd Street",,02/23/2012
+Oklahoma,Tulsa,Tulsa,"1723 South Riverside Drive",,02/23/2012
+Oklahoma,Tulsa,Tulsa,"19008 East 4th Street",,02/24/2012
+Oklahoma,Tulsa,Tulsa,"5663 West 3rd",,02/24/2012
+Oklahoma,Craig,Vinita,"311 South Brown Street",,02/25/2012
+Oklahoma,Tulsa,Tulsa,"9405 East 65th Street 3607",,02/25/2012
+Oklahoma,Tulsa,Tulsa,"6607 East Latimer Place",,02/27/2012
+Oklahoma,Tulsa,Tulsa,"3743 West 45th Place",,02/29/2012
+Oklahoma,Tulsa,Tulsa,"4631 South Braden Avenue 66",,06/01/2012
+Oklahoma,Tulsa,Tulsa,"6209 East 17th Street",,06/02/2012
+Oklahoma,Tulsa,Tulsa,"7928 South Sheridan Road",,07/01/2012
+Oklahoma,Tulsa,Tulsa,"116 East 27th Street",,07/05/2012
+Oklahoma,Tulsa,Tulsa,"1537 North Norwood Avenue",,07/06/2012
+Oklahoma,Tulsa,"Broken Arrow","4910 South Hickory Avenue",,07/08/2012
+Oklahoma,Tulsa,Tulsa,"1006 South 107th East Avenue D",,07/09/2012
+Oklahoma,Sequoyah,Sallisaw,"1107 North Farm Road",,07/10/2012
+Oklahoma,Cherokee,Hulbert,"7723 West J B Teague Drive",,07/11/2012
+Oklahoma,Ottawa,Miami,"520 Northeast F Street",,07/12/2012
+Oklahoma,Tulsa,Tulsa,"1078 North Irvington Avenue",,07/19/2012
+Oklahoma,Oklahoma,"Oklahoma City","2701 East Lindsey Lane 3",,07/23/2012
+Oklahoma,Tulsa,Tulsa,"7121 South Memorial Drive",,07/23/2012
+Oklahoma,Tulsa,Tulsa,"7567 East 26th Court",,08/06/2012
+Oklahoma,Payne,Stillwater,"1112 South Adams Street",,08/09/2012
+Oklahoma,Pittsburg,Mcalester,"1015 South Elm",,08/15/2012
+Oklahoma,Tulsa,Tulsa,"6121 West 11th Street",,08/16/2012
+Oklahoma,Oklahoma,"Oklahoma City","4214  Holiday Place",,08/16/2012
+Oklahoma,Tulsa,Tulsa,"1621 South 121st East Avenue",,08/17/2012
+Oklahoma,Tulsa,Tulsa,"108 North Collage Avenue",,08/22/2012
+Oklahoma,Adair,Westville,"415  2nd Street",,08/22/2012
+Oklahoma,Tulsa,Tulsa,"1526 North Deleware Avenue",,08/29/2012
+Oklahoma,Washington,Bartlesville,"1435 South Santa Fe Ave Avenue",,10/05/2012
+Oklahoma,Ottawa,Wyandotte,"68800 East 134th Road",,10/08/2012
+Oklahoma,Cherokee,Tahlequah,"22013 South 497 Road",,10/10/2012
+Oklahoma,Ottawa,"North Miami","623  Nebraska Street",,10/10/2012
+Oklahoma,Tulsa,Tulsa,"1320 South 73rd East Ave Avenue",,10/15/2012
+Oklahoma,Adair,Watts,"315  3rd Street",,10/18/2012
+Oklahoma,Oklahoma,Choctaw,"13501 Southeast 29th Street 134",,11/01/2012
+Oklahoma,Tulsa,Tulsa,"1805 East 73rd Street",,03/01/2013
+Oklahoma,Tulsa,Tulsa,"4308 North Iroquois Ave Avenue",,03/01/2013
+Oklahoma,Tulsa,Tulsa,"6330 South Owasso Avenue G",,03/05/2013
+Oklahoma,Tulsa,Tulsa,"13035 East 16th Street",,03/07/2013
+Oklahoma,Pittsburg,Krebs,"10 Northwest 2nd Street",,03/07/2013
+Oklahoma,Pittsburg,Mcalester,"45 East Dancing Rabbit Road",,03/09/2013
+Oklahoma,Pittsburg,Mazie,"529 East Smith",,03/09/2013
+Oklahoma,Comanche,Lawton,"804 Northwest Arlington Ave",,03/15/2013
+Oklahoma,Pittsburg,Mcalester,"715 East Crisler Ave Avenue",,03/16/2013
+Oklahoma,Tulsa,Tulsa,"10501 East Admiral Boulevard",,03/19/2013
+Oklahoma,Tulsa,Tulsa,"302 East 35th Place",,03/20/2013
+Oklahoma,Tulsa,"Sand Springs","4310  Sunburst West",,04/08/2013
+Oklahoma,Tulsa,Tulsa,"7325 South Yale Avenue 216",,05/02/2013
+Oklahoma,Tulsa,Tulsa,"7762 South S Victor Ave Avenue A",,11/01/2013
+Oklahoma,Muskogee,Muskogee,"725 South S 24th St",,11/04/2013
+Oklahoma,Tulsa,Tulsa,"2129 West W 47th St S Street",,11/08/2013
+Oklahoma,Tulsa,Tulsa,"6657 South S Victor Ave Avenue 101",,12/03/2013
+Oklahoma,Payne,Cushing,"1108 East E Greenlee St",,12/04/2013
+Oklahoma,Tulsa,Tulsa,"1007 East E 60th St/e 60th St S",,12/09/2013
+Oklahoma,Pittsburg,Krebs,"30 Southeast Se 3rd St/s 3rd St E Streets",,12/11/2013
+Oklahoma,Ottawa,Miami,"215 Southeast F St Se Street",,12/13/2013
+Oklahoma,Tulsa,Tulsa,"9262 East E 58th St S Street",,12/20/2013
+Oklahoma,Hughes,Wetumka,"8117 East E/w 130 Road",,01/05/2014
+Oklahoma,Tulsa,Glenpool,"1411 East E 145th St Street",,01/07/2014
+Oklahoma,Pittsburg,Mcalester,"103 East E Crisler Ave",,01/09/2014
+Oklahoma,Oklahoma,"Oklahoma City","8901  Aaron Dr Drive",,01/21/2014
+Oklahoma,Tulsa,Tulsa,"3701 West W 55th St/w 55th St S Street",,01/30/2014
+Oklahoma,Comanche,Lawton,"26064 Northwest State Highway 58/ok-58/wichita Mountains Bywy",,03/21/2014
+Oklahoma,Pittsburg,Mcalester,"521 West W Pasture Rd/e1370 Rd  1",,03/23/2014
+Oklahoma,Lincoln,Wellston,"1008  Birch Ave",,03/26/2014
+Oklahoma,Pittsburg,Mcalester,"912 East Mcarthur Ln",,03/27/2014
+Oklahoma,Tulsa,Bixby,"8327 East 131 South Place",,03/27/2014
+Oklahoma,Muskogee,Muskogee,"2401  Chicago St Street",,03/28/2014
+Oklahoma,Jackson,Altus,"931  Katy",,12/15/2014
+Oklahoma,Tulsa,Tulsa,"6566 East 21st Place",,12/24/2014
+Oklahoma,Pittsburg,Mcalester,"531 W Adams",,01/06/2015
+Oklahoma,Tulsa,Tulsa,"1020 N Delaware Avenue",,01/13/2015
+Oklahoma,Tulsa,Tulsa,"4903 E Lipi",,01/17/2015
+Oklahoma,Adair,Achille,"1521 N Lewis Place",,01/20/2015
+Oklahoma,Tulsa,Tulsa,"1512 N Columbia Place",,01/23/2015
+Oklahoma,Mcintosh,Eufaula,"121027 S 4156 Road",,03/09/2015
+Oklahoma,Pittsburg,Kiowa,"208 E Roosevelt Street Box 1",,03/13/2015
+Oklahoma,"Le Flore",Pocola,"3400 Choctaw Rd",,08/12/2016
+Oklahoma,"Le Flore",Poteau,"100 S Broadway St",,09/13/2016
+Oklahoma,Seminole,Maud,"318 E Oak St",,09/14/2016
+Oklahoma,Kingfisher,Kingfisher,"119 S 5th St",,11/03/2016
+Oklahoma,Tulsa,Tulsa,"7945 S Yale Ave",,01/14/2017

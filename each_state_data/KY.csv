@@ -1,0 +1,1184 @@
+state,county,city,address1,address2,date
+Kentucky,Todd,"Sharon Grove","530 Hall Rd",,01/01/2004
+Kentucky,Daviess,Philpot,"5802 Free Silver Rd",,01/02/2004
+Kentucky,Todd,Guthrie,"325 3rd S St",,01/07/2004
+Kentucky,Madison,Richmond,"633 Bighill Ave C24",,01/12/2004
+Kentucky,Meade,"Vine Grove","105 Remington Rd",,01/16/2004
+Kentucky,Clinton,Albany,"412 Ill Will",,01/17/2004
+Kentucky,Webster,Providence,"2637 State Route 1917",,01/18/2004
+Kentucky,Muhlenberg,"Central City","102 Central St",,01/19/2004
+Kentucky,Warren,"Bowling Green","3687 Matlock Pike",,01/24/2004
+Kentucky,Warren,"Bowling Green","6255 Barren River Rd",,01/25/2004
+Kentucky,Hopkins,Nortonville,"940 Illey Sisk Rd",,01/27/2004
+Kentucky,Laurel,"East Bernstadt","Ky 490 Hwy",,01/28/2004
+Kentucky,Henderson,Robards,"9380 Petersburg Road",,01/28/2004
+Kentucky,Monroe,Tompkinsville,"2345 Harlans Crossroads",,01/30/2004
+Kentucky,Warren,"Bowling Green","727 Riverside Ben Leo Rd",,01/31/2004
+Kentucky,Clay,Manchester,"1217 Ky 638 W",,01/31/2004
+Kentucky,Jackson,"Grey Hawk","285 Brushy Ridge Rd",,02/02/2004
+Kentucky,Christian,Pembroke,"555 Beeker Rd",,02/02/2004
+Kentucky,Pulaski,"Science Hill","431 Poplar Estates Rd",,02/03/2004
+Kentucky,Ohio,"Beaver Dam","511 Sandefur Crossing Rd",,02/03/2004
+Kentucky,Jefferson,Louisville,"6303 Powder Horn Dr",,02/08/2004
+Kentucky,Graves,Boaz,"1754 State Route 1684",,02/08/2004
+Kentucky,Graves,Mayfield,"1860 Rt 80 E St Rm 103",,02/08/2004
+Kentucky,Warren,"Bowling Green","4546 Glen Lily Rd",,02/15/2004
+Kentucky,Johnson,"West Van Lear","100 Mcclure St 2",,02/16/2004
+Kentucky,Gallatin,Ghent,"200 Corda Ln",,02/18/2004
+Kentucky,Cumberland,Bow,"2261 Hegrra Rd",,02/20/2004
+Kentucky,Johnson,"Flat Gap","1092 Barn Rock Rd",,02/21/2004
+Kentucky,Johnson,"Van Lear","2029 Route 2381",,02/22/2004
+Kentucky,Warren,"Bowling Green","4942 263 Hwy",,02/22/2004
+Kentucky,Laurel,Corbin,"106 Ruth Ln",,02/23/2004
+Kentucky,Graves,Mayfield,"1452 Rt 1213 S St",,02/24/2004
+Kentucky,Hardin,"Vine Grove","212b Main W St",,02/24/2004
+Kentucky,Butler,Morgantown,"3780 N Rd",,02/26/2004
+Kentucky,Butler,Morgantown,"3780 Region N",,02/26/2004
+Kentucky,Bullitt,"Lebanon Junction","588 Church St",,03/04/2004
+Kentucky,Knox,Corbin,"480 Marble Rd",,03/07/2004
+Kentucky,Muhlenberg,Greenville,"4585 State Route 171",,03/08/2004
+Kentucky,Warren,"Bowling Green","811 Apple Valley N Rd",,03/08/2004
+Kentucky,Hopkins,"Dawson Springs","7805 Isley Rd",,03/12/2004
+Kentucky,Henderson,Henderson,"4112 Hwy 136 W",,03/16/2004
+Kentucky,Jackson,"Gray Hawk","148 D Young S Rd",,03/19/2004
+Kentucky,Henderson,Robards,"8616 John Steele Rd",,03/21/2004
+Kentucky,Webster,Clay,"70 Powell Rd",,03/22/2004
+Kentucky,Warren,"Bowling Green","1856 Loop Dr 415",,03/22/2004
+Kentucky,Jackson,"Gray Hawk","100 D Young Rd",,03/23/2004
+Kentucky,Warren,"Bowling Green","780 Goodrum",,03/24/2004
+Kentucky,Todd,Allensville,"2781 Jefferson Davis E Hwy",,03/24/2004
+Kentucky,Warren,"Smiths Grove","1373 Lawerence Rd",,03/24/2004
+Kentucky,Henderson,Corydon,"75 6th St",,03/26/2004
+Kentucky,Knox,Woodbine,"605 Tower Rd",,03/28/2004
+Kentucky,Madison,Berea,"192 Glades Rd 60",,03/29/2004
+Kentucky,Gallatin,Ghent,"4127 Walnut Valley Rd",,03/30/2004
+Kentucky,Warren,"Bowling Green","955 Stump Bluff N",,03/30/2004
+Kentucky,Hart,Bonnieville,"10584 Dixie N Hwy",,04/01/2004
+Kentucky,Meade,Rhodelia,"2770 Jarbo Sinks Rd",,04/01/2004
+Kentucky,Mccracken,Paducah,"1825 Powers Rd",,04/01/2004
+Kentucky,Allen,Scottsville,"331 Lambert Rd",,04/08/2004
+Kentucky,Powell,"Clay City","1455 Bush Creek",,04/12/2004
+Kentucky,Henderson,Henderson,"698 Barren Church S Rd",,04/13/2004
+Kentucky,Henderson,Spottsville,"8868 Old Us 60 E Hwy",,04/13/2004
+Kentucky,Warren,"Bowling Green","1070 Boiling Springs Rd Lot 103",,04/13/2004
+Kentucky,Jessamine,Nicholasville,"109 Witchita Dr 13",,04/14/2004
+Kentucky,Hopkins,Madisonville,"804 Hopewell St",,04/15/2004
+Kentucky,Daviess,Owensboro,"905 2nd W St A",,04/16/2004
+Kentucky,Hopkins,Madisonville,"8485 Isley Rd",,04/17/2004
+Kentucky,Warren,"Bowling Green","1555 Little Beaver Creek Rd",,04/19/2004
+Kentucky,Jefferson,Louisville,"9405 Burgoo King",,04/21/2004
+Kentucky,Daviess,Owensboro,"608 Crittenden 7",,04/22/2004
+Kentucky,Christian,Crofton,"5705 Old Madisonville Rd",,04/23/2004
+Kentucky,Monroe,Tompkinsville,"1005 Sugar Creek Road",,04/23/2004
+Kentucky,Hart,Munfordville,"315 County Barn Rd",,04/24/2004
+Kentucky,Pulaski,Somerset,"220 Somerset E",,04/25/2004
+Kentucky,Webster,Providence,"1455 Dalton Rd",,04/25/2004
+Kentucky,Graves,Mayfield,"3365 Rt 58 St",,04/28/2004
+Kentucky,Grant,Corinth,"1550 Owenton Rd",,04/29/2004
+Kentucky,Madison,Berea,"168 Shawnee Dr",,04/29/2004
+Kentucky,Calloway,Murray,"200 Fleetwood Cir",,04/30/2004
+Kentucky,Allen,Scottsville,"111 Bush St",,05/02/2004
+Kentucky,Allen,Scottsville,"803 Poplar E St",,05/03/2004
+Kentucky,Simpson,Franklin,"3161 Johns Loop E Rd",,05/03/2004
+Kentucky,Hopkins,Anton,"840 Babe Nall Rd",,05/03/2004
+Kentucky,Grayson,Caneyville,"10890 Beaver Dam E Rd",,05/05/2004
+Kentucky,Henderson,Henderson,"1759 Green S St 122",,05/07/2004
+Kentucky,Monroe,"Fountain Run","10570 Fountain Run Rd",,05/07/2004
+Kentucky,Jefferson,Louisville,"10606 Eleven",,05/14/2004
+Kentucky,Graves,Mayfield,"2971 Dave Miller Rd",,05/18/2004
+Kentucky,Monroe,Tompkinsville,"1655 Center Point Road",,05/24/2004
+Kentucky,Hart,"Horse Cave","1415 Main E",,05/25/2004
+Kentucky,Jefferson,Louisville,"6117 Dobson Ct",,05/28/2004
+Kentucky,Calloway,Murray,"53 Parkside Dr",,05/29/2004
+Kentucky,Todd,Allegre,"6594 Allegre Rd",,05/31/2004
+Kentucky,Bell,Middlesboro,"301 12th N St 24",,06/04/2004
+Kentucky,Hopkins,Nortonville,"1045 Red Hill Rd",,06/04/2004
+Kentucky,Barren,Glasgow,"871 Popular School E Rd",,06/05/2004
+Kentucky,Monroe,"Mount Hermon","871 Popular School Rd",,06/05/2004
+Kentucky,Ohio,Centertown,"101 Valley Ln A-3",,06/07/2004
+Kentucky,Ohio,"Beaver Dam","587 Mine Fork Rd",,06/08/2004
+Kentucky,Laurel,London,"109 Sycamore",,06/09/2004
+Kentucky,Henderson,Henderson,"1759 Green St 101",,06/11/2004
+Kentucky,Bullitt,Brooks,"4086 Knob Creek Rd",,06/15/2004
+Kentucky,Jefferson,Louisville,"3602 Freedom Way",,06/16/2004
+Kentucky,Jefferson,Louisville,"3528 Blue Park Ln",,06/18/2004
+Kentucky,Warren,"Bowling Green","366 H.r. Whitlock Rd",,06/26/2004
+Kentucky,Ohio,Rosine,"994 Uncle Pen Ln",,06/30/2004
+Kentucky,Henderson,Henderson,"3083 Drive",,07/01/2004
+Kentucky,Ohio,Olaton,"2603 New Baymus Rd",,07/02/2004
+Kentucky,Grayson,Leitchfield,"112 Cave Mill Road",,07/10/2004
+Kentucky,Allen,Scottsville,"75 Easy St",,07/11/2004
+Kentucky,Pulaski,Somerset,"425 Bogle St",,07/16/2004
+Kentucky,Bullitt,Shepherdsville,"4086 Knob Creek Road",,07/19/2004
+Kentucky,Fayette,Lexington,"1566 Summerhill Dr",,07/19/2004
+Kentucky,Breathitt,Jackson,"290 Buckhorn Rd",,07/23/2004
+Kentucky,Trimble,Bedford,"64 Martini Ln",,07/24/2004
+Kentucky,Adair,Columbia,"2672 Chestnut Grove Rd",,07/25/2004
+Kentucky,Lawrence,Blaine,"270 Cains Creek Rd",,07/27/2004
+Kentucky,Ohio,Hartford,"548 Park Ridge Rd",,07/27/2004
+Kentucky,Jefferson,Louisville,"4829 Cofer Ave",,07/28/2004
+Kentucky,Warren,"Bowling Green","1081 Plum Springs Rd",,07/30/2004
+Kentucky,Mccracken,Paducah,"1240 Starr Hill Rd",,07/31/2004
+Kentucky,Henry,Campbellsburg,"84 Summit Dr",,08/03/2004
+Kentucky,Bullitt,"Mount Washington","153 Linda Dr",,08/07/2004
+Kentucky,Bullitt,Hillview,"189 Lees Ln",,08/08/2004
+Kentucky,Bullitt,Shepherdsville,"5687 Hwy 44 W",,08/12/2004
+Kentucky,Laurel,Corbin,"37 770 S Hwy 411",,08/17/2004
+Kentucky,Logan,Auburn,"1288 River Rd",,08/19/2004
+Kentucky,Bullitt,"Lebanon Junction","450 West Beech Grove Road",,08/19/2004
+Kentucky,Hopkins,"Mortons Gap","121 Hopkinsville Rd",,08/24/2004
+Kentucky,Union,Morganfield,"673 V.t.crawley W Rd",,08/24/2004
+Kentucky,Pulaski,Somerset,"1531 Rush Branch E Rd",,08/27/2004
+Kentucky,Monroe,Tompkinsville,"2810 Gamaliel Road",,08/28/2004
+Kentucky,Monroe,Tompkinsville,"4388 Center Point Road",,08/29/2004
+Kentucky,Todd,Elkton,"5610 Butler Rd",,09/02/2004
+Kentucky,Warren,"Bowling Green","1133 Campbell N Rd",,09/07/2004
+Kentucky,Logan,Russellville,"Stuart Smotherman Rd 1305",,09/09/2004
+Kentucky,Jefferson,Louisville,"7704 Chet Ln",,09/09/2004
+Kentucky,Muhlenberg,"Central City","220 Mccornell Dr",,09/10/2004
+Kentucky,Hopkins,"Dawson Springs","845 Fork Springs Rd",,09/13/2004
+Kentucky,Madison,Richmond,"535 Mahaffy Dr C-10",,09/22/2004
+Kentucky,Barren,"Park City","111 3rd E St",,09/22/2004
+Kentucky,Warren,"Bowling Green","527 Cherokee Drive",,09/25/2004
+Kentucky,Laurel,London,"2845 Hawk Creek Road",,09/26/2004
+Kentucky,Bullitt,Hillview,"716 Brooks Hill Road 327",,09/28/2004
+Kentucky,Bullitt,Shepherdsville,"450 Beechgrove W Rd",,10/02/2004
+Kentucky,Hardin,Radcliff,"730 Southland Dr",,10/02/2004
+Kentucky,Warren,"Bowling Green","1074 Clarence Odell Rd",,10/04/2004
+Kentucky,Jefferson,Louisville,"4114 3rd S St",,10/08/2004
+Kentucky,Webster,Clay,"9201 State Route 132 W",,10/08/2004
+Kentucky,Carlisle,Arlington,"190 Apple Tree Ln",,10/08/2004
+Kentucky,Warren,"Bowling Green","462 Wimpee Smith Rd",,10/13/2004
+Kentucky,Johnson,"West Van Lear","114 Kentucky 302",,10/18/2004
+Kentucky,Lincoln,"Crab Orchard","1695 Pine Grove Rd",,10/19/2004
+Kentucky,Floyd,Dwale,"466 Monument Dr C-4",,10/22/2004
+Kentucky,Muhlenberg,Graham,"1645 Henry Oats Rd",,10/23/2004
+Kentucky,Bullitt,Shepherdsville,"2952 Deatsville Road",,10/31/2004
+Kentucky,Boyd,Westwood,"1335 Hoods Pike",,11/05/2004
+Kentucky,Warren,"Bowling Green","824 Barry St",,11/05/2004
+Kentucky,Logan,Auburn,"3274 Dennis Cornith Rd",,11/09/2004
+Kentucky,Daviess,Maceo,"1151 Yelvington Knottsville Rd",,11/11/2004
+Kentucky,Warren,"Bowling Green","2039 Russellville Rd 24",,11/11/2004
+Kentucky,Warren,"Bowling Green","3743 Bristow Ne Rd",,11/11/2004
+Kentucky,Pulaski,Somerset,"138 Griffin Ave",,11/12/2004
+Kentucky,Henderson,Henderson,"2310 Adams Ln",,11/12/2004
+Kentucky,Knox,Gray,"1248 Hazel Fk Rd B",,11/17/2004
+Kentucky,Muhlenberg,Bremen,"7961 St Route Hwy 70 Hwy",,11/19/2004
+Kentucky,Union,Sturgis,"625 Johnson St",,11/22/2004
+Kentucky,Pulaski,Somerset,"400 Mount Vernon W",,11/23/2004
+Kentucky,Jefferson,Louisville,"3408 Ripple Creek Drive",,11/25/2004
+Kentucky,Metcalfe,Edmonton,"934 Society Hill Road",,11/27/2004
+Kentucky,Logan,Auburn,"1087 River Rd",,11/30/2004
+Kentucky,Barren,"Cave City","2646 Griderville Rd",,11/30/2004
+Kentucky,Daviess,Utica,"9171 Poplar Log Bridge Spur Rd",,12/01/2004
+Kentucky,Jefferson,Louisville,"7610 Vaughn Mill Rd",,12/03/2004
+Kentucky,Muhlenberg,Drakesboro,"101 Wooten Ln",,12/06/2004
+Kentucky,Mccracken,Paducah,"410 Lane W Rd",,12/08/2004
+Kentucky,Trimble,Bedford,"661 Richmond Hill Rd",,12/09/2004
+Kentucky,Graves,"Fancy Farm","180 Wilson Hill Rd",,12/09/2004
+Kentucky,Warren,"Bowling Green","3224 Barnwood Ave B",,12/10/2004
+Kentucky,Madison,Berea,"136 Maples St 6",,12/13/2004
+Kentucky,Hardin,"Vine Grove","2804 Knox Blvd",,12/13/2004
+Kentucky,Leslie,Hyden,"100 Turkey Foot Rd",,12/15/2004
+Kentucky,Jefferson,Louisville,"229 Steedly Dr 28",,12/20/2004
+Kentucky,Meade,Muldraugh,"115 Shumate St",,12/22/2004
+Kentucky,Scott,Georgetown,"123 Elizabeth St",,12/31/2004
+Kentucky,Hopkins,"Mortons Gap","85 Buttermilk Rd",,01/01/2005
+Kentucky,Grayson,Leitchfield,"403 Caneycreek Rd",,01/02/2005
+Kentucky,Hart,Munfordville,"564 Buckner Hollow Rd",,01/05/2005
+Kentucky,Owsley,Booneville,"3326 Sugar Camp Rd",,01/06/2005
+Kentucky,Mccracken,Paducah,"1460 Powers Rd",,01/07/2005
+Kentucky,Butler,Morgantown,"995 Grancer W Rd",,01/07/2005
+Kentucky,Letcher,Ermine,"42 Wren Dr",,01/08/2005
+Kentucky,Daviess,Owensboro,"7301 Hobbs Rd",,01/11/2005
+Kentucky,Mccreary,Sawyer,"1629 Sawyer Church Rd",,01/11/2005
+Kentucky,Warren,"Bowling Green","145 Sylvia S Way A",,01/12/2005
+Kentucky,Bullitt,Hillview,"119 Greenbriar Ln",,01/12/2005
+Kentucky,Union,Sturgis,"4259 2834",,01/13/2005
+Kentucky,Logan,Lewisburg,"2098 Holland Rd",,01/15/2005
+Kentucky,Fayette,Lexington,"435 Carlisle Ave",,01/16/2005
+Kentucky,Warren,"Bowling Green","980 Goodrum Rd",,01/16/2005
+Kentucky,Bullitt,Hillview,"136 Winston Court",,01/17/2005
+Kentucky,Floyd,Drift,"108 Akers Branch Rd",,01/19/2005
+Kentucky,Warren,"Bowling Green","1770 Holly Dr 34",,01/19/2005
+Kentucky,Logan,Lewisburg,"189 Industrial E Dr",,01/19/2005
+Kentucky,Warren,"Bowling Green","456 Herchel Lucas Rd",,01/21/2005
+Kentucky,Henderson,Henderson,"9100 Frog Island Rd",,01/22/2005
+Kentucky,Johnson,Thealka,"936 Boyd Branch",,01/22/2005
+Kentucky,Livingston,Ledbetter,"331 Golden Meadow Dr",,01/24/2005
+Kentucky,Laurel,Lily,"208 Felts Sch Apts S 16",,01/25/2005
+Kentucky,Barren,Glasgow,"1943 B Franks Mill Rd",,01/25/2005
+Kentucky,Todd,Elkton,"1680 Stokes Chapel Rd",,01/27/2005
+Kentucky,Henderson,Henderson,"133 Harding St",,01/31/2005
+Kentucky,Grant,"Dry Ridge","3220 Kelly",,02/02/2005
+Kentucky,Laurel,Lily,"98 Underpass Ln",,02/03/2005
+Kentucky,Hardin,Elizabethtown,"406 Diecks Dr",,02/04/2005
+Kentucky,Johnson,Stambaugh,"119 Locust Grove",,02/04/2005
+Kentucky,Meade,Payneville,"2265 Rhodelia Rd",,02/05/2005
+Kentucky,Graves,Boaz,"12401 Hopewell Rd",,02/06/2005
+Kentucky,Bullitt,Shepherdsville,"1551 Martin Hill Rd",,02/07/2005
+Kentucky,Hardin,"Vine Grove","482 Sandlin Sw",,02/10/2005
+Kentucky,Wyandotte,"Kansas City","955 74th S St",,02/10/2005
+Kentucky,Kenton,Independence,"3493 Senior Road",,02/14/2005
+Kentucky,Henderson,Henderson,"892 Mcguire St A",,02/14/2005
+Kentucky,Bullitt,Shepherdsville,"4505 Zoneton Rd",,02/15/2005
+Kentucky,Laurel,London,"274 New Salem Rd",,02/16/2005
+Kentucky,Clinton,Albany,"76 Falls Rd",,02/18/2005
+Kentucky,Jefferson,Louisville,"2400 Melwood Ave 504",,02/20/2005
+Kentucky,Hart,Bonnieville,"707 Camp Ground Rd",,02/21/2005
+Kentucky,Laurel,Lily,"98 Underpass",,02/22/2005
+Kentucky,Warren,"Bowling Green","3195 H E Johnson Rd",,02/22/2005
+Kentucky,Jefferson,Louisville,"1300 Washington St 2",,02/23/2005
+Kentucky,Breckinridge,Westview,"431 Wilsons Wilderness",,02/24/2005
+Kentucky,Whitley,Corbin,"2845 Ky Hwy 3436",,02/24/2005
+Kentucky,Ohio,"Horse Branch","2887 Dogwalk E Rd",,02/25/2005
+Kentucky,Warren,"Bowling Green","232b Clark Cir",,02/27/2005
+Kentucky,Jefferson,Louisville,"1013 Camden Ave",,02/28/2005
+Kentucky,Johnson,Paintsville,"79 Pack Hill Dr",,03/01/2005
+Kentucky,Butler,Morgantown,"80 Morgan E Rd",,03/01/2005
+Kentucky,Bullitt,Shepherdsville,"543 Christman Ln",,03/01/2005
+Kentucky,Madison,Richmond,"264 Greens Crossing",,03/03/2005
+Kentucky,Jefferson,Louisville,"8219 Minors Ln 280",,03/03/2005
+Kentucky,Warren,"Bowling Green","2001 Rockcreek Dr 12a",,03/07/2005
+Kentucky,Green,Greensburg,"759 14 South Wright Rd",,03/09/2005
+Kentucky,Webster,Providence,"2323 Babtists Hill Rd",,03/11/2005
+Kentucky,Trimble,Milton,"1312 Milton Bedford Pike",,03/11/2005
+Kentucky,Trimble,Bedford,"918 421 Hwy",,03/12/2005
+Kentucky,Fulton,Fulton,"1855 State Route 924",,03/15/2005
+Kentucky,Laurel,London,"4020 Slate Lick Rd",,03/15/2005
+Kentucky,Warren,"Bowling Green","3689 Blue Level Rd",,03/18/2005
+Kentucky,Jefferson,Louisville,"5711 Elmer Ave",,03/21/2005
+Kentucky,Mercer,Harrodsburg,"704 Porkeway Ave",,03/21/2005
+Kentucky,Grayson,Leitchfield,"1004 Sadler Lane",,03/22/2005
+Kentucky,Allen,Scottsville,"100 Franklin W Rd 71478",,03/22/2005
+Kentucky,Jefferson,Louisville,"229? Steedley Dr 28",,03/23/2005
+Kentucky,Lewis,Vanceburg,"Hc 73 3334",,03/23/2005
+Kentucky,Edmonson,"Bee Spring","1125 Noah Stevenson Rd",,03/24/2005
+Kentucky,Butler,"Welchs Creek","6994 Love Lee Rd",,03/25/2005
+Kentucky,Laurel,London,"314 Andrews Ln",,03/28/2005
+Kentucky,Jefferson,Louisville,"3423 Glendale",,03/28/2005
+Kentucky,Henry,"New Castle","511 Osage Dr",,03/29/2005
+Kentucky,Henderson,Henderson,"355 Racetrack Rd",,03/30/2005
+Kentucky,Union,Sturgis,"173 One-eye Ridge Rd",,04/03/2005
+Kentucky,Warren,"Bowling Green","266 Warren Way",,04/03/2005
+Kentucky,Laurel,London,"458 Baker Tabor Rd",,04/05/2005
+Kentucky,Powell,"Clay City","72 Skyview",,04/06/2005
+Kentucky,Clinton,Albany,"Rt 2 4 949",,04/06/2005
+Kentucky,Jackson,Mckee,"121 Hayes Rd",,04/09/2005
+Kentucky,Allen,Scottsville,"585 Old Franklin W Rd 8479",,04/09/2005
+Kentucky,Hardin,Glendale,"561 Mud Splash Rd",,04/09/2005
+Kentucky,Hopkins,Hanson,"1473 John Thomas Rd",,04/10/2005
+Kentucky,Simpson,Franklin,"545 Humphrey Rd",,04/10/2005
+Kentucky,Knox,Corbin,"553 Watch Ave",,04/13/2005
+Kentucky,Jessamine,Nicholasville,"417 Maple E",,04/14/2005
+Kentucky,Hancock,"Reynolds Station","1950 Zion Church E Rd",,04/14/2005
+Kentucky,Warren,"Bowling Green","2540 Nashville Road",,04/14/2005
+Kentucky,Clinton,Albany,"Rt 3 Ky 696 Rd 746",,04/16/2005
+Kentucky,Madison,Waco,"409 Flint Road",,04/18/2005
+Kentucky,Monroe,Tompkinsville,"1512 Vernon S Rd",,04/20/2005
+Kentucky,Pendleton,California,"83 Victory Ln",,04/24/2005
+Kentucky,Muhlenberg,"Central City","565 Hwy 181 N",,04/24/2005
+Kentucky,Clinton,Albany,"U.s. 127 Rd Rt 5 705",,04/29/2005
+Kentucky,Lincoln,Stanford,"1600 William Whitley Rd",,04/30/2005
+Kentucky,Grayson,"Big Clifty","231 Spurrier Rd",,04/30/2005
+Kentucky,Hopkins,Nortonville,"205 Russ Hill Rd",,05/01/2005
+Kentucky,Lincoln,Stanford,"1600 William Whitney Rd",,05/01/2005
+Kentucky,Oldham,Crestwood,"5305 Old Herring Pl",,05/03/2005
+Kentucky,Lincoln,"Crab Orchard","8035 Crab Orchard Rd",,05/04/2005
+Kentucky,Pulaski,Somerset,"2456 Pump House Rd",,05/04/2005
+Kentucky,Laurel,Keavy,"695 Ralley Se Rd",,05/05/2005
+Kentucky,Monroe,Tompkinsville,"Tom Ford Rd",,05/07/2005
+Kentucky,Green,Greensburg,"115 Meadow W Ln",,05/10/2005
+Kentucky,Allen,Scottsville,"234 Sugar Tree N Ln",,05/11/2005
+Kentucky,Hancock,Pellville,"Us 31 N Moncrief N St 185",,05/13/2005
+Kentucky,Clay,Manchester,"331 Turbyfill Ln",,05/14/2005
+Kentucky,Jefferson,Louisville,"549 Beecher St",,05/17/2005
+Kentucky,Madison,Richmond,"312 Kristen Dr 1",,05/17/2005
+Kentucky,Jefferson,Louisville,"8812 Dusty Way 74",,05/19/2005
+Kentucky,Warren,"Bowling Green","2175 Mount Olivet Rd",,05/21/2005
+Kentucky,Daviess,Owensboro,"7301 Hobbs Rd A-39",,05/21/2005
+Kentucky,Monroe,Tompkinsville,"2936 Sand Lick Rd",,05/25/2005
+Kentucky,Henderson,Henderson,"22 Nugent Dr",,05/29/2005
+Kentucky,Breckinridge,Irvington,"230 Woodlawn N Ave",,05/31/2005
+Kentucky,Wolfe,Campton,"90 Page Hollow",,06/03/2005
+Kentucky,Lincoln,Stanford,"114 Star Avenue",,06/06/2005
+Kentucky,Todd,Elkton,"1489 Blue & Gray Park Rd",,06/07/2005
+Kentucky,Hardin,Sonora,"8737 Flint Hill W Rd",,06/08/2005
+Kentucky,Hardin,"White Mills","1848 Center Point Rd",,06/09/2005
+Kentucky,Pendleton,Demossville,"36 Bonnie Ln",,06/10/2005
+Kentucky,Trimble,Bedford,"456 Lear Ln",,06/11/2005
+Kentucky,Campbell,Newport,"842 Ann St",,06/13/2005
+Kentucky,Ohio,"Beaver Dam","711 St Rt 1245",,06/14/2005
+Kentucky,Boone,Walton,"207 Old Walt-nicholson Rd",,06/14/2005
+Kentucky,Hopkins,Madisonville,"1050 Wiman Dr",,06/14/2005
+Kentucky,Warren,"Bowling Green","248 Anna Sandhill Rd",,06/16/2005
+Kentucky,Barren,"Cave City","73 Hiseville Rd",,06/22/2005
+Kentucky,Ohio,Hartford,"375 Adaburg Tower Ln",,06/25/2005
+Kentucky,Knox,Gray,"488 Sam Parker Rd",,06/26/2005
+Kentucky,Hart,Upton,"4174 Pleasant Hill Rd",,06/27/2005
+Kentucky,Jefferson,Louisville,"1517 Berry Blvd",,07/01/2005
+Kentucky,Bullitt,Shepherdsville,"170 Landmark Ct 14",,07/02/2005
+Kentucky,Jefferson,Louisville,"505 Quail Run Rd B2",,07/08/2005
+Kentucky,Fayette,Lexington,"180 Codell Dr 2201",,07/20/2005
+Kentucky,Daviess,Philpot,"5095 Hwy. 142",,07/23/2005
+Kentucky,Caldwell,Princeton,"1006 Dawson Springs Rd",,07/27/2005
+Kentucky,Clay,Manchester,"60 Ridge Ln",,07/28/2005
+Kentucky,Johnson,Staffordsville,"Staffords Spring",,07/28/2005
+Kentucky,Nelson,Boston,"1116 Timber Trails",,07/29/2005
+Kentucky,Barren,Glasgow,"416 Green N St",,08/02/2005
+Kentucky,Jefferson,Louisville,"834 Dresden Avenue",,08/03/2005
+Kentucky,Madison,Richmond,"409 Flint Rd",,08/04/2005
+Kentucky,Jefferson,Louisville,"1301 1/2 Fairdale Rd",,08/11/2005
+Kentucky,Bullitt,"Mount Washington","171 Re Cardinal",,08/18/2005
+Kentucky,Christian,Hopkinsville,"314 Elton Dr",,08/28/2005
+Kentucky,Monroe,Tompkinsville,"683 E. Turner W Rd",,08/30/2005
+Kentucky,Grant,Jonesville,"14415 Jonesville Rd",,08/31/2005
+Kentucky,Henderson,Henderson,"601 Cherry St",,09/02/2005
+Kentucky,Simpson,Franklin,"954 Upper Prices Mill Sw Rd",,09/06/2005
+Kentucky,Jefferson,Louisville,"8710 James R Rd",,09/07/2005
+Kentucky,Daviess,Owensboro,"820 Parrish W Ave",,09/08/2005
+Kentucky,Grayson,Leitchfield,"264 Taylor Cemetery E Rd",,09/24/2005
+Kentucky,Henderson,Henderson,"914 Homestead Trl",,10/17/2005
+Kentucky,Barren,Glasgow,"2061 Wells Rd",,10/17/2005
+Kentucky,Marshall,Benton,"2318 Murray Hwy",,10/21/2005
+Kentucky,Mccracken,Paducah,"5038 Epperson Rd",,10/22/2005
+Kentucky,Meade,Brandenburg,"935 Willards Ln",,10/26/2005
+Kentucky,Daviess,Lewisport,"507 Chestnut Grove N Rd",,10/27/2005
+Kentucky,Fayette,Lexington,"1420 Highlawn Ave",,10/29/2005
+Kentucky,Jefferson,Louisville,"7506 Wimstock Ave",,11/04/2005
+Kentucky,Bullitt,Brooks,"414 New Ed Quick Rd",,11/08/2005
+Kentucky,Bullitt,Brooks,"353 Sarvers Ln",,11/08/2005
+Kentucky,Warren,"Bowling Green","10963 Glasgow Rd",,11/16/2005
+Kentucky,Breckinridge,Hardinsburg,"107 Kingswood Cemetary Rd",,11/24/2005
+Kentucky,Greenup,Russell,"503 High St & Us 23",,11/30/2005
+Kentucky,Jefferson,Fairdale,"316 Glenn Ellen Rd",,11/30/2005
+Kentucky,Fayette,Lexington,"317 Bainbridge St J",,12/21/2005
+Kentucky,Fayette,Lexington,"1069 Spring Run Rd",,12/22/2005
+Kentucky,Bullitt,Shepherdsville,"760 Mt. Elmira Rd",,12/27/2005
+Kentucky,Bullitt,"Pioneer Village","4807 Greymoor Ct",,12/28/2005
+Kentucky,Boone,Union,"4249 Hathaway Rd",,12/29/2005
+Kentucky,Daviess,Utica,"151 Hwy 140 W",,12/30/2005
+Kentucky,Grant,Jonesville,"310 White Chapel",,01/04/2006
+Kentucky,Warren,"Bowling Green","1285 Penns Chapel Rd",,01/04/2006
+Kentucky,Oldham,"La Grange","230 Yager Ave",,01/06/2006
+Kentucky,Jefferson,Louisville,"3324 Oleanda Ave",,01/07/2006
+Kentucky,Jefferson,Louisville,"3901 Southern Pkwy 3",,01/07/2006
+Kentucky,Monroe,Tompkinsville,"1298 Old Mulkey Road",,01/10/2006
+Kentucky,Warren,"Bowling Green","4331 Girkins N Rd",,01/11/2006
+Kentucky,Daviess,Owensboro,"3504 Arlington Drive",,01/12/2006
+Kentucky,Trimble,Milton,"9788 Hwy 421 N",,01/12/2006
+Kentucky,Jefferson,Louisville,"4729 Burkley Ave",,01/13/2006
+Kentucky,Warren,"Bowling Green","660 Eighth E St",,01/14/2006
+Kentucky,Metcalfe,Center,"230 Paul Jones E Rd 230",,01/15/2006
+Kentucky,Warren,Brownsville,"1986 Wingfield Church Road",,01/16/2006
+Kentucky,Bullitt,Shepherdsville,"190 Eagle Rd",,01/21/2006
+Kentucky,Owen,Worthville,"630 Eagle Creek Rd",,01/21/2006
+Kentucky,Warren,"Bowling Green","353 Cherry Way",,01/22/2006
+Kentucky,Jefferson,Louisville,"2215 Peaslee Road",,01/26/2006
+Kentucky,Johnson,Redbush,"11528 Ky Route 172",,01/27/2006
+Kentucky,Mclean,Livermore,"2325 Forest King Rd",,02/09/2006
+Kentucky,Carroll,Ghent,"2978 Black Rock S Rd",,02/12/2006
+Kentucky,Kenton,Independence,"3493 Senour Rd",,02/14/2006
+Kentucky,Gallatin,Ghent,"3335 Walnut Lick Road",,02/14/2006
+Kentucky,Bullitt,Shepherdsville,"695 Blue Lick W Rd 57",,02/15/2006
+Kentucky,Graves,Fulton,"10890 St Rt 129 S",,02/16/2006
+Kentucky,Monroe,Tompkinsville,"3015 Radio Station Rd & Hwy 1049 E",,02/20/2006
+Kentucky,Spencer,Taylorsville,"3405 Taylorsville",,02/22/2006
+Kentucky,Jefferson,Louisville,"6303 Powderhorn Dr",,02/22/2006
+Kentucky,Christian,Crofton,"75561 Old Palestine Rd",,02/23/2006
+Kentucky,Jefferson,Louisville,"3714 Cliff Avenue",,02/24/2006
+Kentucky,Warren,"Bowling Green","210 Cale Drive",,02/24/2006
+Kentucky,Daviess,Owensboro,"4911 Cambridge Dr",,02/24/2006
+Kentucky,Hart,Upton,"2488 Lone Star Road",,02/28/2006
+Kentucky,Barren,"Cave City","1937 Jack Smith Rd",,02/28/2006
+Kentucky,Laurel,London,"85 Cassey Wagers Ln",,03/12/2006
+Kentucky,Daviess,Owensboro,"8230 Cecil Rd",,03/14/2006
+Kentucky,Bullitt,Hillview,"3500 Blue Lick E Rd",,03/14/2006
+Kentucky,Hardin,Sonora,"1680 Melrose Lane",,03/15/2006
+Kentucky,Henderson,Henderson,"134 Brickyard St",,03/17/2006
+Kentucky,Jefferson,Louisville,"4103 Blue Lick Ct 2",,03/18/2006
+Kentucky,Jefferson,Louisville,"5521 Random Way",,03/22/2006
+Kentucky,Christian,Hopkinsville,"2150 Greenville Road",,03/23/2006
+Kentucky,Christian,Hopkinsville,"1143 Main N St",,03/24/2006
+Kentucky,Leslie,Stinnett,"13315 South Us 421",,03/28/2006
+Kentucky,Whitley,Williamsburg,"71 Davenport Lane",,03/31/2006
+Kentucky,Henderson,Henderson,"992 Villagebrook Drive",,04/03/2006
+Kentucky,Nelson,Bardstown,"3625 New Shepardsville Road",,04/03/2006
+Kentucky,Jefferson,Louisville,"4001 South Brook Street",,04/06/2006
+Kentucky,Jefferson,Louisville,"9104 Old Bardstown Road",,04/12/2006
+Kentucky,Marshall,Benton,"18 Pin Oak Drive",,04/13/2006
+Kentucky,Breckinridge,Cloverport,"410 Vereden Street",,04/18/2006
+Kentucky,Jefferson,Louisville,"4949 South Third Street",,04/19/2006
+Kentucky,Bullitt,"Mount Washington","171 Red Cardinal Drive",,04/29/2006
+Kentucky,Bullitt,Shepherdsville,"3395 Highway 245",,05/01/2006
+Kentucky,Meade,Brandenburg,"6200 Christian Church Road",,05/02/2006
+Kentucky,Knox,Corbin,"553 Watch Road",,05/03/2006
+Kentucky,Daviess,Philpot,"10874 Hwy 144",,05/03/2006
+Kentucky,Jefferson,Louisville,"6209 Fern Valley Way",,05/06/2006
+Kentucky,Madison,Richmond,"135 Meadowlark Drive",,05/08/2006
+Kentucky,Jefferson,Louisville,"1502 Baxter Avenue",,05/17/2006
+Kentucky,Butler,Morgantown,"540 Guy Road",,05/24/2006
+Kentucky,Jefferson,Louisville,"1669 Story Avenue",,05/24/2006
+Kentucky,Muhlenberg,Browder,"1514 Us 431 South",,05/28/2006
+Kentucky,Bullitt,Brooks,"780 Sarvers Lane",,05/31/2006
+Kentucky,Pike,Pikeville,"63 Mossy Bottom Lane",,06/13/2006
+Kentucky,Rockcastle,Brodhead,"27 Main Street",,06/17/2006
+Kentucky,Lincoln,"Crab Orchard","550 Harness Ridge",,06/23/2006
+Kentucky,Bullitt,"Mount Washington","430 Joy",,06/25/2006
+Kentucky,Breckinridge,Mcdaniels,"831 Cambrons Point Road",,07/10/2006
+Kentucky,Jefferson,Louisville,"6503 Tradesmill Road",,07/13/2006
+Kentucky,Hardin,Radcliff,"629 Homestead Avenue",,07/19/2006
+Kentucky,Owsley,Booneville,"Hwy 1503/ Island City",,07/19/2006
+Kentucky,Marshall,,"4045 East Us 68",,07/24/2006
+Kentucky,Bullitt,"Mount Washington","299 Owen Lane",,08/02/2006
+Kentucky,Pulaski,Somerset,"Raymond Todd Road",,08/04/2006
+Kentucky,Warren,"Bowling Green","5052 Hammett Hill Road",,08/09/2006
+Kentucky,Jefferson,Louisville,"3511 Bonaventure Boulevard",,08/25/2006
+Kentucky,Mercer,Harrodsburg,"219 Curry Avenue",,09/06/2006
+Kentucky,Trimble,Milton,"450 Sportsman's Lane",,09/15/2006
+Kentucky,Bullitt,Clermont,"452 Perkins Lane",,09/18/2006
+Kentucky,Clark,Winchester,"27 East Washington Avenue",,09/22/2006
+Kentucky,Clark,Winchester,"27 East Washington Street",,09/30/2006
+Kentucky,Breckinridge,Leitchfield,"650 Mercer Bend Road",,10/06/2006
+Kentucky,Jefferson,Louisville,"1320 Villa Park Drive",,10/13/2006
+Kentucky,Hart,"Horse Cave","753 Hatcher Valley Road",,10/16/2006
+Kentucky,Hancock,Lewisport,"257 Curtis Street",,10/21/2006
+Kentucky,Allen,Scottsville,"1101 Northeast Maysville",,10/23/2006
+Kentucky,Bell,Middlesboro,"209 Fairview Road",,10/27/2006
+Kentucky,Jefferson,Louisville,"10809 Jefferson Hill Road",,10/30/2006
+Kentucky,Boyle,Danville,"445 Chestnut Street",,11/05/2006
+Kentucky,Lincoln,"Crab Orchard","740 Flat Woods School Road",,11/08/2006
+Kentucky,Marshall,Hardin,"726 Beal Road",,11/13/2006
+Kentucky,Jefferson,Louisville,"11607 Tierney Avenue",,11/17/2006
+Kentucky,Henderson,Henderson,"6595 Cottingham Lane",,11/21/2006
+Kentucky,Logan,Auburn,"413 Montgomery Road",,11/21/2006
+Kentucky,Harrison,Cynthiana,"431 Robinson Road",,11/21/2006
+Kentucky,Jefferson,Louisville,"11608 Weatherby Avenue",,11/29/2006
+Kentucky,Jefferson,Louisville,"1300 East Washington Street",,11/30/2006
+Kentucky,Jefferson,Louisville,"1253 Belmar Drive",,12/05/2006
+Kentucky,Jefferson,Louisville,"205 Mackie Lane",,12/05/2006
+Kentucky,Jessamine,Nicholasville,"173 Lois Lane",,12/10/2006
+Kentucky,Johnson,Sitka,"838 Sloane Branch Boulevard",,12/15/2006
+Kentucky,Jefferson,Louisville,"2914 Moran Place",,12/16/2006
+Kentucky,Jefferson,Louisville,"5201 Dixie Highway",,12/22/2006
+Kentucky,Jefferson,Louisville,"1304 South Park Road",,12/27/2006
+Kentucky,Jefferson,Fairdale,"209 Linda Drive",,12/28/2006
+Kentucky,Bullitt,Shepherdsville,"1348 West Blue Lick Road",,12/28/2006
+Kentucky,Daviess,Owensboro,"9375 Stanley-birk City Road",,12/29/2006
+Kentucky,Jefferson,Prospect,"6707 Gunston Lane",,01/04/2007
+Kentucky,Laurel,London,"New Salem Road",,01/11/2007
+Kentucky,Garrard,Lancaster,"790 Hamilton Valley Road",,01/11/2007
+Kentucky,Garrard,Lancaster,"1276 Walker Pike",,01/11/2007
+Kentucky,Pulaski,Somerset,"185 Daylton Lane",,01/17/2007
+Kentucky,Laurel,London,"Hwy 472 Highway",,01/24/2007
+Kentucky,Webster,,"109 East State Route 56",,01/25/2007
+Kentucky,Jefferson,Louisville,"3208 Hillview Drive",,01/26/2007
+Kentucky,Henderson,Henderson,"7648 Green River Road",,01/26/2007
+Kentucky,Jefferson,Louisville,"1417 Nightingale",,01/31/2007
+Kentucky,Jefferson,Louisville,"4703 Marcy Avenue",,01/31/2007
+Kentucky,Daviess,Whitesville,"7640 Deserter Creek Road",,02/06/2007
+Kentucky,Jefferson,Louisville,"7012 Ethan Allen Way",,02/09/2007
+Kentucky,Muhlenberg,"Central City","907 Hwy 602",,02/11/2007
+Kentucky,Clay,Manchester,"1820 Robinson Crk Road",,02/12/2007
+Kentucky,Logan,Russellville,"207 East Lincoln Street",,02/14/2007
+Kentucky,Hart,Hardy,"125 Kountry Kitchen Road",,02/22/2007
+Kentucky,Jefferson,Louisville,"7800 Dobson Lane",,02/23/2007
+Kentucky,Ohio,Hartford,"130 Maple Leaf Drive",,03/02/2007
+Kentucky,Madison,Berea,"116 Poplar Street",,03/05/2007
+Kentucky,Grant,Corinth,"340 Mcfarland Drive",,03/07/2007
+Kentucky,Jefferson,Louisville,"10800 South Southgate Manor",,03/14/2007
+Kentucky,Bullitt,Clermont,"1091 Happy Hollow Road",,03/14/2007
+Kentucky,Pulaski,Somerset,"145 Oakhill Road",,03/19/2007
+Kentucky,Pulaski,Somerset,"52 Kevins Way",,03/25/2007
+Kentucky,Rowan,Clearfield,"760 Mcbrayer Road",,03/28/2007
+Kentucky,Jefferson,Louisville,"3651 Henry Avenue",,04/03/2007
+Kentucky,Jefferson,Louisville,"639 Gheens Avenue",,04/03/2007
+Kentucky,Marshall,Benton,"1308 Poplar Street",,04/04/2007
+Kentucky,Fayette,Lexington,"861 West High Street 204",,04/08/2007
+Kentucky,Jefferson,Louisville,"412 Heywood Avenue",,04/10/2007
+Kentucky,Jefferson,Louisville,"2231 Deveron Drive",,04/17/2007
+Kentucky,Jefferson,Louisville,"709 M Street",,04/23/2007
+Kentucky,Bullitt,Brooks,"353 Sarvers Lane",,05/11/2007
+Kentucky,Hart,Munfordville,"734 National Turnpike #4",,05/17/2007
+Kentucky,Hardin,Elizabethtown,"511 Sportsman Lake",,05/18/2007
+Kentucky,Trimble,Milton,"38 Ferry Street",,05/26/2007
+Kentucky,Marshall,Benton,"322 Hale Springs Road",,05/29/2007
+Kentucky,Madison,Berea,"103 Heritage Square Street",,05/31/2007
+Kentucky,Clay,Manchester,"620 Belles Fork Road",,06/05/2007
+Kentucky,Nelson,Boston,"1140 Timber Trail",,06/11/2007
+Kentucky,Bullitt,Hillview,"315 Barrieks #36 Road",,06/15/2007
+Kentucky,Jefferson,Louisville,"7907 Brush Lane",,06/19/2007
+Kentucky,Powell,"Clay City","1250 Jones Road",,06/19/2007
+Kentucky,Hopkins,"Saint Charles","30 Gilliand Street",,06/22/2007
+Kentucky,Laurel,London,"425 River Bend Road",,06/23/2007
+Kentucky,Muhlenberg,Dunmor,"106 Pine Street",,06/25/2007
+Kentucky,Hardin,Upton,"2303 Lone Star Road",,06/26/2007
+Kentucky,Jefferson,Louisville,"8710 James R Road",,06/27/2007
+Kentucky,Jefferson,Louisville,"1413 Rutland Avenue",,06/27/2007
+Kentucky,Jefferson,Louisville,"7911 Mackie Lane",,06/27/2007
+Kentucky,Jefferson,Louisville,"6107 Blevins Gap",,06/28/2007
+Kentucky,Leslie,Stinnett,"159 Stinnett Gap Road",,06/29/2007
+Kentucky,Marshall,Benton,"588 Benton-briensburg Road",,07/01/2007
+Kentucky,Logan,Lewisburg,"201 Dunmore Deerlick Road",,07/01/2007
+Kentucky,Shelby,Waddy,"990 Ritter Lane",,07/06/2007
+Kentucky,Rowan,Clearfield,"165 Partin Street",,07/09/2007
+Kentucky,Jefferson,Louisville,"3416 Kramers Lane Unit 68",,07/19/2007
+Kentucky,Bullitt,Brooks,"545 New Ed Quick Road",,07/19/2007
+Kentucky,Floyd,Prestonsburg,"68 Burke Street",,07/26/2007
+Kentucky,Jackson,,"North Congleton Hollow Road",,07/30/2007
+Kentucky,Jackson,,"810 North Us Hwy 421",,07/30/2007
+Kentucky,Jefferson,Louisville,"4237 Freeman",,08/02/2007
+Kentucky,Jefferson,Louisville,"8500 Dawson Hill Road",,08/07/2007
+Kentucky,Hopkins,Madisonville,"555 Richmond Drive",,08/08/2007
+Kentucky,Allen,Scottsville,"74 Marcum Lane",,08/15/2007
+Kentucky,Clay,Manchester,"453 Hacker Fork Road",,08/16/2007
+Kentucky,Hardin,Eastview,"1470 Plainview Lane",,08/24/2007
+Kentucky,Jefferson,Louisville,"1914 Preston Street Road",,08/24/2007
+Kentucky,Jefferson,Louisville,"1131 Forrest Street",,08/31/2007
+Kentucky,Hopkins,"Dawson Springs","3550 Niles Road",,09/17/2007
+Kentucky,Grayson,Leitchfield,"612 Black Rock Road",,09/18/2007
+Kentucky,Bullitt,Shepherdsville,"315 White Run Road",,09/18/2007
+Kentucky,Cumberland,Burkesville,"209 Oakland Street A",,09/19/2007
+Kentucky,Bullitt,Shepherdsville,"165 North Buckman Street",,09/20/2007
+Kentucky,Logan,Russellville,"9175 Franklin Road",,09/24/2007
+Kentucky,Jefferson,Louisville,"6500 Seaton Lane",,09/25/2007
+Kentucky,Jefferson,Louisville,"4617 Clayton Terrace",,09/25/2007
+Kentucky,Jefferson,Louisville,"803 Jones Drive",,09/26/2007
+Kentucky,Jefferson,Louisville,"10904 Milwaukee Way",,10/02/2007
+Kentucky,Bath,"Salt Lick","1031 Bush Lane",,10/03/2007
+Kentucky,Jefferson,Louisville,"5004 Solona Drive",,10/09/2007
+Kentucky,Jefferson,Louisville,"1373 Belmar Drive",,10/10/2007
+Kentucky,Monroe,Tompkinsville,"438 North Mt Gilead Road",,10/11/2007
+Kentucky,Daviess,Owensboro,"1217 Jackson Street",,10/11/2007
+Kentucky,Jefferson,Louisville,"2651 Drayton Drive",,10/18/2007
+Kentucky,Meade,Brandenburg,"3765 Haysville Road",,10/18/2007
+Kentucky,Meade,Guston,"90 Country Lane",,10/19/2007
+Kentucky,Laurel,London,"3099 Somerset Road",,10/23/2007
+Kentucky,Bullitt,Taylorsville,"246 Cox Lane",,10/25/2007
+Kentucky,Garrard,Cartersville,"3368 Cartersville Road",,10/27/2007
+Kentucky,Garrard,,"3368 Cortersville Road",,10/27/2007
+Kentucky,Nelson,Bardstown,"138 Caldwell Avenue",,10/29/2007
+Kentucky,Jefferson,Louisville,"809 Carpenter #2",,10/31/2007
+Kentucky,Daviess,Owensboro,"7936 Laketown Road",,11/02/2007
+Kentucky,Bullitt,"Mount Washington","667 Old Mill Stream Lane",,11/05/2007
+Kentucky,Jackson,Tyner,"1860 Rocky Branch Road",,11/15/2007
+Kentucky,Marshall,Benton,"34 Halifax Lane",,11/15/2007
+Kentucky,Pulaski,Somerset,"10 Cromer Drive",,11/29/2007
+Kentucky,Madison,Berea,"328 Kindred Lane",,11/29/2007
+Kentucky,Hardin,Eastview,"92 Gibsby Lane",,12/04/2007
+Kentucky,Hardin,"White Mills","1843 Center Point Road",,12/04/2007
+Kentucky,Ohio,"Beaver Dam","202 North Lafayette Street",,12/08/2007
+Kentucky,Hardin,Radcliff,"225 Woodside Drive 6",,12/17/2007
+Kentucky,Hardin,Radcliff,"2523 Hilltop Circle #1",,12/17/2007
+Kentucky,Nelson,Bardstown,"176 Caldwell Avenue",,12/18/2007
+Kentucky,Hardin,Upton,"3265 Akers School Road",,12/19/2007
+Kentucky,Madison,Berea,"201 Baugh Street",,12/23/2007
+Kentucky,Barren,"Park City","465 Millstown Road",,12/26/2007
+Kentucky,Nelson,Bloomfield,"1335 Murphy Lane",,01/04/2008
+Kentucky,Jefferson,Louisville,"9814 West Manslick",,01/09/2008
+Kentucky,Jefferson,Louisville,"8306 National Turnpike",,01/10/2008
+Kentucky,Bath,Owingsville,"1485 Hart Pike Road",,01/10/2008
+Kentucky,Jefferson,Louisville,"8205 Sealston Drive",,01/14/2008
+Kentucky,Jefferson,Louisville,"3814 Pinecroft Drive",,01/15/2008
+Kentucky,Laurel,London,"3239 Hwy 552",,01/22/2008
+Kentucky,Hart,"Horse Cave","110 Hart Avenue",,01/23/2008
+Kentucky,Jefferson,Louisville,"1400 Cardinal Drive 3",,01/25/2008
+Kentucky,Christian,Hopkinsville,"2340 Quail Club Road",,02/04/2008
+Kentucky,Christian,Crofton,"1850 North Lewis Hill Road",,02/06/2008
+Kentucky,Pendleton,Falmouth,"783 Fishing Creek",,02/07/2008
+Kentucky,Owsley,Booneville,"88 Hwy 1717 Highway 200a",,02/09/2008
+Kentucky,Barren,Glasgow,"233 Temple Hill Road",,02/16/2008
+Kentucky,Madison,Berea,"250 Old Wallaceton Road",,02/19/2008
+Kentucky,Logan,Lewisburg,"107 Bumpaw Road",,02/20/2008
+Kentucky,Jackson,Mckee,"173 Rice School Road",,02/25/2008
+Kentucky,Powell,"Clay City","400 Daniels Branch Road",,03/03/2008
+Kentucky,Fleming,Wallingford,"720 Spring Street",,03/03/2008
+Kentucky,Jefferson,Louisville,"1234 South Preston Street",,03/03/2008
+Kentucky,Daviess,Owensboro,"2223 Keenland Parkway",,03/05/2008
+Kentucky,Pulaski,Eubank,"655 Dixon Smith Road",,03/05/2008
+Kentucky,Pulaski,Somerset,"25 Raceway Mobile Home Park",,03/06/2008
+Kentucky,Christian,Nortonville,"1701 Mannington Loop Road",,03/08/2008
+Kentucky,Daviess,Owensboro,"727 Ashland Avenue",,03/11/2008
+Kentucky,Hopkins,Nortonville,"591 Old Nortonville-white Plan Rd",,03/17/2008
+Kentucky,Jefferson,Louisville,"6661 Sylvania",,03/19/2008
+Kentucky,Warren,"Bowling Green","1705 Smallhouse Road",,03/19/2008
+Kentucky,Jefferson,Louisville,"4108 Moray Court",,03/27/2008
+Kentucky,Bath,Owingsville,"5852 East Us 60",,03/29/2008
+Kentucky,Jackson,Annville,"693 Hillard Road",,04/04/2008
+Kentucky,Jefferson,Louisville,"9814 West Manslick Road",,04/09/2008
+Kentucky,Jefferson,Louisville,"1031 Pitchford Road",,04/10/2008
+Kentucky,Jefferson,Louisville,"2205 Bon Bon Drive",,04/10/2008
+Kentucky,Bullitt,Louisville,"3212 Hillview Boulevard",,04/10/2008
+Kentucky,Daviess,Owensboro,"5419 Ruidoso Loop",,04/11/2008
+Kentucky,Pulaski,Somerset,"75 Mark Street",,04/15/2008
+Kentucky,Jefferson,Louisville,"123 Scottsdale Boulevard",,04/17/2008
+Kentucky,Daviess,Owensboro,"3220 Daviess Street",,04/19/2008
+Kentucky,Bullitt,"West Point","11980 West Hwy 44 2",,04/21/2008
+Kentucky,Jefferson,Louisville,"1400 Cardinal Drive",,04/23/2008
+Kentucky,Jefferson,Louisville,"6503 Old News Cut Road",,04/23/2008
+Kentucky,Mccreary,"Whitley City","25 Kidd School Road",,04/24/2008
+Kentucky,Bullitt,Shepherdsville,"255 East Laurel River Road",,04/29/2008
+Kentucky,Bullitt,"Coxs Creek","737 Deerwood Drive",,05/14/2008
+Kentucky,Madison,Berea,"586 Owsley Fork Road",,05/17/2008
+Kentucky,Madison,Berea,"5019 Appalacian Court",,05/18/2008
+Kentucky,Ohio,Hartford,"1962 Shultz Road",,05/19/2008
+Kentucky,Jefferson,Louisville,"3500 Dayton",,05/21/2008
+Kentucky,Carlisle,Arlington,"116 4th Street",,05/23/2008
+Kentucky,Bullitt,Taylorsville,"1945 Kings Church Road",,06/02/2008
+Kentucky,Hardin,Rineyville,"9501 Rineyville Road",,06/04/2008
+Kentucky,Jefferson,Louisville,"1607 Tierney",,06/09/2008
+Kentucky,Pulaski,Somerset,"1587 Hacker Road",,06/11/2008
+Kentucky,Daviess,Owensboro,"7537 Crooked Creek Road",,06/19/2008
+Kentucky,Bullitt,"Lebanon Junction","513 Highway 434",,06/26/2008
+Kentucky,Marshall,Benton,"1503 Oak Street",,06/26/2008
+Kentucky,Henderson,Henderson,"3814 Old Robards Road",,06/30/2008
+Kentucky,Laurel,London,"165 Dan Bowling Road",,07/03/2008
+Kentucky,Bullitt,Shepherdsville,"190 Howlett Drive 6",,07/30/2008
+Kentucky,Oldham,Crestwood,"2315 Creekside Circle",,07/31/2008
+Kentucky,Jefferson,Louisville,"5010 Red Oak Drive",,08/06/2008
+Kentucky,Clay,Manchester,"12900 South Us 421",,08/07/2008
+Kentucky,Jefferson,Louisville,"36 Calumet Drive",,08/12/2008
+Kentucky,Bullitt,Shepherdsville,"1299 West Blue Lick Road",,08/12/2008
+Kentucky,Bullitt,Shepherdsville,"256 Foley Road",,08/15/2008
+Kentucky,Bullitt,Shepherdsville,"263 Lick Creek Road",,08/16/2008
+Kentucky,Jefferson,Louisville,"6952 Leisure Lane",,08/19/2008
+Kentucky,Jefferson,Louisville,"6617 Bruner Lane",,08/19/2008
+Kentucky,Hardin,Rineyville,"3858 Blue Ball Church Road",,08/22/2008
+Kentucky,Jackson,Mckee,"1685 Ky2004",,08/23/2008
+Kentucky,Meade,Rhodelia,"2495 Jarbo Sinks Road",,08/26/2008
+Kentucky,Bullitt,Hillview,"1411 North Old Preston Highway",,08/27/2008
+Kentucky,Bullitt,Shepherdsville,"270 Sampson Road",,08/27/2008
+Kentucky,Laurel,"East Bernstadt","East 3094 Highway",,09/06/2008
+Kentucky,Madison,Berea,"3011 Scaffold Cane Road",,09/08/2008
+Kentucky,Jefferson,Louisville,"1122 Bradley Avenue",,09/09/2008
+Kentucky,Butler,Morgantown,"3390 North Caneyville Road 4",,09/09/2008
+Kentucky,Pulaski,Somerset,"1334 Hacker Road",,09/10/2008
+Kentucky,Jefferson,Louisville,"4186 Summerview Drive",,09/11/2008
+Kentucky,Christian,"Oak Grove","250 East Arkansas Avenue",,09/20/2008
+Kentucky,Bullitt,Shepherdsville,"300 Cherry Street 2",,09/23/2008
+Kentucky,Rockcastle,"Mount Vernon","66 Davis Lane",,09/28/2008
+Kentucky,Clay,Manchester,"15 North Heavenly Heights Road",,10/02/2008
+Kentucky,Wayne,Monticello,"Webster Spradling Road 257-0",,10/06/2008
+Kentucky,Fayette,Lexington,"262 Tangley Way",,10/08/2008
+Kentucky,Green,Greensburg,"15 North Earl Thompson Road",,10/11/2008
+Kentucky,Daviess,Maceo,"7580 Hwy 405 Highway",,10/19/2008
+Kentucky,Daviess,Owensboro,"1710 Virginia Street",,10/27/2008
+Kentucky,Jefferson,Louisville,"2813 Celina Drive",,10/30/2008
+Kentucky,Bullitt,Hillview,"391 Barricks Road 252",,11/05/2008
+Kentucky,Hardin,Radcliff,"1855 South Wilson 26",,11/05/2008
+Kentucky,Webster,Sebree,"305 Gish Road",,11/05/2008
+Kentucky,Jefferson,Louisville,"6105 Blevins Gap Road 2",,11/06/2008
+Kentucky,Pulaski,Somerset,"231 Mark Shopville Road",,11/14/2008
+Kentucky,Mccracken,Paducah,"2229 Lone Oak Road",,11/14/2008
+Kentucky,Allen,Scottsville,"98 East Brownsford Road 9338",,11/17/2008
+Kentucky,Todd,Trenton,"1485 East Penchem Road",,11/20/2008
+Kentucky,Lyon,Eddyville,"904 Parkersville Road",,11/22/2008
+Kentucky,Edmonson,Roundhill,"8849 Morgantown Road",,11/22/2008
+Kentucky,Jefferson,Louisville,"1631 Arling",,11/24/2008
+Kentucky,Bullitt,Hillview,"198 Briarwood Lane",,12/03/2008
+Kentucky,Bullitt,Shepherdsville,"340 Oakcrest Drive",,12/04/2008
+Kentucky,Hardin,"Big Clifty","16257 Leitchfield Road",,12/10/2008
+Kentucky,Bullitt,Hillview,"315 Barricks Road 113",,12/12/2008
+Kentucky,Jefferson,Louisville,"1353 Trinity Park Drive",,12/16/2008
+Kentucky,Grayson,Leitchfield,"302 Claggett Road",,12/17/2008
+Kentucky,Nelson,Boston,"180 East Sawmill Road",,12/18/2008
+Kentucky,Bullitt,"West Point","11984 West 44 Highway 5",,12/29/2008
+Kentucky,Nelson,Bardstown,"90 Old Bloomfield Pike A",,12/29/2008
+Kentucky,Jefferson,Louisville,"9202 Old Bardstown Road",,12/30/2008
+Kentucky,Hart,Bonnieville,"4140 North Dixe Highway",,12/30/2008
+Kentucky,Jefferson,Louisville,"1216 Blackberry",,12/31/2008
+Kentucky,Christian,Crofton,"2161 Mannington Loop",,12/31/2008
+Kentucky,Daviess,Maceo,"7048 2830 Highway",,04/02/2009
+Kentucky,Jefferson,Louisville,"1600 Penile Road",,04/04/2009
+Kentucky,Jefferson,Louisville,"4200 Block Mudd Lane",,04/04/2009
+Kentucky,Bullitt,Shepherdsville,"8217 South Preston Highway",,04/06/2009
+Kentucky,Warren,"Bowling Green","600 Corvette Drive",,04/10/2009
+Kentucky,Nelson,"Coxs Creek","400 Thompson Hill Road",,04/10/2009
+Kentucky,Kenton,"Morning View","12776 Klein Road",,04/14/2009
+Kentucky,Barren,Glasgow,"2096 Beckton Road",,04/20/2009
+Kentucky,Barren,"Park City","285 Junior Drive",,04/21/2009
+Kentucky,Jefferson,Louisville,"8807 Ferndale Road",,04/21/2009
+Kentucky,Bullitt,"Mount Washington","142 Winning Colors Drive 3",,04/22/2009
+Kentucky,Bullitt,Shepherdsville,"3192 East Highway 44",,04/22/2009
+Kentucky,Barren,Glasgow,"2880 Coral Hill Halfway Road",,04/24/2009
+Kentucky,Barren,"Smiths Grove","1373 Lawrence Road",,04/28/2009
+Kentucky,Bullitt,Shepherdsville,"2900 1020 Highway",,05/01/2009
+Kentucky,Bullitt,Brooks,"135 Center Drive",,05/04/2009
+Kentucky,Boone,Walton,"58 High Road",,05/06/2009
+Kentucky,Bullitt,Shepherdsville,"4471 Zoneton Road",,05/07/2009
+Kentucky,Jefferson,Louisville,"8219 Minors Lane",,05/08/2009
+Kentucky,Bullitt,"Lebanon Junction","575 434 Highway",,05/08/2009
+Kentucky,Jefferson,Louisville,"4100 Blk Southern Parkway",,05/09/2009
+Kentucky,Jefferson,Louisville,"4111 Southern Parkway",,05/11/2009
+Kentucky,Bullitt,"Lebanon Junction","253 Marilyn Way",,05/11/2009
+Kentucky,Jefferson,Louisville,"8306 National Turnpike",,05/12/2009
+Kentucky,Boone,Florence,"200 Meijer",,05/13/2009
+Kentucky,Jefferson,Louisville,"9200 Block Blue Lick Road",,05/15/2009
+Kentucky,Bullitt,Shepherdsville,"420 Castleman Branch Road",,05/18/2009
+Kentucky,Bullitt,Shepherdsville,"3000 Chapese Lane",,05/22/2009
+Kentucky,Bullitt,"Mount Washington","374 Greenbrair Road",,05/28/2009
+Kentucky,Bullitt,Shepherdsville,"2100  Beech Grove Road",,01/01/2010
+Kentucky,Jefferson,Louisville,"2020  Bashford Manor",,01/01/2010
+Kentucky,Daviess,Owensboro,"6410  Todd Bridge Road",,01/02/2010
+Kentucky,Barren,"Cave City","549  Cap Redord Road",,01/08/2010
+Kentucky,Jefferson,Fairdale,"526  Furgusson Fife",,01/12/2010
+Kentucky,Jefferson,Louisville,"9200  River Trail",,01/12/2010
+Kentucky,Barren,"Smiths Grove","1415  Lawrence Road",,01/13/2010
+Kentucky,Bullitt,Shepherdsville,"340  Oakcrest Drive",,01/13/2010
+Kentucky,Jefferson,Fairdale,"2309  Granger Road",,01/13/2010
+Kentucky,Jefferson,Louisville,"3708  Falcon Crest",,01/17/2010
+Kentucky,Jefferson,Louisville,"58  Calumet",,01/18/2010
+Kentucky,Jefferson,Louisville,"8800  Minor Lane",,01/19/2010
+Kentucky,Campbell,Wilder,"31-a  Hillside Avenue",,01/24/2010
+Kentucky,Bullitt,Shepherdsville,"773  Chillicoop Road",,01/25/2010
+Kentucky,Bullitt,Shepherdsville,"695 West Bluelick Road",,01/28/2010
+Kentucky,Jefferson,Louisville,"4812  Pinewood Road",,01/31/2010
+Kentucky,Calloway,Almo,"216  Saddlebrook Lane",,03/09/2010
+Kentucky,Jefferson,Louisville,"175  Outer Loop",,04/02/2010
+Kentucky,Pulaski,Somerset,"52  Katies Way",,04/05/2010
+Kentucky,Monroe,Tompkinsville,"100/63 South Gamaliel",,04/05/2010
+Kentucky,Barren,Glasgow,"142  Crow Road",,04/07/2010
+Kentucky,Meade,"Vine Grove","6861  Flaherty Road",,04/07/2010
+Kentucky,Wayne,Monticello,"608  Wilhite Street",,04/07/2010
+Kentucky,Metcalfe,Edmonton,"840  Society Hill Road",,04/09/2010
+Kentucky,Wayne,Monticello,"8849 East Ky 92 Highway",,04/09/2010
+Kentucky,Jefferson,Louisville,"134  Mills Drive",,04/12/2010
+Kentucky,Jefferson,Louisville,"2304  Thurman Court",,04/12/2010
+Kentucky,Jefferson,Louisville,"7400  Elnora Avenue",,04/12/2010
+Kentucky,Rowan,Clearfield,"160  Fallen Timber Branch",,04/14/2010
+Kentucky,Johnson,Meally,"797  Pigeon Roost Road",,04/16/2010
+Kentucky,Pendleton,Falmouth,"825  Kennedy Ridge Road",,04/17/2010
+Kentucky,Mccreary,Strunk,"117 South Sadie Lane L",,04/17/2010
+Kentucky,Jefferson,Louisville,"11010  Thunder Drive",,04/19/2010
+Kentucky,Kenton,Independence,"3588  Richardson Road",,04/19/2010
+Kentucky,Warren,"Bowling Green","1443  Raleigh Wilson Road",,04/21/2010
+Kentucky,Calloway,"New Concord","392  Newman Road",,04/21/2010
+Kentucky,Jefferson,Louisville,"3910  Accomack",,04/21/2010
+Kentucky,Monroe,Gamaliel,"867  Witt Marsh Road",,04/22/2010
+Kentucky,Green,Greensburg,"759  Wright Road",,04/22/2010
+Kentucky,Russell,Jamestown,"Jack Miller Road 12",,04/24/2010
+Kentucky,Casey,Dunnville,"172  Old Us 127 Loop Road",,04/24/2010
+Kentucky,Barren,Glasgow,"635  Oak Hill School Road",,04/26/2010
+Kentucky,Jackson,Annville,"2137  Greenhill Welchburg",,04/27/2010
+Kentucky,Carter,"Olive Hill","131  Cold Springs Road 3",,04/28/2010
+Kentucky,Carter,"Olive Hill","421  Oakland Ridge",,04/29/2010
+Kentucky,Laurel,"East Bernstadt","2153  Farris Jones Road",,04/30/2010
+Kentucky,Wayne,Monticello,"54  Victory Drive",,04/30/2010
+Kentucky,Clay,Manchester,"126  Lyttleton Road",,05/03/2010
+Kentucky,Warren,"Bowling Green","841  Lain Avenue",,05/04/2010
+Kentucky,Hardin,Radcliff,"215  Graham Avenue",,05/10/2010
+Kentucky,Barren,Glasgow,"144 South South Gassaway Road",,05/11/2010
+Kentucky,Laurel,London,"410  Moren Road",,05/12/2010
+Kentucky,Fleming,Wallingford,"1859  Sugar Tree Road",,05/13/2010
+Kentucky,Clinton,Albany,"1627 East Grace Gibson Road",,05/15/2010
+Kentucky,Metcalfe,Edmonton,"875  Russell Smith Road",,05/15/2010
+Kentucky,Laurel,London,"495  Maplesville Road",,05/15/2010
+Kentucky,Wayne,Monticello,"290  Willa Drive",,05/15/2010
+Kentucky,Green,Greensburg,"103 West Locust Street",,05/17/2010
+Kentucky,Laurel,London,"1971  Willie Green Road",,05/17/2010
+Kentucky,Nelson,Bloomfield,"1288 East Chaplin Taylorsville Road",,05/17/2010
+Kentucky,Madison,Richmond,"418  Big Hill Avenue 16",,05/17/2010
+Kentucky,Bullitt,Shepherdsville,"1570  Martin Hill Road",,05/18/2010
+Kentucky,Jefferson,Louisville,"4908  Flushing",,05/18/2010
+Kentucky,Casey,Liberty,"1369  Cantown Road",,05/21/2010
+Kentucky,Laurel,London,"707 East 4th Street",,05/21/2010
+Kentucky,Breckinridge,Webster,"445  Jack Chappell Lane",,05/21/2010
+Kentucky,Clinton,Albany,"Marcum Street 9",,05/22/2010
+Kentucky,Bullitt,Shepherdsville,"3828  Woodsdale Road",,05/24/2010
+Kentucky,Laurel,London,"189  Valley Lane",,05/27/2010
+Kentucky,Jefferson,Louisville,"1221  Driftwood",,05/31/2010
+Kentucky,Jefferson,Louisville,"604  M Street",,06/01/2010
+Kentucky,Jefferson,Louisville,"9814  Manslick Road",,06/03/2010
+Kentucky,Hardin,Elizabethtown,"5293 West Dixie Highway",,06/04/2010
+Kentucky,Bullitt,Shepherdsville,"351  Old Ridge Road",,06/07/2010
+Kentucky,Boone,Florence,"1782  Promontory",,06/11/2010
+Kentucky,Jefferson,Louisville,"635  Inidustry",,06/12/2010
+Kentucky,Jefferson,Louisville,"6506  Connie",,06/13/2010
+Kentucky,Allen,Scottsville,"S Cartertown Road",,06/14/2010
+Kentucky,Jefferson,Louisville,"4709  Kingsmore Drive",,06/16/2010
+Kentucky,Wayne,Monticello,"64  Tennessee Street",,06/16/2010
+Kentucky,Laurel,London,"64  Slate Lick Road",,06/17/2010
+Kentucky,Jefferson,Louisville,"3211  Calais Lane",,06/17/2010
+Kentucky,Hardin,Bloomfield,"1800  Highview Church Road",,06/17/2010
+Kentucky,Jefferson,Louisville,"9103  Lantana",,06/18/2010
+Kentucky,Jefferson,Louisville,"5104  Delaware",,06/19/2010
+Kentucky,Allen,Scottsville,"E Pitchford & Ky 671",,06/21/2010
+Kentucky,Laurel,London,"9342 North Us 25",,06/21/2010
+Kentucky,Marshall,"Calvert City","700  Crabapple Drive",,06/23/2010
+Kentucky,Hopkins,Madisonville,"232 East Broadway  19",,06/24/2010
+Kentucky,Oldham,"La Grange","701 West Madison Street",,06/27/2010
+Kentucky,Russell,"Russell Springs","827  John Street",,06/27/2010
+Kentucky,Nelson,Bardstown,"308 West Hardin Street",,06/27/2010
+Kentucky,Laurel,London,"24  Hardin Road",,06/28/2010
+Kentucky,Gallatin,Warsaw,"901 East Main Street",,06/28/2010
+Kentucky,Laurel,Corbin,"423  Vanzant Road",,06/30/2010
+Kentucky,Jefferson,Louisville,"2914 South 4th Street",,07/01/2010
+Kentucky,Pulaski,Somerset,"105  Ring Gold Road",,07/05/2010
+Kentucky,Allen,Scottsville,"5482  Maysville Road",,07/06/2010
+Kentucky,Jefferson,Louisville,"391  Barricks Road 252",,07/08/2010
+Kentucky,Lee,Beattyville,"1182 South Highway 11",,07/10/2010
+Kentucky,Grayson,Leitchfield,"305  Thomas Drive",,07/11/2010
+Kentucky,Laurel,London,"128  Pearl Street",,07/12/2010
+Kentucky,Butler,Morgantown,"647  Holston Hollow",,07/12/2010
+Kentucky,Allen,Scottsville,"North Old Glasgow Road 1414",,07/13/2010
+Kentucky,Clinton,Albany,"948  Hog Back Road",,07/13/2010
+Kentucky,Adair,Columbia,"735  Rutledge Road",,07/14/2010
+Kentucky,Laurel,London,"1810  Tutle Road",,07/14/2010
+Kentucky,Laurel,"East Bernstadt","134  Ray Johnson Road",,07/15/2010
+Kentucky,Mercer,Salvisa,"430  Bondville Road",,07/16/2010
+Kentucky,Laurel,"East Bernstadt","2918  Hopkins Cemetary Road",,07/16/2010
+Kentucky,Jefferson,Louisville,"7100  Raggard Road",,07/19/2010
+Kentucky,Laurel,London,"576  Maple Grove Road",,07/21/2010
+Kentucky,Laurel,Lily,"142  Braxton Lane",,07/21/2010
+Kentucky,Edmonson,"Round Hill","1179  Hunts Church Road",,07/22/2010
+Kentucky,Casey,Liberty,"127  Jr Murphy Road",,07/22/2010
+Kentucky,Pulaski,Somerset,"136 East Oak Street",,07/24/2010
+Kentucky,Pulaski,Somerset,"107  Deck Drive A",,07/25/2010
+Kentucky,Taylor,Campbellsville,"933  Hamilton Street",,07/26/2010
+Kentucky,Jefferson,Louisville,"4909  Quail Court",,07/27/2010
+Kentucky,Warren,"Bowling Green","287 North Campbell Road",,07/27/2010
+Kentucky,Bullitt,"Lebanon Junction","559  Belmont Road",,08/02/2010
+Kentucky,Mercer,Salvisa,"340  Clay Lick",,08/06/2010
+Kentucky,Johnson,Paintsville,"219  Pine Street",,08/06/2010
+Kentucky,Laurel,London,"2518 North Laurel Lake Road",,08/07/2010
+Kentucky,Knox,Corbin,"493  Standard Avenue",,08/07/2010
+Kentucky,Jefferson,Louisville,"1230  Broadwa",,08/09/2010
+Kentucky,Jefferson,Louisville,"4709  Kingsmore",,08/10/2010
+Kentucky,Pulaski,Bronston,"347  Sunset Drive",,08/11/2010
+Kentucky,Pulaski,Somerset,"110  Abbott Road",,08/11/2010
+Kentucky,Hart,Booneville,"3040  Falling Springs Church",,08/13/2010
+Kentucky,Gallatin,Warsaw,"212  Riverview Road Lot 2",,08/13/2010
+Kentucky,Jessamine,Nicholasville,"201 North First Street 2",,08/15/2010
+Kentucky,Allen,Scottsville,"100 East Holland Road 854",,08/16/2010
+Kentucky,Jefferson,Louisville,"807  Jones Drive",,08/16/2010
+Kentucky,Jefferson,Louisville,"8504  Jan Way",,08/17/2010
+Kentucky,Gallatin,Napoleon,"465  Wildwood Court Road",,08/18/2010
+Kentucky,Laurel,Corbin,"271  Clay Avenue",,08/19/2010
+Kentucky,Hardin,Radcliff,"424  Oakridge Drive",,08/19/2010
+Kentucky,Gallatin,Warsaw,"200 West High Street",,08/20/2010
+Kentucky,Russell,"Russell Springs","1870  Old Columbia Rd Street 731",,08/23/2010
+Kentucky,Barren,Glasgow,"730  Hollow Road",,08/24/2010
+Kentucky,Wayne,Monticello,"51 North Spring Drive",,08/24/2010
+Kentucky,Jefferson,Louisville,"4204  Angel Terrace",,08/24/2010
+Kentucky,Allen,Adolphus,"129 South Oldhinton Hill Road",,08/25/2010
+Kentucky,Allen,Scottsville,"98 East Brownsford Road 9823",,08/27/2010
+Kentucky,Barren,Glasgow,"700 South Green Street 2",,08/27/2010
+Kentucky,Pulaski,Somerset,"370  Grand Central  Apartments  50",,08/29/2010
+Kentucky,Russell,"Russell Springs","237  Lakeway Drive",,08/29/2010
+Kentucky,Anderson,Lawrenceburg,"3115 East Fawn Leap Drive",,08/29/2010
+Kentucky,Rockcastle,Brodhead,"256  Bryant Ridge Road",,09/01/2010
+Kentucky,Warren,"Bowling Green","2041  Russellville Road 80",,09/01/2010
+Kentucky,Edmonson,"Bee Spring","349  B Bullock Road",,09/01/2010
+Kentucky,Russell,"Russell Springs","1759  1383 Ky  Basement",,09/04/2010
+Kentucky,Larue,Buffalo,"748 South Otter Creek",,09/06/2010
+Kentucky,Whitley,Corbin,"131  Perkins Street",,09/06/2010
+Kentucky,Green,Greensburg,"906  Bales Mill Road",,09/07/2010
+Kentucky,Bullitt,Shepherdsville,"149  Blue Breek Road",,09/13/2010
+Kentucky,Laurel,London,"961  Nazareth Hill Road",,09/14/2010
+Kentucky,Laurel,London,"376  Byble Road",,09/14/2010
+Kentucky,Laurel,London,"200  Bert Reams Road",,09/15/2010
+Kentucky,Jackson,Mckee,"109  Ridgeway West Road",,09/21/2010
+Kentucky,Carter,Soldier,"15  Hamm Lane",,11/08/2010
+Kentucky,Jefferson,Louisville,"1703  W Wheatmore Avenue",,11/15/2010
+Kentucky,Jefferson,Louisville,"3602  Mason",,11/16/2010
+Kentucky,Henderson,Henderson,"5921  41a Highway 13",,12/16/2010
+Kentucky,Estill,Ravenna,"301  8th Street",,12/17/2010
+Kentucky,Jefferson,Louisville,"1625  Belmar Drive",,01/06/2011
+Kentucky,Barren,Glasgow,"4103  Burksville Road",,01/09/2011
+Kentucky,Jackson,Annville,"432  Hwy 3444",,01/10/2011
+Kentucky,Madison,Richmond,"416  2nd Street 4",,01/20/2011
+Kentucky,Edmonson,Brownsville,"604  Washington Street",,02/01/2011
+Kentucky,Allen,Scottsville,"525  Dry Ridge Road",,02/02/2011
+Kentucky,Barren,Glasgow,"2660  Burkesville Road",,03/01/2011
+Kentucky,Madison,Richmond,"125-1  Boggs Lane",,03/04/2011
+Kentucky,Jackson,Mckee,"305  Clemmons Lane",,03/09/2011
+Kentucky,Calloway,Dexterville,"4591  Radio Road",,03/10/2011
+Kentucky,Madison,Richmond,"117  Estonia Drive",,03/11/2011
+Kentucky,Barren,"Cave City","441  Lee Fendel Road",,05/03/2011
+Kentucky,Madison,Richmond,"407  Lassiter Drive",,05/06/2011
+Kentucky,Fayette,Lexington,"328  Jefferson Street",,05/25/2011
+Kentucky,Barren,Glasgow,"508  Sun Valley Drive",,07/01/2011
+Kentucky,Meade,"Vine Grove","85  Snyder Lane",,07/11/2011
+Kentucky,Warren,"Bowling Green","6130  Penns Chapel Road",,07/30/2011
+Kentucky,Jackson,Tyner,"2000  Oak Grove Church Road",,08/01/2011
+Kentucky,Powell,Stanton,"15357  Campton Road",,08/09/2011
+Kentucky,Whitley,Williamsburg,"448  Long Bottom Road",,08/17/2011
+Kentucky,Whitley,Willisburg,"78  Letha Petry Road",,08/22/2011
+Kentucky,Hardin,"West Point","1502.5  Geohagen Drive",,08/23/2011
+Kentucky,Madison,Berea,"100  Morning View Road 3",,08/26/2011
+Kentucky,Hart,"Horse Cave","1261  Davis Williams Road",,08/31/2011
+Kentucky,Barren,Glasgow,"88  Girl Scout Road",,09/01/2011
+Kentucky,Laurel,Hodgenville,"98  Spring Loop Road",,09/12/2011
+Kentucky,Madison,"Rich Pond","511  Ballard Drive 11",,09/13/2011
+Kentucky,Barren,"Park City","216  Mayhew Road",,09/13/2011
+Kentucky,Madison,Berea,"1710  Red Lick Road",,10/10/2011
+Kentucky,Greenup,Flatwoods,"2118  Brent Ann Drive",,10/23/2011
+Kentucky,Barren,"Cave City","301  Owens Street",,12/02/2011
+Kentucky,Hardin,Elizabethtown,"5540  Battle Training Road",,12/06/2011
+Kentucky,Daviess,Owensboro,"1100  Cedar Street 7",,12/15/2011
+Kentucky,Fleming,Ewing,"3147 North Mt. Tabor Road",,12/26/2011
+Kentucky,Barren,"Park City","9263  Old Bowling Green Road",,12/31/2011
+Kentucky,Scott,Sadieville,"3619  Josephine",,01/03/2012
+Kentucky,Wolfe,Campton,"480  Old Ky 15 Methodist Housing Campton  E-x",,01/13/2012
+Kentucky,Bath,Owingsville,"1252 East Us 60",,02/03/2012
+Kentucky,Allen,Adolphus,"3171  Fleet Road",,02/03/2012
+Kentucky,Daviess,Owensboro,"1657 South Parkdale Drive",,02/05/2012
+Kentucky,Knox,Barbourville,"28  Fullmoon Court",,02/12/2012
+Kentucky,Barren,"Park City","5930  Mammoth Cave Road",,02/14/2012
+Kentucky,Knox,Gray,"86  Mt Pleasant Church Road",,02/17/2012
+Kentucky,Fayette,Lexington,"2509  Lindenhurst Loop",,02/20/2012
+Kentucky,Fayette,Lexington,"3997  Toronto Court",,02/20/2012
+Kentucky,Barren,Glasgow,"161  Park City-bon Ayr Road",,06/07/2012
+Kentucky,Hardin,Eastview,"12831  Leitchfield Road",,06/07/2012
+Kentucky,Adair,Aaron,"9214  Cornflower Drive",,06/08/2012
+Kentucky,Knott,Hindman,"968 South State 160 Highway",,06/08/2012
+Kentucky,Rowan,Morehead,"300 Pine Ridge Drive  Apt A2",,06/12/2012
+Kentucky,Warren,"Bowling Green","637 East 10th Ave Avenue",,06/14/2012
+Kentucky,Metcalfe,Edmonton,"206 North 1st Street",,06/15/2012
+Kentucky,Jefferson,"Louisville-jefferson County","2298  Landan Drive",,06/19/2012
+Kentucky,Hardin,Radcliff,"155  Morgan Street 12",,06/19/2012
+Kentucky,Mclean,Rumsey,"601  Cherry Street",,06/27/2012
+Kentucky,Leslie,"Bear Branch","141  Henry Fork",,06/28/2012
+Kentucky,Casey,Liberty,"130  Dillon  137",,07/03/2012
+Kentucky,Bullitt,Shepherdsville,"228  Pryor Valley Road",,07/07/2012
+Kentucky,Edmonson,"Smiths Grove","142  Hannah Court",,07/10/2012
+Kentucky,Hardin,Rineyville,"2295  Rineyville Big Springs Road",,07/10/2012
+Kentucky,Jefferson,Louisville,"2786  Autumn Lake Dr.  14",,07/12/2012
+Kentucky,Madison,Richmond,"513  Bellard",,07/13/2012
+Kentucky,Jefferson,Louisville,"11714  Old Mitchell Hill Rd.  201",,07/15/2012
+Kentucky,Daviess,Owensboro,"519  Breckendridge Street",,07/16/2012
+Kentucky,Larue,Magnolia,"3422  Bailey Road",,07/19/2012
+Kentucky,Whitley,Williamsburg,"249  Nannie Hubbard",,07/20/2012
+Kentucky,Muhlenberg,"Central City","915  River Road",,07/23/2012
+Kentucky,Adair,Aaron,"1431  Patty Lane Lane 8",,07/24/2012
+Kentucky,Madison,Richmond,"230 North Madison Streets 5",,07/27/2012
+Kentucky,Allen,Scottsville,"123  Matt Drive",,07/31/2012
+Kentucky,Jefferson,"Louisville-jefferson County","518 North Hite Avenue",,08/02/2012
+Kentucky,Hardin,Sonora,"113  Thurman Street",,08/03/2012
+Kentucky,Daviess,Owensboro,"537  Jr Miller Boulevard",,08/05/2012
+Kentucky,Jefferson,"Louisville-jefferson County","13133  Old Mitchell Hill Rd.",,08/05/2012
+Kentucky,Muhlenberg,"Bowling Green","1521  Magnolia Avenue",,08/06/2012
+Kentucky,Grant,Crittenden,"150 East Harlan Street 5",,08/07/2012
+Kentucky,Webster,Dixon,"59  Dublin Street 7",,08/12/2012
+Kentucky,Fayette,Lexington,"118  Dundee",,08/13/2012
+Kentucky,Jefferson,"Louisville-jefferson County","6677  Rutledge Rd.",,08/14/2012
+Kentucky,Madison,Berea,"598  Richmond Road",,08/22/2012
+Kentucky,Hardin,Elizabethtown,"1311  Farmingdale Dr.  A",,08/30/2012
+Kentucky,Mclean,Rumsey,"132  Rankin Avenue",,09/05/2012
+Kentucky,Jefferson,"Louisville-jefferson County","7218  Hill Park Way 160",,09/12/2012
+Kentucky,Pulaski,Somerset,"11445 South South Us 127",,09/12/2012
+Kentucky,Anderson,Lawrenceburg,"1114  Versailles Road  35",,09/13/2012
+Kentucky,Calloway,Murray,"1626  Hamilton Avenue",,09/14/2012
+Kentucky,Carter,"Olive Hill","175  Tom T. Hall Boulevard 2a",,09/16/2012
+Kentucky,Warren,"Bowling Green","552  Lost Woods Avenue A",,09/20/2012
+Kentucky,Barren,Glasgow,"1376  Poynter Road",,10/02/2012
+Kentucky,Madison,Richmond,"353  Fourth Street",,10/09/2012
+Kentucky,Hardin,Sonora,"197  North Maple St.",,10/11/2012
+Kentucky,Webster,Dixon,"1301  Bowie Trail Trail D",,10/11/2012
+Kentucky,Madison,Richmond,"511  Ballard Drive 1",,10/12/2012
+Kentucky,Daviess,Owensboro,"3215  Wanderin Lane",,10/17/2012
+Kentucky,Scott,Georgetown,"105  Gemini  Trail Drive",,10/21/2012
+Kentucky,Jefferson,Louisville,"4204 North Bubbling Over Drive",,10/23/2012
+Kentucky,Madison,Richmond,"519  Ballard Drive 7",,10/26/2012
+Kentucky,Jefferson,Louisville,"7301 North Mount Washington Road",,10/26/2012
+Kentucky,Fayette,Lexington,"951  Dayton Avenue",,10/26/2012
+Kentucky,Jefferson,"Louisville-jefferson County","2999 North Springdale Road",,10/29/2012
+Kentucky,Daviess,Maceo,"347  Potts",,11/02/2012
+Kentucky,Jefferson,Louisville,"4103 North Shady Villa Drive 2",,11/05/2012
+Kentucky,Webster,Dixon,"2338  Carter Road 7",,11/06/2012
+Kentucky,Jefferson,"Louisville-jefferson County","4237 North Lynnbrook Drive 2",,11/07/2012
+Kentucky,Jessamine,Nicholasville,"8647  Tates Creek Road",,11/08/2012
+Kentucky,Jefferson,Louisville,"4008 North Ralph Ave  2",,11/14/2012
+Kentucky,Jefferson,"Louisville-jefferson County","909 North Swan Street",,11/16/2012
+Kentucky,Nelson,Bardstown,"216  Stinson Drive",,11/19/2012
+Kentucky,Rockcastle,"Mount Vernon","573  Goshen Cutoff  2",,11/20/2012
+Kentucky,Jefferson,Louisville,"3109 North Churchill Place 2",,11/27/2012
+Kentucky,Jefferson,Louisville,"4909 North Paramount Drive 2",,11/27/2012
+Kentucky,Carter,"Olive Hill","199  Rachel Street",,12/01/2012
+Kentucky,Warren,"Bowling Green","2721  Nashville Road 53",,12/14/2012
+Kentucky,Allen,Scottsville,"508  N. 4th Street",,12/15/2012
+Kentucky,Knott,Hindman,"507  Possum Trot Road",,12/19/2012
+Kentucky,Knott,Hindman,"598  Ogden Branch Road",,01/01/2013
+Kentucky,Jefferson,Louisville,"5419  Layne Road",,01/02/2013
+Kentucky,Jefferson,"Louisville-jefferson County","3537  Powell Ave.",,01/05/2013
+Kentucky,Allen,Scottsville,"298  Walker Road",,01/05/2013
+Kentucky,Knott,Hindman,"216  400 Amburgey Branch",,01/06/2013
+Kentucky,Madison,Richmond,"513  Ballard Drive 6",,01/07/2013
+Kentucky,Jefferson,"Louisville-jefferson County","1300  Scholar Street",,01/09/2013
+Kentucky,Graves,Symsonia,"285  Sawmill Rd.",,01/11/2013
+Kentucky,Webster,Dixon,"1430 West 3rd Street",,01/13/2013
+Kentucky,Jefferson,Louisville,"812  Mccawley Road",,01/13/2013
+Kentucky,Jefferson,"Louisville-jefferson County","4601  Lake Dreamland Rd.",,01/14/2013
+Kentucky,Jefferson,"Louisville-jefferson County","1404  Southgate",,01/14/2013
+Kentucky,Bath,Owingsville,"261  Tupelo Drives",,01/18/2013
+Kentucky,Leslie,Wooton,"21  Beth Lane",,01/21/2013
+Kentucky,Barren,Glasgow,"1980  Willie Groce Road",,02/02/2013
+Kentucky,Lincoln,Stanford,"199  Logan Ave Avenue",,02/02/2013
+Kentucky,Grant,"Dry Ridge","255  Ridge Road 2",,02/03/2013
+Kentucky,Jefferson,"Louisville-jefferson County","3507  Fleetwood",,02/07/2013
+Kentucky,Johnson,Hagerhill,"305 Cannel Coal Gap",,02/10/2013
+Kentucky,Warren,"Bowling Green","1801  Morgantown Road 250",,02/21/2013
+Kentucky,Jackson,"Mc Kee","2049  Catalpa Loop",,02/25/2013
+Kentucky,Jefferson,"Louisville-jefferson County","5417  Decker Rd.",,03/05/2013
+Kentucky,Whitley,Williamsburg,"2568 South State 204 Highway",,03/15/2013
+Kentucky,Daviess,Owensboro,"614  Bolivar Street A",,03/16/2013
+Kentucky,Allen,Scottsville,"545  Halfway Halifax Road",,03/19/2013
+Kentucky,Jefferson,"Louisville-jefferson County","1217  Central Ave.",,04/01/2013
+Kentucky,Madison,Richmond,"414  Turpin Drive 4",,04/02/2013
+Kentucky,Rockcastle,Berea,"212  Mill Street",,04/04/2013
+Kentucky,Breathitt,Jackson,"125  Kings Ridge Road  29",,04/05/2013
+Kentucky,Allen,Scottsville,"519 East Poplar Street",,04/11/2013
+Kentucky,Webster,Dixon,"804  Pennbrooke Avenue",,04/13/2013
+Kentucky,Johnson,Hagerhill,"8476 South Route 321 Key",,04/14/2013
+Kentucky,Jefferson,"Louisville-jefferson County","3299  Dale Ann Drive",,04/19/2013
+Kentucky,Kenton,Covington,"4566 West Amber Drive",,04/21/2013
+Kentucky,Whitley,Rockholds,"8779 South Kentucky Highway 26",,04/29/2013
+Kentucky,Fayette,Lexington,"1032  Eastland Drive 116",,05/02/2013
+Kentucky,Allen,Scottsville,"168  Bailey School Road",,05/04/2013
+Kentucky,Knott,Hindman,"419  Bear Fork Road",,05/06/2013
+Kentucky,Logan,Russellville,"1064  Bucksville Road",,05/06/2013
+Kentucky,Jefferson,Louisville,"1255  Mccawley Ave",,05/08/2013
+Kentucky,Grant,"Dry Ridge","195  Gouge Drive",,05/11/2013
+Kentucky,Allen,Scottsville,"26  Calvert Street",,05/15/2013
+Kentucky,Jefferson,Louisville,"7210  Watson Lane",,05/15/2013
+Kentucky,Boyd,Ashland,"2914 East Ohio Street",,05/17/2013
+Kentucky,Webster,Dixon,"636  Chuck Gray Court 17",,05/23/2013
+Kentucky,Barren,Glasgow,"1275  Old Edmonton Loop 1 Road",,05/23/2013
+Kentucky,Madison,Richmond,"974  Villa Drive 1",,06/07/2013
+Kentucky,Leslie,Stinnett,"1146  Grassy Branch Road",,06/07/2013
+Kentucky,Barren,"Cave City","213  School House Lane",,06/07/2013
+Kentucky,Boyd,Ashland,"1637  Booth Quillen Road",,06/19/2013
+Kentucky,Grayson,Clarkson,"642  Pinehurst Bay",,06/25/2013
+Kentucky,Madison,Richmond,"2702  Lancaster Road",,06/27/2013
+Kentucky,Rowan,Morehead,"915 North Tolliver Road 2",,06/30/2013
+Kentucky,Johnson,Sitka,"141 Puncheon Creek Road",,07/13/2013
+Kentucky,Barren,"Park City","24617  Louisville Road",,07/22/2013
+Kentucky,Nelson,Bardstown,"113 South 1st Street",,08/04/2013
+Kentucky,Daviess,Owensboro,"1122 West 4th Street",,08/06/2013
+Kentucky,Marshall,Benton,"10  Etheridge Lane",,08/12/2013
+Kentucky,Johnson,Paintsville,"601 - 677  Blevins Dr/blevins Ave",,08/14/2013
+Kentucky,Boone,Walton,"13 West Kuchle Drive 13",,09/18/2013
+Kentucky,Boyd,Ashland,"15629  State Route 854 Street",,09/21/2013
+Kentucky,Letcher,Mcroberts,"116  Mosquito Drive",,10/08/2013
+Kentucky,Boone,Richwood,"177  Upper Court",,11/05/2013
+Kentucky,Bullitt,Brooks,"4368  Knob Creek Road",,11/07/2013
+Kentucky,Knox,Barbourville,"146  Davenport Lane",,11/29/2013
+Kentucky,Barren,"Cave City","109  White Street",,12/04/2013
+Kentucky,Grayson,Leitchfield,"416 East Mill St/us-62 Street",,12/04/2013
+Kentucky,Whitley,Corbin,"46  Jenny Lane",,12/14/2013
+Kentucky,Madison,Berea,"328  Kindred Ln Lane",,12/15/2013
+Kentucky,Meade,Guston,"599  Mccrary Rd Road",,12/17/2013
+Kentucky,Scott,Sadieville,"485  Indian Creek Road",,12/18/2013
+Kentucky,Barren,"Cave City","2055 South Toohey Ridge Road",,12/21/2013
+Kentucky,Logan,Russellville,"Emerson Bypass Rd/ky-3233",,01/09/2014
+Kentucky,Clark,Winchester,"321 South Maple Street",,01/09/2014
+Kentucky,Trimble,Eminence,"350  Mcdowell Entrada 6",,01/10/2014
+Kentucky,Johnson,Sitka,"102  Caudill Branch Rd/caudill Branch-sip Rd/caudill Br",,01/10/2014
+Kentucky,Larue,Buffalo,"333  Mt Tabor Rd/mount Tabor Rd/ky-584 Road",,01/11/2014
+Kentucky,Meade,Guston,"170  Woodland Road Lot 38",,01/14/2014
+Kentucky,Ohio,Cromwell,"6955  Us 231 South",,01/14/2014
+Kentucky,Leslie,Stinnett,"330  Glady Branch Rd/glayds Br Rd",,01/14/2014
+Kentucky,Campbell,Newport,"823  Overton St Street",,01/14/2014
+Kentucky,Madison,Richmond,"415  Turpin Drive 3",,01/15/2014
+Kentucky,Ohio,"Beaver Dam","1455  Scottown Road",,01/16/2014
+Kentucky,Carroll,Carrollton,"219  Main St Street 2",,01/18/2014
+Kentucky,Ohio,Fordsville,"368 East Main Street",,01/19/2014
+Kentucky,Mccracken,Paducah,"421  Hayes Ave Avenue",,01/20/2014
+Kentucky,Rockcastle,"Mt Vernon","756  Calloway Branch Road",,01/20/2014
+Kentucky,Letcher,Whitesburg,"581  Old Garner Road",,01/20/2014
+Kentucky,Madison,Berea,"103  Bowman Road 27",,01/20/2014
+Kentucky,Knott,Hindman,"955 West Ky. 80  Apt 2",,01/25/2014
+Kentucky,Madison,Berea,"231  Owsley Fork Road",,01/26/2014
+Kentucky,Trimble,Bedford,"350  Mcdowell Ln Lane 8",,01/29/2014
+Kentucky,Barren,Glasgow,"747  Pritchardsville Road",,01/31/2014
+Kentucky,Grayson,Leitchfield,"620 South S Clinton St Street",,02/01/2014
+Kentucky,Knott,Kite,"79  Golden Rod Dr",,02/04/2014
+Kentucky,Floyd,Prestonsburg,"3935  Ky Route 321/ky-321/country Music Hwy  1",,02/20/2014
+Kentucky,Johnson,Paintsville,"1621  Rabbit Hollow Hollow",,02/20/2014
+Kentucky,Grayson,Leitchfield,"601 South Brooks Street",,03/02/2014
+Kentucky,Hardin,Elizabethtown,"183 - 199 South Brooks St Street",,03/02/2014
+Kentucky,Barren,"Smiths Grove","6100  Dripping Springs Rd.",,03/05/2014
+Kentucky,Hopkins,Nortonville,"124  Donna Drive",,03/06/2014
+Kentucky,Barren,"Park City","1720  Bon Ayr Road",,03/08/2014
+Kentucky,Grayson,Caneyville,"5765 South Caney Creek Rd/ky-2766 Road",,03/12/2014
+Kentucky,Boone,Burlington,"4616  Eureka Street",,03/14/2014
+Kentucky,Wayne,Monticello,"85 South Second Street",,03/15/2014
+Kentucky,Adair,Owensboro,"1819 West 2nd Street 4",,03/24/2014
+Kentucky,Letcher,Whitesburg,"58  Old Garner Mountain Road",,03/27/2014
+Kentucky,Barren,Glasgow,"2179  A.l. Shirley Roads",,03/28/2014
+Kentucky,Daviess,Clay,"725  Pennbrooke Avenue",,04/04/2014
+Kentucky,Jessamine,Berea,"320  Southview Drive  Box 103",,04/10/2014
+Kentucky,Mccracken,Paducah,"199  Walter Jetton Blvd/s 10th St Boulevard  Box 101",,06/06/2014
+Kentucky,Warren,"Bowling Green","1132  Fairview Ave/ky-234 Avenue  Box B2",,06/24/2014
+Kentucky,Johnson,Paintsville,"413  Mill St   Box C",,07/03/2014
+Kentucky,Madison,Richmond,"426  Smith Village   Box #b",,07/09/2014
+Kentucky,Boone,Berry,"1608 East Ashley Court  Box 204",,07/18/2014
+Kentucky,Daviess,Owensboro,"4710  Towne Square Court  Box 11",,08/13/2014
+Kentucky,Jessamine,Nicholasville,"236 North N 2nd St Street",,08/15/2014
+Kentucky,Hardin,Radcliff,"437  Wood Creek Dr/woodcreek Dr Drive  Box 19",,09/16/2014
+Kentucky,Mccracken,Paducah,"1325  Jefferson Street",,10/01/2014
+Kentucky,Barren,"Cave City","200  Green Acres Drive  Box 14",,10/02/2014
+Kentucky,Grant,Crittenden,"4060  Gardnersville Rd",,10/04/2014
+Kentucky,Boyle,Danville,"1007  Queen Street",,10/05/2014
+Kentucky,Laurel,London,"413  Lewiston Rd",,10/19/2014
+Kentucky,Ohio,Hawesville,"512  Barnes Street",,10/20/2014
+Kentucky,Whitley,Williamsburg,"581  Brush Arbor Road  Box 113",,12/07/2014
+Kentucky,Rockcastle,"Mount Vernon","1812  Sweetwater Road",,12/08/2014
+Kentucky,Marshall,Benton,"525  Greenhill Drive",,12/18/2014
+Kentucky,Kenton,Covington,"411 West 19th Street",,12/21/2014
+Kentucky,Webster,Clay,"904  Elsmere Street",,01/02/2015
+Kentucky,Grayson,Leitchfield,"304  Winn Drive",,01/06/2015
+Kentucky,Webster,Clay,"2008  Mcculloch Avenue",,01/12/2015
+Kentucky,Grayson,Leitchfield,"1232  Coy Drane Road",,01/22/2015
+Kentucky,Barren,Glasgow,"1379  Whites Chapel Road",,01/28/2015
+Kentucky,Webster,Clay,"114 E 24th Street",,02/01/2015
+Kentucky,Warren,"Smiths Grove","6622  Dripping Springs Road",,02/04/2015
+Kentucky,Allen,Scottsville,"110  Moncrief Street Box 17",,02/04/2015
+Kentucky,Perry,Hazard,"515  Mulberry",,02/05/2015
+Kentucky,Knox,Gray,"1298  Hazel Fork",,02/06/2015
+Kentucky,Kenton,Covington,"1206  Pike Street",,02/13/2015
+Kentucky,Fayette,Lexington,"713  Lancaster Avenue Box B",,03/12/2015
+Kentucky,Marshall,Benton,"123  Crooked Oak Loop",,03/19/2015
+Kentucky,Perry,Dwarf,"815  Hwy 550",,03/20/2015
+Kentucky,Kenton,"Morning View","15058  Rouse Road",,03/27/2015
+Kentucky,Pike,Hellier,"111  Martin Branch",,03/30/2015
+Kentucky,Pike,"Elkhorn City","25  Left Fork Of Dry Fork",,04/11/2015
+Kentucky,Carter,Grayson,"36  Stump Run",,04/13/2015
+Kentucky,Marshall,Benton,"5460  U.s. Hwy 641 S",,04/21/2015
+Kentucky,Lincoln,"Crab Orchard","107214  Danville Road",,04/25/2015
+Kentucky,Whitley,Williamsburg,"600 Se Brush Arbor Road Box 683",,04/26/2015
+Kentucky,Kenton,"Morning View","3626  Rector Road",,05/01/2015
+Kentucky,Powell,"Clay City","9750  Winchester Road",,06/09/2015
+Kentucky,Perry,Hazard,"3000  Lost Creek",,06/11/2015
+Kentucky,Monroe,"Fountain Run","1843  Celsor Road",,06/18/2015
+Kentucky,Fayette,Lexington,"3697  Crosby Drive Box A",,07/02/2015
+Kentucky,Rockcastle,Livingston,"14  Georgia Street",,08/03/2015
+Kentucky,Daviess,Owensboro,"4100 Sw West 5th St Rd",,08/04/2015
+Kentucky,Madison,Richmond,"2918  Lexington Road",,08/06/2015
+Kentucky,Calloway,Murray,"Utterback Road",,08/09/2015
+Kentucky,Daviess,Owensboro,"4100 W West 5th Street Road",,08/11/2015
+Kentucky,Pulaski,Williamsburg,"55  Crisp Court",,09/04/2015
+Kentucky,Towner,Cumberland,"208  Henson, Apt. 3 Street",,09/08/2015
+Kentucky,Bottineau,Glasgow,"504  Willow Drive",,09/11/2015
+Kentucky,Mitchell,Artemus,"36  Appaloosa Trail",,09/15/2015
+Kentucky,Warren,"Bowling Green","1747  Walden Road",,09/15/2015
+Kentucky,Towner,Harlan,"2427  60",,10/20/2015
+Kentucky,Kenton,Erlanger,"326  Stevenson Road",,10/23/2015
+Kentucky,Carter,"Olive Hill","553 Bigrun Road",,10/27/2015
+Kentucky,Boyle,Danville,"123  Beech Street",,11/04/2015
+Kentucky,Barren,"Cave City","646  Old Ky 821 Cutoff Road",,11/10/2015
+Kentucky,Boyd,Catlettsburg,"406  28th Street",,11/13/2015
+Kentucky,Allen,Adolphus,"249  Spears",,12/06/2015
+Kentucky,Boone,Walton,"397  Rebecca Court",,12/10/2015
+Kentucky,Clark,Winchester,"280 Old Muddy Creek Rd",,08/25/2016
+Kentucky,Grayson,Leitchfield,"202 W Shain Dr",,10/13/2016
+Kentucky,Grayson,"Big Clifty","2741 Spurrier Rd",,10/25/2016
+Kentucky,Jefferson,Louisville,"454 N 25th St",,11/11/2016
+Kentucky,Clark,Winchester,"19 E Lexington Ave",,11/22/2016
+Kentucky,Letcher,Whitesburg,"100 Astor Fields Dr",,01/19/2017
+Kentucky,Mercer,Salvisa,"430 Bondville Rd",,02/03/2017
+Kentucky,Bullitt,Shepherdsville,"172 Thousands Oak Cir",,11/12/2017
+Kentucky,Cumberland,Burkesville,"118 Little Renox Rd",,12/14/2017
+Kentucky,Christian,Hopkinsville,"117 W. 15th Street",,02/01/2018
+Kentucky,Trimble,Bedford,"1174 E. Hwy  42",,03/14/2018
+Kentucky,Greenup,Greenup,"226 Perry St",,08/03/2018

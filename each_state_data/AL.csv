@@ -1,0 +1,923 @@
+state,county,city,address1,address2,date
+Alabama,Winston,Haleyville,"2240  Hogga Ridge Road",,
+Alabama,Jackson,Stevenson,"720 Co.rd 69",,01/01/2004
+Alabama,Mobile,Semmes,"6901 Mccrary Rd",,01/02/2004
+Alabama,Walker,Nauvoo,"3770  Redmill Saragossa Road",,01/03/2004
+Alabama,Mobile,Satsuma,"56 Orange Ave",,01/03/2004
+Alabama,Jackson,Stevenson,"376 County Rd 96",,01/03/2004
+Alabama,Dale,Enterprise,"23 Waters St No. 1",,01/06/2004
+Alabama,Morgan,Falkville,"23 Bell Springs Rd 1",,01/07/2004
+Alabama,Coffee,Kinston,"242 Richardson St",,01/07/2004
+Alabama,Madison,Huntsville,"3772 University Dr 279",,01/09/2004
+Alabama,Cullman,Baileyton,"297 Co Rd 1591",,01/09/2004
+Alabama,Clarke,Jackson,"302 Dubase Lane",,01/15/2004
+Alabama,Marshall,Boaz,"3041 Mnt Hebron N Rd",,01/16/2004
+Alabama,Geneva,Slocomb,"1813 Pates Rd",,01/20/2004
+Alabama,Jackson,Woodville,"11340 County 30 Rd",,01/22/2004
+Alabama,Calhoun,Ohatchee,"8934 Mudd St",,01/27/2004
+Alabama,Lee,Salem,"5433 Lee Rd 145",,01/27/2004
+Alabama,Walker,Empire,"3895  Hull Road",,01/28/2004
+Alabama,Jackson,Scottsboro,"22 Hancock E Dr",,01/29/2004
+Alabama,Houston,Dothan,"870 D Hodges Rd",,02/02/2004
+Alabama,Houston,Cottonwood,"1095 Bunlin Rd",,02/02/2004
+Alabama,Jackson,Scottsboro,"1372 C.r. 540",,02/03/2004
+Alabama,Jackson,Section,"3147 Co Rd 43",,02/04/2004
+Alabama,Mobile,Mobile,"7600 Tillman Rd",,02/04/2004
+Alabama,Marshall,Boaz,"1140 Bethsadia Rd",,02/04/2004
+Alabama,Jackson,Woodville,"31046 Sr 35 Hwy",,02/05/2004
+Alabama,Calhoun,Weaver,"705 Timberway",,02/05/2004
+Alabama,Marshall,Guntersville,"1 Cedar Ridge Dr B-8",,02/06/2004
+Alabama,Geneva,Slocomb,"103 Ewell S Rd",,02/07/2004
+Alabama,Covington,"Red Level","28453 Anna Ln",,02/09/2004
+Alabama,Mobile,Axis,"1330 Lyons Dr",,02/10/2004
+Alabama,Calhoun,Anniston,"4250 Us 431 Hwy",,02/10/2004
+Alabama,Madison,Huntsville,"2020 Golf Rd 307",,02/10/2004
+Alabama,Fayette,Eldridge,"17175 State Hwy 233",,02/11/2004
+Alabama,Walker,Jasper,"751 Anderson Rd",,02/12/2004
+Alabama,Marshall,Albertville,"4316 Hwy 75 N",,02/12/2004
+Alabama,Marshall,Albertville,"508 Hambrick Rd",,02/13/2004
+Alabama,Houston,Dothan,"1118 Saunders E Rd 1120",,02/13/2004
+Alabama,Dekalb,Fyffe,"25 Rd 9092 W",,02/16/2004
+Alabama,Dekalb,Rainsville,"426 Heston W Rd",,02/17/2004
+Alabama,Houston,Gordon,"192 Jowers Rd",,02/17/2004
+Alabama,Cherokee,Centre,"412 River S",,02/18/2004
+Alabama,Mobile,Turnerville,"3180 Dixie Rd",,02/19/2004
+Alabama,Jackson,Langston,"629 Lakeshore Dr",,02/19/2004
+Alabama,Jackson,Section,"91 Gurley Cir",,02/20/2004
+Alabama,Dekalb,"Fort Payne","2452 Co Rd 79",,02/21/2004
+Alabama,Marshall,Albertville,"138 Ham Rd",,02/22/2004
+Alabama,Marshall,Albertville,"71 Denise Rd",,02/22/2004
+Alabama,Colbert,Leighton,"437 Mccormack Ln B",,02/24/2004
+Alabama,Marshall,Horton,"178 Covey Ln",,02/24/2004
+Alabama,Coffee,Elba,"1907 County Rd 228 Rd",,02/26/2004
+Alabama,Lauderdale,Lexington,"12447 Co Rd 33",,02/27/2004
+Alabama,Coffee,Kinston,"171 Peachtree St",,02/27/2004
+Alabama,Mobile,Mobile,"9053 Keene",,02/27/2004
+Alabama,Madison,Huntsville,"10013 Memorial S Pkwy 255",,02/28/2004
+Alabama,Dekalb,Mentone,"164 653 Rd",,02/29/2004
+Alabama,Marion,Brilliant,"301 Kimbrell Dr",,03/01/2004
+Alabama,Marshall,Arab,"631 Main N St",,03/02/2004
+Alabama,Cleburne,Heflin,"5598 Us E Hwy 78",,03/05/2004
+Alabama,Franklin,"Red Bay","338 Garrison Hollow Rd",,03/06/2004
+Alabama,Madison,Huntsville,"4029 Brasewood Dr 7",,03/08/2004
+Alabama,Jackson,Scottsboro,"426 Old Larkinsville Rd",,03/08/2004
+Alabama,Lawrence,Trinity,"1065 Cr 431",,03/10/2004
+Alabama,Marshall,Boaz,"2190 Old Jordan Rd",,03/11/2004
+Alabama,Marion,Winfield,"9710 Bankhead Hwy",,03/17/2004
+Alabama,Morgan,Decatur,"5111 Willow Bend Rd",,03/18/2004
+Alabama,Geneva,Geneva,"405 Purvis W St",,03/19/2004
+Alabama,Houston,Dothan,"75 Roy Martin Rd",,03/19/2004
+Alabama,Houston,Webb,"215 Juan Cir",,03/21/2004
+Alabama,Jackson,Hollywood,"859 Ruby Johnson Dr",,03/21/2004
+Alabama,Calhoun,Oxford,"415 Mcpherson Ave",,03/25/2004
+Alabama,Jackson,Hollywood,"6759 Co 33 Rd",,03/26/2004
+Alabama,Madison,Huntsville,"4751 Governors House Dr",,03/29/2004
+Alabama,Lamar,Vernon,"345 Harrison Ct 189",,03/31/2004
+Alabama,Jackson,Hollywood,"15 Fred St",,03/31/2004
+Alabama,Jackson,Dutton,"827 County Road 150 Rd",,03/31/2004
+Alabama,Franklin,Russellville,"5443 County Line Rd",,04/01/2004
+Alabama,Marshall,Albertville,"3165 Hustleville Rd",,04/02/2004
+Alabama,Walker,Oakman,"720  Mockingbird Hill Road",,04/02/2004
+Alabama,Jefferson,Leeds,"1214 Ashville Se Rd",,04/04/2004
+Alabama,Fayette,"Glen Allen","160 County Road 73",,04/04/2004
+Alabama,Pickens,Gordo,"367 Phillips Rd",,04/05/2004
+Alabama,Coffee,Samson,"221 County Rd",,04/07/2004
+Alabama,Cherokee,Centre,"303 Williams St",,04/09/2004
+Alabama,Marion,Brilliant,"280 Carlee St 17",,04/11/2004
+Alabama,Lauderdale,Florence,"3204 Co Rd 158",,04/12/2004
+Alabama,Baldwin,Stockton,"9700 Helton Rd",,04/12/2004
+Alabama,Covington,Florala,"792 Fir St",,04/13/2004
+Alabama,Lee,"Phenix City","228 Lee Rd",,04/19/2004
+Alabama,Morgan,Priceville,"622 Tall Pines Rd",,04/20/2004
+Alabama,Marshall,Albertville,"911 Highland",,04/20/2004
+Alabama,Madison,Huntsville,"1935 Meadowbrook Dr 406",,04/21/2004
+Alabama,Calhoun,Anniston,"440 Willingham Dr",,04/25/2004
+Alabama,Dekalb,Fyffe,"9937 County 50 Rd",,04/25/2004
+Alabama,Chambers,Lafayette,"1423 County Road 102 Rd",,04/27/2004
+Alabama,Houston,Dothan,"4375 County Lot 9 Rd 203",,04/28/2004
+Alabama,Marshall,Arab,"1812 Frygap Rd",,04/29/2004
+Alabama,Dale,Daleville,"2447 Gritney S Rd",,04/30/2004
+Alabama,Houston,Madrid,"365 Bj Mixon Rd",,04/30/2004
+Alabama,Jackson,Scottsboro,"778 County 143 Rd",,05/01/2004
+Alabama,Marshall,Grant,"233 Whitaken Dr",,05/01/2004
+Alabama,Morgan,Hartselle,"1825 Peach Orchard Rd",,05/03/2004
+Alabama,Baldwin,Perdido,"56631 Splinter Hill Rd",,05/04/2004
+Alabama,Marshall,Albertville,"451 Ross Neely",,05/06/2004
+Alabama,Dale,Ozark,"222 County 317 W Rd",,05/06/2004
+Alabama,Jackson,Hollywood,"349 County 599 Rd",,05/09/2004
+Alabama,Houston,Dothan,"1118 Saunders E Rd",,05/10/2004
+Alabama,Jackson,Pisgah,"1738 Cr 134",,05/12/2004
+Alabama,Baldwin,Lillian,"9525 County 91 Rd",,05/12/2004
+Alabama,Marshall,Guntersville,"214 White Cir",,05/12/2004
+Alabama,Baldwin,Seminole,"19815 Seminole Dr",,05/13/2004
+Alabama,Mobile,Irvington,"7846 Roberson St",,05/14/2004
+Alabama,Dekalb,Ider,"3374 County 739",,05/18/2004
+Alabama,Lauderdale,Rogersville,"355 C.r. 558 Rd",,05/20/2004
+Alabama,Geneva,Chancellor,"629 County 729 Rd",,05/20/2004
+Alabama,Mobile,Theodore,"5441 Jeanette Ave",,05/20/2004
+Alabama,Calhoun,Oxford,"2218 Miller St",,05/23/2004
+Alabama,Mobile,Mobile,"2716 Dauphin Island Pkwy 15",,05/25/2004
+Alabama,Fayette,Eldridge,"6540 Co Rd 24",,05/26/2004
+Alabama,Calhoun,Jacksonville,"1520 Church Se St Lot 6",,05/27/2004
+Alabama,Coffee,"New Brockton","201 Johns S St",,05/27/2004
+Alabama,Marshall,"Union Grove","783 Green Brian Gove S Rd",,05/27/2004
+Alabama,Coffee,Enterprise,"1591 Park E Ave 114",,05/29/2004
+Alabama,Covington,Florala,"25488 5th Ave",,06/01/2004
+Alabama,Coffee,Brantley,"112 348 County Road",,06/02/2004
+Alabama,Morgan,Decatur,"63 Marco Dr 224",,06/03/2004
+Alabama,Lawrence,Moulton,"95 Cr 510",,06/03/2004
+Alabama,Houston,Kinsey,"2686 Watson Bridge Rd",,06/04/2004
+Alabama,Covington,Andalusia,"23591 Harmony Church Rd",,06/07/2004
+Alabama,Mobile,Mobile,"375 Hillcrest Rd R 201",,06/09/2004
+Alabama,Lee,Auburn,"570 Lee Rd",,06/10/2004
+Alabama,Marshall,Albertville,"911 Highland St",,06/11/2004
+Alabama,Tuscaloosa,Northport,"16065  Acker Sour Road",,06/12/2004
+Alabama,Tuscaloosa,Vance,"11213 Hen Smith Road",,06/15/2004
+Alabama,Cleburne,Muscadine,"701 County Road 485 Rd",,06/16/2004
+Alabama,Jackson,Pisgah,"1210 County Road 357",,06/18/2004
+Alabama,Lee,"Smiths Station","295 Lee Road 876",,07/01/2004
+Alabama,Marshall,Arab,"134 Foothill Cir",,07/02/2004
+Alabama,Marion,Winfield,"270 Co Road 47",,07/05/2004
+Alabama,Chambers,Lanett,"2314 Broad Ave",,07/06/2004
+Alabama,Jackson,Woodville,"100 Cobb St",,07/08/2004
+Alabama,Calhoun,"De Armanville","2445 Dearmanville Rd C-4",,07/08/2004
+Alabama,Morgan,"Union Grove","110 Prince Rd",,07/09/2004
+Alabama,Coffee,Kinston,"197 County Road 5 Rd",,07/12/2004
+Alabama,Houston,Pansey,"525 Parrish Rd",,07/16/2004
+Alabama,Morgan,Hartselle,"592 Cedar Cove S Rd",,07/17/2004
+Alabama,Calhoun,Anniston,"4620 Sprauge Ave Lot 2",,07/19/2004
+Alabama,Mobile,Mobile,"9611 New Neck Rd C",,07/21/2004
+Alabama,Lawrence,Moulton,"2658 Cr 181",,07/24/2004
+Alabama,Blount,Hayden,"590 Shipp Rd",,07/24/2004
+Alabama,Talladega,Childersburg,"174 Park Lane",,07/27/2004
+Alabama,Montgomery,"Pine Level","5026 Moore Rd",,07/30/2004
+Alabama,Jackson,Pisgah,"3312 County Road 60 Rd",,07/30/2004
+Alabama,Jackson,Scottsboro,"1483 Co. Rd 138",,08/06/2004
+Alabama,Mobile,Mobile,"4312 Huntington Dr",,08/09/2004
+Alabama,Jackson,Scottsboro,"409 Ponroy St",,08/09/2004
+Alabama,Jackson,Scottsboro,"243 Mcfoilton Ln",,08/11/2004
+Alabama,Pike,Brundidge,"937 Co Rd 107",,08/11/2004
+Alabama,Jackson,Woodville,"440 Co Rd 500",,08/11/2004
+Alabama,Morgan,Hartselle,"67 Forest Chappel Rd",,08/11/2004
+Alabama,Geneva,Samson,"123 Fink Farm Rd",,08/13/2004
+Alabama,Dekalb,Sylvania,"121 County 884 Rd",,08/14/2004
+Alabama,Geneva,Hartford,"971 T. Peacock Rd",,08/17/2004
+Alabama,Jackson,Woodville,"733 Cavern Cove Rd",,08/19/2004
+Alabama,Coffee,Enterprise,"8543 County Road 636",,08/24/2004
+Alabama,Houston,Dothan,"114 Mattie Ln",,08/24/2004
+Alabama,Mobile,Mobile,"5498 Inn Rd 111",,08/25/2004
+Alabama,Pickens,Reform,"234 Chicken House Rd",,08/26/2004
+Alabama,Baldwin,Foley,"126 County Road 20 W 206",,08/27/2004
+Alabama,Jefferson,Dora,"8850 County Line Rd",,08/31/2004
+Alabama,Jackson,Stevenson,"Lot 3 Ep Kimball Trl Pk/277 Hwy",,08/31/2004
+Alabama,Calhoun,Anniston,"1001 Bynum Leatherwood Rd",,09/01/2004
+Alabama,Escambia,Atmore,"2444 Deer Creek Rd",,09/01/2004
+Alabama,Etowah,Boaz,"101 Walnut St",,09/03/2004
+Alabama,Geneva,Geneva,"2131 Goathill W Rd",,09/07/2004
+Alabama,Cullman,Cullman,"640 Co Rd 1127",,09/08/2004
+Alabama,Jackson,Scottsboro,"390 Crawford Rd",,09/08/2004
+Alabama,Dekalb,"Grove Oak","936 County 552",,09/11/2004
+Alabama,Dekalb,Henagar,"13009 Al Hwy 75 N",,09/15/2004
+Alabama,Houston,Ashford,"1121 Broadway N St Lot 11",,09/17/2004
+Alabama,Dekalb,Rainsville,"278 Croft St",,09/22/2004
+Alabama,Houston,Dothan,"1604 Hodgesville Rd C-601",,09/24/2004
+Alabama,Cullman,Cullman,"8840 Al Hwy 157",,09/27/2004
+Alabama,Madison,Madison,"100 Carmine Cir",,09/30/2004
+Alabama,Calhoun,Anniston,"207 Brenda Rd",,09/30/2004
+Alabama,Houston,Dothan,"200 B Sweet Gnm Rd",,09/30/2004
+Alabama,Calhoun,Anniston,"176 Marion Dr",,10/05/2004
+Alabama,"St. Clair",Ragland,"8726  County Road 26",,10/09/2004
+Alabama,Crenshaw,Luverne,"14 Forrest S Ave 14",,10/13/2004
+Alabama,Dekalb,Ider,"130 Woodland Dr",,10/13/2004
+Alabama,Dale,Ozark,"11511 Hwy 27",,10/13/2004
+Alabama,Baldwin,"Gulf Shores","2151 Meeker Ln",,10/14/2004
+Alabama,Morgan,Hartselle,"339 Church E Rd",,10/18/2004
+Alabama,Jackson,Scottsboro,"18979 35 W Hwy",,10/19/2004
+Alabama,Pike,Troy,"1101 Shelhorn Rd 258",,10/20/2004
+Alabama,Jefferson,Birmingham,"212 Cahaba Forest Cove",,10/20/2004
+Alabama,Dekalb,Crossville,"201 Graves St",,10/25/2004
+Alabama,Pickens,Kennedy,"3949 Co Rd 59",,10/26/2004
+Alabama,Geneva,Geneva,"2837 County Rd",,10/26/2004
+Alabama,Houston,Dothan,"6235 Fortner",,10/29/2004
+Alabama,Dekalb,"Fort Payne","215 Co Rd 293",,10/29/2004
+Alabama,Lee,Opelika,"3305 King Ave",,11/02/2004
+Alabama,Geneva,Samson,"403 Ewing W St",,11/02/2004
+Alabama,Marshall,Arab,"1891 Friendship Rd",,11/04/2004
+Alabama,Mobile,"Eight Mile","4875 Whigham Rd 2",,11/05/2004
+Alabama,Conecuh,Repton,"923 Lakeview Dr",,11/07/2004
+Alabama,Marshall,Guntersville,"5277 Alabama Hwy 79 North Hwy",,11/08/2004
+Alabama,Calhoun,Anniston,"2130 Woodland Ave",,11/09/2004
+Alabama,Choctaw,Lisman,"84 Paradise Rd",,11/09/2004
+Alabama,Houston,Dothan,"1118 Saunders E Rd Lot 19",,11/10/2004
+Alabama,Marion,Winfield,"5215 129 State N Hwy",,11/11/2004
+Alabama,Houston,Dothan,"1100 Forester Rd Lot 11",,11/17/2004
+Alabama,Jackson,Scottsboro,"2920 Julie Dr",,11/18/2004
+Alabama,Jackson,Scottsboro,"503 Short St",,11/23/2004
+Alabama,Jackson,Scottsboro,"2770 Old Larkinsville Rd",,11/29/2004
+Alabama,Baldwin,Summerdale,"17761 County Road 28 Rd C",,12/01/2004
+Alabama,Covington,Opp,"1300 Old Perry Store Rd",,12/02/2004
+Alabama,Russell,,"1982 Sanford Road Lot 16",,12/05/2004
+Alabama,Cullman,Cullman,"4588 Cr 222",,12/06/2004
+Alabama,Talladega,Oxford,"787  Hj Bentley Parkway",,12/08/2004
+Alabama,Cullman,Cullman,"284 Co Rd 109",,12/09/2004
+Alabama,Houston,Ashford,"4469 Cedar Springs Rd",,12/09/2004
+Alabama,Dale,Ozark,"517 Broad E St",,12/10/2004
+Alabama,Marshall,Arab,"432 Boulder Rd",,12/10/2004
+Alabama,Morgan,Hartselle,"806 Hodges Nw St",,12/12/2004
+Alabama,Morgan,Madison,"201  Waterhill Road K 15",,12/12/2004
+Alabama,Dekalb,"Grove Oak","357 Co Rd 820",,12/15/2004
+Alabama,Covington,Andalusia,"301 Pugh St",,12/15/2004
+Alabama,Dekalb,"Fort Payne","276 County Road 81",,12/17/2004
+Alabama,Cullman,Hanceville,"78 Co Rd 531",,12/18/2004
+Alabama,Houston,Dothan,"204 Southport W Dr",,12/23/2004
+Alabama,Escambia,Brewton,"492 Crook Rd",,12/27/2004
+Alabama,Baldwin,Daphne,"500 Grant St D213",,12/28/2004
+Alabama,Dekalb,"Fort Payne","1968 Godfrey Ne Ave",,12/29/2004
+Alabama,Lee,"Smiths Station","245 Lee Road 596",,12/29/2004
+Alabama,Cullman,Hanceville,"116 Co Rd 483",,12/29/2004
+Alabama,Morgan,Hartselle,"199 Mayfield Rd",,01/03/2005
+Alabama,Walker,"Carbon Hill","266 Aultman Rd",,01/05/2005
+Alabama,Marshall,"Union Grove","14621 Us Hwy 231 Hwy",,01/07/2005
+Alabama,Dale,"Level Plains","159 G St",,01/10/2005
+Alabama,Etowah,Boaz,"99 Hayden Rd",,01/10/2005
+Alabama,Dekalb,"Fort Payne","311 Barry St",,01/10/2005
+Alabama,Jefferson,Warrior,"9385 Miller Rd",,01/12/2005
+Alabama,Jackson,Scottsboro,"2207 Broad S St",,01/12/2005
+Alabama,Mobile,Mobile,"5051 Camalot Dr",,01/15/2005
+Alabama,Etowah,Boaz,"907 Ingram St",,01/21/2005
+Alabama,Houston,Webb,"1055 Enon Rd",,01/21/2005
+Alabama,Lee,Salem,"1636 Lee Rd 246",,01/22/2005
+Alabama,Jackson,Dutton,"6972 Co Rd 124",,01/25/2005
+Alabama,Jackson,Stevenson,"376 Stcam Plant Rd 10",,01/25/2005
+Alabama,Morgan,Somerville,"7727 West Point Rd",,01/27/2005
+Alabama,Jackson,Scottsboro,"79 Bibb Ave",,01/27/2005
+Alabama,Marshall,Grant,"85 Lee Master Ln",,01/30/2005
+Alabama,Henry,Newville,"388 Bawdin St",,02/01/2005
+Alabama,Blount,Hayden,"911 Elvester Rd",,02/10/2005
+Alabama,Chilton,Jemison,"4659 Highway 191",,02/11/2005
+Alabama,Marshall,Horton,"83882 Us Hwy 278",,02/11/2005
+Alabama,Coffee,Enterprise,"845 County Road 606",,02/11/2005
+Alabama,Tuscaloosa,Cottondale,"7175  Spring Drive",,02/12/2005
+Alabama,Jackson,Scottsboro,"703 Walsh Ave",,02/14/2005
+Alabama,Dekalb,Rainsville,"426 Heaton Rd",,02/15/2005
+Alabama,Jackson,Dutton,"2583 Co. Rd 18",,02/17/2005
+Alabama,Jefferson,Warrior,"3035 Nail Rd",,02/18/2005
+Alabama,Dekalb,"Fort Payne","141 Co Rd 678",,02/20/2005
+Alabama,Macon,Notasulga,"320 Main E St",,02/20/2005
+Alabama,Covington,Florala,"1602 4th St",,02/22/2005
+Alabama,Marion,Eldridge,"407 Farris Rd",,02/23/2005
+Alabama,Jackson,Scottsboro,"149 Pickens Dr",,02/23/2005
+Alabama,Jackson,Bridgeport,"1949 County Rd",,02/24/2005
+Alabama,Geneva,Samson,"3163 Alaflo Rd",,03/01/2005
+Alabama,Mobile,Mobile,"1019 Smith Ave",,03/02/2005
+Alabama,Jackson,Bridgeport,"49064 A1 Hwy 277 Hwy",,03/02/2005
+Alabama,Talladega,Talladega,"209 West North Street 3",,03/06/2005
+Alabama,Jackson,Scottsboro,"106 Olinger Rd",,03/14/2005
+Alabama,Morgan,Hartselle,"1508 Rustic Ln 201",,03/16/2005
+Alabama,Montgomery,Montgomery,"325 Third Street",,03/17/2005
+Alabama,Jefferson,Birmingham,"2700 Ray St",,03/23/2005
+Alabama,Morgan,Decatur,"4963 Luxer Se Rd",,03/28/2005
+Alabama,Pike,Troy,"131 Childs Road",,03/29/2005
+Alabama,Jackson,Hollywood,"981 Co Rd 213",,03/30/2005
+Alabama,Jackson,Stevenson,"256 Co. Rd. 135",,04/04/2005
+Alabama,Madison,Huntsville,"3610 Mcvay St 2",,04/07/2005
+Alabama,Blount,Trafford,"23 Smith Mill Rd Lot 4",,04/07/2005
+Alabama,Shelby,Calera,"1398  9th Ave",,04/08/2005
+Alabama,Jackson,Bridgeport,"720 Hamlin Ave",,04/12/2005
+Alabama,Jackson,Scottsboro,"215 Joy Dr",,04/12/2005
+Alabama,Morgan,Somerville,"1167 Charist Rd",,04/13/2005
+Alabama,Marshall,Arab,"785 Main S St Lot. 20",,04/13/2005
+Alabama,Jackson,Scottsboro,"375 Maples Dr",,04/15/2005
+Alabama,Geneva,Geneva,"2615 State Hwy 85 N",,04/16/2005
+Alabama,Jackson,"Paint Rock","2072 County 10 Rd",,04/19/2005
+Alabama,Baldwin,"Gulf Shores","336a East 3rd St A",,04/22/2005
+Alabama,Houston,Cottonwood,"98 St. Mary Rd",,04/26/2005
+Alabama,Shelby,Pelham,"1902  Highway 31 South  427",,04/28/2005
+Alabama,Morgan,Hartselle,"1150 Railroad N St",,04/28/2005
+Alabama,Lee,Valley,"500 Lee Rd/ 360 Valley",,05/02/2005
+Alabama,Houston,Dothan,"2129 Iris Rd Lot 5",,05/05/2005
+Alabama,Calhoun,Anniston,"2325 Noble St",,05/06/2005
+Alabama,Geneva,Samson,"6388 State Hwy 54",,05/06/2005
+Alabama,Calhoun,Anniston,"116 29th W St",,05/06/2005
+Alabama,Houston,Dothan,"446 Sunrise Dr",,05/07/2005
+Alabama,Talladega,Alpine,"5 Pleasure Point Road",,05/11/2005
+Alabama,Morgan,Decatur,"1451 New Center Rd",,05/13/2005
+Alabama,Coffee,Enterprise,"442 Paul St",,05/13/2005
+Alabama,Jackson,Scottsboro,"253 County Road 470",,05/17/2005
+Alabama,Coffee,Elba,"11010 State Hwy 125",,05/17/2005
+Alabama,Houston,Dothan,"451 Oates S St 1",,05/18/2005
+Alabama,Calhoun,Anniston,"169 Woodmist Ln",,05/19/2005
+Alabama,Morgan,Somerville,"1167 Cherish Rd",,05/27/2005
+Alabama,Calhoun,Anniston,"101 54th St. E St Lot #10",,06/03/2005
+Alabama,Morgan,Decatur,"3312 Upper River E Rd",,06/04/2005
+Alabama,Dale,Newton,"14237 84 W Hwy",,06/06/2005
+Alabama,Mobile,,"62 11th Ave",,06/06/2005
+Alabama,Dekalb,Rainsville,"1217 Co Rd 570",,06/12/2005
+Alabama,Cullman,Joppa,"43 Hillside View Rd",,06/14/2005
+Alabama,Jackson,Woodville,"251 Co. Rd. 222",,06/18/2005
+Alabama,Jackson,Trenton,"229 Main St",,06/28/2005
+Alabama,Marshall,Grant,"3430 Old New Hope Highway",,07/13/2005
+Alabama,"St. Clair",Leeds,"1832 Ashville Road",,07/21/2005
+Alabama,Dekalb,"Valley Head","40646 Hwy 11 N",,08/03/2005
+Alabama,Chilton,Jemison,"161 Co. Rd. 781",,08/03/2005
+Alabama,Morgan,Trinity,"3438  Gordon Terry Pkwy Parkway",,08/12/2005
+Alabama,Jackson,Woodville,"1349 Co. Rd 317",,08/22/2005
+Alabama,Shelby,Vincent,"132  Rolling Meadows Lane",,08/27/2005
+Alabama,Jefferson,Irondale,"218 24th N St",,08/28/2005
+Alabama,Geneva,Chancellor,"9730 Al N St",,08/30/2005
+Alabama,Madison,Huntsville,"3009 Vanderbilt Dr 26",,09/04/2005
+Alabama,Dekalb,"Fort Payne","706 Cave Sw St",,09/05/2005
+Alabama,Jackson,Woodville,"3984 County Rd 30",,09/06/2005
+Alabama,Houston,Dothan,"4379 County Rd Lot 6",,09/06/2005
+Alabama,Morgan,Somerville,"8 Rosemont Dr",,09/06/2005
+Alabama,Madison,"Hazel Green","109 Sublimity Ct",,09/07/2005
+Alabama,Marion,Winfield,"2256 State Hwy 253",,09/08/2005
+Alabama,Crenshaw,Brantley,"10136 Hwy 141",,09/14/2005
+Alabama,Mobile,Chickasaw,"619 Hwy 43",,10/04/2005
+Alabama,Dekalb,Fyffe,"1006 Co Rd 538",,10/05/2005
+Alabama,Walker,Jasper,"7738 Ok/birmingham Hwy",,10/11/2005
+Alabama,Houston,Dothan,"2129 Iris Rd 7",,10/12/2005
+Alabama,Marion,Winfield,"6219 State Hwy 129",,10/12/2005
+Alabama,Houston,Dothan,"205 Petunia Dr",,10/19/2005
+Alabama,Dekalb,Rainsville,"860 Jones Rd",,11/03/2005
+Alabama,Jackson,Pisgah,"940 Co Rd 339",,11/29/2005
+Alabama,Coffee,"New Brockton","16485 Hwy 167 North",,01/03/2006
+Alabama,Calhoun,Jacksonville,"69 Roberts Chapel Rd",,01/03/2006
+Alabama,Cherokee,Centre,"107 Auburn St",,01/08/2006
+Alabama,Morgan,Eva,"1015 Daniels Chapel Rd",,01/11/2006
+Alabama,Houston,Cowarts,"1190 North Broad Street",,01/12/2006
+Alabama,Dekalb,Henagar,"1891 County 651 Road",,01/15/2006
+Alabama,Coffee,Kinston,"7545 Hwy 189 S",,01/18/2006
+Alabama,Marion,Guin,"358 Hyw 44",,01/19/2006
+Alabama,Limestone,Elkmont,"21215 Sandlin Rd",,01/19/2006
+Alabama,Houston,Columbia,"1556 Benton Store Road",,01/21/2006
+Alabama,Houston,Dothan,"6235 Fortner Street",,01/25/2006
+Alabama,Jackson,Stevenson,"205 Cotton W",,01/30/2006
+Alabama,Jefferson,Birmingham,"4221 Shades Crest S Rd",,02/01/2006
+Alabama,Lee,Opelika,"343 Lee Road 117",,02/07/2006
+Alabama,Coffee,Elba,"681 County Road 401",,02/10/2006
+Alabama,Madison,Huntsville,"244 Ohatchee Rd 1",,02/13/2006
+Alabama,Covington,Dozier,"31979 Hwy 29 North",,02/22/2006
+Alabama,Houston,Slocomb,"345 Harden Road",,02/23/2006
+Alabama,Mobile,Semmes,"10561 South Wulff Road D",,03/02/2006
+Alabama,Geneva,Hartford,"198 Wheat Lane",,03/05/2006
+Alabama,Dekalb,Crossville,"129 County Road 389",,03/08/2006
+Alabama,Houston,Dothan,"12931 County Road 33",,03/09/2006
+Alabama,Calhoun,Anniston,"148 Chelsi Lane",,03/10/2006
+Alabama,Houston,Dothan,"212 West Saunders Road",,03/10/2006
+Alabama,Jefferson,Homewood,"409 Edgecrest Drive 3",,03/10/2006
+Alabama,Coffee,Elba,"445 Forest Hills Drive",,03/13/2006
+Alabama,Coffee,Jack,"1141 County Road 201",,03/21/2006
+Alabama,Houston,Webb,"488 Gilley Mill Road",,03/21/2006
+Alabama,Calhoun,Anniston,"807 Bancroft",,03/21/2006
+Alabama,Houston,Dothan,"55 Eastgate Drive",,03/22/2006
+Alabama,Henry,Headland,"903 Early Walden Road",,03/27/2006
+Alabama,Morgan,Decatur,"134 Southwest Mcentire Lane B14",,03/28/2006
+Alabama,Madison,Huntsville,"705 Hal Street",,04/05/2006
+Alabama,Houston,Webb,"2780 Enon Road",,04/06/2006
+Alabama,Morgan,Eva,"196 James Fowler Road Rd",,04/06/2006
+Alabama,Houston,Webb,"930 Furnie Folks Road",,04/14/2006
+Alabama,Colbert,Cherokee,"3035 Allsboro Road",,04/14/2006
+Alabama,Houston,Dothan,"443 Fortson Road",,05/01/2006
+Alabama,Russell,"Phenix City","4599 West Us Hwy 80",,05/03/2006
+Alabama,Coffee,Elba,"681 Co Rd 401",,05/03/2006
+Alabama,Talladega,Sylacauga,"796 Heasletts Rd",,05/03/2006
+Alabama,Covington,Florala,"25294 5th Avenue",,05/09/2006
+Alabama,Marion,Winfield,"300 Fairmont Loop",,05/09/2006
+Alabama,Dekalb,"Fort Payne","16708 Hwy 176 Highway",,05/09/2006
+Alabama,Coffee,Brundidge,"6535 County Road 105",,05/10/2006
+Alabama,Russell,"Phenix City","233 Debbie Court",,05/11/2006
+Alabama,Coffee,Enterprise,"300 Raven Street",,05/15/2006
+Alabama,Dekalb,"Fort Payne","3229 County Rd 101",,05/15/2006
+Alabama,Russell,"Phenix City","1508 21st Street",,05/18/2006
+Alabama,Morgan,Hartselle,"4120 Barkley Bridge Road",,05/22/2006
+Alabama,Cherokee,Centre,"327 Ray Street",,05/24/2006
+Alabama,Houston,Ashford,"1049 South Co Rd 33",,05/30/2006
+Alabama,Covington,Florala,"2010 West 7th Avenue",,05/31/2006
+Alabama,Coffee,"New Brockton","1155 County Road 615",,05/31/2006
+Alabama,Escambia,Brewton,"23046 Highway 29",,06/05/2006
+Alabama,Houston,Dothan,"2768 Webb Road",,06/07/2006
+Alabama,Houston,Dothan,"4148 West Cook Road",,06/13/2006
+Alabama,Covington,Florala,"22464 7th Avenue",,06/20/2006
+Alabama,Houston,Dothan,"918 South Oates Street",,06/28/2006
+Alabama,Marion,Winfield,"6219 Alabama I29",,06/28/2006
+Alabama,Pike,Brundidge,"County Road 3339 Lot1-2",,06/30/2006
+Alabama,Marion,Hackleburg,"6186 County Hwy 12",,07/05/2006
+Alabama,Chambers,Valley,"1110 Myhand Street",,07/09/2006
+Alabama,Morgan,Decatur,"14 Big Sky Pvt Drive",,07/11/2006
+Alabama,Jackson,Scottsboro,"71 East John Rob",,07/11/2006
+Alabama,Cherokee,Centre,"1017 1st Avenue",,07/11/2006
+Alabama,Marion,Guin,"261 Burleson Road",,07/18/2006
+Alabama,Marion,Hamilton,"261 Old Ivie Trail",,07/20/2006
+Alabama,Lawrence,Trinity,"1255 Co Rd 319",,08/10/2006
+Alabama,Lauderdale,Lexington,"217 Justin Lane",,08/22/2006
+Alabama,Jackson,Woodville,"11736 County Road 17",,08/24/2006
+Alabama,Morgan,Eva,"202 Bethel Church Road",,08/26/2006
+Alabama,Cherokee,Gaylesville,"400 County Road 114",,09/01/2006
+Alabama,Morgan,Somerville,"5083 Hwy 36 E",,09/10/2006
+Alabama,Jackson,Stevenson,"145 County Road 305",,09/25/2006
+Alabama,Cleburne,Heflin,"1701 Almon Street 11",,10/07/2006
+Alabama,Madison,"Hazel Green","496 Ready Section Road",,10/11/2006
+Alabama,Marion,Hamilton,"251 Maple Lane Road",,10/23/2006
+Alabama,Dekalb,"Fort Payne","605 Fruit Farm Road",,10/25/2006
+Alabama,Marion,Hackleburg,"355 Mitchell Loop Loop",,10/28/2006
+Alabama,Dekalb,"Fort Payne","449 County Road 74",,10/30/2006
+Alabama,Marion,Winfield,"507 Meadowlark Road",,11/13/2006
+Alabama,Morgan,"Laceys Spring","43 School Rd",,11/26/2006
+Alabama,Dekalb,"Fort Payne","203 Northeast 20th Street",,11/27/2006
+Alabama,Jackson,Woodville,"1465 Co Rd 183",,11/29/2006
+Alabama,Madison,"New Hope","1188 Low Gap Road",,11/30/2006
+Alabama,Jackson,Woodville,"3984 County Road 8",,12/04/2006
+Alabama,Cherokee,Leesburg,"2135 County Road 166",,12/11/2006
+Alabama,Cherokee,Centre,"130 County Road 557",,12/15/2006
+Alabama,Marion,Hackleburg,"29745 State Highway 253",,01/02/2007
+Alabama,Jackson,Stevenson,"641 County Road",,02/19/2007
+Alabama,Jackson,Bridgeport,"40 Co Rd 280",,02/21/2007
+Alabama,Morgan,Hartselle,"610 Tall Pine Road",,02/27/2007
+Alabama,Jackson,Bryant,"1910 County 131 Road",,03/28/2007
+Alabama,Jackson,Bridgeport,"265 Dogwood Lane",,04/06/2007
+Alabama,Marion,Guin,"1215 Scufflegrit Road",,04/06/2007
+Alabama,Shelby,Montevallo,"22  Arwood Dr",,04/16/2007
+Alabama,Tallapoosa,Dadeville,"278 Tomlin Rd",,04/16/2007
+Alabama,Madison,"Owens Cross Roads","530 Lyons Road",,04/23/2007
+Alabama,Jackson,Hollywood,"3983 County Road 42",,04/30/2007
+Alabama,Jackson,Woodville,"1349 County 317 Road",,05/03/2007
+Alabama,Jackson,Higdon,"2246 County 95 Road",,05/08/2007
+Alabama,Mobile,Mobile,"417 5th Avenue",,05/09/2007
+Alabama,Morgan,Hartselle,"310 Southwest Gilcrist Street",,05/09/2007
+Alabama,Talladega,Sylacauga,"602 New County Line Rd.",,05/19/2007
+Alabama,Morgan,"Laceys Spring","470 Buster Owen Road",,05/25/2007
+Alabama,Limestone,Elkmont,"30800 Veto Road",,06/23/2007
+Alabama,Jackson,Dutton,"875 County Road 423",,07/07/2007
+Alabama,Madison,Ardmore,"1413 Macedonia Road",,08/08/2007
+Alabama,Morgan,Joppa,"5753 Apple Grove Rd",,08/13/2007
+Alabama,Marion,Eldridge,"407 Farris Road",,08/17/2007
+Alabama,Marion,Winfield,"4048 County Hwy 38",,08/20/2007
+Alabama,Jackson,Scottsboro,"169 East Winesap Road",,08/23/2007
+Alabama,Talladega,Eastaboga,"3184 Richeytown Road",,09/10/2007
+Alabama,Talladega,Sylacauga,"201 South Davis Avenue",,09/18/2007
+Alabama,Jackson,Scottsboro,"948 Co Rd 30",,09/27/2007
+Alabama,Marion,Hamilton,"280 Elgin Cochran Road",,10/10/2007
+Alabama,Morgan,Hartselle,"4198 Barkley Bridge Road",,10/14/2007
+Alabama,Lawrence,Moulton,"417 South St",,10/18/2007
+Alabama,Franklin,Vina,"507 Barker Road",,11/01/2007
+Alabama,Walker,"Carbon Hill","981 Northeast 2nd Avenue",,11/06/2007
+Alabama,Marion,Winfield,"445 Hubbert Dairy Road",,11/08/2007
+Alabama,Morgan,Baileyton,"128 Ryan Loop Road",,11/09/2007
+Alabama,Morgan,"Laceys Spring","216 Glengarry Drive",,11/10/2007
+Alabama,Franklin,Russellville,"10331 South 43 Highway",,11/28/2007
+Alabama,Morgan,Decatur,"929 Southwest Vestavia Drive",,11/28/2007
+Alabama,Marion,Hamilton,"1580 Co Hwy 29",,12/07/2007
+Alabama,Madison,Toney,"288 Brian Drive 6",,12/08/2007
+Alabama,Jackson,Woodville,"5300 County Road 8",,12/11/2007
+Alabama,Tuscaloosa,Duncanville,"3750 Bear Ridge Rd",,12/14/2007
+Alabama,Talladega,Childersburg,"1265 14th Se St",,12/21/2007
+Alabama,Marion,Guin,"6740 43 Highway Lot 12",,12/29/2007
+Alabama,Tuscaloosa,Tuscaloosa,"1206 Bear Creek E Rd Lot 109",,01/07/2008
+Alabama,Cherokee,"Cedar Bluff","215 Co Rd 610",,01/08/2008
+Alabama,Walker,Quinton,"79 Reeds Ferry Road",,01/14/2008
+Alabama,Colbert,Russellville,"1675 Elm Lane",,01/14/2008
+Alabama,Walker,Sumiton,"1932 Hull Road",,01/15/2008
+Alabama,Marion,Haleyville,"617 County Line Church Road",,01/15/2008
+Alabama,Tuscaloosa,Coker,"13540 Orangewood Drive",,01/17/2008
+Alabama,Marion,Brilliant,"207 Crook Street 90",,01/19/2008
+Alabama,Marion,Hamilton,"163 Orange Street",,01/22/2008
+Alabama,Franklin,Hodges,"7929 Hwy 172",,01/24/2008
+Alabama,Marion,Hamilton,"5880 County Highway 20",,01/28/2008
+Alabama,Walker,Quinsey,"203  Crane Creek Lane",,01/30/2008
+Alabama,Marion,Guin,"385 Burleson Road 25",,01/30/2008
+Alabama,Marion,Brilliant,"290 Holcomb Street",,02/05/2008
+Alabama,Cherokee,Centre,"2010 Co Rd 65",,02/06/2008
+Alabama,Morgan,Hartselle,"141 Maze Drive",,02/07/2008
+Alabama,Cherokee,Leesburg,"145 Co Rd 452",,02/07/2008
+Alabama,Walker,"Carbon Hill","290 Holcomb St",,02/11/2008
+Alabama,Marion,Guin,"179 State Hwy 44",,02/13/2008
+Alabama,Lawrence,Moulton,"925 Southeast Franklin Smith Road",,02/13/2008
+Alabama,Clarke,Clarke,"641 Rural Road",,02/18/2008
+Alabama,Marion,Hamilton,"188 National Avenue 1",,02/19/2008
+Alabama,Franklin,"Phil Campbell","194 Black Church Road",,02/25/2008
+Alabama,Talladega,Sylacauga,"35984 280 Highway",,02/28/2008
+Alabama,Franklin,Russellville,"100 Town And Country Lot F-6",,02/28/2008
+Alabama,Lauderdale,Rogersville,"1049 Co Rd 540",,03/01/2008
+Alabama,Jackson,Scottsboro,"137 Cowley Lane",,03/03/2008
+Alabama,Cherokee,Piedmont,"77 C/r 27",,03/04/2008
+Alabama,Calhoun,Anniston,"704 Mountain Drive",,03/05/2008
+Alabama,Marion,Guin,"2121 Co Hwy 2",,03/05/2008
+Alabama,Talladega,Munford,"226 Buckhorn Road",,03/06/2008
+Alabama,Calhoun,Anniston,"4500 Sprague Avenue 82",,03/07/2008
+Alabama,Morgan,"Laceys Spring","63 Riverdale Road",,03/09/2008
+Alabama,Marion,"Bear Creek","2610 State Highway 241",,03/10/2008
+Alabama,Madison,Huntsville,"1354 Old Monrovia Road",,03/11/2008
+Alabama,Morgan,Hartselle,"1903 Pinehurst Street",,03/12/2008
+Alabama,Franklin,Vina,"8036 19 Highway",,03/14/2008
+Alabama,Tuscaloosa,Moundville,"11637  Kirby Wyatt Drive",,03/19/2008
+Alabama,Marion,Guin,"1090 Co Hwy 54",,03/19/2008
+Alabama,Dekalb,Collinsville,"2324 Co Rd 469",,03/22/2008
+Alabama,Tuscaloosa,Cottondale,"6260 East 18th Street",,03/24/2008
+Alabama,Jackson,Pisgah,"470 Co Rd 456",,03/26/2008
+Alabama,Lamar,Millport,"367 Burgess Road",,03/29/2008
+Alabama,Cherokee,Gaylesville,"265 C/r 563",,03/30/2008
+Alabama,Lamar,Sulligent,"2904 West 18 Highway",,03/31/2008
+Alabama,Jackson,Section,"6713 Co Rd 43",,04/03/2008
+Alabama,Talladega,Sylacauga,"217  Smith Avenida",,04/10/2008
+Alabama,Lamar,Vernon,"1381 Northwest 11th Street",,04/10/2008
+Alabama,Jackson,Pisgah,"75 Co Rd 60",,04/11/2008
+Alabama,Morgan,Hartselle,"55 Terry Road",,04/12/2008
+Alabama,Talladega,Munford,"3499 Mcelderry Road",,04/15/2008
+Alabama,Morgan,Eva,"747 Keller Hollow Road",,04/17/2008
+Alabama,Marion,Guin,"170 Old Bluff Road",,04/18/2008
+Alabama,Cherokee,Gaylesville,"2603 Co Rd 41",,04/19/2008
+Alabama,Franklin,"Phil Campbell","1114 Baker Road",,04/22/2008
+Alabama,Franklin,"Phil Campbell","4274 20 Highway",,04/25/2008
+Alabama,Marion,Hamilton,"132 Sunflower Drive",,05/05/2008
+Alabama,Tallapoosa,Dadeville,"274 Sunset Lane",,05/05/2008
+Alabama,Lamar,Vernon,"2448 Beaver Creek Road",,05/06/2008
+Alabama,Dekalb,Sylvania,"133 3rd Street",,05/06/2008
+Alabama,Franklin,Haleyville,"987 92 Highway",,05/10/2008
+Alabama,"St. Clair",Springville,"6515  County Road 31",,05/12/2008
+Alabama,Franklin,Vina,"2123 Co Hwy 9",,05/14/2008
+Alabama,Madison,Huntsville,"1013 Hampton Falls Boulevard 728",,05/18/2008
+Alabama,Morgan,Hartselle,"1004 Mtwede Street #9",,05/23/2008
+Alabama,Coosa,Equality,"615 Cook Road",,05/26/2008
+Alabama,Talladega,Eastaboga,"94 Country Ln",,05/28/2008
+Alabama,Walker,Cordova,"122 Holly Road",,05/29/2008
+Alabama,Walker,Cordova,"174  Nashua Circle",,05/29/2008
+Alabama,Marion,Brilliant,"270 Co Rd 59",,05/30/2008
+Alabama,Talladega,Munford,"46640 North 21 Highway",,05/30/2008
+Alabama,Coosa,Goodwater,"202 Co Rd 77 R",,06/03/2008
+Alabama,Walker,Jasper,"144  Harvest Circle 50",,06/05/2008
+Alabama,Madison,Huntsville,"4010 Hunters Ridge Drive 10",,06/07/2008
+Alabama,Jackson,"Flat Rock","5969 Co Rd 14",,06/14/2008
+Alabama,Tuscaloosa,Cottondale,"10494 Ceadr Cove Drive",,06/16/2008
+Alabama,Winston,Haleyville,"12527 Pounders",,06/17/2008
+Alabama,Jackson,Higdon,"49 Co Rd 318",,06/18/2008
+Alabama,Morgan,Hartselle,"110 Booth Street",,06/19/2008
+Alabama,Jackson,Scottsboro,"2494 Old Larkinsville Road",,06/23/2008
+Alabama,Tallapoosa,Dadeville,"7611 Lovelady Road",,06/25/2008
+Alabama,Franklin,Vina,"391 Barker Road",,06/25/2008
+Alabama,Jackson,Scottsboro,"794 Hytop Road",,06/27/2008
+Alabama,Baldwin,Foley,"15820 Beasley Road",,07/04/2008
+Alabama,Talladega,Sylacauga,"1170 Houston Road",,07/07/2008
+Alabama,Coosa,Clanton,"2270 Little Tom Road",,07/08/2008
+Alabama,Cherokee,Leesburg,"145 Co Rd 594",,07/09/2008
+Alabama,Franklin,Russellville,"305 Olive Street",,07/11/2008
+Alabama,Jackson,Scottsboro,"303 East Johnathon Street",,07/17/2008
+Alabama,Cherokee,Leesburg,"775 C.r. 17",,07/18/2008
+Alabama,Tuscaloosa,Tuscaloosa,"20506  Arlo Drive",,07/19/2008
+Alabama,Morgan,Decatur,"215 Southwest Deer Springs Road",,07/21/2008
+Alabama,Talladega,Talladega,"1599 Ironaton Road",,07/21/2008
+Alabama,Madison,Huntsville,"216 Briar Fork Drive",,07/24/2008
+Alabama,Marshall,Grant,"154 Walker Road",,07/25/2008
+Alabama,Morgan,Baileyton,"622 Holcomb Road",,07/29/2008
+Alabama,Morgan,Falkville,"1448 Bert Stinson Road",,08/03/2008
+Alabama,Madison,Gurley,"173 Dudley Road",,08/04/2008
+Alabama,Madison,Gurley,"145 Dudley Road",,08/04/2008
+Alabama,Talladega,Talladega,"211 Carousel Lane",,08/05/2008
+Alabama,Cherokee,"Cedar Bluff","3925 Boundary Avenue",,08/11/2008
+Alabama,Talladega,"Oak Grove","215 Landers Loop",,08/12/2008
+Alabama,Tuscaloosa,Vance,"11054 Will Walker Road",,08/25/2008
+Alabama,Cherokee,Centre,"14495 Co Rd 22",,08/26/2008
+Alabama,Marion,Haleyville,"126 Loveless Lane",,09/01/2008
+Alabama,Madison,"Hazel Green","205 Bobo Section Road",,09/03/2008
+Alabama,Lamar,Millport,"196 Fernbank Road",,09/05/2008
+Alabama,Lamar,Millport,"11373 Fenbank Road",,09/06/2008
+Alabama,Fayette,Winfield,"187 Maud Taylor Road",,09/08/2008
+Alabama,Marshall,Grant,"2614 Merrell Mt Road",,09/09/2008
+Alabama,Winston,Haleyville,"2400 14th Avenue",,09/09/2008
+Alabama,Cherokee,Collinsville,"441 Us Hwy 68 B",,09/10/2008
+Alabama,Franklin,Vina,"516 224 Highway",,09/11/2008
+Alabama,Tuscaloosa,Cottondale,"1636 Prudes Mill Road",,09/12/2008
+Alabama,Talladega,Sylacauga,"3241 North Odena Road",,09/16/2008
+Alabama,Lamar,Sulligent,"3765 Dinky Line Road",,09/16/2008
+Alabama,Calhoun,Ohatchee,"1050 Gilberts Ferry Road",,09/17/2008
+Alabama,Cherokee,Centre,"450 Co Rd 470",,09/17/2008
+Alabama,Madison,Toney,"1169 Opp Reynolds Road",,09/18/2008
+Alabama,Marion,Guin,"253 East 24th Avenue",,09/18/2008
+Alabama,Morgan,Hartselle,"500 Southeast Hammitt Street",,09/20/2008
+Alabama,Lauderdale,Florence,"76 Meadow Grove Lane",,09/21/2008
+Alabama,Lamar,Detroit,"111 Robertson Avenue",,09/22/2008
+Alabama,Madison,Madison,"201 Water Hill",,09/24/2008
+Alabama,Marshall,"Union Grove","1330 Allen Cross Road",,10/03/2008
+Alabama,Marion,Hamilton,"5704 29 Highway",,10/05/2008
+Alabama,Madison,"New Hope","531 Oak Grove Road",,10/07/2008
+Alabama,Jefferson,Morris,"283 South 4th Avenue",,10/08/2008
+Alabama,Morgan,Falkville,"150 Hand Road",,10/08/2008
+Alabama,Marion,Hamilton,"3620 11 Highway",,10/14/2008
+Alabama,Marion,Hamilton,"118 Sunrise Street",,10/15/2008
+Alabama,Talladega,Sylacauga,"35351 Hwy 280 Highway",,10/15/2008
+Alabama,Talladega,Munford,"46640 Hwy 21",,10/15/2008
+Alabama,Morgan,Decatur,"907 Southwest Eleanor Street",,10/17/2008
+Alabama,Marshall,Guntersville,"3440 Creek Circle",,10/21/2008
+Alabama,Morgan,Hartselle,"2817 West 36 Highway",,10/23/2008
+Alabama,Talladega,Sylacauga,"779 Springvalley Road",,10/24/2008
+Alabama,Madison,Huntsville,"11112 Memorial Parkaway I2",,10/27/2008
+Alabama,Madison,Huntsville,"3118 Drake Avenue",,10/27/2008
+Alabama,Cleburne,Heflin,"2608 Co Rd 10",,10/28/2008
+Alabama,Cleburne,Heflin,"1624 Co Rd 10 1",,10/28/2008
+Alabama,Lauderdale,Florence,"300 Co Rd 237",,10/31/2008
+Alabama,Madison,Huntsville,"3608 Clopton Street",,11/07/2008
+Alabama,Winston,Haleyville,"1330 22nd Street",,11/08/2008
+Alabama,Lamar,Millport,"555 Fenbank Road",,11/14/2008
+Alabama,Cleburne,Heflin,"5904 Co Rd 19",,11/14/2008
+Alabama,Walker,Nauvoo,"6670 Dogtown Road",,11/14/2008
+Alabama,Calhoun,Anniston,"2910 Dempsey Avenue",,11/17/2008
+Alabama,Talladega,Eastaboga,"3712 Richeytown Road",,11/19/2008
+Alabama,Marion,Hamilton,"7120 Co Hwy 56 Highway",,11/19/2008
+Alabama,Lamar,Sulligent,"746 Military Grove Road",,11/29/2008
+Alabama,Marion,Winfield,"370 Ashwood Drive",,12/01/2008
+Alabama,Morgan,Decatur,"215 Deer Springs Road",,12/08/2008
+Alabama,Marion,Haleyville,"5203 North 13 Highway",,12/17/2008
+Alabama,Marion,Guin,"5766 43 Highway",,12/22/2008
+Alabama,Russell,Salem,"96 Flourndy Road",,04/02/2009
+Alabama,Dekalb,"Fort Payne","5713 Dunn Road",,04/05/2009
+Alabama,Madison,Madison,"690 Falcon Road",,04/06/2009
+Alabama,Russell,"Phenix City","7  Willie Drive",,04/08/2009
+Alabama,Dale,Enterprise,"205 Richland Drive",,04/08/2009
+Alabama,Elmore,Elmore,"2000 Politic Road",,04/09/2009
+Alabama,Lee,Salem,"385 Lee Road 792",,04/10/2009
+Alabama,Russell,,"1908 Summerville Road",,04/14/2009
+Alabama,Pike,Troy,"5376 1101 County Rd 5376",,04/16/2009
+Alabama,Jackson,Stevenson,"41 Country 169 Road",,04/19/2009
+Alabama,Lawrence,Moulton,"2859 County Road 236",,04/20/2009
+Alabama,Morgan,Decatur,"3531 U.s. Highway 315",,04/23/2009
+Alabama,Dekalb,Collinsville,"24159 76 Highway",,04/24/2009
+Alabama,Tuscaloosa,Tuscaloosa,"1531 24th Street",,04/28/2009
+Alabama,Autauga,Prattville,"168 West Patrick Street",,04/29/2009
+Alabama,Talladega,Sylacauga,"35351 280 Highway",,04/30/2009
+Alabama,Autauga,Prattville,"487 West Pinecrest Street",,04/30/2009
+Alabama,Lawrence,Moulton,"1355 County Road 203",,04/30/2009
+Alabama,Chilton,Maplesville,"607 Co Rd 1049",,05/08/2009
+Alabama,Jackson,Bryant,"1966 Co Rd 89",,05/08/2009
+Alabama,Limestone,Elkmont,"25042 Elkton Road",,05/08/2009
+Alabama,"St. Clair",Cropwell,"291  St Smith Circle",,05/10/2009
+Alabama,Elmore,Millbrook,"3371 Grandview Drive",,05/11/2009
+Alabama,Lawrence,Moulton,"11551 Co Rd 9",,05/11/2009
+Alabama,Autauga,Prattville,"910 East Fairview Avenue 910",,05/12/2009
+Alabama,Mobile,Mobile,"6300 Old Pascagoula Road Lot A",,05/13/2009
+Alabama,Walker,Jasper,"1156 Bckwell Lp",,05/13/2009
+Alabama,Morgan,"Laceys Spring","69 Coffee Bluff Road",,05/14/2009
+Alabama,Franklin,Hodges,"3103 172 Highway 1",,05/15/2009
+Alabama,Morgan,"Laceys Spring","100 Northeast Morris Road",,05/17/2009
+Alabama,Russell,"Phenix City","28 Little Loop",,05/19/2009
+Alabama,Franklin,Russellville,"47 Porter Road",,05/19/2009
+Alabama,Jefferson,Birmingham,"2721 North 2nd Avenue",,05/26/2009
+Alabama,Lawrence,Trinity,"224 County Road 352",,05/28/2009
+Alabama,Lawrence,Moulton,"112 County Road 243",,05/29/2009
+Alabama,Chilton,Clanton,"Co Rd 824 20",,05/29/2009
+Alabama,Chilton,Clanton,"Poplar Springs Road 1322",,05/30/2009
+Alabama,Jackson,Scottsboro,"390 Long Hollow Road",,06/03/2009
+Alabama,Limestone,Ardmore,"29458 Lakeview Drive",,06/04/2009
+Alabama,Shelby,Harpersville,"556  Farmingdale",,06/04/2009
+Alabama,Marshall,Guntersville,"1101 Gross Road",,06/05/2009
+Alabama,Cherokee,Leesburg,"400 County Road 915",,06/06/2009
+Alabama,Houston,Taylor,"2600 Trawick Road",,06/09/2009
+Alabama,Morgan,Decatur,"1001 Betty Street",,06/09/2009
+Alabama,Coffee,Troy,"33844 North 87 Highway",,06/10/2009
+Alabama,Lee,Opelika,"1010 2nd Avenue 108",,06/11/2009
+Alabama,Cherokee,Piedmont,"2060 County Road 111",,06/11/2009
+Alabama,Marion,Haleyville,"454  County Hwy 76",,06/12/2009
+Alabama,Elmore,Wetumpka,"68 Beach Wood Lane",,06/14/2009
+Alabama,Shelby,Harpersville,"3662 Westover E Rd",,06/15/2009
+Alabama,Chilton,Verbena,"769 Co Rd 530",,06/15/2009
+Alabama,Jefferson,Leeds,"1910 Linden Street",,06/15/2009
+Alabama,Houston,Dothan,"2099 South Oates Street",,06/16/2009
+Alabama,Coffee,Enterprise,"587 Co Rd 716",,06/27/2009
+Alabama,Russell,"Phenix City","4042  Hwy 80",,01/03/2010
+Alabama,Russell,"Phenix City","4249 West 80 Highway 1722",,01/03/2010
+Alabama,Lauderdale,Florence,"1836  Darby Drive",,01/04/2010
+Alabama,Cullman,Cullman,"1362  County Road 449",,01/04/2010
+Alabama,Etowah,Gadsden,"1518  Gadsden Avenue",,01/05/2010
+Alabama,Chilton,Jemison,"County Road 42  127771",,01/05/2010
+Alabama,Chambers,Valley,"103 East Sears Street",,01/06/2010
+Alabama,Etowah,Boaz,"129  Happy Hill Road",,01/09/2010
+Alabama,Marshall,Arab,"3251  Mt Oak Road",,01/09/2010
+Alabama,Jefferson,Pinson,"6511  Roe Chandler Road",,01/11/2010
+Alabama,Winston,Haleyville,"710  5th Avenue",,01/11/2010
+Alabama,Morgan,Joppa,"497 Martin Road",,01/11/2010
+Alabama,Morgan,Joppa,"432  Balldiamond Road",,01/11/2010
+Alabama,Winston,Haleyville,"524 21st Street",,01/11/2010
+Alabama,Talladega,Sylacauga,"46  Division Street",,01/12/2010
+Alabama,Talladega,Sylacauga,"411 West Walnut Avenue",,01/12/2010
+Alabama,Chambers,Valley,"2155  Country Rd 388",,01/13/2010
+Alabama,Lamar,Millport,"1727  Mount Pleasant Church Road",,01/14/2010
+Alabama,Jackson,Bridgeport,"923  County Road 94",,01/16/2010
+Alabama,Colbert,Sheffield,"4305 South Nathan Boulevard",,01/19/2010
+Alabama,Cullman,Vinemont,"80  County Road 1247",,01/19/2010
+Alabama,Marion,Hamilton,"164  Chestnut Circle",,01/20/2010
+Alabama,Jackson,Bryant,"5727  Alabama Hwy 73",,01/23/2010
+Alabama,Talladega,Sylacauga,"26  Ruth Circle",,01/28/2010
+Alabama,Jackson,Stevenson,"1185  County Road 104",,01/31/2010
+Alabama,Morgan,Somerville,"595 Charest Road",,02/10/2010
+Alabama,Morgan,Somerville,"1066  Antioch Road",,02/10/2010
+Alabama,Morgan,Decatur,"2157  Westmeade Drive",,02/13/2010
+Alabama,Cherokee,Piedmont,"1331  County Road 19",,04/01/2010
+Alabama,Cullman,Cullman,"107  Co 1475 Road",,04/02/2010
+Alabama,Talladega,Oxford,"4659 Mcintosh Road",,04/03/2010
+Alabama,Marion,Haleyville,"107  13th Street",,04/05/2010
+Alabama,Mobile,Irvington,"9898 South Taylor Avenue",,04/05/2010
+Alabama,Bibb,"West Blocton","386  Camillia Lane",,04/06/2010
+Alabama,Lee,"Phenix City","289  Lee Road 214",,04/07/2010
+Alabama,Shelby,Alabaster,"631 Northeast 2nd Street",,04/07/2010
+Alabama,Franklin,Russellville,"204  Richeson Street",,04/07/2010
+Alabama,Lamar,Beaverton,"12901  Highway 278",,04/08/2010
+Alabama,Marshall,Arab,"254  Matt Morrow Drive",,04/12/2010
+Alabama,Mobile,Mobile,"9218 South Vallaris Street",,04/12/2010
+Alabama,Jackson,Bridgeport,"724  Alabama Avenue",,04/13/2010
+Alabama,Shelby,Calera,"364  Camden Cove",,04/13/2010
+Alabama,Chilton,Clanton,"824  Country Road  20",,04/16/2010
+Alabama,Lee,Auburn,"137  Oak Street",,04/16/2010
+Alabama,Montgomery,Montgomery,"6868  Brownwood Lane",,04/16/2010
+Alabama,Morgan,Hartselle,"912  Garden Street",,04/17/2010
+Alabama,Jefferson,Morris,"8435  Stouts Road",,04/22/2010
+Alabama,Marion,Hackleburg,"37494 North Us Highway 43",,04/26/2010
+Alabama,Franklin,Hodges,"2504  Sunset Road",,04/26/2010
+Alabama,Marion,Hackleburg,"490  Gregg Road",,04/27/2010
+Alabama,"St. Clair",Riverside,"160 Honey Suckle Way",,04/27/2010
+Alabama,Marion,Hackleburg,"4192  County Road 32",,04/27/2010
+Alabama,Cherokee,Leesburg,"140  Agan Circle",,04/28/2010
+Alabama,Shelby,Harpersville,"200 Lonely Oak Drive",,04/28/2010
+Alabama,Morgan,"Laceys Spring","39  Vandsandt Road",,04/28/2010
+Alabama,Jackson,Scottsboro,"3094  Old Larkinsville Road",,04/29/2010
+Alabama,Mobile,Wilmer,"12354  Danner Road",,05/03/2010
+Alabama,Mobile,Theodore,"5350  Carol Plantation Road",,05/04/2010
+Alabama,Shelby,Helena,"212 Lees Cove",,05/05/2010
+Alabama,Morgan,Falkville,"49  Wilhite Road",,05/05/2010
+Alabama,Tuscaloosa,Cottondale,"2600 Clements Road Lot 3a",,05/05/2010
+Alabama,Mobile,Mobile,"3320  Hamilton Boulevard",,05/06/2010
+Alabama,Morgan,Hartselle,"315  Gilchrist Street",,05/07/2010
+Alabama,Colbert,Tuscumbia,"2090  Spring Valley Road",,05/08/2010
+Alabama,Calhoun,Oxford,"50  Short Street 4",,05/10/2010
+Alabama,Colbert,Tuscumbia,"804  King Avenue",,05/11/2010
+Alabama,Walker,Jasper,"1205 Brakefield Dairy Road",,05/11/2010
+Alabama,Mobile,Axis,"10895  Long Road",,05/12/2010
+Alabama,Mobile,"Mount Vernon","250  Andry Road",,05/12/2010
+Alabama,Chilton,Clanton,"996  County Road 182",,05/12/2010
+Alabama,Madison,Huntsville,"118  Hollington Road",,05/13/2010
+Alabama,Jefferson,Pinson,"7070  Self Road",,05/13/2010
+Alabama,Jackson,Hollywood,"985  County Road 213",,05/13/2010
+Alabama,Calhoun,Anniston,"792  Jamback Road",,05/14/2010
+Alabama,Jefferson,"Mount Olive","1542  Mount Olive Brookside Road",,05/14/2010
+Alabama,Lee,Opelika,"2796  Alabama Street",,05/18/2010
+Alabama,Morgan,Hartselle,"1141 North Cedar Cove Road",,05/19/2010
+Alabama,Shelby,Harpersville,"198  Larkin Lane",,05/20/2010
+Alabama,Lauderdale,Florence,"6290  County 87 Road",,05/22/2010
+Alabama,Lee,Opelika,"454 South 10th Street 6",,05/24/2010
+Alabama,Etowah,Gadsden,"405  Willow Creek Road",,05/26/2010
+Alabama,Madison,"Hazel Green","257  Mckenzie Drive",,05/26/2010
+Alabama,Marion,Hamilton,"1299  County Highway 51",,05/27/2010
+Alabama,Blount,Cleveland,"135  Blackberry Lane",,05/27/2010
+Alabama,Morgan,Hartselle,"Apt 21  Long Horn Pass 603",,05/28/2010
+Alabama,Walker,Parrish,"71 Anita Ln",,05/30/2010
+Alabama,Madison,Huntsville,"1606  Hobbs Island Road",,05/30/2010
+Alabama,Chambers,Valley,"2155  County Road 388  Lot #3",,06/02/2010
+Alabama,Marshall,Horton,"1916  Bearden Road",,06/03/2010
+Alabama,Jackson,Scottsboro,"16555  Al Hwy 79",,06/03/2010
+Alabama,Blount,Cleveland,"363  Old Walker Road",,06/04/2010
+Alabama,Blount,Allgood,"55  Highland Avenue",,06/05/2010
+Alabama,Montgomery,Montgomery,"710  Central Street",,06/06/2010
+Alabama,Shelby,Vandiver,"390  Edgeland Road",,06/10/2010
+Alabama,Shelby,Sterrett,"145  Cripple Creek Lane",,06/10/2010
+Alabama,Dale,"Midland City","420  Jackson Circle",,06/11/2010
+Alabama,Calhoun,Anniston,"4726  Old Birmingham Hwy",,06/16/2010
+Alabama,"St. Clair","Pell City","1700 South 25th Street",,06/17/2010
+Alabama,Etowah,Altoona,"161  Staton Road",,06/17/2010
+Alabama,Fayette,Berry,"638  County Road 62",,06/19/2010
+Alabama,Walker,Nauvoo,"263 German Road",,06/20/2010
+Alabama,Franklin,Russellville,"1730 North Sockwell Avenue",,06/21/2010
+Alabama,Calhoun,Oxford,"1909  Friendship Road",,06/21/2010
+Alabama,Etowah,Attalla,"222  Forman Drive",,06/22/2010
+Alabama,Autauga,Prattville,"1829  Country 107 Road",,06/23/2010
+Alabama,Elmore,Eclectic,"3366  Claud Road 14",,06/24/2010
+Alabama,Lee,Cusseta,"11136  Lee Road 279",,06/25/2010
+Alabama,Fayette,Fayette,"2313  2nd Avenue",,06/26/2010
+Alabama,Blount,Oneonta,"830  Morton Road",,06/29/2010
+Alabama,Lee,Opelika,"140  Lee Road 703",,06/29/2010
+Alabama,Morgan,Eva,"5811 East Highway 55",,06/29/2010
+Alabama,Shelby,Shelby,"29 Hickory Hills Ln",,06/29/2010
+Alabama,Montgomery,Montgomery,"2501  Plum Street",,06/30/2010
+Alabama,Jefferson,Kimberly,"9352  Peterson Drive",,07/01/2010
+Alabama,Jackson,"Flat Rock","241  Powell Lane",,07/01/2010
+Alabama,Houston,Dothan,"212  Saunders Road",,07/02/2010
+Alabama,Calhoun,Oxford,"600  Mcpherson Street 6",,07/05/2010
+Alabama,Jefferson,Trafford,"9209  5th Avenue",,07/05/2010
+Alabama,Mobile,Mobile,"7935 West Southgate Drive",,07/07/2010
+Alabama,Montgomery,Montgomery,"2044  Amos Street",,07/07/2010
+Alabama,Cullman,Cullman,"66  Stricklin Road",,07/08/2010
+Alabama,Walker,Dora,"66 Wolf Street",,07/08/2010
+Alabama,Walker,Jasper,"6456  Old Tuscaloosa Road",,07/10/2010
+Alabama,Jackson,Scottsboro,"370  Gizzard Point Road",,07/12/2010
+Alabama,Cherokee,"Cedar Bluff","610  County 104 Road",,07/13/2010
+Alabama,Shelby,Calera,"1655  Hiawatha Road",,07/13/2010
+Alabama,Elmore,Elmore,"260  Renee Way",,07/14/2010
+Alabama,Colbert,"Muscle Shoals","503  Pilgram Avenue",,07/15/2010
+Alabama,Walker,"Carbon Hill","2554 Ripley Road",,07/16/2010
+Alabama,Houston,Dothan,"2201  Shannondoah Drive",,07/16/2010
+Alabama,Walker,Cordova,"369 Firetower Road",,07/16/2010
+Alabama,Mobile,Wilmer,"8841  Lott Road 18",,07/16/2010
+Alabama,Walker,Oakman,"105 Wolf Creek Rd",,07/16/2010
+Alabama,Jefferson,Birmingham,"1070  Mcdonalds Chapel Road",,07/17/2010
+Alabama,Mobile,"Eight Mile","5512  A Old Citronelle Highway",,07/17/2010
+Alabama,"St. Clair","Pell City","3108 6th North E St",,07/17/2010
+Alabama,Mobile,Citronelle,"19690  Buck Road",,07/21/2010
+Alabama,Walker,Nauvoo,"6395  Dogtown Road",,07/23/2010
+Alabama,Houston,Pansey,"1325  Eubanks Road",,07/24/2010
+Alabama,Walker,Cordova,"439  Stewart Street",,07/24/2010
+Alabama,Shelby,Wilsonville,"99  Buster Dr Drive",,07/25/2010
+Alabama,Jefferson,Birmingham,"4238  Center Point Road",,07/27/2010
+Alabama,Jefferson,Morris,"268  Sam Thomas Road",,07/27/2010
+Alabama,Jefferson,Mulga,"1435  Short Creek Road",,07/28/2010
+Alabama,Cullman,Vinemont,"18195  Us 31 Highway",,07/28/2010
+Alabama,Jefferson,Warrior,"444  Trafford Road",,07/28/2010
+Alabama,Marion,Brilliant,"130  Orchard Lane Lane",,07/29/2010
+Alabama,Jackson,Pisgah,"842  Country 352 Road",,08/01/2010
+Alabama,Shelby,Vandiver,"543  County Road 480",,08/03/2010
+Alabama,Jackson,Pisgah,"8903  Country 58 Road",,08/03/2010
+Alabama,Mobile,Wilmer,"11581 North Glenwood Circle Road",,08/05/2010
+Alabama,Jackson,Henagar,"8697  40 Highway",,08/13/2010
+Alabama,Jackson,Henagar,"27  Country 707 Road",,08/18/2010
+Alabama,Jackson,Bridgeport,"614  Aldhouse Avenue",,09/22/2010
+Alabama,Jackson,Section,"817  Country 411 Road",,09/25/2010
+Alabama,Lee,"Phenix City","15  Lee Road  496",,11/05/2010
+Alabama,Lauderdale,Florence,"502  Deer Trail",,11/10/2010
+Alabama,Escambia,Atmore,"1304 East Nashville Avenue 12",,11/26/2010
+Alabama,Escambia,Atmore,"2325 West Atmosphere Road",,11/29/2010
+Alabama,Dekalb,"Fort Payne","410 Northeast Beason Gap Road 172",,11/30/2010
+Alabama,Walker,Jasper,"437  Hambric Road",,12/04/2010
+Alabama,Walker,Jasper,"122  Harvest Circle",,12/04/2010
+Alabama,Cullman,Cullman,"800  1678 Circle",,12/06/2010
+Alabama,Walker,Parrish,"4613  Old Oakman Parrish Road",,12/07/2010
+Alabama,Shelby,Alabaster,"108 Cape Cod Cir",,12/08/2010
+Alabama,Marion,Brilliant,"2785  County 70 Highway",,12/09/2010
+Alabama,Dekalb,Boaz,"1406  Counry 380 Road",,12/16/2010
+Alabama,Marshall,Albertville,"860  Dowman Road",,12/22/2010
+Alabama,Marshall,Albertville,"1763  Old Mcville Road Lot 1",,02/16/2011
+Alabama,Jackson,Bridgeport,"1117  Jacobs Avenue",,02/16/2011
+Alabama,Dekalb,Rainsville,"860  Jones Road",,05/12/2011
+Alabama,Jefferson,"Mount Olive","2640  Mount Olive Road",,05/17/2011
+Alabama,Shelby,Shelby,"30  Lake Drive",,06/13/2011
+Alabama,Chilton,Jemison,"2539  County 25 Road",,07/12/2011
+Alabama,Chilton,Jemison,"615  County 50 Road",,07/12/2011
+Alabama,Talladega,Sylacauga,"65  Wagon Wheel Lane",,07/14/2011
+Alabama,Tuscaloosa,Cottondale,"6646  Shadow Ridge Lane",,07/15/2011
+Alabama,Tuscaloosa,Tuscaloosa,"4406 Rice Mine Road",,07/21/2011
+Alabama,Elmore,Wetumpka,"579  Mann Road",,07/26/2011
+Alabama,Tuscaloosa,Northport,"3943 Vintage Lane",,07/27/2011
+Alabama,Elmore,Deatsville,"341  Ridgedale Lane",,07/27/2011
+Alabama,Baldwin,"Bay Minette","15877 West Pine Grove Road Unit 6",,08/03/2011
+Alabama,Elmore,Wetumpka,"182  Venable Road",,08/04/2011
+Alabama,Jefferson,Birmingham,"4631  Elfreth Johnson Road 46",,12/04/2011
+Alabama,Mobile,Mobile,"485  Foster Road",,12/14/2011
+Alabama,Mobile,Theodore,"10200  Ben Hamilton Road",,12/21/2011
+Alabama,Baldwin,"Gulf Shores","216 East 24th Avenue 11",,12/24/2011
+Alabama,Mobile,Mobile,"2449  Karagan Drive",,12/27/2011
+Alabama,Mobile,Wilmer,"8920  Trace Lane",,12/29/2011
+Alabama,Mobile,Creola,"9323  Lawshe Road",,01/07/2012
+Alabama,Baldwin,Robertsdale,"22031  County 87 Road 3",,01/21/2012
+Alabama,Madison,Huntsville,"165 North W. Emert Road",,06/26/2012
+Alabama,Madison,Huntsville,"819  Giles Drive",,06/27/2012
+Alabama,Morgan,Decatur,"183  Red Bud Lane Box 183",,07/26/2012
+Alabama,Tuscaloosa,Duncanville,"7300 Bradley Road",,08/15/2012
+Alabama,Jackson,Scottsboro,"840 West Willow Street #107",,08/22/2012
+Alabama,Madison,Huntsville,"3216 Northwest Normandale Drive",,09/05/2012
+Alabama,Baldwin,Foley,"15326  Sherman Lane",,04/02/2013
+Alabama,Lee,Auburn,"2045  Lee Road 137  40",,04/10/2013
+Alabama,Morgan,Hartselle,"1805  Hwy 36 Highway",,06/17/2013
+Alabama,Madison,Huntsville,"3012  Johnson Road 79",,06/21/2013
+Alabama,Madison,Huntsville,"2906  Academy Drive 701",,06/24/2013
+Alabama,Marshall,Guntersville,"588  Willow Lake",,08/03/2013
+Alabama,Shelby,Calera,"156  Foundry Road",,08/13/2013
+Alabama,Madison,Huntsville,"111  Walker Avenue 806",,08/20/2013
+Alabama,Madison,Huntsville,"3800  Squal Valley 12-a",,09/03/2013
+Alabama,Shelby,Pelham,"1473 Kelly Drive",,09/09/2013
+Alabama,Shelby,Wilsonville,"115 Cherokee S Ln",,09/12/2013
+Alabama,Madison,"Hazel Green","701  Charity Lake",,09/17/2013
+Alabama,Morgan,Somerville,"1269  Charest Road",,09/18/2013
+Alabama,Madison,Huntsville,"710  Humes Avenue",,09/19/2013
+Alabama,Madison,Huntsville,"100  Mastin Lake Way 13",,09/22/2013
+Alabama,Shelby,Montevallo,"7269  Highway 10",,03/11/2014
+Alabama,Morgan,"Laceys Spring","63 East Chelsea Circle",,04/03/2014
+Alabama,Madison,Harvest,"318  Clutts Road  Box Lot B",,06/04/2014
+Alabama,Morgan,Hartselle,"72  Lockhart Road",,06/25/2014
+Alabama,Madison,Huntsville,"3784  University Drive  Box 1128",,06/27/2014
+Alabama,Morgan,Somerville,"Sunvalley Drive 21",,07/07/2014
+Alabama,Morgan,Hartselle,"3776  Highway 31 S Highway",,07/09/2014
+Alabama,Morgan,Danville,"87  Roberts Road",,07/21/2014
+Alabama,Morgan,Hartselle,"34  Cardinal Road",,08/19/2014
+Alabama,Madison,Huntsville,"1935  Meadowbrook Drive  Box 1909",,09/02/2014
+Alabama,Madison,Huntsville,"4002  Offutt Drive",,12/02/2014
+Alabama,Madison,Brownsboro,"131  Mill Circle Box A",,02/23/2015
+Alabama,Morgan,Hartselle,"803  Logwood Road",,03/18/2015
+Alabama,Madison,"Hazel Green","172  Matts Way",,03/27/2015
+Alabama,Shelby,Harpersville,"50  Dusty Way 11",,04/18/2015
+Alabama,Morgan,Hartselle,"109  Stewart Street",,09/10/2015
+Alabama,Morgan,Somerville,"1661  Bluff City Road",,11/01/2015
+Alabama,Morgan,Hartselle,"1117 S Pattillo Street",,12/31/2015
+Alabama,Jefferson,Graysville,"528  Porrer Crest Road",,03/04/2016
+Alabama,Madison,Gurley,"102 W Maple Boulevard",,03/29/2016
+Alabama,Morgan,Hartselle,"2453  Vaughn Bridge Road",,05/09/2016
+Alabama,Morgan,Hartselle,"1335  Byrd Spring Road",,07/12/2016
+Alabama,Madison,Huntsville,"136 Hasting Dr",,09/25/2016
+Alabama,Madison,Gurley,"409 Walker Street",,02/01/2017
+Alabama,Madison,"Owens Cross Roads","166 Wilson Mann Road",,02/01/2017
+Alabama,Baldwin,Foley,"6947 Piney Woods Rd",,07/02/2018
+Alabama,Winston,Haleyville,"135 County Road 3411",,01/08/2019

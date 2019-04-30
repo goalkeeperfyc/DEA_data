@@ -1,0 +1,68 @@
+state,county,city,address1,address2,date
+"North Dakota",Walsh,"Forest River","33 Carpenter W Ave",,01/23/2004
+"North Dakota",Walsh,Adams,"703 1st Ave",,02/25/2004
+"North Dakota",Cass,Fargo,"529 20th N",,03/02/2004
+"North Dakota",Ward,Minot,"625 15th Street Se",,03/06/2004
+"North Dakota",Ward,Minot,"705 2nd Ne Ave",,03/08/2004
+"North Dakota",Cass,Fargo,"1133 11 N St",,03/12/2004
+"North Dakota",Morton,Mandan,"4405 Pleasant Valley Rd S",,03/14/2004
+"North Dakota",Stutsman,Spiritwood,"301 Salburg N Ave",,04/01/2004
+"North Dakota",Williams,Williston,"507 Reclamation Drive W 10",,04/01/2004
+"North Dakota",Wells,Sykeston,"106 Main S St",,04/23/2004
+"North Dakota",Burleigh,Bismarck,"116 Northeast Ave",,05/12/2004
+"North Dakota",Williams,Williston,"1101 Main Ave",,05/14/2004
+"North Dakota",Burleigh,Bismarck,"129 Arikara E 3",,05/18/2004
+"North Dakota",Ramsey,"Devils Lake","924 15th S 5",,05/22/2004
+"North Dakota",Emmons,Kintyre,"2290 68th Se St",,06/01/2004
+"North Dakota",Burleigh,Bismarck,"8301 12th Se St",,07/22/2004
+"North Dakota",Cass,Fargo,"2803 35 S Ave",,08/06/2004
+"North Dakota",Stutsman,Jamestown,"7995 14 R Se St",,08/11/2004
+"North Dakota",Richland,Colfax,"6675 164 Se Ave",,08/15/2004
+"North Dakota",Ward,Minot,"616 11th Ne St",,08/19/2004
+"North Dakota",Ward,Minot,"1020 36th Se St",,08/25/2004
+"North Dakota",Burleigh,Bismarck,"507 Stratford",,08/31/2004
+"North Dakota",Williams,Grenora,"111 Hanks St",,09/01/2004
+"North Dakota",Williams,Williston,"1303 1/2 1st E Ave",,09/01/2004
+"North Dakota",Williams,Williston,"1402 20th W St 23",,09/09/2004
+"North Dakota",Burleigh,Bismarck,"61 Sweet W Ave 33",,10/14/2004
+"North Dakota",Foster,Carrington,"15 74th Ne Ave",,10/19/2004
+"North Dakota",Burleigh,Bismarck,"518 1/2 5th N St",,10/29/2004
+"North Dakota",Mchenry,Minot,"3715 Burdick Expresway Se 2",,11/01/2004
+"North Dakota",Williams,Williston,"1727 14th W Ave",,11/09/2004
+"North Dakota",Burleigh,Bismarck,"4005 19th N St 201",,11/10/2004
+"North Dakota",Burleigh,Bismarck,"4005 19th N St 101",,11/20/2004
+"North Dakota",Ward,Burlington,"319 2nd E Ave",,11/24/2004
+"North Dakota",Burleigh,Bismarck,"927 1/2 11th N St",,12/13/2004
+"North Dakota",Burleigh,Bismarck,"600 9th S St #45",,12/21/2004
+"North Dakota",Burleigh,Bismarck,"304 1/2 4th Ne Ave",,12/30/2004
+"North Dakota",Mchenry,Minot,"11th 3100, 11th Ave Se Se",,01/20/2005
+"North Dakota",Burleigh,Bismarck,"2500 Centennial Rd",,01/22/2005
+"North Dakota",Ward,Minot,"1429 1st Se Ave",,02/08/2005
+"North Dakota","Grand Forks","Grand Forks","1916 Dyke Ave",,03/14/2005
+"North Dakota",Burleigh,Bismarck,"1827 Capitol E Ave 8",,03/30/2005
+"North Dakota",Logan,Napoleon,"3261 Highway 34 Hwy",,04/05/2005
+"North Dakota",Williams,Williston,"5338 Northwest 134th Avenue",,04/28/2005
+"North Dakota",Williams,Williston,"403 Washington W Ave",,06/10/2005
+"North Dakota",Burleigh,Bismarck,"5520 Northeast 17th Avenue",,07/08/2005
+"North Dakota",Williams,Williston,"1721 28th W Ave",,07/12/2005
+"North Dakota",Yancey,Burnsville,"2168 Shoal Creek Rd",,08/24/2005
+"North Dakota",Cavalier,Langdon,"1015 3rd E St",,10/17/2005
+"North Dakota",Mountrail,Parshall,"#21 4th Sw St",,02/10/2006
+"North Dakota",Traill,Hatton,"609 South Jersey Avenue",,03/10/2006
+"North Dakota",Traill,Hatton,"611 Jersey Avenue",,03/10/2006
+"North Dakota",Cass,Buffalo,"14257 Southeast 33rd",,05/05/2006
+"North Dakota",Burleigh,Bismarck,"725 South 12th Street",,07/06/2006
+"North Dakota",Sheridan,Mcclusky,"1431 Northeast 14th Avenue",,02/13/2007
+"North Dakota",Cass,"West Fargo","120 West Main Avenue",,03/16/2007
+"North Dakota",Sheridan,Goodrich,"850 Northeast 19th Avenue",,01/10/2008
+"North Dakota",Barnes,"Valley City","816 Northeast 6 Avenue",,02/07/2008
+"North Dakota",Eddy,"New Rockford","1961 Northeast 63rd Avenue",,02/08/2008
+"North Dakota","Grand Forks","Grand Forks","523 University Avenue",,05/02/2008
+"North Dakota",Stutsman,Jamestown,"1023 Western Park Village",,05/24/2008
+"North Dakota",Ward,Minot,"1325 Southeast 27th Street",,05/26/2008
+"North Dakota",Eddy,"New Rockford","1014 North 5th Avenue",,09/27/2008
+"North Dakota",Barnes,Wimbledon,"301 9 Highway",,10/21/2008
+"North Dakota",Burleigh,Bismarck,"315 North 25th St 12",,04/20/2009
+"North Dakota","Grand Forks",Northwood,"3306 Northeast 5th Avenue",,04/08/2010
+"North Dakota",Ransom,"Fort Ransom","178  Mill Road",,08/24/2010
+"North Dakota",Sargent,Gwinner,"Northeast First Street",,09/13/2012

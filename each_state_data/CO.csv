@@ -1,0 +1,270 @@
+state,county,city,address1,address2,date
+Colorado,"El Paso","Colorado Springs","1124 Colorado W Ave",,01/02/2004
+Colorado,"El Paso","Colorado Springs","115 24th S St",,01/05/2004
+Colorado,Pueblo,Pueblo,"903 9th E St",,01/09/2004
+Colorado,"El Paso","Colorado Springs","4610 Rusina Rd 119",,01/11/2004
+Colorado,"El Paso","Colorado Springs","2625 Ore Mill Rd 121",,01/12/2004
+Colorado,"El Paso","Colorado Springs","3603 Indian Pipe Cir",,01/15/2004
+Colorado,Denver,Denver,"1106 Clarkson S St A",,01/20/2004
+Colorado,"El Paso","Colorado Springs","4204 Loomis Ave",,01/21/2004
+Colorado,Larimer,"Fort Collins","1511 South Summitview Drive",,01/21/2004
+Colorado,"El Paso","Colorado Springs","2571 Uintah E St 12",,01/22/2004
+Colorado,Boulder,Longmont,"2264 Dexter Dr",,01/22/2004
+Colorado,"El Paso",Security,"1100 Hallam Ave B",,01/23/2004
+Colorado,"El Paso","Colorado Springs","1518 Parkway Dr",,01/29/2004
+Colorado,Adams,Westminster,"12085 Delaware N St 328",,01/30/2004
+Colorado,"El Paso","Colorado Springs","2631 Pikes Peak W Ave H",,01/30/2004
+Colorado,Denver,Denver,"2570 Dayton S Way D307",,02/03/2004
+Colorado,Adams,Denver,"1481 71st Street W Pl 2",,02/04/2004
+Colorado,"El Paso","Colorado Springs","3010 Chestnut N St 255",,02/07/2004
+Colorado,Prowers,Lamar,"113 Main N",,02/07/2004
+Colorado,"El Paso","Colorado Springs","6210 Corporate Dr 137",,02/08/2004
+Colorado,"El Paso","Colorado Springs","1025 Loflin Rd",,02/13/2004
+Colorado,Jefferson,Arvada,"11308 59th W Pl",,02/22/2004
+Colorado,Jefferson,Morrison,"13444 Saratoga W Dr",,02/23/2004
+Colorado,"Clear Creek","Idaho Springs","97 Spruce Ln",,02/27/2004
+Colorado,"El Paso","Colorado Springs","2725 A Las Vegas E St",,02/28/2004
+Colorado,Larimer,"Fort Collins","634 Mathews St C8",,03/01/2004
+Colorado,Prowers,Lamar,"316 N 4th",,03/06/2004
+Colorado,Montezuma,Cortez,"215 Maple S St",,03/06/2004
+Colorado,Larimer,Loveland,"1197 Wilson N Ave 205",,03/07/2004
+Colorado,Pueblo,Pueblo,"111 Park Dr A",,03/07/2004
+Colorado,"El Paso","Colorado Springs","805 Circle S Dr 1j",,03/10/2004
+Colorado,Arapahoe,Aurora,"4158 Richfield S St",,03/12/2004
+Colorado,"El Paso","Colorado Springs","5367 Smokehouse Ln",,03/12/2004
+Colorado,Larimer,Bellvue,"230 Young Gulch Rd",,03/14/2004
+Colorado,Jefferson,Arvada,"5690 80th W Ave 87",,03/19/2004
+Colorado,Bent,"Las Animas","620 Carson",,03/21/2004
+Colorado,Otero,"La Junta","401 Seeley",,03/23/2004
+Colorado,"El Paso","Colorado Springs","222 Luxury Ln",,03/30/2004
+Colorado,"Las Animas",Trinidad,"422 3rd W St",,04/03/2004
+Colorado,Teller,"Woodland Park","309 Gentian Rd",,04/04/2004
+Colorado,Teller,"Woodland Park","1442 Windflower Cir",,04/07/2004
+Colorado,Jefferson,Lakewood,"1305 Estes N St 27",,04/11/2004
+Colorado,"El Paso","Colorado Springs","240 Rimview Dr H",,04/12/2004
+Colorado,"El Paso","Colorado Springs","833 Hathaway Dr",,04/12/2004
+Colorado,Adams,Thornton,"9440 Cedar St",,04/14/2004
+Colorado,Denver,Denver,"4146 Grand W Ave",,04/18/2004
+Colorado,Adams,"Commerce City","8371 Brighton Rd",,04/21/2004
+Colorado,"El Paso","Colorado Springs","2269 Silent Rain Dr",,04/22/2004
+Colorado,Adams,Thornton,"475 Russell Blvd 14b",,04/24/2004
+Colorado,Kiowa,Eads,"4100 287 Hwy",,05/03/2004
+Colorado,"El Paso","Colorado Springs","6875 Space Village Dr 311",,05/06/2004
+Colorado,"San Miguel",Telluride,"3400 Alpen Glow Ln",,05/06/2004
+Colorado,Teller,"Woodland Park","222 Henrietta E Dr 25",,05/14/2004
+Colorado,"Las Animas",Trinidad,"109 Pine St 9",,05/18/2004
+Colorado,"El Paso","Colorado Springs","2848 Maverick Dr",,05/19/2004
+Colorado,Jefferson,Lakewood,"1050 Pierce S St 21",,05/19/2004
+Colorado,"El Paso","Colorado Springs","11665 Vollmer Rd",,05/19/2004
+Colorado,"El Paso","Colorado Springs","3613 Leeds Ln",,05/20/2004
+Colorado,"El Paso",Ellicott,"5010 Ellicott N Hwy",,05/21/2004
+Colorado,Boulder,Longmont,"311 21st Ave 4",,05/22/2004
+Colorado,Adams,Bennett,"4350 Harback Rd",,05/24/2004
+Colorado,Teller,"Woodland Park","635 Red Feather Ln",,06/01/2004
+Colorado,Adams,Westminster,"1585 115th W Ave E-102",,06/04/2004
+Colorado,Jefferson,Arvada,"7825 Allison N Way A308",,06/08/2004
+Colorado,Denver,Denver,"8199 Welby Rd 210a",,06/11/2004
+Colorado,"El Paso",Calhan,"11810 Hahn Rd",,06/15/2004
+Colorado,"El Paso","Colorado Springs","3228 Chestnut N St 228",,06/24/2004
+Colorado,Gunnison,Gunnison,"1010 Virginia W Ave 18",,06/26/2004
+Colorado,Larimer,Loveland,"1179 3rd E St",,07/01/2004
+Colorado,Denver,Denver,"1101 Alameda W Ave 209",,07/01/2004
+Colorado,"El Paso",Cascade,"8370 Highway 24 W",,07/03/2004
+Colorado,Jefferson,Arvada,"7487 Garland N St",,07/06/2004
+Colorado,"El Paso","Colorado Springs","2126 Fountain E Blvd",,07/07/2004
+Colorado,Teller,"Woodland Park","237 Columbine Rd",,07/13/2004
+Colorado,Adams,"Commerce City","11338 Newark St",,07/13/2004
+Colorado,Denver,Denver,"455 Colorado S Blvd 512",,07/20/2004
+Colorado,"El Paso","Colorado Springs","1501 Arch St",,07/22/2004
+Colorado,"El Paso","Colorado Springs","6210 Corporate Dr 149",,07/26/2004
+Colorado,Mesa,Clifton,"3115 Castle Court",,07/29/2004
+Colorado,Jefferson,Lakewood,"210 Ingalls S St 2",,07/31/2004
+Colorado,Larimer,Wellington,"3852 Cr 64 E",,08/02/2004
+Colorado,Boulder,Longmont,"15 Empire Pl",,08/04/2004
+Colorado,"El Paso",Security,"113 Tewa Dr",,08/07/2004
+Colorado,Jefferson,Lakewood,"10250 Mississippi W Ave 1204",,08/08/2004
+Colorado,Jefferson,Lakewood,"6780 14th W Ave",,08/09/2004
+Colorado,Jefferson,Arvada,"6591 Zang N Ct",,08/19/2004
+Colorado,"El Paso","Colorado Springs","1625 Lenmar Dr G206",,08/20/2004
+Colorado,"El Paso","Colorado Springs","931 19th N St 23",,08/20/2004
+Colorado,Pueblo,Pueblo,"1439 Cypress St",,08/21/2004
+Colorado,Adams,Northglenn,"110 110th W Ave 148",,08/24/2004
+Colorado,Denver,Denver,"55 Galapago N St",,08/28/2004
+Colorado,Denver,Denver,"1060 Parker S Rd 10",,09/06/2004
+Colorado,Adams,Unincorporated,"8640 Welby Rd",,09/08/2004
+Colorado,Jefferson,Lakewood,"18997 Kendall N St",,09/08/2004
+Colorado,Jefferson,Lakewood,"3228 Garrison S St 236",,09/10/2004
+Colorado,Montezuma,Cortez,"6655 County Road 248",,09/15/2004
+Colorado,Jefferson,Lakewood,"2899 Eldridge S Ct",,09/20/2004
+Colorado,"El Paso",Fountain,"11 Sunny Land Lp",,10/02/2004
+Colorado,"Rio Grande","Del Norte","8927 County Road 7 W",,10/06/2004
+Colorado,Jefferson,Lakewood,"7393 Jefferson W Ave 139",,10/16/2004
+Colorado,Jefferson,Littleton,"4605 Routt S St",,10/20/2004
+Colorado,"El Paso",Fountain,"944 Candlestar N Lp",,10/20/2004
+Colorado,Mesa,"Grand Junction","410 Mirada Ct",,10/24/2004
+Colorado,"El Paso","Colorado Springs","830 Weber N St 7",,10/26/2004
+Colorado,Summit,Silverthorne,"1291 Adams E Ave A4",,10/27/2004
+Colorado,Adams,Thornton,"10350 Tumbleweed E Dr",,10/29/2004
+Colorado,"El Paso","Colorado Springs","2218 Hagerman St",,11/01/2004
+Colorado,Arapahoe,Centennial,"6811 Gilpin Circle S Way",,11/08/2004
+Colorado,Denver,Denver,"3409 1/2 Alaska W Pl",,11/08/2004
+Colorado,Montrose,Nucla,"26849 26.50 Rd",,11/17/2004
+Colorado,Garfield,Rifle,"210 9th S St",,11/18/2004
+Colorado,Arapahoe,Aurora,"650 Racine S St",,11/18/2004
+Colorado,Denver,Denver,"2283 Fox S St",,11/19/2004
+Colorado,Fremont,"Canon City","2951 Us 50 Hwy 5",,11/22/2004
+Colorado,Delta,Delta,"485 1710 Lane",,11/23/2004
+Colorado,Adams,Northglenn,"12255 Claude Ct",,11/26/2004
+Colorado,Adams,Denver,"3289 Hawthorne W Pl",,12/01/2004
+Colorado,"El Paso","Colorado Springs","555 Garden Of The Gods W Rd",,12/05/2004
+Colorado,"El Paso","Colorado Springs","3631 Marion Dr 303",,12/14/2004
+Colorado,Weld,Greeley,"200 35 N Ave 168",,12/18/2004
+Colorado,Boulder,Longmont,"946 Pendelton Ave",,12/19/2004
+Colorado,Arapahoe,Aurora,"1011 Abilene St 215 & 217",,12/20/2004
+Colorado,"El Paso","Colorado Springs","775 El Paso N St",,12/21/2004
+Colorado,"El Paso","Colorado Springs","214 Swope N Ave 19",,12/24/2004
+Colorado,Mesa,"Grand Junction","730 Highway 50 104",,12/26/2004
+Colorado,Denver,Denver,"3700 Marin N St 6 & 8",,12/30/2004
+Colorado,"El Paso","Colorado Springs","2512 Monument W St",,12/30/2004
+Colorado,Garfield,"Glenwood Springs","101 8th W St",,01/18/2005
+Colorado,Adams,Westminster,"4461 111th W Ave",,01/26/2005
+Colorado,Otero,"Rocky Ford","25201 County Rd 18 Apt",,01/29/2005
+Colorado,Otero,"La Junta","711 Edison Ave",,02/02/2005
+Colorado,Adams,Thornton,"5363 130th E Way",,02/11/2005
+Colorado,"El Paso","Colorado Springs","219 Institute N St 1",,02/17/2005
+Colorado,Adams,Westminster,"2956 Eliot W Cir #3",,02/25/2005
+Colorado,Adams,Westminster,"7300 Dale N Ct",,02/27/2005
+Colorado,Arapahoe,Aurora,"15955 Iliff E Pl",,03/09/2005
+Colorado,Logan,Crook,"601 4th W Ave",,03/09/2005
+Colorado,"El Paso","Colorado Springs","2111 Warwick Ln",,03/11/2005
+Colorado,Adams,Northglenn,"1350 102nd W Pl",,03/16/2005
+Colorado,Denver,Denver,"4440 Jason N St",,03/17/2005
+Colorado,"Clear Creek","Idaho Springs","1938 Wall St",,04/15/2005
+Colorado,"Las Animas",Trinidad,"601 Main E St 2a",,04/16/2005
+Colorado,"El Paso","Colorado Springs","1214 Aspen Dr",,04/22/2005
+Colorado,Pueblo,Pueblo,"1024 Evans E Ave",,04/24/2005
+Colorado,Adams,"Commerce City","6521 70th E Pl",,04/28/2005
+Colorado,Jefferson,Arvada,"8510 Grandview W Ave",,05/05/2005
+Colorado,"El Paso",Peyton,"12265 Smith Rd",,05/05/2005
+Colorado,Weld,Greeley,"1322 7th St",,05/12/2005
+Colorado,"El Paso","Colorado Springs","2806 Tejon N St",,05/12/2005
+Colorado,Larimer,"Fort Collins","3106 Sumac St",,05/13/2005
+Colorado,Larimer,Loveland,"420 57th E St 111",,05/17/2005
+Colorado,"El Paso","Colorado Springs","1409 Maxwell St",,05/25/2005
+Colorado,"El Paso","Colorado Springs","6715 Pahokee Ct",,05/25/2005
+Colorado,"El Paso","Green Mountain Falls","7110 Iona Ave",,06/12/2005
+Colorado,Teller,"Woodland Park","19570 Highway 24 E 12",,07/06/2005
+Colorado,Adams,Denver,"9016 Lasalle Pl",,07/12/2005
+Colorado,Denver,Denver,"838 Eudora N St",,07/23/2005
+Colorado,Denver,Denver,"799 Cherry N St",,07/27/2005
+Colorado,"Las Animas",Trinidad,"800 Rico St",,08/02/2005
+Colorado,Archuleta,"Pagosa Springs","61 Radient W Ct",,08/03/2005
+Colorado,Weld,Greeley,"1014 33rd Ave",,08/22/2005
+Colorado,Adams,Thornton,"2100 100th W Ave 116",,08/23/2005
+Colorado,Teller,"Woodland Park","12 Highway 24 E",,09/13/2005
+Colorado,Jefferson,Lakewood,"8001 10th W Ave # 10",,09/22/2005
+Colorado,Adams,"Federal Heights","2105 91st W Pl",,11/11/2005
+Colorado,Adams,Northglenn,"2002 Graves Ct",,11/28/2005
+Colorado,Adams,Westminster,"7520 North Newton Street",,01/10/2006
+Colorado,Jefferson,Arvada,"6395 53rd W Ave",,01/11/2006
+Colorado,Arapahoe,Aurora,"17813 Loyola E",,01/11/2006
+Colorado,Douglas,Littleton,"3406 Powers W Pl",,01/12/2006
+Colorado,Jefferson,Lakewood,"6652 Hamilton W Dr",,01/22/2006
+Colorado,Adams,Aurora,"12466 Parklane E Dr",,01/24/2006
+Colorado,"El Paso","Colorado Springs","2770 Uintah E St",,01/24/2006
+Colorado,"El Paso",Fountain,"460 Crest Dr",,02/12/2006
+Colorado,Adams,Aurora,"1623 Van Buren N Way",,02/15/2006
+Colorado,"El Paso","Manitou Springs","1015 Midland Ave",,02/20/2006
+Colorado,Arapahoe,Aurora,"1024 Scranton N",,03/02/2006
+Colorado,Arapahoe,Aurora,"19682 Harvard E Dr",,03/02/2006
+Colorado,"El Paso","Manitou Springs","115 Pawnee Ave 1",,03/09/2006
+Colorado,Larimer,"Fort Collins","1219 Pomona Street",,03/14/2006
+Colorado,"El Paso",Fountain,"208 Missouri E Ave 1",,03/17/2006
+Colorado,Arapahoe,Aurora,"1330 Paris S Ct",,03/21/2006
+Colorado,Arapahoe,Aurora,"750 South Macon Way",,03/22/2006
+Colorado,"El Paso",Calhan,"25802 Judge Orr Road",,04/04/2006
+Colorado,"El Paso","Colorado Springs","844 Hans Brinker Street",,04/28/2006
+Colorado,Larimer,Loveland,"1206 West Eisenhower Boulevard",,05/03/2006
+Colorado,Adams,Thornton,"10696 Harrison Street",,05/11/2006
+Colorado,Adams,Dupont,"6355 East 121st Drive",,05/20/2006
+Colorado,Adams,Westminster,"11107 Alcott Street",,06/02/2006
+Colorado,"Las Animas",Trinidad,"911 South Oak Street",,06/14/2006
+Colorado,"Clear Creek","Idaho Springs","920 Colorado Boulevard",,06/22/2006
+Colorado,Arapahoe,Englewood,"2909 South Acoma Street",,06/22/2006
+Colorado,Weld,"Ft Lupton","913 Elm Court",,06/22/2006
+Colorado,Arapahoe,Aurora,"1040 North Florence Street",,06/28/2006
+Colorado,Adams,Thornton,"13467 North Dexter Way",,07/19/2006
+Colorado,Denver,Denver,"3121 North York Street",,07/29/2006
+Colorado,Jefferson,Lakewood,"8126 West 6th Avenue",,08/17/2006
+Colorado,Weld,Keenesburg,"33291 Hwy 52",,08/23/2006
+Colorado,Denver,Denver,"4625 West 46th Avenue",,08/30/2006
+Colorado,Boulder,Lafayette,"1091 Sir Galahad Drive",,09/06/2006
+Colorado,Denver,Denver,"10025 East Girard Avenue",,09/06/2006
+Colorado,Arapahoe,Centennial,"7375 South Dowing (west) Circle",,09/06/2006
+Colorado,Larimer,Loveland,"1622 Ranae Drive",,10/11/2006
+Colorado,Larimer,"Fort Collins","3036 Regatta Lane",,10/11/2006
+Colorado,Denver,Denver,"4885 South Quebec Street",,10/30/2006
+Colorado,Denver,Denver,"2237 East 14th Avenue",,10/31/2006
+Colorado,Denver,Denver,"1059 North Corona Street",,11/24/2006
+Colorado,Douglas,Parker,"17739 Biscuit Root Drive",,11/26/2006
+Colorado,Arapahoe,Aurora,"1300 North Ironton Street",,12/01/2006
+Colorado,Jefferson,Arvada,"9660 West 63rd Avenue",,12/19/2006
+Colorado,Teller,Divide,"10624 South State Hwy 67",,01/04/2007
+Colorado,Denver,Denver,"593 South Quitman Street",,01/19/2007
+Colorado,Weld,Orchard,"43670 West County Road 42 1/2",,01/27/2007
+Colorado,"El Paso","Colorado Springs","3280 South Academy Boulevard",,03/03/2007
+Colorado,Arapahoe,Littleton,"995 West Peakview Avenue",,03/07/2007
+Colorado,Jefferson,Denver,"5580 West 10th Avenue",,04/02/2007
+Colorado,Larimer,Loveland,"2612 South Susan Drive",,04/05/2007
+Colorado,Denver,Denver,"4610 East 8th Avenue",,04/12/2007
+Colorado,Denver,Denver,"3314 West 33rd Avenue",,04/13/2007
+Colorado,Weld,Windsor,"100 Walnut Street",,04/25/2007
+Colorado,Adams,Westminster,"8061 Tennyson Street",,04/28/2007
+Colorado,Jefferson,"Wheat Ridge","3275 North Ames Street",,05/05/2007
+Colorado,Adams,Thornton,"8901 Huron Street A106",,05/08/2007
+Colorado,Denver,Denver,"103 South Zenobia Street",,05/10/2007
+Colorado,Arapahoe,Aurora,"14500 East 2nd #a-304 Avenue",,05/24/2007
+Colorado,Adams,Bennett,"145 Cleveland Court",,06/07/2007
+Colorado,"Rio Grande","Monte Vista","406 Madison Street",,07/06/2007
+Colorado,Denver,Denver,"3106 North Umatilla Street",,07/18/2007
+Colorado,Douglas,Parker,"10883 Bayfield Way",,08/01/2007
+Colorado,Arapahoe,Aurora,"16953 East Whitaker Drive",,08/21/2007
+Colorado,Larimer,Loveland,"1101 North Madison Street",,09/06/2007
+Colorado,Arapahoe,Englewood,"4945 South Delaware Street",,09/19/2007
+Colorado,"El Paso","Colorado Springs","720 Yuma Street",,10/12/2007
+Colorado,Larimer,Loveland,"3614 Butternut Drive",,10/25/2007
+Colorado,"El Paso","Colorado Springs","1117 Cree Drive 2",,10/27/2007
+Colorado,"El Paso","Colorado Springs","3818 Pearl Drive",,10/29/2007
+Colorado,"El Paso",,"122 North 7th Street 1",,10/30/2007
+Colorado,"El Paso","Colorado Springs","3413 West Monica Drive",,12/05/2007
+Colorado,Arapahoe,Littleton,"5250 South Huron Way 103",,12/14/2007
+Colorado,Denver,Denver,"732 North Knox Court",,01/10/2008
+Colorado,"El Paso",Peyton,"13770 Gymkhana Road 9",,01/23/2008
+Colorado,Jefferson,Lakewood,"370 Zang Street 302",,01/25/2008
+Colorado,"El Paso","Colorado Springs","220 Mount View Lane 11",,03/10/2008
+Colorado,Weld,Greeley,"815 South 30th Avenue",,03/26/2008
+Colorado,Arapahoe,Littleton,"5250 South Huron Way 205",,03/28/2008
+Colorado,Douglas,"Castle Rock","1030 Highlands Bluff Drive",,03/28/2008
+Colorado,Jefferson,Edgewater,"6815 West 24th Avenue 211",,04/29/2008
+Colorado,Denver,Denver,"1029 East 8th Avenue 505",,05/09/2008
+Colorado,"El Paso","Colorado Springs","321 Brookside Drive 30",,05/21/2008
+Colorado,"El Paso","Colorado Springs","2428 East St. Vrain Street",,05/21/2008
+Colorado,Denver,Denver,"2570 South Dayton Street I-306",,06/03/2008
+Colorado,Jefferson,Lakewood,"3282 South Newcombe Street 15-202",,09/10/2008
+Colorado,Arapahoe,Littleton,"6187 South Sterne Parkway",,09/20/2008
+Colorado,Denver,Denver,"50 South Alcott Street 5",,09/28/2008
+Colorado,Arapahoe,Littleton,"293 West Powers Place 406",,10/15/2008
+Colorado,"El Paso","Colorado Springs","101 Williams",,10/29/2008
+Colorado,Weld,"Fort Lupton","7898 Richa4rd Street B",,04/21/2009
+Colorado,Denver,Denver,"1471 North Zenobia Street 1475",,05/08/2009
+Colorado,Weld,Greeley,"2008 68 Avenue",,05/15/2009
+Colorado,"El Paso","Colorado Springs","542 East Platte Avenue A",,01/31/2010
+Colorado,Larimer,"Fort Collins","900  Vanderbilt Court",,07/20/2010
+Colorado,Weld,Greeley,"3021  43 Avenue",,12/17/2010
+Colorado,Broomfield,Broomfield,"220  Flint Way",,11/10/2011
+Colorado,Weld,Greeley,"1804 West 30th Street 202",,02/21/2012
+Colorado,Adams,"Commerce City","7351  Krameria Street",,10/09/2012
+Colorado,Broomfield,Broomfield,"136  Coral Way",,10/10/2012
+Colorado,Jefferson,Weston,"10710 North Moore Street",,10/07/2014
+Colorado,Adams,Thornton,"3637 E 94th Avenue",,03/17/2015
+Colorado,"El Paso","Colorado Springs","642 E Boulder St",,11/04/2016

@@ -1,0 +1,320 @@
+state,county,city,address1,address2,date
+Oregon,Linn,Albany,"1150 Southeast Salem Avenue",,01/05/2004
+Oregon,Linn,Albany,"325 Southeast Main Street",,01/06/2004
+Oregon,Umatilla,Milton-freewater,"914 S Mill St",,01/08/2004
+Oregon,Marion,Keizer,"5198 8th Ne Ave",,01/09/2004
+Oregon,Linn,Albany,"1197 Northeast Century Drive",,01/10/2004
+Oregon,Multnomah,Gresham,"18308 Ne Wasco",,01/12/2004
+Oregon,Josephine,"Cave Junction","4774 Waldo Road",,01/12/2004
+Oregon,Jackson,"White City","3777 Falcon Street",,01/14/2004
+Oregon,Baker,"Baker City","1351 Indiana Avenue",,01/15/2004
+Oregon,Multnomah,Portland,"9727 Ne Martin Luther King Blvd",,01/18/2004
+Oregon,Josephine,"Grants Pass","2929 Cheney Creek Road",,01/19/2004
+Oregon,Multnomah,Portland,"1525 N Portland Blvd",,01/19/2004
+Oregon,Washington,Hillsboro,"13115 Sw Evergreen St",,01/20/2004
+Oregon,Umatilla,Umatilla,"1370 6th St 107",,01/20/2004
+Oregon,Yamhill,Willamina,"420 Fifth St",,01/22/2004
+Oregon,Lane,Eugene,"4085 E 18th Ave",,01/27/2004
+Oregon,Multnomah,Portland,"8428 Ne Schuyler",,01/28/2004
+Oregon,Multnomah,Gresham,"1583 Ne Hacienda",,01/28/2004
+Oregon,Clackamas,Damascus,"15550 Se Barlow Ct",,01/28/2004
+Oregon,Multnomah,Gresham,"572 Se Kay Pl",,01/28/2004
+Oregon,Multnomah,Portland,"5224 Se Malden Dr",,01/28/2004
+Oregon,Multnomah,Portland,"10131 Lombrad St",,01/29/2004
+Oregon,Umatilla,Hermiston,"2050 Northeast 18th Street",,01/30/2004
+Oregon,Multnomah,Portland,"5922 Se Haig",,02/05/2004
+Oregon,Multnomah,Portland,"11929 Ne Airport Way",,02/07/2004
+Oregon,Linn,Albany,"36038 Eicher Rd",,02/10/2004
+Oregon,Linn,"Sweet Home","898 43rd Avenue",,02/11/2004
+Oregon,Multnomah,Gresham,"17032 Se Mckinley",,02/12/2004
+Oregon,Josephine,"Grants Pass","299 Se Reddy",,02/12/2004
+Oregon,Lane,Eugene,"258 W 18th Ave",,02/13/2004
+Oregon,Clackamas,Boring,"19770 Southeast Sunnyside Road",,02/16/2004
+Oregon,Clackamas,Colton,"28387 South Cox Road",,02/16/2004
+Oregon,Clackamas,"Oregon City","21560 South 213 Highway",,02/16/2004
+Oregon,Multnomah,Portland,"3040 Se 82nd",,02/19/2004
+Oregon,Multnomah,Portland,"280 Se 28th Ave C",,02/19/2004
+Oregon,Washington,Beaverton,"4770 Southwest 165th Avenue",,02/20/2004
+Oregon,Multnomah,Portland,"9823 North Exeter",,02/24/2004
+Oregon,Multnomah,Portland,"4319 Se 103rd Ave",,02/25/2004
+Oregon,Multnomah,Portland,"3910 Se 122nd",,02/25/2004
+Oregon,Multnomah,Portland,"5628 Se Holgate Blvd 2",,02/26/2004
+Oregon,Multnomah,Portland,"8514 Se 63 Rd",,02/26/2004
+Oregon,Multnomah,Portland,"4008 Se Division St",,02/26/2004
+Oregon,Umatilla,Umatilla,"81840 N 395 Hwy",,02/29/2004
+Oregon,Union,"La Grande","1501 Y Avenue",,03/02/2004
+Oregon,Marion,Salem,"4695 Southeast Buffalo Court",,03/02/2004
+Oregon,Umatilla,"Milton Freewater","51744 332 Highway",,03/04/2004
+Oregon,Linn,Albany,"3007 Alexander Lane",,03/05/2004
+Oregon,Umatilla,Hermiston,"648 E Gladys Ave",,03/10/2004
+Oregon,Multnomah,Portland,"4726 Ne 109th Ave 10",,03/10/2004
+Oregon,Linn,Lebanon,"1607 9th St D",,03/12/2004
+Oregon,Jackson,Medford,"2715 S Pacific Hwy 7",,03/13/2004
+Oregon,Umatilla,Milton-freewater,"420 S Main St",,03/14/2004
+Oregon,Baker,"Baker City","3055 10th St 25",,03/14/2004
+Oregon,Umatilla,Echo,"141 Dale St",,03/16/2004
+Oregon,Multnomah,Portland,"7300 Ne 33rd Dr",,03/17/2004
+Oregon,Multnomah,Portland,"12931 Southeast Powell",,03/18/2004
+Oregon,Washington,"Forest Grove","2738 19th Place",,03/23/2004
+Oregon,Clackamas,Clackamas,"65500 E Highway 26",,03/24/2004
+Oregon,Klamath,"Klamath Falls","2316 Main Street",,03/25/2004
+Oregon,Umatilla,Pendleton,"612 Southeast Dorion Avenue",,03/28/2004
+Oregon,Lincoln,Newport,"1819 Ne Crestview Pl",,03/29/2004
+Oregon,Linn,Albany,"2415 Southeast Marion Street",,03/31/2004
+Oregon,Baker,"Baker City","3265 14th Street",,04/07/2004
+Oregon,Multnomah,Gresham,"1501 Northeast Hale Place",,04/13/2004
+Oregon,Josephine,"Grants Pass","601 Northeast 8th",,04/13/2004
+Oregon,Clackamas,Clackamas,"16300 Southeast 224 Highway",,04/14/2004
+Oregon,Coos,"Coos Bay","225 S 7th St",,04/14/2004
+Oregon,Multnomah,Portland,"10708 E Burnside",,04/14/2004
+Oregon,Multnomah,Portland,"1245 Sw Grover 207",,04/15/2004
+Oregon,Umatilla,Echo,"806 College St",,04/17/2004
+Oregon,Umatilla,Umatilla,"1370 6th Street",,04/18/2004
+Oregon,Washington,Tigard,"11583 (a) Sw 135th 18",,04/18/2004
+Oregon,Multnomah,Portland,"11045 Northeast Shaver",,04/20/2004
+Oregon,Lane,Creswell,"298 E Oregon B",,04/22/2004
+Oregon,Washington,Hillsboro,"125 Nw Connell Ave",,04/22/2004
+Oregon,Clackamas,Clackamas,"11313 Se Steven Rd",,04/24/2004
+Oregon,Multnomah,Portland,"3324 Se Waverleigh Blvd 8",,04/27/2004
+Oregon,Washington,Portland,"8255 Southwest Durham Road",,04/27/2004
+Oregon,Multnomah,Portland,"12945 Ne Broadway St",,04/28/2004
+Oregon,Multnomah,Portland,"4541 Sumner Ne St",,04/28/2004
+Oregon,Clackamas,Portland,"9911 Se 82nd Ave",,04/29/2004
+Oregon,Multnomah,Portland,"19550 E Burnside St 43",,04/30/2004
+Oregon,Multnomah,Portland,"8832 N Wayland Ave",,04/30/2004
+Oregon,Multnomah,Portland,"601 Northeast 72nd Street",,05/01/2004
+Oregon,Umatilla,Umatilla,"142 Columbia St M2",,05/03/2004
+Oregon,Multnomah,Portland,"5500 Ne 32nd Pl",,05/04/2004
+Oregon,Linn,Lebanon,"1294 13th Place",,05/06/2004
+Oregon,Josephine,"Grants Pass","6285 Rogue River Hwy 4",,05/07/2004
+Oregon,Umatilla,Pendleton,"245 Se 3rd St",,05/07/2004
+Oregon,Gilliam,Condon,"205 E Walnut St",,05/11/2004
+Oregon,Umatilla,Hermiston,"280 Northwest 12th Street",,05/12/2004
+Oregon,Umatilla,Stanfield,"370 W Furnish",,05/14/2004
+Oregon,Lincoln,"Lincoln Beach","11733 Se Dogwood",,05/17/2004
+Oregon,Umatilla,"Milton Freewater","1420 South Main Street",,05/17/2004
+Oregon,Multnomah,Fairview,"1779 Northeast 230th Court",,05/17/2004
+Oregon,Marion,Salem,"2551 Brown Ne Rd",,05/18/2004
+Oregon,Umatilla,Hermiston,"78689 Doherty Road",,05/19/2004
+Oregon,Lane,Eugene,"34345 Row River Rd",,05/19/2004
+Oregon,Multnomah,Portland,"3835 Northeast Brazee Court",,05/20/2004
+Oregon,Douglas,Roseburg,"5793 Ne Stephens 6",,05/20/2004
+Oregon,Crook,Prineville,"3818 Lamonta Nw Rd",,05/22/2004
+Oregon,Multnomah,Portland,"8315 Ne Thompson St",,05/25/2004
+Oregon,Multnomah,Multnomah,"8350 Thompson Ne St",,05/25/2004
+Oregon,Multnomah,Portland,"3327 Southeast 127th Place",,05/26/2004
+Oregon,Lane,Springfield,"1747 Main 9",,05/27/2004
+Oregon,Klamath,Crescent,"1535 Crescent Cutoff Road",,06/01/2004
+Oregon,Lane,Eugene,"4780 Cody",,06/01/2004
+Oregon,Clackamas,Portland,"11310 Se 82nd Ave",,06/02/2004
+Oregon,Josephine,"Grants Pass","319 Se L St",,06/03/2004
+Oregon,Marion,Salem,"1806 Lancaster Se Dr",,06/07/2004
+Oregon,Linn,Albany,"3580 Northeast David Avenue",,06/08/2004
+Oregon,Multnomah,Portland,"5622 Se Raymond St",,06/08/2004
+Oregon,Jackson,Medford,"617 North Riverside Avenue",,06/08/2004
+Oregon,Jackson,"White City","3995 H Avenue",,06/10/2004
+Oregon,Multnomah,Portland,"16936 Se Powell 70",,06/10/2004
+Oregon,Lane,Eugene,"394 1/2 Blair",,06/10/2004
+Oregon,Multnomah,Portland,"7915 Sw 19th Ave",,06/10/2004
+Oregon,Linn,Lebanon,"845 West Grant Street",,06/11/2004
+Oregon,Multnomah,Portland,"2351 Southwest Rose Lane",,06/16/2004
+Oregon,Multnomah,Portland,"4241 Se 136th Ave",,06/17/2004
+Oregon,Multnomah,Portland,"16661 Ne Hassalo",,06/23/2004
+Oregon,Lane,Springfield,"1863 11th Pl",,06/24/2004
+Oregon,Umatilla,Umatilla,"149 Casa Ct",,06/26/2004
+Oregon,Multnomah,Portland,"6849 Se Tolman",,07/01/2004
+Oregon,Multnomah,Portland,"9579 N Lombard St",,07/01/2004
+Oregon,Klamath,"Klamath Falls","5440 Hwy 97 N",,07/02/2004
+Oregon,Lincoln,Toledo,"2110 Southeast Sturdevant Road",,07/02/2004
+Oregon,Multnomah,Portland,"16001 Halsey Ne",,07/02/2004
+Oregon,Umatilla,"Milton Freewater","53752 Appleton Road",,07/07/2004
+Oregon,Josephine,"Cave Junction","2910 Caves Highway",,07/08/2004
+Oregon,Multnomah,Portland,"1214 Se Cora 4",,07/09/2004
+Oregon,Lane,Coburg,"33100 Van Duyn Rd 121",,07/09/2004
+Oregon,Linn,Lebanon,"39774 Baptist Church Drive",,07/14/2004
+Oregon,Klamath,"Klamath Falls","3427 Chelsea Street",,07/16/2004
+Oregon,Washington,Beaverton,"24310 Sw Rosedale Rd",,07/19/2004
+Oregon,Multnomah,Portland,"9107 Se Stark 319",,07/21/2004
+Oregon,Lane,Veneta,"88243 Ellmaker",,07/22/2004
+Oregon,Wasco,Mosier,"3500 Mosier Creek",,07/23/2004
+Oregon,Multnomah,Gresham,"3415 Southeast Powell Valley Road",,07/26/2004
+Oregon,Jackson,"Gold Hill","137 Garden Row",,07/28/2004
+Oregon,Washington,Beaverton,"24422 Sw Rosedale Rd",,07/28/2004
+Oregon,Multnomah,Portland,"3910 Southeast 166th Street",,07/28/2004
+Oregon,Linn,Scio,"39971 Sandner Road",,07/29/2004
+Oregon,Umatilla,Umatilla,"1885 Cherry St",,07/30/2004
+Oregon,Multnomah,Portland,"Se Wasco St",,08/03/2004
+Oregon,Multnomah,Portland,"8100 Southeast Duke",,08/07/2004
+Oregon,Multnomah,Gresham,"18735 E Burnside",,08/09/2004
+Oregon,Columbia,Scappoose,"54406 Dahlgren Road",,08/11/2004
+Oregon,Baker,"Baker City","107 Eureka Street",,08/18/2004
+Oregon,Lane,Eugene,"1300 Quaker St",,08/20/2004
+Oregon,Multnomah,Portland,"4444 Northeast 80th Avenue",,08/21/2004
+Oregon,Umatilla,Hermiston,"1905 Nw Geer Rd",,08/23/2004
+Oregon,Multnomah,Portland,"1851 Northeast 59th Avenue",,08/26/2004
+Oregon,Multnomah,Portland,"6556 Se 65th St",,08/26/2004
+Oregon,Multnomah,Portland,"3519 Southeast 61st Avenue",,08/28/2004
+Oregon,Multnomah,Portland,"4635 Southeast Ellis Street",,08/29/2004
+Oregon,Washington,Hillsboro,"1375 Ne Alex Way",,08/30/2004
+Oregon,Lane,Springfield,"3332 Main St 12",,08/31/2004
+Oregon,Clackamas,Sandy,"59040 Shingle E Ln",,08/31/2004
+Oregon,Columbia,"Saint Helens","454 North 10th Street",,09/01/2004
+Oregon,Multnomah,Portland,"5027 Northeast 18th Avenue",,09/01/2004
+Oregon,Lane,Creswell,"34120 E Cloverdale Rd",,09/03/2004
+Oregon,Umatilla,Umatilla,"30125 Scaplehorn Rd",,09/03/2004
+Oregon,Multnomah,Portland,"8543 Southeast Harney Street",,09/03/2004
+Oregon,Lane,Eugene,"85213 S Willamette St",,09/08/2004
+Oregon,Clackamas,"Oregon City","13285 Fortuna Ct",,09/14/2004
+Oregon,Lane,Eugene,"255 High St 231",,09/14/2004
+Oregon,Josephine,"Grants Pass","356 Wilderville Lane",,09/17/2004
+Oregon,Umatilla,Pendleton,"127 Southwest Emigrant Avenue",,09/22/2004
+Oregon,Multnomah,Portland,"10721 Northeast Simpson Street",,09/22/2004
+Oregon,Multnomah,Portland,"6519 North Montana",,09/26/2004
+Oregon,Marion,Salem,"559 Northeast 21st Street",,09/30/2004
+Oregon,Benton,Philomath,"115 20th S St 3",,10/02/2004
+Oregon,Josephine,"Grants Pass","2306 Stringer Gap Rd",,10/05/2004
+Oregon,Multnomah,Portland,"7125 Sw 29th Ave",,10/05/2004
+Oregon,Umatilla,Weston,"58587 Highway 204",,10/06/2004
+Oregon,Multnomah,Portland,"8924 Southeast Hawthorne Street",,10/08/2004
+Oregon,Multnomah,Portland,"13100 Se Flavel St",,10/11/2004
+Oregon,Multnomah,Portland,"9270 Southeast Market",,10/12/2004
+Oregon,Multnomah,Portland,"5628 Se Holgate Blvd",,10/19/2004
+Oregon,Umatilla,Milton-freewater,"633 County Rd",,10/21/2004
+Oregon,Multnomah,Portland,"16222 Se Market St",,10/27/2004
+Oregon,Washington,Aloha,"2795 187th Sw Ave",,10/27/2004
+Oregon,Multnomah,Portland,"1503 N Hayden Island Dr 15",,11/04/2004
+Oregon,Lincoln,Toledo,"800 Se 7th St",,11/05/2004
+Oregon,Jackson,"White City","3265 Antelope Rd 22",,11/09/2004
+Oregon,Multnomah,Portland,"1604 Sw Clay 107",,11/16/2004
+Oregon,Clackamas,Milwaukie,"15902 Se Ruby Dr",,11/16/2004
+Oregon,Crook,Prineville,"Mp 16 Highway 26",,11/22/2004
+Oregon,Multnomah,Portland,"5635 Se Mall St",,11/23/2004
+Oregon,Lane,"Cottage Grove","333 Monroe Ave",,11/24/2004
+Oregon,Yamhill,Willamina,"41451 Fort Hill Rd",,11/30/2004
+Oregon,Washington,Hillsboro,"562 25th Ne Ct",,12/02/2004
+Oregon,Umatilla,Hermiston,"200 Nw 6th",,12/04/2004
+Oregon,Multnomah,Portland,"7024 Nw St Helens Rd",,12/07/2004
+Oregon,Baker,"Baker City","2450 Broadway Ave 2",,12/14/2004
+Oregon,Josephine,"Unincorporated City","1700 Rough And Ready Creek Rd",,12/20/2004
+Oregon,Multnomah,Gresham,"19923 Se Washington St",,12/23/2004
+Oregon,Lane,Eugene,"2063 Amirante",,12/30/2004
+Oregon,Douglas,Roseburg,"5030 Melody Ln",,01/01/2005
+Oregon,Baker,"Baker City","1724 Cherry St",,01/04/2005
+Oregon,Multnomah,Portland,"10811 Ne Marx St",,01/13/2005
+Oregon,Josephine,"Cave Junction","495 S Old Stage Rd",,01/14/2005
+Oregon,Umatilla,Hermiston,"32311 Benjamin Ln",,01/21/2005
+Oregon,Josephine,"Cave Junction","515 Sherwood Ave",,01/21/2005
+Oregon,Umatilla,Umatilla,"1885 Cherry Street",,01/22/2005
+Oregon,Multnomah,Portland,"3715 Southeast 40th Avenue",,01/22/2005
+Oregon,Multnomah,Gresham,"18761 Southeast 212 Highway",,01/26/2005
+Oregon,Multnomah,Gresham,"611 Southeast 212th Avenue",,01/27/2005
+Oregon,Josephine,"Cave Junction","612 Jeannie Way",,01/28/2005
+Oregon,Yamhill,Mcminnville,"514 Ne 24th St",,01/29/2005
+Oregon,Umatilla,Pendleton,"416 Sw Hailey Ave 1",,01/31/2005
+Oregon,Douglas,Winston,"731 Blossom Creek Rd",,02/03/2005
+Oregon,Lane,Eugene,"1840 Agate St 14",,02/17/2005
+Oregon,Clackamas,Portland,"16456 Southeast Sun Avenue",,02/19/2005
+Oregon,Lane,Eugene,"1045 Cinnamon",,02/23/2005
+Oregon,Multnomah,Gresham,"8110 Mill Se St 2",,02/25/2005
+Oregon,Jackson,Medford,"132 Tripp Street",,03/01/2005
+Oregon,Multnomah,Gresham,"906 Southeast 225th",,03/01/2005
+Oregon,Linn,Lebanon,"2391 Porter Street",,03/05/2005
+Oregon,Marion,Woodburn,"3312 Senacal Creek Drive",,03/06/2005
+Oregon,Washington,Beaverton,"12690 Southwest Daphne Court",,03/08/2005
+Oregon,Washington,Aloha,"7315 Sw 189th Ave",,03/08/2005
+Oregon,Multnomah,Portland,"15820 Southeast Mill",,03/10/2005
+Oregon,Multnomah,Gresham,"700 Southwest Eastman Way",,03/14/2005
+Oregon,Multnomah,Portland,"12707 Southeast Alder Street",,03/15/2005
+Oregon,Umatilla,Pendleton,"327 Southwest 2nd Street",,03/19/2005
+Oregon,Multnomah,Portland,"3608 North Missouri",,03/22/2005
+Oregon,Multnomah,Portland,"1724 Northeast 46th Avenue",,03/22/2005
+Oregon,Josephine,"Cave Junction","220 South Kerby Avenue",,03/29/2005
+Oregon,Morrow,Irrigon,"74609 Cain Lane",,04/04/2005
+Oregon,Umatilla,Hermiston,"79426 South Edwards Road",,04/04/2005
+Oregon,Multnomah,Portland,"5413 North Minnesota Avenue",,04/07/2005
+Oregon,Baker,Halfway,"277 North Pine Street",,04/08/2005
+Oregon,Wagoner,Wagoner,"606 1 St Ne St",,04/10/2005
+Oregon,Umatilla,Pendleton,"1902 Southwest Goodwin Avenue",,04/11/2005
+Oregon,Baker,"Baker City","3455 Auburn Avenue",,04/11/2005
+Oregon,Multnomah,Troutdale,"2208 Southwest 257th Avenue",,04/12/2005
+Oregon,Umatilla,Athena,"124 High Street",,04/13/2005
+Oregon,Yamhill,Mcminnville,"528 East Washington Street",,04/20/2005
+Oregon,Linn,Lebanon,"855 Isabella Street",,04/20/2005
+Oregon,Yamhill,Newberg,"1210 East 9th Street",,04/21/2005
+Oregon,Lane,Eugene,"1637 Ferry Street",,04/26/2005
+Oregon,Yamhill,Sheridan,"7080 Frank Road",,04/27/2005
+Oregon,Multnomah,Portland,"2045 Southeast Ankeny Street",,05/02/2005
+Oregon,Multnomah,Portland,"8320 Southeast Brooklyn Street",,05/05/2005
+Oregon,Umatilla,Echo,"41 Prescott Road",,05/05/2005
+Oregon,Multnomah,Portland,"9912 Southeast Division Street",,05/07/2005
+Oregon,Multnomah,Portland,"15043 Southeast Division Street",,05/12/2005
+Oregon,Umatilla,Stanfield,"455 West Wood",,05/14/2005
+Oregon,Lane,Eugene,"1774 Patterson",,05/15/2005
+Oregon,Marion,Salem,"4008 Southeast Carson Drive",,05/20/2005
+Oregon,Linn,Brownsville,"29000 Sheephead Road",,05/26/2005
+Oregon,Washington,Aloha,"2064 Leewood Sw Ln",,06/10/2005
+Oregon,Douglas,Gardiner,"77143 Highway 101",,06/12/2005
+Oregon,Multnomah,Portland,"204 182nd Se Ave",,06/15/2005
+Oregon,Lane,"Junction City","93667 River Rd",,06/21/2005
+Oregon,Umatilla,Umatilla,"29563 Bonney Ln",,06/22/2005
+Oregon,Multnomah,Portland,"3150 Se 22nd Se Ave",,06/23/2005
+Oregon,Clackamas,Clackamas,"918 West Willow Street",,06/29/2005
+Oregon,Umatilla,Milton-freewater,"104 N Columbia 18",,07/16/2005
+Oregon,Lane,Elmira,"25107 Lamb Rd",,07/25/2005
+Oregon,Malheur,Vale,"1102 C W St",,08/02/2005
+Oregon,Marion,Keizer,"678 Lockhaven Ne Dr",,08/05/2005
+Oregon,Umatilla,Pendleton,"338 14th Nw St",,08/16/2005
+Oregon,Multnomah,Portland,"2708 Se 138th Ave 39",,08/22/2005
+Oregon,Umatilla,Pendleton,"306 Se 9th 1",,08/28/2005
+Oregon,Umatilla,Pendleton,"308 9th Se St",,08/29/2005
+Oregon,Marion,Salem,"441 16th Se St",,09/19/2005
+Oregon,Linn,Albany,"2415 Se Marlon St",,09/30/2005
+Oregon,Baker,"Baker City","2715 Main St",,10/03/2005
+Oregon,Linn,"Sweet Home","1203 Laurel Ct",,10/12/2005
+Oregon,Linn,"Sweet Home","1201(a) 40th Ave",,10/14/2005
+Oregon,Linn,"Sweet Home","1201(b) 40th Ave",,10/14/2005
+Oregon,Marion,Salem,"4602 Sunnyview Ne Rd",,10/14/2005
+Oregon,Clackamas,Boring,"15764 Se 322nd",,10/25/2005
+Oregon,Washington,"Lake Oswego","16231 Sw Parker Rd",,10/26/2005
+Oregon,Washington,Beaverton,"17740 Scholls Ferry Rd",,11/07/2005
+Oregon,Lane,Eugene,"1013 Cinnamon Ave",,12/15/2005
+Oregon,Washington,Tigard,"9870 Sw Frewing St",,12/27/2005
+Oregon,Jackson,"Central Point","1325 Sandy Lane",,01/01/2006
+Oregon,Baker,"Baker City","889 Elm St",,01/03/2006
+Oregon,Linn,"Sweet Home","28835 Weatherly Ln",,01/12/2006
+Oregon,Multnomah,Portland,"13147 Se Sherman",,01/19/2006
+Oregon,Multnomah,Portland,"9106 Se Stark St 3",,02/02/2006
+Oregon,Benton,Corvallis,"655 Se Bell Ave",,03/06/2006
+Oregon,Washington,"North Plains","39000 Northwest Shermans Mill Road",,03/15/2006
+Oregon,Clackamas,Clackamas,"9805 Citadel Se St",,03/22/2006
+Oregon,Multnomah,Portland,"2040 Southwest Vermont",,03/28/2006
+Oregon,Umatilla,Hermiston,"559 East Autumn Road",,05/08/2006
+Oregon,Benton,Philomath,"24323 Walden",,05/24/2006
+Oregon,Multnomah,Portland,"430 Northeast 176th",,06/02/2006
+Oregon,Multnomah,Portland,"905 Southeast 73rd",,06/02/2006
+Oregon,Linn,Albany,"3410 Sw Pacific Boulevard",,06/21/2006
+Oregon,Morrow,Irrigon,"81468 Pine Road",,06/29/2006
+Oregon,Washington,Portland,"14843 Northwest Hunters Drive",,07/21/2006
+Oregon,Lane,"Junction City","25471 Lavelle Road",,08/26/2006
+Oregon,Washington,Hillsboro,"1630 Se Duke Drive",,10/26/2006
+Oregon,Clackamas,Clackamas,"10010 Southeast Brandeis Street",,04/06/2007
+Oregon,Coos,"North Bend","94988 Golf Course Lane",,05/21/2007
+Oregon,Lane,Eugene,"86126 Drummond Drive",,05/31/2007
+Oregon,Marion,Salem,"4540 Northeast Sparrow Court",,06/06/2007
+Oregon,Linn,Lebanon,"42943 Green Mountain Road",,09/05/2007
+Oregon,Baker,"Baker City","15001 Profitt",,02/25/2008
+Oregon,Coos,Coquille,"56167 Finley",,02/29/2008
+Oregon,Umatilla,Pendleton,"76515 Mccormach Road",,02/29/2008
+Oregon,Washington,Beaverton,"6155 Sw King",,05/13/2008
+Oregon,Douglas,Sutherlin,"213 Nw Kruse Street",,05/30/2008
+Oregon,Multnomah,Portland,"6848 Ne Going",,04/22/2009
+Oregon,Multnomah,Gresham,"21911 Ash",,06/11/2009
+Oregon,Multnomah,Gresham,"17257  E Burnside",,07/26/2011
+Oregon,Multnomah,Portland,"7830 Southeast Aspen Summit Drive 75",,02/22/2013
+Oregon,Lane,Eugene,"795  Red Cedar",,05/14/2014
+Oregon,Clackamas,Milwaukie,"6306  King Road",,03/01/2016
+Oregon,Malheur,Ontario,"1142  Sw 14th",,04/04/2016
+Oregon,Deschutes,Bend,"24835  Elk Lane",,04/26/2016
+Oregon,Deschutes,Bend,"1449 Ne Purcell Boulevard Box B41",,06/15/2016
+Oregon,Josephine,"Grants Pass","255 Central Ave W.",,12/07/2017
+Oregon,Umatilla,Hermiston,"1630 Sunland Ave W.",,12/13/2017

@@ -1,0 +1,118 @@
+state,county,city,address1,address2,date
+Nevada,Clark,"Las Vegas","3914 Perry St C",,01/16/2004
+Nevada,Clark,"Las Vegas","2990 Cedar",,01/25/2004
+Nevada,Clark,"Las Vegas","3536 Unique N Way",,01/27/2004
+Nevada,Clark,"Las Vegas","1620 San Pedro Ave",,02/11/2004
+Nevada,Clark,"Las Vegas","8400 Abita Cir",,02/18/2004
+Nevada,Clark,"North Las Vegas","4323 Yonkwood",,02/27/2004
+Nevada,Clark,Henderson,"2807 Sodorno E Ln",,03/05/2004
+Nevada,Clark,Henderson,"233 Cholla S C-23",,03/11/2004
+Nevada,Clark,"Las Vegas","2159 Enfield Cir A",,03/17/2004
+Nevada,Clark,"Las Vegas","1425 Mallard N",,03/27/2004
+Nevada,Clark,"Las Vegas","3367 Rio Grande",,03/28/2004
+Nevada,Clark,"Las Vegas","5204 Alpine Pl",,03/28/2004
+Nevada,Clark,"Las Vegas","4205 Tropicana W Ave B-3017",,04/10/2004
+Nevada,Clark,"Las Vegas","3850 Mountain Vista S 172",,04/10/2004
+Nevada,Washoe,Reno,"255 Sierra N Ave",,04/22/2004
+Nevada,Clark,"Las Vegas","5550 Pleasant Hill Sr 202",,05/06/2004
+Nevada,Clark,"Las Vegas","3890 Graphic Center W Dr",,05/14/2004
+Nevada,Washoe,Sparks,"2150 Victorian Ave 123",,05/15/2004
+Nevada,Clark,"Las Vegas","920 Martin L King S Blvd",,05/25/2004
+Nevada,Clark,"Las Vegas","7230 Las Vegas S Blvd 373",,05/28/2004
+Nevada,Clark,"Las Vegas","4025 Palos Verdes 116",,06/08/2004
+Nevada,Clark,"Las Vegas","5025 Washington W Ave",,06/15/2004
+Nevada,Clark,"Las Vegas","5249 Willowhaven Ave",,06/17/2004
+Nevada,Clark,"Las Vegas","4871 Tierra Verde St",,06/18/2004
+Nevada,Clark,"Las Vegas","4685 Harmon E Ave",,07/05/2004
+Nevada,Clark,"Las Vegas","5793 Gateway",,07/08/2004
+Nevada,Clark,"Las Vegas","6796 Greengrove W Dr",,07/08/2004
+Nevada,Clark,"Las Vegas","3564 Haverhill",,07/15/2004
+Nevada,Washoe,Sparks,"2001 Victorian Ave",,07/27/2004
+Nevada,Washoe,Sparks,"2955 Los Arboles Lane",,07/28/2004
+Nevada,Clark,"Las Vegas","2701 North Rancho Drive 2089",,08/03/2004
+Nevada,Clark,"Las Vegas","8728 Brody St",,08/11/2004
+Nevada,Clark,"Las Vegas","1500 Stardust St L-3206",,08/21/2004
+Nevada,Clark,"Las Vegas","2300 Rock Springs Dr 12/1075",,09/13/2004
+Nevada,Clark,"Las Vegas","4500 Tropicana W Ave 1761",,09/16/2004
+Nevada,Clark,"Las Vegas","4244 Rolling Stone Drive",,10/03/2004
+Nevada,Clark,"Las Vegas","9645 West Tropicana Avenue",,10/05/2004
+Nevada,Washoe,Reno,"9865 North Virginia Street 3",,10/05/2004
+Nevada,Clark,"Las Vegas","4080 Warm Springs W Rd",,10/08/2004
+Nevada,Clark,"Las Vegas","2654 Bryan Douglas St D",,10/08/2004
+Nevada,Clark,"Las Vegas","8025 Russell W Rd 2021",,10/24/2004
+Nevada,Clark,"Las Vegas","3040 Misty Harbor",,10/28/2004
+Nevada,Clark,"Las Vegas","1625 Crest Haven Ave",,10/28/2004
+Nevada,Clark,"Las Vegas","1693 Hillpath Trail",,10/29/2004
+Nevada,Clark,"Las Vegas","2725 Wigwam W 2047",,10/31/2004
+Nevada,Clark,"Las Vegas","3812 Daisy St 5",,11/01/2004
+Nevada,Clark,"Las Vegas","5083 Vincitor` St",,11/01/2004
+Nevada,Clark,"Las Vegas","9490 Bermuda S St 5-1034",,11/02/2004
+Nevada,Clark,"North Las Vegas","1831 Yale Street",,11/07/2004
+Nevada,Clark,"Las Vegas","205 Harmon E Ave 124",,11/15/2004
+Nevada,Clark,"Las Vegas","4801 Spencer S St 149",,11/16/2004
+Nevada,Clark,"Las Vegas","1500 Karen E Ave 187",,12/01/2004
+Nevada,Clark,"Las Vegas","4992 Haystack S St",,12/10/2004
+Nevada,Clark,"Las Vegas","3290 Rancho N Rd 2e651",,02/08/2005
+Nevada,Clark,"Las Vegas","4608 Exposition Ave",,02/14/2005
+Nevada,Clark,"Las Vegas","909 Golden Hawk",,02/15/2005
+Nevada,Clark,"Las Vegas","800 Connie Court",,03/10/2005
+Nevada,Clark,"Las Vegas","1752 Yellow Rose N St",,03/23/2005
+Nevada,Clark,"Las Vegas","5078 Mountain Vista St",,03/27/2005
+Nevada,Clark,"Las Vegas","3600 Waterhole Street",,03/30/2005
+Nevada,Clark,"Las Vegas","6301 Arlington St",,04/08/2005
+Nevada,Lyon,Fernley,"255 Vine St",,04/11/2005
+Nevada,Clark,"Las Vegas","8352 Cove Landing Ave",,04/15/2005
+Nevada,Lyon,Fernley,"273 Wildwood St",,05/07/2005
+Nevada,Lyon,Fernley,"888 G St",,06/03/2005
+Nevada,Lyon,Fernley,"330 Maple St",,06/09/2005
+Nevada,Clark,"Las Vegas","4313 Mayflower W",,06/10/2005
+Nevada,Clark,"Las Vegas","6649 Delphinium Ave",,07/18/2005
+Nevada,Clark,"Las Vegas","4117 Pierce Way",,07/29/2005
+Nevada,Clark,"Las Vegas","701 South Mallard Street",,08/05/2005
+Nevada,Clark,"Las Vegas","811 Kenny S Way",,08/31/2005
+Nevada,Clark,"Las Vegas","1420 Harris Ave 10",,09/06/2005
+Nevada,Clark,"Las Vegas","3709 Steinbeck",,09/24/2005
+Nevada,Clark,"Las Vegas","1350 Town Center N Dr 2/2010",,09/26/2005
+Nevada,Washoe,Sparks,"5760 Bozic Lane",,10/11/2005
+Nevada,"Carson City (city)","Carson City","2710 Menlo Drive 9",,11/13/2005
+Nevada,Clark,"Las Vegas","5795 Flamingo W Rd 10-137",,11/20/2005
+Nevada,Clark,"Las Vegas","3705 Colfax",,12/17/2005
+Nevada,Clark,"Las Vegas","6236 Barkstone Ave",,12/29/2005
+Nevada,Clark,"Las Vegas","985 Grand Cerritos",,02/08/2006
+Nevada,Clark,"Las Vegas","4217 Baxter Place",,03/01/2006
+Nevada,Clark,"Las Vegas","1700 Alta W Dr 12/2046",,03/25/2006
+Nevada,Washoe,"Sun Valley","117 East 8th Avenue",,03/25/2006
+Nevada,Clark,"Las Vegas","4237 Beth Ave",,04/09/2006
+Nevada,Clark,"Las Vegas","9050 Warm Springs W Rd 1059",,04/12/2006
+Nevada,Clark,"Las Vegas","5900 West Tropicana Boulevard",,04/14/2006
+Nevada,Clark,"Las Vegas","8710 Horizon Wind",,04/19/2006
+Nevada,Clark,"Las Vegas","1420 Helm Drive",,04/20/2006
+Nevada,Clark,"Las Vegas","5047 Durante",,04/25/2006
+Nevada,Clark,"Las Vegas","3975 East Lake Mead Boulevard",,05/03/2006
+Nevada,Clark,"Las Vegas","7160 Azure Drive",,05/09/2006
+Nevada,Clark,"Las Vegas","5669 Palmyra",,06/15/2006
+Nevada,Clark,"Las Vegas","6621 Beach Plum",,06/29/2006
+Nevada,Clark,"Las Vegas","3654 Spring Shower",,07/09/2006
+Nevada,Clark,"Las Vegas","8653 Toscana",,08/21/2006
+Nevada,Clark,"Las Vegas","4033 Nightingale Court",,08/22/2006
+Nevada,Clark,"Las Vegas","7183 Clearwater Street",,08/26/2006
+Nevada,Washoe,Reno,"2150 North Sutro Street",,01/23/2007
+Nevada,Clark,"Las Vegas","9625 West Russell Road",,02/08/2007
+Nevada,Washoe,Sparks,"5310 Chocolate Drive",,05/08/2007
+Nevada,Washoe,Sparks,"5245 Carrol Drive",,05/11/2007
+Nevada,Clark,"Las Vegas","2219 North Rancho Drive",,09/10/2007
+Nevada,Clark,"Las Vegas","3941 La Cruz Court",,11/10/2007
+Nevada,Clark,"Las Vegas","3513 North Nellis Boulevard",,11/20/2007
+Nevada,Clark,"Las Vegas","5400 West Cheyenne Avenue",,12/16/2007
+Nevada,Clark,"Las Vegas","220 Prince Lane",,04/21/2009
+Nevada,Clark,"Las Vegas","5454 Dungaree",,05/06/2009
+Nevada,Clark,Henderson,"1191 Casa Palermo",,05/08/2009
+Nevada,Elko,Elko,"500  Hot Springs Road",,06/21/2010
+Nevada,Clark,"Las Vegas","8840 South Las Vegas Boulevard 139",,11/21/2011
+Nevada,Clark,"Las Vegas","1901 North Jones Boulevard 1085",,01/21/2012
+Nevada,Clark,"Las Vegas","3825  Cambridge Street 214",,09/03/2012
+Nevada,Clark,"Las Vegas","4375 East Sahara Avenue  Box 369",,12/17/2014
+Nevada,Clark,"Las Vegas","8936 Medicine Wheel",,08/03/2016
+Nevada,Clark,"Las Vegas","5100 E Tropicana Ave",,08/11/2016
+Nevada,Clark,"Las Vegas","7312 Lattimore Drive",,08/15/2016
+Nevada,Clark,"Las Vegas","2121 N Jones Blvd",,12/19/2017

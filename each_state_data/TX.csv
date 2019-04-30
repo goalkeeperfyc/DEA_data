@@ -1,0 +1,558 @@
+state,county,city,address1,address2,date
+Texas,Throckmorton,Throckmorton,"411 Niagra St",,01/01/2004
+Texas,Tarrant,"Fort Worth","9305 Heron Dr",,01/02/2004
+Texas,Liberty,Cleveland,"21643 C.r. 37492",,01/05/2004
+Texas,Jasper,Kirbyville,"Fm 82 Rt Rt 1 100",,01/07/2004
+Texas,Harris,Pasadena,"2101 Huntington Dr",,01/07/2004
+Texas,"El Paso","El Paso","5216 Carrousel 7",,01/08/2004
+Texas,Gray,Pampa,"1112 Lincoln",,01/09/2004
+Texas,Gray,Pampa,"1244 Hobart",,01/09/2004
+Texas,Tarrant,"Fort Worth","5840 South Frwy 121",,01/09/2004
+Texas,Burnet,Bertram,"350 Cedar E St",,01/10/2004
+Texas,Guadalupe,Seguin,"6250 Stagecoach Rd",,01/11/2004
+Texas,"Fort Bend","Missouri City","4522 Plantation Creek Drive",,01/12/2004
+Texas,Bandera,Bandera,"252 Contour Drive",,01/12/2004
+Texas,Parker,Weatherford,"6228 Huthcheson Hill Rd",,01/12/2004
+Texas,Montague,Bowie,"711 Cooper St",,01/13/2004
+Texas,Wichita,"Wichita Falls","1211 Central Frwy",,01/14/2004
+Texas,Kerr,Ingram,"319 Carolyn Sr",,01/15/2004
+Texas,Lubbock,Lubbock,"1635 112th St",,01/15/2004
+Texas,Waller,Brookshire,"1238 Fm359 N Rd",,01/15/2004
+Texas,Bexar,Elmendorf,"3935 Cannon Wood",,01/16/2004
+Texas,Bell,Belton,"701 Q E Ave",,01/16/2004
+Texas,Anderson,Palestine,"1353 Acr 142",,01/16/2004
+Texas,Dallas,"Grand Prairie","3510 Hard Rock Rd #9",,01/16/2004
+Texas,Mclennan,Waco,"1605 Park Lake",,01/17/2004
+Texas,Ochiltree,Perryton,"722 South Colgate",,01/17/2004
+Texas,"Palo Pinto","Mineral Wells","1400 2nd Nw Ave",,01/18/2004
+Texas,Gray,Pampa,"941 Faulkner S",,01/19/2004
+Texas,Henderson,Mabank,"17929 Cherry Ln",,01/20/2004
+Texas,Coke,"Robert Lee","510 Lometa",,01/20/2004
+Texas,Hood,Granbury,"6815 Evergreen St",,01/20/2004
+Texas,Tarrant,"Fort Worth","6125 Bianca Cir 7",,01/22/2004
+Texas,Montgomery,Conroe,"2210 West View Dr 149",,01/22/2004
+Texas,Bexar,"San Antonio","7306 Harlow 1c",,01/22/2004
+Texas,Randall,Amarillo,"4051 Canyon S Dr",,01/23/2004
+Texas,Lubbock,Lubbock,"2214 44th E St",,01/23/2004
+Texas,Montague,Bowie,"700 Central St",,01/24/2004
+Texas,Burnet,"Marble Falls","604 D Ave",,01/25/2004
+Texas,Harris,Spring,"2507 Night Owl",,01/26/2004
+Texas,Montgomery,Conroe,"14791 Cedar Circle Rd",,01/27/2004
+Texas,Montgomery,Willis,"2127 Applewood Dr",,01/28/2004
+Texas,Bexar,"San Antonio","14522 Waddesdon Bluff",,01/30/2004
+Texas,Harris,Houston,"1508 Main W St 1",,01/30/2004
+Texas,Tarrant,"Fort Worth","5401 Creek W Dr",,01/30/2004
+Texas,Ector,Odessa,"6380 Kermit Ave",,01/30/2004
+Texas,Midland,Midland,"3903 Cr 1130 N",,01/30/2004
+Texas,Hardeman,Quanah,"1108 Airport Rd",,02/01/2004
+Texas,Wichita,"Wichita Falls","2212 8th St",,02/02/2004
+Texas,Tarrant,"Fort Worth","5520 Sun Valley Dr",,02/02/2004
+Texas,Tarrant,"Fort Worth","4507 Mc Cart Ave",,02/03/2004
+Texas,Ector,Odessa,"3111 Center N St",,02/05/2004
+Texas,Bell,Killeen,"515 53rd St",,02/06/2004
+Texas,Tarrant,Azle,"615 Columbia W",,02/08/2004
+Texas,Tarrant,Arlington,"3404 Woodside Dr",,02/11/2004
+Texas,Brazoria,"Jones Creek","132 Atwood Ln",,02/11/2004
+Texas,Randall,Amarillo,"3409 Hughes S St",,02/16/2004
+Texas,Denton,Carrollton,"3006 Sierra Dr",,02/18/2004
+Texas,"San Saba","San Saba","106 Brown E St",,02/18/2004
+Texas,Tarrant,Arlington,"5708 Calumet Dr",,02/19/2004
+Texas,Lubbock,Lubbock,"6025 Avenue A",,02/20/2004
+Texas,Parker,Springtown,"251 Vista Valley",,02/20/2004
+Texas,Tarrant,"Grand Prairie","2770 State 360 N Hwy 3104",,02/26/2004
+Texas,Lubbock,Lubbock,"4216 52nd St",,02/26/2004
+Texas,Lubbock,Lubbock,"1402 138th St",,02/27/2004
+Texas,Harris,Houston,"1027 Saddlerock Dr",,02/28/2004
+Texas,Tarrant,"Fort Worth","531 Fairview St",,03/01/2004
+Texas,Potter,Amarillo,"2345 13th",,03/01/2004
+Texas,"San Patricio","Aransas Pass","621 Rife S St",,03/04/2004
+Texas,"El Paso","El Paso","9191 Dyer Unit O",,03/04/2004
+Texas,Wichita,"Wichita Falls","5419 Friberg Church Rd",,03/04/2004
+Texas,Tarrant,Arlington,"1202 Johnson Ave",,03/05/2004
+Texas,"Tom Green","San Angelo","4100 Ben Ficklin Road",,03/09/2004
+Texas,Tarrant,"Fort Worth","3404 Summers N Dr 250",,03/10/2004
+Texas,Potter,Amarillo,"1419 12th Nw Ave",,03/10/2004
+Texas,Denton,Lewisville,"1913 Big Sky Drive",,03/10/2004
+Texas,Brazoria,Clute,"601 North State Highway 288",,03/11/2004
+Texas,Kerr,Ingram,"107 Cypress Falls",,03/12/2004
+Texas,Gray,Pampa,"1111 Finley St",,03/13/2004
+Texas,Wichita,"Wichita Falls","2723 Roanoke St",,03/16/2004
+Texas,Burnet,Burnet,"503 Water N 8",,03/16/2004
+Texas,Burnet,"Marble Falls","2022 County 306 Rd",,03/17/2004
+Texas,Bowie,Texarkana,"3805 Panst St",,03/18/2004
+Texas,Hill,Hillsboro,"160 Private Rd 481",,03/18/2004
+Texas,Montgomery,Spring,"25510 Brook Haven",,03/19/2004
+Texas,Victoria,Victoria,"356 Crestview Dr",,03/22/2004
+Texas,Harris,Pasadena,"2905 Dewberry Ln",,03/23/2004
+Texas,Harris,Houston,"12342 Palmspings",,03/24/2004
+Texas,Tarrant,"Fort Worth","5009 Lancaster E Ave 110",,03/25/2004
+Texas,Randall,Amarillo,"2116 Country Se Ln",,03/26/2004
+Texas,Angelina,Lufkin,"207 Chambers St",,03/26/2004
+Texas,Harris,Houston,"4717 Tilson N Ln",,03/26/2004
+Texas,Potter,Amarillo,"919 Studebaker W St 4",,03/28/2004
+Texas,Tarrant,Arlington,"1221 Watson N Rd 367",,03/30/2004
+Texas,"San Jacinto",Coldspring,"2790 Fm 222",,04/02/2004
+Texas,Brazoria,"Jones Creek","134 Atwood",,04/04/2004
+Texas,Dallas,Dallas,"2251 Farola Ave",,04/04/2004
+Texas,Collin,Mckinney,"2003 Skyline 1208",,04/07/2004
+Texas,Jasper,Kirbyville,"1 Fm 82 Rt 100",,04/07/2004
+Texas,Potter,Amarillo,"818 South Louisiana Street",,04/09/2004
+Texas,Ellis,Waxahachie,"1308 Marvin E Ave",,04/12/2004
+Texas,Tarrant,"Fort Worth","11034 Richardo Ln",,04/13/2004
+Texas,Tarrant,Arlington,"2404 Catalo Ln",,04/14/2004
+Texas,Tarrant,"Fort Worth","7332 Yolanda Dr",,04/16/2004
+Texas,Potter,Amarillo,"706 Hayes N",,04/17/2004
+Texas,Potter,Amarillo,"84 North Kentucky Street",,04/18/2004
+Texas,Tarrant,Euless,"509 Euless W Blvd 103",,04/19/2004
+Texas,Tarrant,"River Oaks","602 Frontier St",,04/19/2004
+Texas,Potter,Amarillo,"2407 Northwest 10th Avenue",,04/20/2004
+Texas,Lamar,Paris,"345 13th Sw",,04/20/2004
+Texas,Bexar,"San Antonio","148 Kirk St",,04/21/2004
+Texas,"Palo Pinto","Mineral Wells","3999 Flintrock Dr",,04/21/2004
+Texas,Ellis,"Red Oak","231 Castle Ridge Dr",,04/21/2004
+Texas,Tarrant,Arlington,"7018 Flaxford Trl",,04/21/2004
+Texas,Tarrant,Arlington,"1114 Wildwood Dr",,04/23/2004
+Texas,"Tom Green","San Angelo","2678 Kings Rd",,04/26/2004
+Texas,Harris,Houston,"15313 Gulf Freeway",,04/26/2004
+Texas,Dallas,"Grand Prairie","800 32nd Ne",,04/28/2004
+Texas,Potter,Amarillo,"2641 Northwest 11th Street",,04/28/2004
+Texas,"El Paso","El Paso","10516 Brian Mooney",,04/29/2004
+Texas,Tarrant,"Fort Worth","4628 Old Benbrook",,04/30/2004
+Texas,Dallas,Seagoville,"301 Modene Lot 5",,04/30/2004
+Texas,Bexar,"San Antonio","11439 Black Fox St",,05/03/2004
+Texas,Tarrant,"Fort Worth","412 25th Nw St",,05/03/2004
+Texas,Parker,Azle,"100 Sands Ln",,05/10/2004
+Texas,Montague,Bowie,"500 Jack Grace Hill Rd",,05/10/2004
+Texas,Tarrant,Hurst,"1601 Hurst Town Center Dr",,05/12/2004
+Texas,"San Saba",Cherokee,"201 Fm 501 W",,05/12/2004
+Texas,Wichita,"Wichita Falls","1540 Fm 1740",,05/12/2004
+Texas,Liberty,Cleveland,"2515 Ellis W St",,05/12/2004
+Texas,"San Saba",Cherokee,"308 Commanche",,05/12/2004
+Texas,Wichita,"Wichita Falls","1330 Pecanway",,05/13/2004
+Texas,Burnet,"Marble Falls","1568 County Road 334 Rd",,05/13/2004
+Texas,Tarrant,"Fort Worth","9600 Palo Pinto Dr 101",,05/13/2004
+Texas,Angelina,Lufkin,"2011 First S St 107",,05/17/2004
+Texas,Ellis,Maypearl,"4954 Fm 66",,05/18/2004
+Texas,Tarrant,Arlington,"404 Jordan Lane",,05/18/2004
+Texas,"El Paso","El Paso","1521 Howze St",,05/21/2004
+Texas,Tarrant,"White Settlement","508 Joy",,05/23/2004
+Texas,Comal,"Canyon Lake","200 Glen Dr",,05/26/2004
+Texas,Tarrant,"Fort Worth","2404 Chestnut Ave",,05/26/2004
+Texas,Tarrant,Hurst,"1600 Hurst Town Center Dr",,05/27/2004
+Texas,Tarrant,Azle,"213 Pecan St",,06/03/2004
+Texas,Grayson,Whitesboro,"3466 County Road 140",,06/04/2004
+Texas,Bexar,"San Antonio","319 Kopplow Pl",,06/08/2004
+Texas,Guadalupe,Schertz,"225 Valley Oak",,06/08/2004
+Texas,Brazoria,Brazoria,"5045 County Road 506 Rd",,06/09/2004
+Texas,Dallas,Dallas,"136363 Goldmark 1602",,06/11/2004
+Texas,Montgomery,Magnolia,"29715 El Paso St",,06/14/2004
+Texas,Bexar,"San Antonio","331 El Monte",,06/17/2004
+Texas,Wichita,"Wichita Falls","742 Horton Ln",,06/22/2004
+Texas,Bandera,Bandera,"361 Frontier Town Lp",,06/23/2004
+Texas,Montague,Bowie,"341 Gary Ln",,06/24/2004
+Texas,Johnson,Burleson,"6222 Timber Rd",,06/24/2004
+Texas,Gray,Pampa,"1029 Christy S St",,06/25/2004
+Texas,"Tom Green","San Angelo","4131 Armstrong St",,06/25/2004
+Texas,Wichita,"Wichita Falls","255 Pecanway Dr",,06/28/2004
+Texas,Wichita,"Wichita Falls","823 Rathgerber E Rd",,07/01/2004
+Texas,Ector,Odessa,"3651 Dixie N",,07/05/2004
+Texas,Burnet,"Cottonwood Shores","832 Westwood",,07/06/2004
+Texas,Angelina,Pollok,"3044 Allentown Lp",,07/07/2004
+Texas,Parker,Weatherford,"127 Hydeaway Ln",,07/07/2004
+Texas,Wichita,"Wichita Falls","1205 30th St",,07/07/2004
+Texas,Dallas,Dallas,"17919 Brent Dr",,07/08/2004
+Texas,Lubbock,Lubbock,"1411 96th St",,07/12/2004
+Texas,Parker,Azle,"139 Kelly Court",,07/15/2004
+Texas,Bexar,"San Antonio","2434 Loop 410 Sw",,07/16/2004
+Texas,Wichita,"Wichita Falls","3118 Iowa Park Rd",,07/20/2004
+Texas,Montague,Sunset,"225 Front W St",,07/20/2004
+Texas,"San Jacinto",Coldspring,"800 Neuman St",,07/22/2004
+Texas,Moore,Dumas,"1005 Dumas S Ave 4",,07/24/2004
+Texas,Gray,Mclean,"211 6th W St",,07/25/2004
+Texas,Denton,"The Colony","5915 Andover 36",,07/28/2004
+Texas,Moore,Dumas,"514 Maddox S",,08/04/2004
+Texas,Lamar,Paris,"Route 2 197",,08/04/2004
+Texas,Angelina,Lufkin,"5 Rt 1840",,08/04/2004
+Texas,"San Jacinto",Coldspring,"11 Broken Bow",,08/06/2004
+Texas,Tarrant,"Fort Worth","2524 Lotus Ave",,08/11/2004
+Texas,Randall,Canyon,"5707 4th Ave 713",,08/12/2004
+Texas,Dallas,Dallas,"5435 Lewis St",,08/13/2004
+Texas,Montague,Bowie,"1206 Mason N St",,08/17/2004
+Texas,Wichita,"Wichita Falls","5300 Professional Dr 210",,08/17/2004
+Texas,Ector,Odessa,"6620 Austin St",,08/17/2004
+Texas,Comal,"New Braunfels","200 Primrose Cir 29",,08/18/2004
+Texas,Archer,Holliday,"1006 Olive E",,08/19/2004
+Texas,Randall,Canyon,"1808 7th Ave",,08/25/2004
+Texas,Harris,Cypress,"13703 Pepper Knoll",,08/27/2004
+Texas,Galveston,"La Marque","409 Honeysuckle",,08/30/2004
+Texas,Wichita,"Wichita Falls","4440 Callfield Rear",,09/01/2004
+Texas,Llano,Llano,"809 Llano W",,09/03/2004
+Texas,Leon,Buffalo,"3085 Private Road 9003 Rd",,09/03/2004
+Texas,Tarrant,"Fort Worth","2840 Las Vegas Trl 216",,09/09/2004
+Texas,Tarrant,"Fort Worth","6120 Carey Rd",,09/09/2004
+Texas,Bexar,"San Antonio","522 Welch",,09/13/2004
+Texas,Ector,Odessa,"3651 Dixie N St",,09/14/2004
+Texas,Angelina,Lufkin,"132 Connie Ln",,09/14/2004
+Texas,Angelina,Lufkin,"511 Myrtie Dr",,09/15/2004
+Texas,Moore,Dumas,"208 Porter S 5",,09/15/2004
+Texas,Lubbock,Lubbock,"1635 112th Street",,09/15/2004
+Texas,Ector,Odessa,"9417 Andrews Hwy 115",,09/15/2004
+Texas,Houston,Latexo,"2 Rt 229",,09/17/2004
+Texas,Montgomery,Montgomery,"21316 Martin Rd",,09/20/2004
+Texas,Tarrant,"Fort Worth","4805 Marie Pl",,09/21/2004
+Texas,Tarrant,"Fort Worth","4805 Marlo Pl",,09/21/2004
+Texas,Angelina,Lufkin,"2695 1st S",,09/24/2004
+Texas,Ector,Odessa,"2124 Beverly St",,09/27/2004
+Texas,Wichita,"Wichita Falls","530 Olen Rd",,09/27/2004
+Texas,Tarrant,"Fort Worth","6528 Normandy Rd",,09/27/2004
+Texas,Ector,Odessa,"2704 Cumberland St",,09/29/2004
+Texas,Ector,Odessa,"2925 Highway 80 E 137",,09/29/2004
+Texas,Bexar,"San Antonio","1955 Larkspur S 2122",,10/03/2004
+Texas,Harris,Huffman,"2719 3rd N St 31",,10/05/2004
+Texas,Wichita,"Wichita Falls","1700 Seymour Hwy",,10/11/2004
+Texas,Dallas,Dallas,"7575 Frankford Dr",,10/11/2004
+Texas,Harris,Houston,"14255 Northurst S Frwy 308",,10/13/2004
+Texas,Wichita,"Wichita Falls","600 East Central Freeway",,10/15/2004
+Texas,Dallas,Dallas,"11360 Carissa Dr",,10/20/2004
+Texas,Tarrant,"Fort Worth","4633 Calmont Ave",,10/21/2004
+Texas,Wichita,"Wichita Falls","3112 S Ave",,10/27/2004
+Texas,Tarrant,"Fort Worth","6260 Westcreek Dr",,10/27/2004
+Texas,Wichita,"Wichita Falls","107 Sharon",,11/03/2004
+Texas,Ellis,"Red Oak","924 Valley View Ln",,11/07/2004
+Texas,Bexar,"San Antonio","10311 Oasis St B-4",,11/09/2004
+Texas,Bexar,"San Antonio","250 Heimer Rd 1201",,11/12/2004
+Texas,Bexar,"San Antonio","2671 Mulberry W",,11/15/2004
+Texas,Wilbarger,Vernon,"1227 Lexington St",,11/16/2004
+Texas,Ector,Odessa,"912 25th E St",,11/16/2004
+Texas,Trinity,"Apple Springs","13807 Hwy 94 N",,11/17/2004
+Texas,Wichita,"Wichita Falls","2417 Fain St",,11/22/2004
+Texas,Dallas,Dallas,"101 Phillips",,11/23/2004
+Texas,Collin,Frisco,"11726 Greekwood Dr",,11/28/2004
+Texas,Montgomery,Porter,"17217 Porter Ln",,12/01/2004
+Texas,Grayson,"Van Alstyne","207 Jay Rd",,12/03/2004
+Texas,Bexar,"San Antonio","402 Gramercy W St",,12/04/2004
+Texas,Cooke,Gainesville,"1213 Clements",,12/07/2004
+Texas,Tarrant,Mansfield,"2255 New Petterson",,12/07/2004
+Texas,"El Paso","El Paso","5644 Waldorf",,12/08/2004
+Texas,Dallas,Garland,"455 Oates E Dr 12",,12/10/2004
+Texas,Ector,Odessa,"9417 Andrews N Hwy 115",,12/10/2004
+Texas,Gray,Mclean,"819 Wheeler",,12/10/2004
+Texas,Parker,Weatherford,"5521 Midway Rd",,12/14/2004
+Texas,Hunt,"Caddo Mills","1039 County Road 2738",,12/16/2004
+Texas,Tarrant,"Fort Worth","6812 Franwood Ter",,12/17/2004
+Texas,Johnson,Burleson,"3201 Brenda St",,12/22/2004
+Texas,Guadalupe,Schertz,"2140 Cherry Blossom",,12/22/2004
+Texas,Wichita,"Wichita Falls","1606 Beverly Dr",,12/27/2004
+Texas,Dallas,Irving,"500 6th W St 34",,12/27/2004
+Texas,Burnet,Burnet,"203 State Highway 281, Laco",,12/29/2004
+Texas,Wichita,"Wichita Falls","3217 Miami Avenue",,12/30/2004
+Texas,Ector,Odessa,"4305 Clover",,12/30/2004
+Texas,Wichita,"Wichita Falls","2951 Elliott Dr",,12/31/2004
+Texas,Parker,Azle,"160 Conway Ln",,01/03/2005
+Texas,Wichita,"Wichita Falls","4133 Beard St",,01/05/2005
+Texas,"San Saba","San Saba","505 Lewis W St",,01/05/2005
+Texas,Lubbock,Lubbock,"2902 3rd St D 5",,01/06/2005
+Texas,Montgomery,Conroe,"10823 River Dr",,01/10/2005
+Texas,Guadalupe,Seguin,"755 South Guadalupe St",,01/11/2005
+Texas,Bexar,"San Antonio","11439 Black Fox",,01/12/2005
+Texas,Bexar,"San Antonio","223 Rainbow Dr 26",,01/13/2005
+Texas,Mclennan,West,"903 Heji Ln",,01/14/2005
+Texas,Tarrant,Hurst,"300 Booth Callaway Rd 607",,01/17/2005
+Texas,Grayson,Sherman,"510 Branch S",,01/17/2005
+Texas,Cooke,Gainesville,"1219 Parkside",,01/24/2005
+Texas,Ector,Odessa,"7304 Maurene N",,01/25/2005
+Texas,"El Paso","El Paso","10482 Davwood",,01/26/2005
+Texas,Wichita,"Wichita Falls","401 Chester St",,01/27/2005
+Texas,Ector,Odessa,"200 37th E",,01/29/2005
+Texas,Harrison,Longview,"4353 Talley Rd",,01/31/2005
+Texas,Johnson,Alvarado,"8600 Green Ridge Ct",,01/31/2005
+Texas,Cooke,Gainesville,"8644 Cannon Dr",,02/01/2005
+Texas,Grayson,Denison,"4096 Parkdale",,02/01/2005
+Texas,Dallas,Dallas,"1611 M Place Dr",,02/01/2005
+Texas,Bexar,"San Antonio","1827 Santa Monica St",,02/02/2005
+Texas,Wichita,"Wichita Falls","1529 23rd St Rear",,02/03/2005
+Texas,Bexar,"San Antonio","4419 Shavano Woods St",,02/05/2005
+Texas,Angelina,Lufkin,"110 First N 3",,02/05/2005
+Texas,Wichita,"Wichita Falls","1205 30th",,02/10/2005
+Texas,Bexar,"San Antonio","3019 Lasses St",,02/13/2005
+Texas,Bexar,"San Antonio","3006 Shady Springs St",,02/14/2005
+Texas,Ector,Odessa,"4315 Esmond 1002",,02/18/2005
+Texas,Bexar,"San Antonio","12543 Minuteman",,02/18/2005
+Texas,Guadalupe,Seguin,"160 Lee St",,02/23/2005
+Texas,Tarrant,Mansfield,"1148 Hyview N St",,02/23/2005
+Texas,Bexar,"San Antonio","222 Summertime Street",,02/25/2005
+Texas,Jefferson,Beaumont,"8220 Killian",,02/28/2005
+Texas,Collin,Allen,"802 Leading Ln",,02/28/2005
+Texas,Bexar,"San Antonio","12221 Blanco 3804",,03/01/2005
+Texas,Dallas,Garland,"1529 Elizabeth Dr",,03/05/2005
+Texas,Anderson,Elkhart,"1424 Acr 163",,03/07/2005
+Texas,Cooke,Gainesville,"8646 Highway 82",,03/09/2005
+Texas,Tarrant,Arlington,"711a Victoria Station",,03/12/2005
+Texas,Tarrant,Euless,"855 Henslee Dr",,03/14/2005
+Texas,Bowie,Texarkana,"117 San Saba",,03/15/2005
+Texas,Bexar,"San Antonio","9467 Charter Point",,03/21/2005
+Texas,Bexar,"San Antonio","319 Kopplow",,03/21/2005
+Texas,Bexar,"San Antonio","11934 Briar Path",,03/23/2005
+Texas,Comal,Bulverde,"31663 Balverde Hills",,03/23/2005
+Texas,Harris,Houston,"12342 Palm Springs",,03/24/2005
+Texas,"El Paso","El Paso","8845 Ankerson 2",,03/30/2005
+Texas,Dallas,Lancaster,"822 Donlee Rd",,04/07/2005
+Texas,Comal,"New Braunfels","427 Dillinger",,04/10/2005
+Texas,Bexar,"San Antonio","6685 University Blvd",,04/11/2005
+Texas,Hutchinson,Borger,"4821 Wilson W",,04/13/2005
+Texas,Johnson,Cleburne,"622 Anglin N St",,04/15/2005
+Texas,Bexar,"San Antonio","10218 Desert Sands 5e",,04/18/2005
+Texas,Walker,Huntsville,"24 Cliff Swallow",,04/19/2005
+Texas,Tarrant,"Fort Worth","5220 Patridge Rd",,04/25/2005
+Texas,Bexar,"San Antonio","7241 Palm Park Blvd Sa",,04/25/2005
+Texas,Harris,Houston,"707 El Dorado",,04/27/2005
+Texas,Bexar,"San Antonio","142 Michael St",,04/27/2005
+Texas,Leon,Buffalo,"Michael Apple Hill 29",,05/02/2005
+Texas,Hutchinson,Stinnett,"Hwy 687",,05/02/2005
+Texas,"San Jacinto",Shepherd,"57 Gristmill",,05/03/2005
+Texas,Parker,Springtown,"350 Partadge",,05/09/2005
+Texas,Ector,Odessa,"1415 North Avenue F",,05/11/2005
+Texas,Guadalupe,"New Braunfels","145 Sauder",,05/19/2005
+Texas,Harris,Houston,"17302 Seven Pines",,05/24/2005
+Texas,Pecos,Imperial,"300 Lincoln N",,05/24/2005
+Texas,Wichita,"Wichita Falls","5 North Brook Avenue",,05/26/2005
+Texas,Victoria,Victoria,"3733 Moody Sw B",,05/26/2005
+Texas,Ector,Odessa,"944 Whitaker",,05/31/2005
+Texas,Ector,Odessa,"10520 Bradley St",,06/03/2005
+Texas,Tarrant,Hurst,"122 Harmon",,06/04/2005
+Texas,Newton,Newton,"Hwy 87 6",,06/05/2005
+Texas,Lubbock,Lubbock,"2416 94th S St",,06/08/2005
+Texas,Harris,Tomball,"303 Belmont C",,06/09/2005
+Texas,Hutchinson,Borger,"700 Mcpherson",,06/12/2005
+Texas,Guadalupe,Schertz,"7665 Fm482 Rd",,06/13/2005
+Texas,Tarrant,"Fort Worth","3105 Halbert St",,06/16/2005
+Texas,Bexar,"San Antonio","6802 Twin Lake",,07/02/2005
+Texas,Wichita,"Wichita Falls","3227 Seymour Rd",,07/07/2005
+Texas,Hutchinson,Borger,"101 North Side Dr",,07/11/2005
+Texas,Hutchinson,Borger,"909 West Dr",,07/13/2005
+Texas,Montgomery,Conroe,"18489 County Place Dr",,07/13/2005
+Texas,Bexar,"San Antonio","2160 Thousand Oaks 533",,07/13/2005
+Texas,Tarrant,"Haltom City","5517 Maurie Dr",,07/14/2005
+Texas,Potter,Amarillo,"1330 Dahlia",,07/14/2005
+Texas,Coleman,Coleman,"1316 Bailey St",,07/18/2005
+Texas,Bexar,"Leon Valley","6807 Forest Meadow",,07/25/2005
+Texas,Hutchinson,Fritch,"141 Cozart",,07/26/2005
+Texas,Montgomery,Porter,"26912 Riverview Dr",,07/27/2005
+Texas,Hutchinson,Borger,"312 Madison E",,07/27/2005
+Texas,Brown,Brownwood,"1314 18th St",,07/29/2005
+Texas,Bexar,"San Antonio","8619 Oak Ledge",,08/03/2005
+Texas,Harris,Cypress,"18723 Berry Hill",,08/05/2005
+Texas,Dallas,Garland,"2725 Covington Dr B",,08/11/2005
+Texas,Newton,Deweyville,"Coopers Trailer Park 1",,08/15/2005
+Texas,Hutchinson,Sanford,"Fm 687& Fm 1319 S",,08/15/2005
+Texas,Dallas,Dallas,"8615 Rustown Dr",,08/19/2005
+Texas,Parker,Weatherford,"201 Karen St",,08/24/2005
+Texas,Montgomery,Conroe,"16834 Valley Ln",,08/24/2005
+Texas,Dallas,Dallas,"2053 Citadel",,08/25/2005
+Texas,Bexar,"San Antonio","4801 Goldfield 5",,08/27/2005
+Texas,"San Jacinto",Coldspring,"120 Magnolia N",,08/29/2005
+Texas,Montgomery,Conroe,"8882 Jernigan Rd",,08/29/2005
+Texas,Angelina,Lufkin,"603 Booner",,09/04/2005
+Texas,"San Jacinto",Cleveland,"901 Trails End Dr",,09/07/2005
+Texas,Hutchinson,Stinnett,"Hodges Hill Rd",,09/09/2005
+Texas,Hutchinson,Borger,"703 Delaware",,09/19/2005
+Texas,Hutchinson,Borger,"202 Ranch Rd",,09/30/2005
+Texas,Webb,Laredo,"1008 Peak N 1",,10/04/2005
+Texas,Dallas,Dallas,"5307 Gaston Ave",,10/09/2005
+Texas,Titus,Cookville,"182 County Road 4260",,10/13/2005
+Texas,Anderson,Palestine,"Route 9 180",,10/20/2005
+Texas,Harris,Channelview,"908 Harding",,10/24/2005
+Texas,Dallas,Dallas,"8023 Nimrod Trl",,11/21/2005
+Texas,Hutchinson,Fritch,"607 Holmes S",,12/01/2005
+Texas,Hutchinson,Fritch,"308 Robey N",,12/10/2005
+Texas,Ector,Odessa,"3708 Everglade N",,12/20/2005
+Texas,Bexar,"San Antonio","223 Rainbow Drive",,01/13/2006
+Texas,Bexar,"San Antonio","3006 Shady Springs",,01/18/2006
+Texas,Hutchinson,Borger,"114 Serindad",,01/21/2006
+Texas,Llano,Tow,"120 Cricket Street",,01/24/2006
+Texas,Burnet,"Marble Falls","1105 Ash Street",,01/30/2006
+Texas,Bexar,"San Antonio","1111 Austin Hwy",,01/31/2006
+Texas,Bexar,"San Antonio","7107 Glen Haven St",,02/01/2006
+Texas,Bexar,"San Antonio","3935 Thousands Oaks 1006",,02/22/2006
+Texas,Wichita,"Wichita Falls","9527 79 N Hwy",,02/22/2006
+Texas,Bexar,"San Antonio","419 Moursand",,02/24/2006
+Texas,Bexar,"San Antonio","1946 Northeast Loop 410",,03/04/2006
+Texas,Anderson,Palestine,"10349 East Fm 323",,03/07/2006
+Texas,Montgomery,Conroe,"602 Airline Dr",,03/12/2006
+Texas,Tarrant,Bedford,"1413 Tennis Dr 813",,03/23/2006
+Texas,Tarrant,Bedford,"1413 Meadow Park Cir 5e",,03/30/2006
+Texas,Bexar,Converse,"632 Jamie Sue St",,04/06/2006
+Texas,"Tom Green","San Angelo","8654 Sunflower Avenue",,04/12/2006
+Texas,Angelina,Lufkin,"2018 Ford Chapel Road",,04/18/2006
+Texas,Bell,Holland,"20779 State Highway 95",,04/20/2006
+Texas,Dallas,Mesquite,"1620 New Market Road",,05/16/2006
+Texas,Gray,Pampa,"801 East Murphy Street",,05/19/2006
+Texas,Martin,"San Antonio","505 East Carson Street",,05/24/2006
+Texas,Rusk,Overton,"5098 County Road 102",,05/25/2006
+Texas,Bexar,"San Antonio","10303 Country Vista",,07/18/2006
+Texas,Ector,Odessa,"1465 North G Avenue",,07/18/2006
+Texas,Wichita,"Wichita Falls","1511 13th",,07/19/2006
+Texas,Bexar,"San Antonio","5519 Echo Vista",,07/20/2006
+Texas,Dallas,Garland,"1500 Hilltop Drive",,07/22/2006
+Texas,Bexar,"San Antonio","6810 Glendora Street",,08/21/2006
+Texas,Dallas,Garland,"1810 Wynn Joyce Road",,08/24/2006
+Texas,Angelina,Lufkin,"103 Rosedale Street",,09/14/2006
+Texas,Calhoun,"Port Lavaca","26993 East Del Rio Trail",,09/25/2006
+Texas,Bexar,"San Antonio","12474 Starcrest Drive",,10/25/2006
+Texas,Kendall,Boerne,"10021 Johns Road",,12/05/2006
+Texas,Bexar,"San Antonio","1142 South Ellison Street",,12/14/2006
+Texas,Tarrant,Arlington,"1408 Kelly Terrace",,01/10/2007
+Texas,Tarrant,"Fort Worth","6629 South Hulen",,01/25/2007
+Texas,Denton,"The Colony","5347 Hale Street",,01/26/2007
+Texas,Bandera,"Pipe Creek","227 East Pipe Creek Drive",,02/28/2007
+Texas,Wichita,"Wichita Falls","1217 36th Street",,03/21/2007
+Texas,Harrison,Marshall,"1200 North Grove",,03/23/2007
+Texas,Bowie,Texarkana,"7 Gregory Lane",,03/29/2007
+Texas,Navarro,Corsicana,"7680 Northwest County Road",,04/02/2007
+Texas,Trinity,Groveton,"705 West First Street",,04/06/2007
+Texas,Bexar,"San Antonio","2555 Northeast Loop 410",,04/11/2007
+Texas,Tarrant,"Fort Worth","2200 Aden Road",,04/20/2007
+Texas,Foard,Crowell,"623 North B Street",,04/29/2007
+Texas,Bexar,"San Antonio","614 Mourning Dove",,05/03/2007
+Texas,Bexar,"San Antonio","118 West White Street",,05/10/2007
+Texas,"El Paso","El Paso","2023 Detroit Avenue",,05/16/2007
+Texas,Kaufman,Kaufman,"6717 Mckinnon Lane",,05/25/2007
+Texas,Brazoria,Brazoria,"2414 County Road 769 B",,06/13/2007
+Texas,Ector,Odessa,"2110 East 9th",,06/22/2007
+Texas,Jefferson,Beaumont,"9080 Washington Boulevard",,06/25/2007
+Texas,Ector,Odessa,"2801 Century Street",,07/16/2007
+Texas,Bexar,Elmendorf,"17108 Blue Horizon",,07/16/2007
+Texas,Angelina,Lufkin,"5151 North 59 Highway",,07/23/2007
+Texas,Gray,Pampa,"825 South Talley Street",,08/28/2007
+Texas,Real,Leakey,"39 Hummingbird Hill Lane",,08/28/2007
+Texas,Jefferson,"Port Neches","1839 Nall Street",,09/04/2007
+Texas,Bandera,Bandera,"128 West Canyon Circle",,09/11/2007
+Texas,Bell,Temple,"303 East Calhoun",,10/24/2007
+Texas,Wichita,"Wichita Falls","3015 Cumberland",,10/24/2007
+Texas,Angelina,Lufkin,"415 Jack Street",,11/12/2007
+Texas,Real,Leakey,"283 Jim Dalrymple (twin Forks Est.) Dr",,11/19/2007
+Texas,Wichita,"Wichita Falls","102 North Glencoe Circle",,12/03/2007
+Texas,Harris,Crosby,"205 Reidland Road 10",,12/08/2007
+Texas,Harris,Houston,"506 West Bertrand Street",,12/13/2007
+Texas,Wichita,"Wichita Falls","4377 Fm 367",,01/05/2008
+Texas,Clay,Henrietta,"11734 North 148 Highway",,01/27/2008
+Texas,Wichita,"Wichita Falls","1203 26th",,01/28/2008
+Texas,Ector,Odessa,"819 West 35th Street",,01/29/2008
+Texas,Wichita,"Wichita Falls","3706 Seymour Road 219",,02/04/2008
+Texas,Tarrant,Kennedale,"7410 Mansfield Highway Street 10",,02/05/2008
+Texas,Wichita,"Wichita Falls","2202 Harvard Avenue",,02/18/2008
+Texas,Angelina,Lufkin,"394 Morris Lane 394",,02/21/2008
+Texas,Houston,Crockett,"8271 East State Highway 21",,02/23/2008
+Texas,Travis,Austin,"1016 West Stassney Lane 202",,03/07/2008
+Texas,Wichita,"Wichita Falls","5232 Professional Drive 10a",,03/12/2008
+Texas,Wichita,"Wichita Falls","1665 Charlie Circle",,03/23/2008
+Texas,Gray,Mclean,"820 North Main Street",,04/29/2008
+Texas,Angelina,Lufkin,"2103 South Chestnut",,04/29/2008
+Texas,Bexar,"San Antonio","251 Brahan Boulevard 4",,05/01/2008
+Texas,Wichita,"Wichita Falls","1812 Collins Street",,05/01/2008
+Texas,Ector,Odessa,"1429 Tanglewood Lane",,05/05/2008
+Texas,Wichita,"Wichita Falls","1006 Kentucky",,05/12/2008
+Texas,Dallas,Dallas,"242 West Davis Street 7",,06/10/2008
+Texas,Tarrant,"Fort Worth","1110 North Sylvania D",,06/13/2008
+Texas,Gray,Pampa,"8148 Co Rd 9",,06/17/2008
+Texas,Bexar,"San Antonio","11800 Braesview 101",,06/19/2008
+Texas,Harris,Crosby,"20508 Henry Dale Street",,07/01/2008
+Texas,Ector,Odessa,"900 North Navajo",,07/07/2008
+Texas,Bexar,"San Antonio","3900 Eisenhauer Road 207",,07/15/2008
+Texas,Wichita,"Wichita Falls","7997 Parker Ranch Road",,07/19/2008
+Texas,Wichita,"Wichita Falls","2108 Allen Street",,07/23/2008
+Texas,Potter,Amarillo,"1211 North Buchanan Street Rear",,07/29/2008
+Texas,Wichita,"Wichita Falls","2761 Goodman Road",,07/30/2008
+Texas,Cooke,Muenster,"17790 Fm 1630 Road",,07/30/2008
+Texas,Wichita,"Wichita Falls","1142 Homestead Lane",,08/13/2008
+Texas,Wichita,Electra,"5065 North 25 Highway",,08/15/2008
+Texas,Harris,Crosby,"302 Moose Drive",,08/19/2008
+Texas,Gray,Mcallen,"301 East 7th Street",,09/09/2008
+Texas,Gray,Mclean,"502 Walnut",,09/09/2008
+Texas,Wichita,"Wichita Falls","138 Mesa Road",,09/19/2008
+Texas,Wichita,"Wichita Falls","2202 Harvard Street",,09/22/2008
+Texas,Bowie,Texarkana,"808 Maine",,09/24/2008
+Texas,Kaufman,Rosser,"222 Parrot Drive",,10/16/2008
+Texas,Wichita,"Wichita Falls","1820 Dayton Avenue",,11/13/2008
+Texas,Wichita,"Iowa Park","1955 Rogers Road",,11/16/2008
+Texas,Angelina,Lufkin,"151 Coach Redd Road",,11/17/2008
+Texas,Angelina,Huntington,"448 Vera Mae Thomas Road",,11/20/2008
+Texas,Ward,Monahans,"4408 South Wilma",,12/03/2008
+Texas,Angelina,Pollok,"11390 North Us Hwy 69 Highway",,12/05/2008
+Texas,Angelina,Lufkin,"1510 Atkinson Drive",,12/07/2008
+Texas,Bexar,"San Antonio","4551 Longvale Drive",,12/17/2008
+Texas,Wichita,"Wichita Falls","3108 Grant Street Rear",,12/20/2008
+Texas,Angelina,Lufkin,"232 W.e. Anderson Road",,12/23/2008
+Texas,Wichita,"Wichita Falls","2206 Harvard Street",,12/28/2008
+Texas,Bell,Temple,"3409 Antelope Trail",,04/01/2009
+Texas,Dallas,Irving,"7825 Heathrow Drive 316",,04/06/2009
+Texas,Harris,Houston,"5402 Renwick Street",,04/13/2009
+Texas,Hutchinson,Stinnett,"8000 Swan Street",,04/18/2009
+Texas,Angelina,Huntington,"602 Pine Street",,04/21/2009
+Texas,Gray,Pampa,"8090 Co Rd 9",,04/26/2009
+Texas,Bexar,"San Antonio","100 Camden",,05/15/2009
+Texas,Bexar,"San Antonio","901 West Silversands 1108",,05/18/2009
+Texas,Bexar,"San Antonio","2423 Rockaway",,05/21/2009
+Texas,Tarrant,"Forest Hill","2133 Carlata Drive",,06/05/2009
+Texas,Wichita,"Wichita Falls","5th  Scott Street",,01/04/2010
+Texas,Angelina,Lufkin,"5222  Fuller Springs Drive",,01/06/2010
+Texas,Bexar,"San Antonio","2717  Roosevelt Avenue 109",,01/07/2010
+Texas,Bexar,"San Antonio","705  E Grayson Street 3",,01/09/2010
+Texas,Bell,Troy,"10123  Lela Lane",,01/10/2010
+Texas,Wichita,"Wichita Falls","7997  Parker Ranch Road",,01/12/2010
+Texas,Angelina,Lufkin,"1070  Golf Course Road",,01/14/2010
+Texas,Angelina,Lufkin,"384  Lightfoot Road",,01/28/2010
+Texas,Harris,Houston,"2203  Place Rebecca Lane",,02/17/2010
+Texas,Angelina,Lufkin,"110  Knollwood",,02/18/2010
+Texas,Wichita,"Wichita Falls","4017  Bartosh Lane",,03/01/2010
+Texas,Angelina,Lufkin,"4350 North Us 59 N Highway",,04/19/2010
+Texas,Angelina,Lufkin,"382  Lightfoot Road",,04/22/2010
+Texas,"San Jacinto",Shepherd,"81  Timber Lane",,04/22/2010
+Texas,Wichita,"Wichita Falls","1315  32nd Street",,04/27/2010
+Texas,Wichita,"Wichita Falls","4812  Johnson Road 124",,05/06/2010
+Texas,Wichita,"Wichita Falls","233 East Lincoln",,05/11/2010
+Texas,Wichita,"Wichita Falls","1310  Marshall Street",,05/19/2010
+Texas,Burnet,Burnet,"200  Wayward Drive",,05/19/2010
+Texas,Marion,Harleton,"800  Liberty Church Road",,06/02/2010
+Texas,Dallas,Irving,"1813 South Story Road",,06/03/2010
+Texas,Harris,Channelview,"16906  B Avenue",,06/26/2010
+Texas,Montgomery,Cleveland,"20880  Old Highway 105 Highway",,07/27/2010
+Texas,Wichita,"Wichita Falls","1509  Trigg Lane 201",,07/29/2010
+Texas,Dallas,Irving,"1209  Elwood Drive",,07/30/2010
+Texas,Montgomery,Porter,"23667  Tejas Drive",,08/03/2010
+Texas,Montgomery,Splendora,"27101  Rocking Road",,08/23/2010
+Texas,Dallas,Dallas,"9450  Forest Springs Street 1607",,09/09/2010
+Texas,Wichita,"Wichita Falls","1658  Mcgregor",,09/20/2010
+Texas,Wichita,"Wichita Falls","1308  25th Street",,09/26/2010
+Texas,Montgomery,Spring,"29010  West Pecos River Court",,11/08/2010
+Texas,Wichita,"Wichita Falls","3207  Merian Lane",,11/20/2010
+Texas,Wichita,"Wichita Falls","1207  Bryan Road",,12/03/2010
+Texas,Wichita,"Wichita Falls","1043 East Wenonah Avenue",,01/05/2011
+Texas,Dallas,Dallas,"100 North Randolph Drive 232",,01/09/2011
+Texas,Harris,"La Porte","3207  Scotch Moss",,01/18/2011
+Texas,Bandera,Lakehills,"155  Cherokee Trail",,02/01/2011
+Texas,Wichita,"Wichita Falls","1206  Sun Valley Drive",,03/11/2011
+Texas,Burleson,Somerville,"403  County Road 430",,05/14/2011
+Texas,Wichita,"Wichita Falls","2131  Princeton Ave",,06/03/2011
+Texas,Wichita,"Wichita Falls","2151  Avenue J",,09/24/2011
+Texas,Montgomery,"The Woodlands","31635  Trails Park Lane",,12/30/2011
+Texas,Hutchinson,Fritch,"304 South Hoyne",,01/13/2012
+Texas,Brazos,Bryan,"1006  Burt  A",,02/16/2012
+Texas,Uvalde,Uvalde,"215  School Street",,08/07/2012
+Texas,"El Paso","El Paso","2380  Blue Jay Drive",,08/20/2012
+Texas,Dallas,Dallas,"7335  O'dell Avenue #2",,09/17/2012
+Texas,Hardin,Kountze,"370  Uvalde Oaks Drive #6",,09/18/2012
+Texas,Liberty,Cleveland,"106  Taft Avenue",,01/09/2013
+Texas,Angelina,Zavalla,"164  Earls Miles Road",,05/07/2013
+Texas,Harris,Channelview,"922  Littleport Ln Lane",,02/12/2014
+Texas,Harris,Houston,"5002  Noldridge",,10/02/2014
+Texas,Harris,Houston,"11503  Meadow Lake Drive",,12/27/2014
+Texas,Dallas,Dallas,"3719  Casa Del Sol Lane",,02/03/2015
+Texas,Dallas,Dallas,"10628  Sylvia Drive",,02/03/2015
+Texas,Mclennan,Waco,"2101  Mcferrin Avenue",,02/08/2015
+Texas,Jefferson,Nederland,"311  Nederland Avenue",,07/20/2015
+Texas,Midland,Midland,"5509  Deauville Boulevard Box Rm #334",,08/02/2015
+Texas,Harris,Humble,"18039  June Forest Drive",,08/10/2015
+Texas,Matagorda,Palacios,"116  Willowrun",,10/06/2015
+Texas,Collin,Allen,"160  Lucas Street",,12/02/2015
+Texas,Bell,Killeen,"1310  Harris Avenue Box 77",,12/28/2015

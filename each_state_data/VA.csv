@@ -1,0 +1,362 @@
+state,county,city,address1,address2,date
+Virginia,Lee,"Rose Hill","S Rt 2 245",,01/01/2004
+Virginia,Grayson,"Mouth Of Wilson","110 Wakefield Ln",,01/22/2004
+Virginia,Wythe,"Max Meadows","139 Gingerbread Ln",,01/28/2004
+Virginia,Smyth,Saltville,"2208 Saltville Hwy",,02/18/2004
+Virginia,Wythe,Wytheville,"851 Old School Rd",,02/26/2004
+Virginia,Wythe,"Barren Springs","1025 Little Reed Island Rd",,03/02/2004
+Virginia,Washington,"Glade Spring","31531 Forsythia Dr",,03/04/2004
+Virginia,Rockingham,"Singers Glen","8522 Wilderness Ln",,03/05/2004
+Virginia,Washington,Damascus,"118 Railroad Ave",,03/10/2004
+Virginia,Fauquier,Warrenton,"355 Waterloo St",,03/11/2004
+Virginia,Wythe,"Max Meadows","225 Wildlife Dr",,03/15/2004
+Virginia,Pulaski,Pulaski,"836 Barbara Ln",,03/18/2004
+Virginia,Wythe,"Rural Retreat","166 Buck Park Ln",,03/24/2004
+Virginia,Pulaski,Pulaski,"4451 Billy Ave",,03/24/2004
+Virginia,"Prince William",Nokesville,"9027 Burwell Dr",,04/01/2004
+Virginia,"Bristol (city)",Bristol,"1103 Lawrence Ave",,04/05/2004
+Virginia,Washington,Meadowview,"30023 Hawthorne Dr",,04/06/2004
+Virginia,Carroll,"Fancy Gap","1232 Carroll View Rd",,04/21/2004
+Virginia,Smyth,Atkins,"471 Stoneway",,05/10/2004
+Virginia,Smyth,Marion,"245 Spring Hollow Rd",,05/12/2004
+Virginia,Bedford,Bedford,"1016 Blue Moon",,05/19/2004
+Virginia,Giles,Narrows,"500 View N St",,05/27/2004
+Virginia,Grayson,Independence,"2568 Peach Bottom Rd",,06/02/2004
+Virginia,Washington,Damascus,"513 Appalachian Trl",,06/16/2004
+Virginia,Smyth,"Sugar Grove","5005 Better Homes Dr 11",,06/28/2004
+Virginia,Smyth,Chilhowie,"1051 Chestnut Ridge Dr",,06/28/2004
+Virginia,Smyth,Marion,"1732 Hwy 16 A",,06/28/2004
+Virginia,Washington,"Glade Spring","18627 Bloomfield Dr",,06/30/2004
+Virginia,Washington,"Glade Spring","13307 Glady Ln",,07/01/2004
+Virginia,"Staunton (city)",Staunton,"816 Greenville Ave",,07/10/2004
+Virginia,Smyth,Marion,"431 Porter Valley Rd",,07/11/2004
+Virginia,Smyth,Chilhowie,"579 Overlook Dr",,08/20/2004
+Virginia,Wythe,"Max Meadows","4888 Peppers Ferry Rd",,08/26/2004
+Virginia,Smyth,Marion,"696 Middle Fork Rd",,08/26/2004
+Virginia,Smyth,Marion,"455 Douglas St C",,09/03/2004
+Virginia,Smyth,Atkins,"120 Old Tannery Rd",,09/03/2004
+Virginia,Wythe,Ivanhoe,"88 Cherry Ln",,09/10/2004
+Virginia,Smyth,Marion,"731 Olive St",,09/23/2004
+Virginia,Pulaski,Draper,"194 Woodside Dr",,10/01/2004
+Virginia,Smyth,Marion,"610 Walkers Creed Rd",,10/11/2004
+Virginia,Washington,Meadowview,"26160 Northridge Rd",,10/13/2004
+Virginia,Washington,Damascus,"23386 Mountain City Rd",,10/14/2004
+Virginia,Wythe,Wytheville,"696 Barrett Mill Rd",,10/15/2004
+Virginia,"Bristol (city)",Bristol,"15589 Lee Hwy 221",,10/19/2004
+Virginia,Wythe,"Max Meadows","186 Denniston Rd",,10/20/2004
+Virginia,Smyth,Marion,"213 Trimble Dr",,10/25/2004
+Virginia,Wythe,"Max Meadows","131 Park St",,10/26/2004
+Virginia,Augusta,"Stuarts Draft","1204 White Hill Rd",,11/11/2004
+Virginia,"Bristol (city)",Bristol,"9108 Timberbend Ln",,11/12/2004
+Virginia,Washington,Abingdon,"151 West Valley St 7",,11/22/2004
+Virginia,Wythe,Ivanhoe,"182 Sipe Ln",,11/28/2004
+Virginia,Smyth,Grosclose,"263 Knight Rd",,12/02/2004
+Virginia,Washington,"Glade Spring","605 36197 Wideners Valley Rd",,12/16/2004
+Virginia,Wythe,"Max Meadows","863 Ivanhoe Rd C",,12/17/2004
+Virginia,Montgomery,Christiansburg,"205 Starlight Dr",,01/05/2005
+Virginia,Smyth,Marion,"395 Sugar St",,01/06/2005
+Virginia,Smyth,Saltville,"205 Doane Hollow Rd",,01/12/2005
+Virginia,Pulaski,Pulaski,"726 Valley St",,01/13/2005
+Virginia,Washington,Damascus,"718 22051 Vails Mill Rd",,01/13/2005
+Virginia,Washington,Meadowview,"806 29080 Ryan Rd",,01/18/2005
+Virginia,Wythe,"Rural Retreat","8103 Lee W Hwy",,01/28/2005
+Virginia,Montgomery,Blacksburg,"317 Clay St",,02/01/2005
+Virginia,Washington,Abingdon,"620 Patton St",,02/11/2005
+Virginia,Carroll,Lambsburg,"3491 (b) Lambsburg Rd",,02/16/2005
+Virginia,Lee,Keokee,"Rt 606 Inters. Of Rt T1006",,02/19/2005
+Virginia,Wythe,Ivanhoe,"1249 Powder Hill Rd",,03/07/2005
+Virginia,"Bristol (city)",Bristol,"626 15301 Large Hollow Rd",,03/09/2005
+Virginia,Wythe,"Max Meadows","4847 Lee E Hwy",,03/15/2005
+Virginia,Smyth,Chilhowie,"680 Need More Rd",,03/19/2005
+Virginia,Wythe,"Max Meadows","463 Cartesville Heights Rd",,03/22/2005
+Virginia,"Norfolk (city)",Norfolk,"123 Maple Ave",,03/23/2005
+Virginia,Smyth,Marion,"213 Tremble",,03/24/2005
+Virginia,"New Kent","Providence Forge","11201 Carriage Rd",,04/14/2005
+Virginia,"Chesapeake (city)",Chesapeake,"1220 Ivy Stone Way",,05/03/2005
+Virginia,"Virginia Beach (city)","Virginia Beach","6304 Old Providence Rd",,05/05/2005
+Virginia,Wythe,"Max Meadows","5029 Lee E Hwy 3",,05/13/2005
+Virginia,"Norfolk (city)",Norfolk,"308 Naval Base Rd A",,05/17/2005
+Virginia,Wythe,"Max Meadows","222 (a) Woodside Dr",,05/20/2005
+Virginia,Smyth,"Sugar Grove","4996 Sugar Grove Hwy",,08/08/2005
+Virginia,Washington,Damascus,"32101 Plymouth Ct E",,08/26/2005
+Virginia,Patrick,"Meadows Of Dan","333 Shotgun Rd",,09/14/2005
+Virginia,Gloucester,Gloucester,"15295 George Washington Hwy",,09/24/2005
+Virginia,Weber,Ogden,"1325 Lincoln 47",,11/09/2005
+Virginia,"Newport News (city)","Newport News","501 Mikes Ln",,11/10/2005
+Virginia,Pulaski,Pulaski,"621 Birch St",,11/28/2005
+Virginia,Rockingham,Broadway,"8932 Shade Tree Ln",,01/17/2006
+Virginia,Augusta,Crimora,"1148 Round Hill School Rd",,03/21/2006
+Virginia,Wythe,Ivanhoe,"1647 Powder Mill Rd",,03/22/2006
+Virginia,Grayson,"Mouth Of Wilson","110 Potato Creek Road",,04/24/2006
+Virginia,Washington,"Glade Spring","17357 Monror Road",,05/05/2006
+Virginia,Washington,"Glade Spring","36004 Rush Creed Road",,05/30/2006
+Virginia,Carroll,"Fancy Gap","800 Apache Trail",,06/01/2006
+Virginia,Pittsylvania,Danville,"169 Carter Drive",,06/30/2006
+Virginia,Wythe,"Rural Retreat","271 Earles Road",,08/15/2006
+Virginia,Washington,Abingdon,"24730 Drake Road",,11/02/2006
+Virginia,Henrico,Richmond,"7102 Fernwood Street",,12/05/2006
+Virginia,Dickenson,Clintwood,"2094 Rockhouse Road",,12/12/2006
+Virginia,Washington,Damascus,"615 Mock Avenue",,12/18/2006
+Virginia,Stafford,Stafford,"3 Saint Vincent Court",,01/30/2007
+Virginia,"Lynchburg (city)",Lynchburg,"2800 Kulman Place",,02/02/2007
+Virginia,Appomattox,Appomattox,"2166 Hollywood Road",,03/05/2007
+Virginia,Wythe,"Max Meadows","4847 East Lee Highway",,03/25/2007
+Virginia,Augusta,"Stuarts Draft","966 Old White Hill Road",,05/12/2007
+Virginia,Augusta,Grottoes,"31 South Jollett Lane",,05/29/2007
+Virginia,Campbell,Gladys,"4478 Three Creeks Road",,05/31/2007
+Virginia,"Waynesboro (city)",Waynesboro,"2240 West Main #106 Street",,06/01/2007
+Virginia,Wythe,"Rural Retreat","900 Murphyville Road",,06/01/2007
+Virginia,Wythe,"Max Meadows","5274 East Lee Highway",,06/27/2007
+Virginia,Pulaski,Hiwassee,"5991 Clapboard Hollow Road",,06/28/2007
+Virginia,Franklin,"Rocky Mount","71 Cassell Drive",,10/22/2007
+Virginia,"Radford (city)",Radford,"1914 Third Street",,12/11/2007
+Virginia,"Radford (city)",Radford,"1500 Staple Street 12",,02/19/2008
+Virginia,Craig,"New Castle","101 Prices Cabin Road",,05/03/2008
+Virginia,Wise,Coeburn,"12131 Retford Road 61",,06/04/2008
+Virginia,Wise,Norton,"295 Virginia Avenue",,06/04/2008
+Virginia,Wythe,"Max Meadows","1595 Ivanhoe Road",,06/20/2008
+Virginia,Shenandoah,Woodstock,"201 North Main",,07/08/2008
+Virginia,Botetourt,"Blue Ridge","155 Webster Heights Road",,09/12/2008
+Virginia,Botetourt,"Blue Ridge","3254 Blue Ridge Boulevard",,09/12/2008
+Virginia,Wythe,Ivanhoe,"146 Delby Terrace",,04/01/2009
+Virginia,Wythe,Ivanhoe,"148 Sipe Lane",,04/01/2009
+Virginia,Carroll,Ivanhoe,"101 Strupe Hollow Road",,04/07/2009
+Virginia,Wythe,Whiteville,"166 Pondarosa Lane",,04/09/2009
+Virginia,Smyth,Marion,"1578  Walkers Creek Road",,01/05/2010
+Virginia,Washington,Abingdon,"818  Miller Lane",,02/19/2010
+Virginia,Wythe,Wytheville,"460 Southwest Ridge Street",,02/22/2010
+Virginia,Smyth,Chilhowie,"409  Whitetop Road",,02/27/2010
+Virginia,Washington,"Glade Spring","11585  Mount Calm Drive 3",,03/04/2010
+Virginia,Smyth,Marion,"206  Walkers Creek Road",,03/12/2010
+Virginia,Washington,"Glade Spring","31347  Old Stage Road",,03/15/2010
+Virginia,Washington,Bristol,"14469  Rainbow Road",,03/16/2010
+Virginia,Washington,Bristol,"20345  Ranchero Road 17",,03/16/2010
+Virginia,Buchanan,Mavisdale,"1045  Old Bridge Road",,03/24/2010
+Virginia,Washington,Damascus,"724 East 5th Street",,04/05/2010
+Virginia,Montgomery,Elliston,"164  Brake Road 4",,04/19/2010
+Virginia,Montgomery,Elliston,"9388  Us 460",,04/19/2010
+Virginia,Washington,"Glade Spring","33494  Bucks Bridge Road",,05/11/2010
+Virginia,Bath,Millboro,"1682  Crooked Spur Road",,05/13/2010
+Virginia,"Radford (city)",Radford,"1500  Staples Street 82",,05/20/2010
+Virginia,Roanoke,Vinton,"109 West Madison Avenue A",,05/21/2010
+Virginia,Smyth,Saltville,"1037  Worthy Boulevard",,05/26/2010
+Virginia,Pulaski,Pulaski,"275  Bentley Hollow Road",,05/27/2010
+Virginia,Washington,Meadowview,"8367  Blackwell Chapel Road",,06/01/2010
+Virginia,Buchanan,"Shortt Gap","1334  Betsy Branch Road",,06/12/2010
+Virginia,"Bristol (city)",Bristol,"321  Pard Street",,06/14/2010
+Virginia,Floyd,Floyd,"2201 South Floyd Highway",,06/14/2010
+Virginia,Dickenson,Nora,"5746  Dante Mountain Road 100",,06/17/2010
+Virginia,Dickenson,Clintwood,"258  Omaha Sunset Drive",,06/17/2010
+Virginia,Smyth,Chilhowie,"232  Holiday Drive",,06/30/2010
+Virginia,Russell,Lebanon,"204 West Banner Street",,07/01/2010
+Virginia,Montgomery,Elliston,"4161  Bradshaw Road",,07/01/2010
+Virginia,Russell,Lebanon,"516  Brumley Circle",,07/02/2010
+Virginia,Smyth,Marion,"341  Firestone Lane",,07/13/2010
+Virginia,"Bristol (city)",Bristol,"763  Island Road",,07/14/2010
+Virginia,"Harrisonburg (city)",Harrisonburg,"645  North Dogwood Drive",,07/14/2010
+Virginia,Russell,Castlewood,"32  South Mill Hollow Road",,07/14/2010
+Virginia,Roanoke,Roanoke,"2890  Riverview Road",,07/30/2010
+Virginia,"Bristol (city)",Bristol,"1  Euclid Avenue",,07/31/2010
+Virginia,Smyth,Marion,"422  Spruce Street",,08/12/2010
+Virginia,"Bristol (city)",Bristol,"183  2nd Street G",,08/19/2010
+Virginia,"Bristol (city)",Bristol,"651  Quarry Street L-2",,08/26/2010
+Virginia,"Bristol (city)",Bristol,"1010  Newton Street 302",,08/26/2010
+Virginia,Washington,Meadowview,"29325  Lanier Drive",,08/30/2010
+Virginia,Tazewell,"Jewell Ridge","1022  Jewell Main Mall",,09/11/2010
+Virginia,Montgomery,Christiansburg,"1563  Fire Tower Road",,09/19/2010
+Virginia,Chesterfield,Matoaca,"21619  Stuart Avenue",,09/21/2010
+Virginia,Smyth,Chilhowie,"565  Mill Creek Road",,11/08/2010
+Virginia,Montgomery,Christiansburg,"137  Ellett Drive",,11/12/2010
+Virginia,Washington,Bristol,"24136  Wilson Haus Road 9",,11/14/2010
+Virginia,Washington,Abingdon,"26197  Watauga Road",,11/15/2010
+Virginia,"Bristol (city)",Bristol,"15  Duke Street",,11/16/2010
+Virginia,Craig,"New Castle","229  Walnut Street",,12/08/2010
+Virginia,Montgomery,Christiansburg,"1600  Simpson Road 921",,12/10/2010
+Virginia,Montgomery,Riner,"1555  Union Valley Road 4",,01/03/2011
+Virginia,Bedford,Montvale,"1211  Edgehill Road",,01/07/2011
+Virginia,"Radford (city)",Radford,"107  Midkiff Lane B",,01/13/2011
+Virginia,Montgomery,Christiansburg,"80  Red Oak Drive 1",,01/14/2011
+Virginia,"Covington (city)",Covington,"305  East Locust Street",,01/19/2011
+Virginia,Montgomery,Radford,"3932  Winesap Road",,01/24/2011
+Virginia,Washington,Bristol,"322  Moore Street",,02/14/2011
+Virginia,Dickenson,"Saint Paul","14535  Sandy Ridge Road",,02/17/2011
+Virginia,Washington,Meadowview,"13067  Worthington Lane",,02/20/2011
+Virginia,Scott,"Gate City","154  Bethany Street 103",,02/23/2011
+Virginia,Washington,Abingdon,"479  Nicholas Street C3",,11/08/2011
+Virginia,Gloucester,Hayes,"3169 North George Washington Memorial Highway",,02/15/2012
+Virginia,Roanoke,Abingdon,"9945  Slings Gap Road",,06/04/2012
+Virginia,Norton,Norton,"806  Highland Drive",,06/07/2012
+Virginia,Washington,Meadowview,"8153  Hedge Lane",,06/07/2012
+Virginia,Lee,Duffield,"160  Arrowhead Road",,06/12/2012
+Virginia,Smyth,Marion,"233  Deans Branch Road",,06/18/2012
+Virginia,Smyth,Saltville,"219 Frye Town Lane",,10/12/2012
+Virginia,Wythe,Wytheville,"245 South 4th Street",,10/15/2012
+Virginia,Pulaski,Dublin,"198  Armstrong Street",,10/17/2012
+Virginia,Washington,Abingdon,"584  Norfolk Street 35",,10/26/2012
+Virginia,Franklin,"Boones Mill","1252  Crowell Gap Road",,11/19/2012
+Virginia,"Bristol (city)",Bristol,"700  Clinton Avenue T1",,12/04/2012
+Virginia,Washington,Meadowview,"30009  Hillman Highway",,12/12/2012
+Virginia,Montgomery,Elliston,"5233  Coles Road",,12/12/2012
+Virginia,Russell,"Swords Creek","3239  Swords Creek Road 1",,01/04/2013
+Virginia,Wythe,Wytheville,"951  Cripple Creek Road",,01/04/2013
+Virginia,Wythe,Wytheville,"1686  Cripple Creek Road",,01/08/2013
+Virginia,Tazewell,"Jewell Ridge","509  Jewell Main Road",,01/11/2013
+Virginia,Franklin,"Rocky Mount","280  Old Furnace Road",,01/12/2013
+Virginia,Floyd,Floyd,"8701  Ramsey Boulevard",,01/16/2013
+Virginia,Floyd,Riner,"1100  White Oak Grove",,01/16/2013
+Virginia,"Lynchburg (city)",Lynchburg,"1810  Florida Ave Avenue",,01/18/2013
+Virginia,Campbell,Lynchburg,"1301  Harding Street",,01/28/2013
+Virginia,Floyd,Floyd,"213 Pine Creek Way",,02/05/2013
+Virginia,Roanoke,Roanoke,"4548  Bonsack Road",,02/05/2013
+Virginia,Russell,Castlewood,"725 Booty Road",,02/07/2013
+Virginia,Smyth,Marion,"3031 Brookside Drive",,02/08/2013
+Virginia,Tazewell,Richlands,"227  Dickenson Street",,02/13/2013
+Virginia,Washington,Abingdon,"19340  Brumley Gap Road",,02/13/2013
+Virginia,Rockbridge,Abingdon,"54 East Conifer Lane",,02/13/2013
+Virginia,Smyth,Marion,"416 South Church Street",,03/08/2013
+Virginia,Wise,Wise,"6224  Hurricane Road",,03/10/2013
+Virginia,Washington,Abingdon,"16378  Dandelion Drive",,03/11/2013
+Virginia,Montgomery,Blacksburg,"3110  Meadowbrook Drive B",,03/13/2013
+Virginia,Smyth,Marion,"801  Hutton Branch Road",,03/18/2013
+Virginia,Montgomery,Elliston,"4733  Calloway Street  6",,03/19/2013
+Virginia,"Roanoke (city)",Roanoke,"1502 Southwest Patterson Ave Avenue",,03/22/2013
+Virginia,Russell,Honaker,"68  Hurricane Drive",,04/09/2013
+Virginia,Russell,Honaker,"182  Lewis Creek Road",,04/09/2013
+Virginia,Montgomery,Christiansburg,"955  Ridgeway Drive",,04/10/2013
+Virginia,"Roanoke (city)",Roanoke,"2712 Northwest Chatham Street",,04/14/2013
+Virginia,Floyd,Floyd,"300  172 Sunny Ridge Road",,04/16/2013
+Virginia,Franklin,"Rocky Mount","3199  Old Franklin Turnpike",,04/17/2013
+Virginia,Henry,Martinsville,"221  Amos Road",,05/02/2013
+Virginia,Lee,"Pennington Gap","327  Hilton Drive",,05/07/2013
+Virginia,Dickenson,Clintwood,"1795  Newberry Road",,05/08/2013
+Virginia,"Bristol (city)",Bristol,"225  Reservoir Street",,05/08/2013
+Virginia,"Salem (city)",Salem,"300 North Bruffey Street",,05/09/2013
+Virginia,Washington,Abingdon,"338  Highlands Street",,05/15/2013
+Virginia,"Roanoke (city)",Roanoke,"3906 Northwest Richland Ave Avenue 4",,05/20/2013
+Virginia,"Martinsville (city)",Martinsville,"1542  Stultz Road",,05/22/2013
+Virginia,Bedford,Vinton,"1941  Shady Road",,05/26/2013
+Virginia,Montgomery,Christiansburg,"960  Walton Road",,05/29/2013
+Virginia,"Norfolk (city)",Norfolk,"1276 West Ocean View Ave Avenue E",,06/03/2013
+Virginia,Russell,"Swords Creek","3621  Swords Creek Road",,06/06/2013
+Virginia,Wythe,"Rural Retreat","314  Richmond Avenue",,06/11/2013
+Virginia,"Bristol (city)",Bristol,"170  2nd Street E",,06/13/2013
+Virginia,Montgomery,Elliston,"9757  Old Roanoke Road",,06/19/2013
+Virginia,"Roanoke (city)",Roanoke,"3608 Northwest Troutland Avenue",,06/21/2013
+Virginia,"Norfolk (city)",Norfolk,"404  Forrest Ave Avenue",,06/24/2013
+Virginia,Montgomery,Christiansburg,"3171  Eskridge Road  Lot 5",,06/25/2013
+Virginia,Lee,Duffield,"1847  Klondike Road",,07/01/2013
+Virginia,Montgomery,Christiansburg,"1420  Harmon Drive",,07/02/2013
+Virginia,Montgomery,Christiansburg,"1224  Rock Road  Lot 79",,07/03/2013
+Virginia,"Norfolk (city)",Norfolk,"528  Eilers Street",,07/03/2013
+Virginia,Montgomery,Christiansburg,"2432 Northwest Peppers Ferry Road",,07/04/2013
+Virginia,"Virginia Beach (city)","Virginia Beach","215 South Birdneck Road",,07/12/2013
+Virginia,Smyth,Marion,"237 West Cherry Street",,07/19/2013
+Virginia,Smyth,Marion,"459  Douglas Street C",,07/19/2013
+Virginia,"Virginia Beach (city)","Virginia Beach","1275  Baker Road 29",,07/25/2013
+Virginia,Montgomery,Christiansburg,"175  East Street  67",,10/04/2013
+Virginia,"Charlottesville (city)",Charlottesville,"706  Franklin Street 4",,10/08/2013
+Virginia,Botetourt,Roanoke,"7444  Tinkerview Road",,10/12/2013
+Virginia,Pulaski,Pulaski,"4382  Novell Loop",,11/06/2013
+Virginia,Botetourt,Buchanan,"1811  Timber Ridge Road",,11/22/2013
+Virginia,Franklin,Ferrum,"400  Rambling Rose",,11/24/2013
+Virginia,Montgomery,Elliston,"1018  Brake Rd  21",,12/09/2013
+Virginia,"Roanoke (city)",Roanoke,"1528 Southeast Riverdale Road",,12/21/2013
+Virginia,Montgomery,Pilot,"1301  High Rock Hill Rd Road",,01/03/2014
+Virginia,Wise,"Big Stone Gap","1411  Panoramic Rd Road",,01/08/2014
+Virginia,Montgomery,Elliston,"1641  Moomaw Cir/moonmaw Cir Circle",,01/17/2014
+Virginia,Smyth,Saltville,"300  Davidson St Street",,01/24/2014
+Virginia,Montgomery,Christiansburg,"795  Montgomery St Street",,01/26/2014
+Virginia,Smyth,Saltville,"1075  Upper Poore Valley Rd Road",,01/27/2014
+Virginia,Smyth,Saltville,"219  Frye Town Ln Road",,01/29/2014
+Virginia,Rockingham,Hinton,"12197  Guinea Hollow Drive",,02/04/2014
+Virginia,Augusta,Staunton,"21  Kittery Pt",,02/12/2014
+Virginia,Accomack,Parksley,"17349  Music Cir Circle",,02/14/2014
+Virginia,Montgomery,Christiansburg,"3300  Springview Dr",,02/21/2014
+Virginia,Montgomery,Blacksburg,"401  Givens Ln  28",,02/24/2014
+Virginia,Montgomery,Christiansburg,"4424  Bluegrass Rd",,02/27/2014
+Virginia,Montgomery,Blacksburg,"3809  Prices Fork Rd",,02/28/2014
+Virginia,Smyth,Marion,"2194  Highway 16",,03/02/2014
+Virginia,Campbell,Lynchburg,"98  Sage Dr Drive",,03/03/2014
+Virginia,Bedford,Bedford,"1075  Shady Lace Ln Lane",,03/07/2014
+Virginia,Washington,Abingdon,"19139  Calla Rd Road 17",,03/08/2014
+Virginia,"Chesapeake (city)",Chesapeake,"725  Indian Creek Rd Road",,03/09/2014
+Virginia,Wythe,Wytheville,"505  Holston Rd Road 9",,03/10/2014
+Virginia,Montgomery,Christiansburg,"231  Dalet Drive",,03/11/2014
+Virginia,Washington,Bristol,"22341  Campground Rd Road",,03/11/2014
+Virginia,Montgomery,Elliston,"4737  Calloway St  Lot 4",,03/19/2014
+Virginia,Alleghany,Covington,"111  Karns Rd/karnes Rd Road",,03/28/2014
+Virginia,Augusta,Greenville,"4100  Lee Jackson Hwy Highway",,03/29/2014
+Virginia,"Williamsburg (city)",Williamsburg,"224  Virginia Ave Avenue  Box B",,04/02/2014
+Virginia,"Staunton (city)",Staunton,"107  Miller St Street  Box 36",,04/08/2014
+Virginia,"Norfolk (city)",Norfolk,"9624  10th Bay St Street  Box 4",,06/05/2014
+Virginia,Roanoke,Roanoke,"2022 Southeast King Charles Avenue",,07/15/2014
+Virginia,"Norfolk (city)",Norfolk,"1459  Bayville St Street",,07/25/2014
+Virginia,"Martinsville (city)",Martinsville,"801  Forest St   Box 2",,08/01/2014
+Virginia,"Norfolk (city)",Norfolk,"8810  Plymouth St Street",,08/04/2014
+Virginia,Franklin,"Rocky Mount","430  Diamond Ave Street",,08/10/2014
+Virginia,Augusta,"Stuarts Draft","18  Forrer Rd/forrer Ave Road  Box 108",,09/08/2014
+Virginia,Smyth,Marion,"604  Hume Place",,10/17/2014
+Virginia,Smyth,Marion,"281  Harris Lane",,10/21/2014
+Virginia,Russell,Honaker,"1916  Thackers Branch",,12/02/2014
+Virginia,Russell,Honaker,"1916  Thackers Branch Road",,12/02/2014
+Virginia,Pulaski,Pulaski,"3249  100 Road",,12/03/2014
+Virginia,Pulaski,"New River","2826 East 3rd Avenue",,12/03/2014
+Virginia,Washington,Meadowview,"13085  Worthington Lane",,12/04/2014
+Virginia,Alleghany,Covington,"611 North Greenbrier Avenue",,12/04/2014
+Virginia,Russell,Castlewood,"1965  High Point Road",,12/05/2014
+Virginia,Franklin,Wirtz,"355  Hillbrook Lane",,12/07/2014
+Virginia,Franklin,Roanoke,"7444  Tinkerview Road",,12/08/2014
+Virginia,Pulaski,Pulaski,"4361  Russell Road",,12/09/2014
+Virginia,Rockingham,Harrisonburg,"717  Foley Road",,12/12/2014
+Virginia,Franklin,"Boones Mill","2569  Jubal Early Highway",,12/12/2014
+Virginia,Page,Stanley,"330  Chapel Road",,12/18/2014
+Virginia,Rockingham,Harrisonburg,"1191  Meridian Circle",,12/29/2014
+Virginia,Montgomery,Christiansburg,"1060  Thorn Lane Box 42",,02/02/2015
+Virginia,Scott,Duffield,"1182  Natural Tunnel Parkway",,02/03/2015
+Virginia,"Harrisonburg City",Harrisonburg,"1232  Commerce Court Box 1232",,02/20/2015
+Virginia,Montgomery,Shawsville,"5825  Roanoke Street",,02/24/2015
+Virginia,Alleghany,"Clifton Forge","318  Roxbury Street",,03/04/2015
+Virginia,Montgomery,Christiansburg,"1701  Testermand Drive",,03/29/2015
+Virginia,Bath,Churchville,"11038  Dry Run Road",,04/03/2015
+Virginia,Rockingham,Dayton,"330  College Street Box 4a",,04/08/2015
+Virginia,Roanoke,Elliston,"1960  Burkett Road",,04/24/2015
+Virginia,Roanoke,Elliston,"169  Weaver Drive",,04/27/2015
+Virginia,Montgomery,Shawsville,"6704  Roanoke Road",,05/13/2015
+Virginia,Montgomery,Christiansburg,"140  Summit Ridge Road",,06/06/2015
+Virginia,Franklin,"Rocky Mount","406  Round Hill Road",,07/01/2015
+Virginia,Franklin,"Union Hall","324 Se Montevista Road",,07/20/2015
+Virginia,Montgomery,Blacksburg,"3670  Deer Run Road",,07/22/2015
+Virginia,Montgomery,Christiansburg,"2060 E East Lane",,07/29/2015
+Virginia,"Chesapeake City",Chesapeake,"721  Conference Center Drive Box 215",,08/02/2015
+Virginia,Montgomery,Blacksburg,"1222  Patrick Henry Drive",,08/03/2015
+Virginia,Rockingham,Broadway,"16220 N Valley Pike",,08/12/2015
+Virginia,Montgomery,Pilot,"4247  Nectarine Drive",,08/16/2015
+Virginia,Albemarle,Commonwealth,"7273  Trump Road",,09/09/2015
+Virginia,Rockingham,Timberville,"19153  Mechanicsville Road",,09/15/2015
+Virginia,Montgomery,Christiansburg,"385  Light Street",,09/21/2015
+Virginia,Montgomery,Shawsville,"1350  North Fork Road",,10/11/2015
+Virginia,Franklin,"Rocky Mount","35  Oak Street",,11/16/2015
+Virginia,Roanoke,Elliston,"2351  Gardner Street",,11/17/2015
+Virginia,Rockbridge,Fairfield,"Black & White Court Box 7",,11/24/2015
+Virginia,Montgomery,Elliston,"5215  Brooman Drive Box 39",,02/21/2016
+Virginia,Montgomery,Christiansburg,"17 Se Alleghany Street",,02/23/2016
+Virginia,Montgomery,Christiansburg,"1345  Rigby Street",,03/08/2016
+Virginia,Montgomery,Christiansburg,"1805  Gallimore Street",,03/09/2016
+Virginia,Montgomery,Blacksburg,"3350  Trillium Lane",,03/19/2016
+Virginia,Montgomery,Christiansburg,"320  White Pine Drive",,03/23/2016
+Virginia,Montgomery,Christiansburg,"1847  South Franklin St",,04/19/2016
+Virginia,Montgomery,Shawsville,"1720  Crystal Lane",,06/08/2016
+Virginia,Montgomery,Riner,"1555  Union Valley Rd Box Lot 32",,06/17/2016
+Virginia,"King George","King George","4391 Chatham Dr",,10/11/2016
+Virginia,Montgomery,Pilot,"1312 High Rock Hill Rd",,10/12/2016
+Virginia,Montgomery,Christiansburg,"3075 Glasgow Rd",,11/17/2016
+Virginia,Giles,"Rich Creek","177 Mullins Lane",,11/30/2016
+Virginia,Montgomery,Blacksburg,"103 Penn Street",,02/24/2017
+Virginia,Montgomery,Blacksburg,"704 Melissa Lane",,05/08/2017
+Virginia,Montgomery,Blacksburg,"816 Tarby Lane",,09/22/2017
+Virginia,Roanoke,Roanoke,"6743 Wood Haven Rd",,11/19/2017
+Virginia,Roanoke,Vinton,"118 E. Virginia Ave",,12/15/2017
+Virginia,"Roanoke (city)",Roanoke,"1930 Brandon Ave.",,01/22/2018
+Virginia,Montgomery,Christiansburg,"1240 King Street",,07/29/2018
+Virginia,Chesterfield,[unspecified],"9000 Lyric  Ct",,08/05/2018
+Virginia,Montgomery,Radford,"4975 Banes Chapel Rd",,10/24/2018

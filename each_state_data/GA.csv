@@ -1,0 +1,451 @@
+state,county,city,address1,address2,date
+Georgia,Douglas,"Lithia Springs","1801 Lee Rd",,01/03/2004
+Georgia,Dade,"Lookout Mountain","51 Mystery Ln",,01/07/2004
+Georgia,Madison,Danielsville,"597 Faye Carey Rd",,01/07/2004
+Georgia,Walker,Rossville,"1975 B Hwy 341 N",,01/12/2004
+Georgia,Brooks,Pavo,"662 Nesbit Rd",,01/15/2004
+Georgia,Catoosa,Ringgold,"60 Ken Ln",,01/17/2004
+Georgia,Lanier,"Ray City","137 Amber Ln",,01/23/2004
+Georgia,Bartow,Adairsville,"1401 140 Hwy",,01/23/2004
+Georgia,Effingham,Guyton,"1734 Central Ave",,01/27/2004
+Georgia,Whitfield,Dalton,"204 Cedar Ridge Rd",,01/28/2004
+Georgia,Bartow,Cartersville,"192 Woodland Way",,01/29/2004
+Georgia,Hall,Lula,"325 Moccasin Gap Rd",,01/30/2004
+Georgia,Wilcox,Rochelle,"853 Mccall Rd",,02/04/2004
+Georgia,Chattooga,Summerville,"855 Blowing Springs Rd",,02/05/2004
+Georgia,Walker,Rossville,"111 Orchard St",,02/10/2004
+Georgia,Jackson,Jefferson,"287 Mahaffey St",,02/12/2004
+Georgia,Laurens,"East Dublin","743 Zion Hill Rd Lot 18",,02/12/2004
+Georgia,Pulaski,Hawkinsville,"103 Dooly N St 2",,02/13/2004
+Georgia,Effingham,Meldrim,"218 Uncle Bud Dr",,02/13/2004
+Georgia,Catoosa,Rossville,"1304 Lake View Dr",,02/14/2004
+Georgia,Twiggs,Jeffersonville,"10996 80 Hwy",,02/15/2004
+Georgia,Bartow,Cartersville,"81 Old Tennessee Rd",,02/18/2004
+Georgia,Douglas,Douglasville,"2217 Chestnut Log Lp",,02/18/2004
+Georgia,Effingham,Clyo,"2434 Springfield Egypt Rd",,02/27/2004
+Georgia,Bartow,Cartersville,"41 Akins St",,02/29/2004
+Georgia,Coffee,Ambrose,"1486 New Hope Rd",,03/02/2004
+Georgia,Clinch,Homerville,"211 Pineview Ave",,03/03/2004
+Georgia,Chattooga,Trion,"17 Long Hollow Rd",,03/03/2004
+Georgia,Walker,Lafayette,"160 Baker Dr",,03/06/2004
+Georgia,Walker,Lafayette,"35 Baker Dr",,03/06/2004
+Georgia,Laurens,"East Dublin","242 Falcon Dr",,03/08/2004
+Georgia,Laurens,Dexter,"2434 Mcdaniel Rd",,03/10/2004
+Georgia,Walker,Lafayette,"999 Cook",,03/11/2004
+Georgia,Whitfield,Dalton,"407 Williams Rd",,03/16/2004
+Georgia,Whitfield,Dalton,"3143 Dixie S Hwy",,03/18/2004
+Georgia,Bartow,Cassville,"925 Cassville Rd 14",,03/18/2004
+Georgia,Spalding,Griffin,"1795 Mcdonough N Rd",,03/18/2004
+Georgia,Walker,Rossville,"26 Ellis Rd Lot 9",,03/18/2004
+Georgia,Catoosa,Ringgold,"320 Teems E Rd",,03/20/2004
+Georgia,Walker,Rossville,"16 Reece W St",,03/24/2004
+Georgia,Chattooga,Summerville,"195 Lakeside Ln",,03/30/2004
+Georgia,Fannin,"Mineral Bluff","1252 Wolf Creek Rd G",,03/30/2004
+Georgia,Walker,Rossville,"113 Peachtree E St",,03/31/2004
+Georgia,Coffee,Douglas,"447 411 S Hwy",,04/01/2004
+Georgia,Dawson,Dawsonville,"54 Needham Dr",,04/01/2004
+Georgia,Walker,Lafayette,"13825 151 Hwy",,04/02/2004
+Georgia,Coweta,Newnan,"23 Hill E St",,04/03/2004
+Georgia,Walker,Lafayette,"89 Livie Dr",,04/12/2004
+Georgia,Chatham,Bloomingdale,"85 Godley Road",,04/13/2004
+Georgia,Chattooga,Trion,"14230 27 Hwy 110",,04/13/2004
+Georgia,Spalding,Griffin,"106 Magnolia Trail",,04/19/2004
+Georgia,Haralson,Tallapoosa,"41 Riverside Rd",,04/19/2004
+Georgia,Walker,Rossville,"322 Rosa St",,04/21/2004
+Georgia,Bartow,Taylorsville,"2394 Euharlee Rd",,04/23/2004
+Georgia,Jackson,Nicholson,"1096 Ed Bennett Rd",,04/23/2004
+Georgia,Irwin,Ocilla,"120 Paradise Ln",,04/26/2004
+Georgia,Paulding,Hiram,"1257 Pace Rd 208",,04/27/2004
+Georgia,Walker,Lafayette,"1121 Mission Ridge Rd",,04/28/2004
+Georgia,"Ben Hill",Fitzgerald,"277 Lobingier Ave",,04/29/2004
+Georgia,Chattooga,Summerville,"1683 Fish Hatchery Rd",,05/06/2004
+Georgia,Bartow,Kingston,"267 Hardin Bridge Rd 4",,05/11/2004
+Georgia,Coweta,Newnan,"65 Fuller Gordon Rd",,05/12/2004
+Georgia,Gwinnett,Duluth,"2729 Irene Cir",,05/16/2004
+Georgia,Murray,Chatsworth,"223 Vann W Cir G",,05/19/2004
+Georgia,Bartow,Acworth,"4572 Roberts Dr",,05/19/2004
+Georgia,Coffee,Douglas,"1291 Rocky Pond Rd",,05/20/2004
+Georgia,Chattooga,Summerville,"4515 Hwy 27 Hwy 110",,05/20/2004
+Georgia,Bartow,Cartersville,"1210 Tennessee N St Lot 4a",,05/24/2004
+Georgia,Crisp,Cordele,"284 Brady Rd",,05/25/2004
+Georgia,Brooks,Quitman,"685 Tower Ln",,05/25/2004
+Georgia,Jasper,Monticello,"305 Alcovey Rd",,06/02/2004
+Georgia,Forsyth,Cumming,"3617 Dr. Bramblett Rd",,06/02/2004
+Georgia,Bartow,Rydal,"11 Indian Hills Dr",,06/03/2004
+Georgia,Cobb,Austell,"1310 Greer Dr",,06/09/2004
+Georgia,Walker,Flintstone,"69 Shadow Ave",,06/09/2004
+Georgia,Catoosa,Ringgold,"152 Hannah Ln",,06/14/2004
+Georgia,Cook,Sparks,"608 Chaerville Hwy",,06/14/2004
+Georgia,Coweta,Newnan,"7 Murphy E St",,06/15/2004
+Georgia,Dougherty,Albany,"916 Cordele Rd",,06/17/2004
+Georgia,Bartow,Cartersville,"21 Akin Ln",,06/18/2004
+Georgia,Gordon,Resaca,"1507 Sexton Rd",,06/22/2004
+Georgia,Murray,Chatsworth,"972 Leonard Bridge Rd N23",,06/23/2004
+Georgia,Peach,"Fort Valley","142 Marion Dr",,06/24/2004
+Georgia,Dawson,Dawsonville,"49 Valley Rd",,06/30/2004
+Georgia,White,Cleveland,"73 Buckeye Ave",,07/04/2004
+Georgia,Walker,Chickamauga,"104 Cheatham Ave",,07/08/2004
+Georgia,Whitfield,Dalton,"1021 Grove St",,07/09/2004
+Georgia,Fulton,Alpharetta,"91 Denna Pl",,07/12/2004
+Georgia,Chattooga,Lyerly,"100 Wiggins Rd",,07/14/2004
+Georgia,Walker,"Rock Spring","320 Teems Rd",,07/19/2004
+Georgia,Chattooga,Lyerly,"489 Sterling Mill Rd",,08/04/2004
+Georgia,Chattooga,Menlo,"507 Carter Rd",,08/04/2004
+Georgia,Cherokee,Canton,"3751 Arbor Hill Rd",,08/05/2004
+Georgia,Walker,Rossville,"11 Walters Ln",,08/06/2004
+Georgia,Houston,Perry,"105 Thrush Ct",,08/09/2004
+Georgia,Chattooga,Summerville,"11626 Hwy 337",,08/10/2004
+Georgia,Elbert,Elberton,"2300 Hartwell N Hwy",,08/11/2004
+Georgia,Walker,Chickamauga,"1210 Taylor Broome Rd",,08/13/2004
+Georgia,Gordon,Resaca,"129 Rustic View Dr",,08/16/2004
+Georgia,Catoosa,Ringgold,"2553 41 Hwy 2553",,08/16/2004
+Georgia,Chattooga,Trion,"1357 Ridge Way Rd",,08/17/2004
+Georgia,Murray,Chatsworth,"13 Plesant Valley Dr D",,08/18/2004
+Georgia,Crisp,Cordele,"129 Spring St",,08/19/2004
+Georgia,Dade,Wildwood,"120 Wawona Dr",,08/22/2004
+Georgia,Walker,Rossville,"143 Lytle Rd 4",,08/24/2004
+Georgia,Chattooga,Trion,"978 Cummings Rd",,08/26/2004
+Georgia,Haralson,Bremen,"510 Atlantic Ave",,08/27/2004
+Georgia,Cherokee,Acworth,"6310 Bells Ferry Rd Lot 33",,09/02/2004
+Georgia,Haralson,Tallapoosa,"161 Dewey St",,09/03/2004
+Georgia,Haralson,Waco,"380 Kelly Creek",,09/05/2004
+Georgia,Glascock,Mitchell,"7817 Hwy 102 West",,09/06/2004
+Georgia,Gilmer,Ellijay,"36 Woodhaven",,09/06/2004
+Georgia,Murray,Chatsworth,"675 Symrna Ramhurst Rd B",,09/14/2004
+Georgia,Taylor,Butler,"501 Main E St",,09/14/2004
+Georgia,Catoosa,Rossville,"46 Fisher St",,09/22/2004
+Georgia,Irwin,Rebecca,"138 Buchanan S Rd",,09/26/2004
+Georgia,Paulding,Dallas,"163 Cottonwood Lp",,09/27/2004
+Georgia,Berrien,Nashville,"212 Bay St",,10/05/2004
+Georgia,Walker,Rossville,"504 James Street",,10/06/2004
+Georgia,Richmond,Augusta,"1631 Curran Street",,10/06/2004
+Georgia,Catoosa,Ringgold,"162 L Q Ware Ln",,10/08/2004
+Georgia,Catoosa,Ringgold,"934 Roach Hollow Rd",,10/08/2004
+Georgia,Muscogee,Columbus,"4234 Forrest Road",,10/13/2004
+Georgia,Peach,"Fort Valley","34 Mahoney Ln",,10/14/2004
+Georgia,Colquitt,Hartsfield,"4770 Hwy 111",,10/15/2004
+Georgia,Walker,Lafayette,"405 Glynn St",,10/18/2004
+Georgia,Grady,Cairo,"1006 Singletary Road",,10/18/2004
+Georgia,Putnam,Eatonton,"304 Jefferson N Ave",,10/21/2004
+Georgia,Chattooga,Summerville,"135 Raymond St",,10/22/2004
+Georgia,Walker,Rossville,"106 2nd Ave",,10/22/2004
+Georgia,Walker,Chickamauga,"796 Friendship Road",,10/22/2004
+Georgia,Chattooga,Summerville,"11489 Highway 27",,10/22/2004
+Georgia,Walker,Lafayette,"409 Campbell Crescent",,10/22/2004
+Georgia,Chattooga,Summerville,"1200 Hwy 48",,10/28/2004
+Georgia,Bulloch,,"6850 Cypress Lake Road",,11/03/2004
+Georgia,Walker,Rossville,"3929 Happy Valley Rd",,11/04/2004
+Georgia,Whitfield,"Tunnel Hill","301 Old Lake Rd",,11/05/2004
+Georgia,Whitfield,"Tunnel Hill","234 Cottonwood Mill Rd",,11/08/2004
+Georgia,Richmond,Augusta,"3705 Peach Orchard Road",,11/08/2004
+Georgia,Elbert,Elberton,"3422 Anderson Hwy",,11/09/2004
+Georgia,Polk,Rockmart,"187 Blue Hole Rd",,11/09/2004
+Georgia,Cherokee,Acworth,"913 Merritt Ln",,11/09/2004
+Georgia,Murray,Chatsworth,"306 Southern Cir",,11/12/2004
+Georgia,Chattooga,Trion,"164 William Cemetary Rd",,11/23/2004
+Georgia,Union,Blairsville,"1639 El Joe Rd 108",,11/24/2004
+Georgia,Coffee,Douglas,"107 Jasmine Dr",,12/01/2004
+Georgia,Walker,Lafayette,"220 Shinbone Rd",,12/01/2004
+Georgia,Cobb,Mableton,"5132 Jones Rd",,12/09/2004
+Georgia,Walker,"Rock Spring","1349 Huffman Road",,12/11/2004
+Georgia,Chatham,"Port Wentworth","6556 Highway 21",,12/13/2004
+Georgia,Whitfield,Dalton,"1265 Dawnville Road",,12/14/2004
+Georgia,Cherokee,Canton,"4251 Holly Springs Parkway",,12/15/2004
+Georgia,Gilmer,Ellijay,"345 Mulberry St",,12/17/2004
+Georgia,Chattooga,Trion,"854 Welcome Hill Rd",,12/17/2004
+Georgia,Richmond,Augusta,"4090 Old Waynesboro Road",,12/21/2004
+Georgia,Franklin,Lavonia,"326 Old Chisolm Trail",,12/22/2004
+Georgia,Bartow,Cartersville,"1925 Cassville Rd 25",,12/22/2004
+Georgia,Douglas,Douglasville,"2372 Ridge Rd",,12/23/2004
+Georgia,Muscogee,Columbus,"2923 1st Ave",,12/31/2004
+Georgia,Bartow,Taylorsville,"145 Sewell Rd",,01/03/2005
+Georgia,Haralson,Bremen,"5444 Us Hwy 78 8",,01/06/2005
+Georgia,Walker,Rossville,"119 Hunt Street",,01/09/2005
+Georgia,Thomas,Thomasville,"155 Red Tip Lane",,01/13/2005
+Georgia,Seminole,Donalsonville,"8170 Hill Dr Apt",,01/20/2005
+Georgia,Gwinnett,"Sugar Hill","4445 Emory Drive",,01/20/2005
+Georgia,Cook,Adel,"100 Lovers Lane",,01/23/2005
+Georgia,Columbia,Grovetown,"100 Harlem Road",,01/27/2005
+Georgia,Thomas,Thomasville,"520 North Broad Street",,01/28/2005
+Georgia,Walker,"La Fayette","580 Bronco Rd",,02/02/2005
+Georgia,Jenkins,Millen,"4154 River Trail Road",,02/02/2005
+Georgia,Haralson,Tallapoosa,"175 Pounds Road",,02/04/2005
+Georgia,Cobb,Smyrna,"200 Church Rd",,02/09/2005
+Georgia,Ware,Waycross,"2283 Katie Lane",,02/14/2005
+Georgia,Walker,Rossville,"143 Lytle Rd Lot 54",,02/15/2005
+Georgia,Bartow,Cartersville,"33 Crump Rd",,02/16/2005
+Georgia,Carroll,Carrollton,"740 Kierbon Rd",,02/22/2005
+Georgia,Catoosa,Ringgold,"195 Lindsey Drive",,02/22/2005
+Georgia,Heard,Franklin,"840 Boggus Rd",,02/23/2005
+Georgia,Cobb,Acworth,"5515 Glade Rd",,02/23/2005
+Georgia,Heard,Franklin,"11373 Highway 34 W 22",,02/25/2005
+Georgia,Walker,Lafayette,"3781 Hwy 27 S",,03/02/2005
+Georgia,Monroe,Forsyth,"800 South 42 Highway",,03/03/2005
+Georgia,Catoosa,Ringgold,"Condra Rd 652",,03/05/2005
+Georgia,Jasper,Mansfield,"11 Rainbow Drive",,03/27/2005
+Georgia,Walker,Chickamauga,"304 Pearl St",,03/30/2005
+Georgia,Gilmer,Ellijay,"573 Weeks Rd",,04/04/2005
+Georgia,Houston,"Warner Robins","302 Oasis Avenue",,04/05/2005
+Georgia,Walker,Rossville,"233 West Cloud Springs Road",,04/06/2005
+Georgia,Bartow,Cartersville,"34 Firetower Rd",,04/06/2005
+Georgia,Haralson,Tallapoosa,"1284 West Us Hwy 78",,04/07/2005
+Georgia,Walker,Lafayette,"816 Crest Dr",,04/08/2005
+Georgia,Walker,Lafayette,"206 Hale St",,04/21/2005
+Georgia,Walker,Hinkle,"159 Middle Road",,04/27/2005
+Georgia,Franklin,Canon,"184 Elgin Ln",,04/30/2005
+Georgia,Chatham,"Garden City","59 Leisure Drive",,05/07/2005
+Georgia,Walker,"La Fayette","302 Magnolia St",,05/09/2005
+Georgia,Walker,"Lookout Mtn","115 Middle Road",,05/10/2005
+Georgia,Catoosa,Ringgold,"4070 Hwy 41",,05/16/2005
+Georgia,Richmond,Augusta,"1933 Gay Drive",,05/19/2005
+Georgia,Paulding,Dallas,"1345 Towne Lake Hills S 107",,05/19/2005
+Georgia,Troup,Lagrange,"115 Parmer Road",,05/23/2005
+Georgia,Muscogee,Columbus,"1416 42nd St",,05/24/2005
+Georgia,Haralson,Buchanan,"2676 Hwy 100 S Hwy",,05/25/2005
+Georgia,Clinch,Homerville,"55 Mccashin Dr",,05/26/2005
+Georgia,Cook,Adel,"27 Livingston Rd",,05/29/2005
+Georgia,Walker,Rossville,"450 Schmidt Road",,05/30/2005
+Georgia,Bartow,Taylorsville,"75 Davis Dr",,06/02/2005
+Georgia,Murray,Chatsworth,"200 Red Cut Rd",,06/02/2005
+Georgia,Walker,"Rock Spring","477 Old Hwy 27",,06/14/2005
+Georgia,Carroll,Temple,"3 Milner Street",,06/16/2005
+Georgia,Glascock,Mitchell,"9148 Cason Road",,06/29/2005
+Georgia,Coweta,Newnan,"24 Rebel Road",,07/01/2005
+Georgia,Muscogee,Columbus,"1416 B 42nd Street",,07/05/2005
+Georgia,Dade,"Rising Fawn","1587 Moore N Rd",,07/25/2005
+Georgia,Dade,Trenton,"1021 District Line Rd",,07/28/2005
+Georgia,Lee,Leesburg,"284 Linden Road",,07/30/2005
+Georgia,Dade,Trenton,"1183 Wells Rd",,08/02/2005
+Georgia,Murray,Chatsworth,"1178 Hwy 225 South",,08/12/2005
+Georgia,Dade,"Rising Fawn","393 Memorial Dr",,08/16/2005
+Georgia,Grady,Pelham,"644 Spence Road",,08/20/2005
+Georgia,Bartow,Cartersville,"390 Old Mill Rd 204",,08/29/2005
+Georgia,Grady,Cairo,"837 Womble Road",,09/06/2005
+Georgia,Brooks,Quitman,"8142 Highway 84 W",,09/09/2005
+Georgia,Bleckley,Cochran,"137 Dixon Road",,09/15/2005
+Georgia,Troup,Hogansville,"2352 Highway 100",,09/23/2005
+Georgia,Richmond,Hephzibah,"2839 Old Hwy 1 Highway",,10/12/2005
+Georgia,Haralson,Tallapoosa,"331 Daniel Rd",,10/18/2005
+Georgia,Chattooga,Trion,"37 Georgia Ave",,11/26/2005
+Georgia,Grady,Cairo,"1883 Ridge Road",,12/17/2005
+Georgia,Richmond,Augusta,"3473 Lewis Road",,12/21/2005
+Georgia,Carroll,Carrollton,"153 Wrenwood Box 153 Ln",,01/07/2006
+Georgia,Columbia,Grovetown,"1036 Carlene",,01/09/2006
+Georgia,Meriwether,Greenville,"566 South Talb0tton Street",,01/12/2006
+Georgia,Burke,Waynesboro,"2223 Hwy 56",,01/15/2006
+Georgia,Richmond,Augusta,"2534 Lumpkin Road",,01/22/2006
+Georgia,Richmond,Hephzibah,"2419 Turkey Trail Drive",,01/25/2006
+Georgia,Richmond,Augusta,"612 Bennock Mill Road",,01/26/2006
+Georgia,Dade,Trenton,"377 First Street",,01/27/2006
+Georgia,Cobb,Marietta,"59 Katherine Dr",,01/31/2006
+Georgia,Fayette,Tyrone,"114 Sims Rd",,02/06/2006
+Georgia,Madison,Ila,"140 Westbrook Street",,02/06/2006
+Georgia,Bibb,Macon,"250 Margaret Court",,02/09/2006
+Georgia,Houston,"Warner Robins","305 Evergreen Street",,02/11/2006
+Georgia,Union,Blairsville,"3007 Robertson Circle",,02/11/2006
+Georgia,Bartow,Cartersville,"426 Shinall-gaines Rd",,02/13/2006
+Georgia,Catoosa,Rossville,"880 Stateline Rd. W",,02/13/2006
+Georgia,Bibb,Macon,"2154 Riverside Drive",,02/21/2006
+Georgia,Hall,Oakwood,"5542 Salle Drive",,02/23/2006
+Georgia,Grady,Cairo,"3121 Hwy 188",,02/27/2006
+Georgia,Mitchell,Pelham,"6257 Chason Road",,02/28/2006
+Georgia,Floyd,"Cave Spring","69 Sleepy Hollow Road",,03/08/2006
+Georgia,Grady,Cairo,"267 Oakland Drive",,03/09/2006
+Georgia,Richmond,Hephzibah,"308 Robert Drive",,03/10/2006
+Georgia,Richmond,Augusta,"154 Cornith Drive",,03/10/2006
+Georgia,Walker,Chickamauga,"447 Jerry Ellis Road",,03/16/2006
+Georgia,Polk,Aragon,"2 Aragon Road",,03/18/2006
+Georgia,Bartow,Cartersville,"229 Evergreen Trail",,03/27/2006
+Georgia,Twiggs,"Dry Branch","549 Horse Shoe Circle",,04/03/2006
+Georgia,Bibb,Macon,"2170 Allen Road",,04/07/2006
+Georgia,Cobb,Mableton,"1641 Glenn Place",,04/19/2006
+Georgia,Cobb,Marietta,"2532 Mountain View School Road",,04/25/2006
+Georgia,Mcduffie,Thomson,"430 May Road",,04/27/2006
+Georgia,Marion,"Buena Vista","3185 Ga 355 Highway",,05/02/2006
+Georgia,Haralson,Tallapoosa,"3749 Old Hwy 100",,05/10/2006
+Georgia,Haralson,Tallapoosa,"3749 Old Hwy 100 Lot 18",,05/10/2006
+Georgia,Richmond,Augusta,"2415 Willis Foreman Road",,05/16/2006
+Georgia,Effingham,Faulkville,"158 Thompson Street",,05/17/2006
+Georgia,Lowndes,Valdosta,"3361 Cedar Drive",,05/24/2006
+Georgia,Richmond,Hephzibah,"2400 Turkey Trail Drive",,05/29/2006
+Georgia,Dade,Trenton,"51 Twin Oaks Drive",,05/31/2006
+Georgia,Houston,Centerville,"618 Collins Avenue",,06/13/2006
+Georgia,Grady,Cairo,"253 Sunset Lane",,06/26/2006
+Georgia,Barrow,Auburn,"1618 Summit Ridge",,07/02/2006
+Georgia,Mcduffie,Thomson,"3375 Washington Road",,07/06/2006
+Georgia,Richmond,Augusta,"3105 Mike Padgett Highway",,07/12/2006
+Georgia,Burke,Waynesboro,"3696 Highway 25",,07/14/2006
+Georgia,Richmond,Blythe,"3326 88 Highway",,07/14/2006
+Georgia,Burke,Waynesboro,"383 Winter Road",,07/14/2006
+Georgia,Burke,Girard,"11313 South Highway 23",,07/18/2006
+Georgia,Chattooga,Summerville,"10450 Highway 337",,07/28/2006
+Georgia,Murray,Chatsworth,"730 Will Evons Road",,08/07/2006
+Georgia,Bibb,Macon,"354 Rogers Avenue",,08/14/2006
+Georgia,Paulding,Hiram,"106 Hiram Terrace Road",,08/15/2006
+Georgia,Grady,Cairo,"778 Lacy Road",,08/24/2006
+Georgia,Floyd,Rome,"12 North Garden Court",,09/10/2006
+Georgia,Floyd,Rome,"300 Sycamore Street",,09/20/2006
+Georgia,Whitfield,Dalton,"2226 Bryant Circle",,09/23/2006
+Georgia,Chattooga,Summerville,"92 Hedrick Drive",,09/25/2006
+Georgia,Douglas,"Lithia Springs","2552 Winding Creek Drive",,09/27/2006
+Georgia,Richmond,Augusta,"2014 Battle Row",,09/28/2006
+Georgia,Floyd,,"6 Woodberry Drive B",,10/02/2006
+Georgia,Fulton,Atlanta,"5479 Glenridge Drive",,11/03/2006
+Georgia,Cherokee,Canton,"281 Brown Street",,11/06/2006
+Georgia,Whitfield,Dalton,"421 Florence Avenue",,11/14/2006
+Georgia,Richmond,Augusta,"2545 Rhodes Drive",,11/22/2006
+Georgia,Gwinnett,Suwanee,"5110 Price Drive",,11/24/2006
+Georgia,Coffee,Willacoochee,"1426 Briston Road",,12/04/2006
+Georgia,Richmond,Augusta,"3001 Roe's Wood Drive",,12/14/2006
+Georgia,Grady,Cairo,"186 Trawick Lane",,12/28/2006
+Georgia,Columbia,Evans,"136 Pond View",,01/03/2007
+Georgia,Grady,Cairo,"3906 North Hwy 111 Highway",,01/18/2007
+Georgia,Brantley,Waynesville,"Route 2 Avenue Lot 9",,01/19/2007
+Georgia,Grady,Cairo,"606 Pope Store Road",,01/24/2007
+Georgia,Whitfield,Dalton,"700 Betty Street",,02/28/2007
+Georgia,Richmond,Hephzibah,"2393 North Cougar Drive",,03/13/2007
+Georgia,Richmond,Augusta,"154 Corinth",,03/23/2007
+Georgia,Bibb,Macon,"5975 Columbus Road",,04/05/2007
+Georgia,Pickens,Jasper,"585 Henderson Mountain Road",,04/17/2007
+Georgia,Colquitt,Moultrie,"819 Tree Farm Road",,04/25/2007
+Georgia,Carroll,Bowdon,"1065 Sandy Flat Road",,05/19/2007
+Georgia,Decatur,Climax,"990 Old Pelham Road",,05/22/2007
+Georgia,Haralson,Tallapoosa,"130 Renee Street",,05/24/2007
+Georgia,Crawford,Roberta,"1701 Horne Road",,05/25/2007
+Georgia,Richmond,Hephzibah,"2059 Mcdade Road",,07/02/2007
+Georgia,Richmond,Augusta,"2553 Rhodes Drive",,07/11/2007
+Georgia,Early,Jakin,"1417 North Pearl Street",,08/15/2007
+Georgia,Carroll,"Villa Rica","511 Main Street",,08/21/2007
+Georgia,Richmond,Augusta,"7048 Amarillo Circle",,08/21/2007
+Georgia,Walker,Chickamauga,"313 Hurtt Road",,08/22/2007
+Georgia,Catoosa,Ringgold,"2675 North Hwy 41",,08/24/2007
+Georgia,Crawford,Roberta,"186 West Agency Street",,09/07/2007
+Georgia,Dade,Trenton,"1463 Hwy 11",,09/13/2007
+Georgia,Catoosa,Rossville,"938 Steele Road",,09/20/2007
+Georgia,Miller,Colquitt,"68 Clyve Cook Road",,09/25/2007
+Georgia,Coffee,Ambrose,"462 Pine Street",,09/29/2007
+Georgia,Appling,Baxley,"8549 North Hatch Parkway",,10/01/2007
+Georgia,Cobb,Marietta,"2121 Windy Hill, Unit 1554 Road",,10/18/2007
+Georgia,Miller,Colquitt,"78 Bryan Road",,12/28/2007
+Georgia,Bibb,Macon,"575 Baxter Avenue 802",,01/23/2008
+Georgia,Walker,Rossville,"20 Bailey Lane",,01/23/2008
+Georgia,Muscogee,Columbus,"606 50th Street",,01/24/2008
+Georgia,Walker,Rossville,"52 Hunter Circle",,01/31/2008
+Georgia,Macon,"Bibb City","2649 St Clara Drive",,02/04/2008
+Georgia,Polk,Rockmart,"1866 Old Collard Valley Road",,02/12/2008
+Georgia,Decatur,Bainbridge,"111 Lynn Justice Road",,03/06/2008
+Georgia,Whitfield,Dalton,"797 Carbondale Road",,03/14/2008
+Georgia,Richmond,Hephzibah,"4535 Windsor Spring Road",,03/15/2008
+Georgia,Richmond,Augusta,"1944 Warren Street",,03/15/2008
+Georgia,Decatur,Brinson,"929 Hatcher Road",,03/18/2008
+Georgia,Walker,Chickamauga,"471 Friendship Road",,04/14/2008
+Georgia,Walker,Flintstone,"1848 Cattanooga Valley Road",,04/17/2008
+Georgia,Barrow,Monroe,"1015 Smith Chapel Road",,05/10/2008
+Georgia,Walker,Rossville,"502 Mission Ridge Road",,05/16/2008
+Georgia,Tift,"Ty Ty","145 Pines Drive",,05/28/2008
+Georgia,"Jeff Davis",Hazlehurst,"74 Sunflower Road",,05/29/2008
+Georgia,Walker,Rossville,"106 Oak Street",,06/04/2008
+Georgia,Walker,Rossville,"710 Salem Road",,07/03/2008
+Georgia,Oconee,Watkinsville,"1160 Daniels Bridge Road",,07/08/2008
+Georgia,Walker,Chickamauga,"365 Vittetoe Road",,07/12/2008
+Georgia,Crawford,Roberta,"1733 Matthews Road",,07/28/2008
+Georgia,Richmond,Augusta,"1925 Telfair Street",,08/15/2008
+Georgia,Catoosa,Ringgold,"164 Amy Lane",,09/03/2008
+Georgia,Floyd,Rome,"5 Lee Street B",,09/05/2008
+Georgia,Jones,Macon,"114 Gary K Road",,09/10/2008
+Georgia,Catoosa,Rossville,"294 Warren Street 294",,09/17/2008
+Georgia,Walker,Chickamauga,"238 Parkside Trail",,10/02/2008
+Georgia,Walker,Rossville,"7 Crabtree Circle",,10/22/2008
+Georgia,Catoosa,Ringgold,"130 Gilbert Drive",,11/07/2008
+Georgia,Lowndes,Valdosta,"2969 Moore Crossing Road",,11/19/2008
+Georgia,Clay,Morris,"59 Fair Road",,11/19/2008
+Georgia,Cobb,Atlanta,"3505 Windy Ridge Parkway 1003",,12/05/2008
+Georgia,Gwinnett,Norcross,"5264 Locomotive Lane",,12/08/2008
+Georgia,Richmond,Augusta,"3347 Ravenwood Drive",,12/09/2008
+Georgia,Turner,Ashburn,"520 Ponder Road",,12/10/2008
+Georgia,Chattooga,Summerville,"88 Skelton Road",,12/13/2008
+Georgia,Haralson,Tallapoosa,"24 Laundry Street",,04/26/2009
+Georgia,Seminole,Donalsonville,"2078  Southside Drive",,01/08/2010
+Georgia,Crawford,Knoxville,"1585  Matthews Road",,01/09/2010
+Georgia,Murray,Chatsworth,"630  Ccc Camp Road",,01/21/2010
+Georgia,Houston,Centerville,"905  Collins Avenue",,01/23/2010
+Georgia,Muscogee,Columbus,"5938  Morningside Drive",,02/10/2010
+Georgia,Muscogee,Columbus,"3150  Plateau Drive 218",,02/18/2010
+Georgia,Polk,Cedartown,"1319  Mckibben Street 13",,04/02/2010
+Georgia,Richmond,Hephzibah,"2489  88 Highway",,04/06/2010
+Georgia,Clinch,Argyle,"3074  Jessie Steedley Highway",,04/12/2010
+Georgia,Columbia,Martinez,"607  Thomas Drive",,04/13/2010
+Georgia,Muscogee,Columbus,"3221  2nd Avenue",,04/14/2010
+Georgia,Richmond,Augusta,"2501  Coleman Avenue",,04/19/2010
+Georgia,Heard,Franklin,"10202  Highway 34",,04/22/2010
+Georgia,Richmond,Hephzibah,"4368  Forest Road",,04/27/2010
+Georgia,Richmond,Hephzibah,"3056  Wolcott Lane",,04/29/2010
+Georgia,Bibb,Macon,"2170  St. Clara Drive",,05/04/2010
+Georgia,Polk,Cedartown,"2802  Cave Spring Road",,06/14/2010
+Georgia,Harris,Cataula,"990  Grantham Drive",,06/16/2010
+Georgia,Miller,Colquitt,"244  Mayaw Road",,06/18/2010
+Georgia,Lowndes,Valdosta,"1700  Cypress Street",,06/22/2010
+Georgia,Chatham,Savannah,"5103  Garrardo Avenue",,06/25/2010
+Georgia,Muscogee,Columbus,"15  8th Street",,06/29/2010
+Georgia,Columbia,Martinez,"3905  Almon Drive",,07/05/2010
+Georgia,Lowndes,Naylor,"5970  Hotchkiss Road",,07/07/2010
+Georgia,Mcduffie,Thomson,"1411  Jean Road D-4",,07/13/2010
+Georgia,Jefferson,Stapleton,"224  Chruch Street",,07/14/2010
+Georgia,Chatham,Savannah,"4800  Butler Avenue",,07/19/2010
+Georgia,Brooks,Quitman,"840  Belcher Road",,07/24/2010
+Georgia,Brooks,Pavo,"1518  Branch Road",,07/24/2010
+Georgia,Bibb,Macon,"2035  Liberty Church Road",,07/28/2010
+Georgia,Brooks,Quitman,"4425  Troupeville Road",,07/28/2010
+Georgia,Warren,Warrenton,"121  Parkway Drive",,08/02/2010
+Georgia,Polk,Cedartown,"230  Park Street",,08/17/2010
+Georgia,Richmond,Augusta,"1503  Pine Ridge Drive",,08/18/2010
+Georgia,Baldwin,Milledgeville,"141  Highview Road",,08/23/2010
+Georgia,Ware,Waycross,"2592  Sweat Road",,09/02/2010
+Georgia,Pike,Zebulon,"819  Reid Road",,09/03/2010
+Georgia,Pike,Milner,"307  Ragon Road",,09/10/2010
+Georgia,Richmond,Hephzibah,"5341  Timberwood Drive",,09/17/2010
+Georgia,Whitfield,Dalton,"300  Fleming Street",,09/21/2010
+Georgia,Evans,Claxton,"156  Brewton Collins Road",,09/22/2010
+Georgia,Burke,Hephzibah,"488  Eagle Pass Road",,09/28/2010
+Georgia,Whitfield,Dalton,"651 West West Nance Springs Road",,11/08/2010
+Georgia,Decatur,Bainbridge,"1382  Booster Club Road 13",,12/10/2010
+Georgia,Fulton,Alpharetta,"10550  Ash Rill Drive",,12/11/2010
+Georgia,Whitfield,Cohutta,"1079  Cohutta-beaverdale Road 1079",,01/05/2011
+Georgia,Tift,Omega,"1241  Wb Parks Road",,01/12/2011
+Georgia,Murray,Chatsworth,"3177  Greeson Bend Road",,02/05/2011
+Georgia,Whitfield,Dalton,"100  Autumn Court 7",,02/11/2011
+Georgia,Burke,Waynesboro,"244  Briar Creek Estates Road",,02/14/2011
+Georgia,Richmond,Augusta,"3522  Windmere Road",,02/14/2011
+Georgia,Harris,Hamilton,"1424  Martin Road",,02/15/2011
+Georgia,Laurens,"East Dublin","118  Bethlehem Church Road",,05/23/2011
+Georgia,Cook,Adel,"16  Burnett Road",,06/14/2011
+Georgia,Bibb,Macon,"857  Trinity Place",,07/09/2011
+Georgia,Wayne,Jesup,"305  Carlton Drive",,07/14/2011
+Georgia,Polk,Cedartown,"526  Substation Road",,07/26/2011
+Georgia,Laurens,Rentz,"1865  G B Lindsey Road",,07/28/2011
+Georgia,Lanier,"Ray City","101  Wilson Lane",,09/08/2011
+Georgia,Hall,Gainesville,"3791  Old Cornelia Highway",,12/14/2011
+Georgia,Gwinnett,Norcross,"2057  Lanier Terrace Drive",,06/13/2012
+Georgia,Upson,Thomaston,"75  Mcgrath Road",,07/11/2012
+Georgia,Union,Blairsville,"119  Golden Ridge Road",,07/20/2012
+Georgia,Cobb,Mableton,"115  Dearing Court",,08/06/2012
+Georgia,Fulton,Alpharetta,"5204  Collingwood Lane",,08/08/2012
+Georgia,Cobb,Smyrna,"2457  Glendale Circle",,10/15/2012
+Georgia,Gwinnett,Lawrenceville,"510  St. James Court",,10/27/2012
+Georgia,Cook,Adel,"605  Rowan Rd Road",,08/08/2013
+Georgia,Berrien,Nashville,"703  College St Street",,08/13/2013
+Georgia,Camden,Woodbine,"9633  Hwy 6",,11/25/2013
+Georgia,Macon,Marshallville,"8468  Akron Road",,12/20/2013
+Georgia,Clayton,Jonesboro,"330  Arrowhead Boulevard 57g",,01/08/2014
+Georgia,Gwinnett,Suwanee,"618  Eight Point Ct Nw Court",,03/21/2014
+Georgia,Chatham,Savannah,"1814 East 39th Street",,10/22/2014
+Georgia,Chatham,"Garden City","4833  Old Louisville Road",,07/07/2015
+Georgia,Hall,Gainesville,"5979  Julian Baugh Road",,08/06/2015
+Georgia,Gwinnett,Duluth,"2110 Preston Park Dr.",,10/20/2016
+Georgia,Gwinnett,Lawrenceville,"1341 Sweet Woods Dr",,11/08/2016
+Georgia,Fulton,Atlanta,"1020 Eisenhower Court",,02/02/2017
+Georgia,Dekalb,Atlanta,"2283 Plaster Road",,05/24/2017
+Georgia,Henderson,Henderson,"600 Taylor Dr",,09/12/2017
+Georgia,Dekalb,Atlanta,"2207 Briarcliff Road",,09/19/2017
+Georgia,Floyd,Calhoun,"601 Harland Street",,12/03/2018
+Georgia,Gwinnett,Duluth,"2606 Selman Dr",,12/04/2018

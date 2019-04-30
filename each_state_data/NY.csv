@@ -1,0 +1,324 @@
+state,county,city,address1,address2,date
+"New York",Jefferson,Watertown,"214 Charles St",,01/02/2004
+"New York",Jefferson,Watertown,"234 Coffeen St",,01/02/2004
+"New York",Jefferson,Watertown,"572 Snell St",,01/03/2004
+"New York",Chemung,Elmira,"825 Erie Street",,01/15/2004
+"New York",Tioga,Barton,"541 Old Barton Road",,01/28/2004
+"New York",Chemung,Chemung,"198 Elston Rd",,02/18/2004
+"New York",Chemung,Veteran,"4031 Watkins Rd",,02/27/2004
+"New York",Steuben,Corning,"2609 Kings Circle St",,03/02/2004
+"New York",Jefferson,Watertown,"125 Hoard E St",,03/04/2004
+"New York",Chemung,Elmira,"313 Center E St",,03/10/2004
+"New York",Jefferson,Ellisburg,"16306 (b) Ikeys Crossing Rd",,03/11/2004
+"New York",Tioga,Groton,"525 Pleasant Valley Rd",,04/08/2004
+"New York",Jefferson,Watertown,"255 Ten Eyck St",,04/08/2004
+"New York",Broome,"Whitney Point","5176 Sr 26 St",,04/17/2004
+"New York",Otsego,Worcester,"405 Smith Rd",,06/03/2004
+"New York",Erie,Williamsville,"104 Cranburne Ln",,06/15/2004
+"New York",Jefferson,Watertown,"812 Boyd St",,06/20/2004
+"New York",Steuben,Canisteo,"1385 Slate Creek Rd",,06/30/2004
+"New York",Otsego,Plainfield,"301 Bassett Rd",,07/03/2004
+"New York",Oswego,Hastings,"48 Ball Rd",,07/08/2004
+"New York",Herkimer,Mohawk,"4424 State Route 5",,08/04/2004
+"New York",Herkimer,Stark,"1381 State Route 168",,09/01/2004
+"New York",Herkimer,Ilion,"37 North E St",,09/02/2004
+"New York",Herkimer,"West Winfield","977 County Route 21",,09/02/2004
+"New York",Tioga,Barton,"28 Cayuta St",,10/17/2004
+"New York",Tioga,Berkshire,"336 Turkey Hill Road",,12/22/2004
+"New York",Otsego,"Richfield Springs","107 Mulligan Road",,02/16/2005
+"New York",Livingston,Dansville,"6432 Stong Hill Rd",,05/07/2005
+"New York",Essex,"Schroon Lake","1496 Route 9",,07/19/2005
+"New York",Clinton,Chazy,"9608 Route 9",,09/16/2005
+"New York",Broome,Maine,"38 Hoskins Rd",,09/21/2005
+"New York",Tioga,Nichols,"2313 Briggs Hill Rd",,11/29/2005
+"New York",Otsego,Edmeston,"2354 County Hwy 20",,01/05/2006
+"New York",Herkimer,"West Winfield","102 Marriott Road",,01/24/2006
+"New York",Suffolk,Farmingville,"187 Berkshire Dr",,02/08/2006
+"New York",Broome,Maine,"38 Hoskin Rd",,02/09/2006
+"New York",Broome,Endicott,"87 Sky Island Dr",,02/10/2006
+"New York",Broome,Barker,"470 Conklin Hill Rd",,02/10/2006
+"New York",Broome,Binghamton,"426 Conklin Ave",,02/14/2006
+"New York",Broome,Barker,"265 Joyner Road",,03/21/2006
+"New York",Monroe,Rochester,"17 Copley St",,04/02/2006
+"New York",Queens,Astoria,"32-82 33rd Street",,06/28/2006
+"New York","New York","New York","330 East 39th Street",,06/29/2006
+"New York",Bronx,Bronx,"2280 Olinville Avenue",,07/05/2006
+"New York",Kings,Brooklyn,"181 Bay 28th Street",,07/26/2006
+"New York",Chemung,Chemung,"5464 North Street",,08/01/2006
+"New York",Herkimer,Jordanville,"252 Kingdom Road",,08/22/2006
+"New York",Suffolk,Patchogue,"124 Maple Avenue",,08/22/2006
+"New York",Queens,Flushing,"164-18 43rd Avenue",,08/24/2006
+"New York",Suffolk,Ridge,"15 Tarkill Trail",,09/12/2006
+"New York",Erie,Buffalo,"81 Lockwood Street",,09/19/2006
+"New York","New York","New York","386 Manhattan Avenue",,10/04/2006
+"New York",Otsego,"Richfield Springs","1157 County Route 25",,11/11/2006
+"New York",Broome,"Johnson City","22 Camden Street",,11/24/2006
+"New York",Cayuga,Moravia,"5426 Murphy Hill Road",,12/07/2006
+"New York",Ulster,Woodstock,"45 Millstream Road",,12/15/2006
+"New York",Orleans,Medina,"4099 Shelby Basin Road 1",,03/23/2007
+"New York",Essex,"Port Henry","6 Second Street",,05/08/2007
+"New York",Chemung,Erin,"1493 Breesport Road",,05/15/2007
+"New York",Tioga,Lockwood,"6547 Miller Hollow Road",,05/31/2007
+"New York",Hamilton,,"281 Washburn Road",,06/17/2007
+"New York",Tioga,Spencer,"61 Dawson Hill Road",,06/21/2007
+"New York",Otsego,"Springfield Center","4806 State Route 20 Route",,07/13/2007
+"New York",Ulster,Kingston,"8a Center Street",,09/21/2007
+"New York",Herkimer,"West Winfield","1163 State Route 20",,01/16/2008
+"New York",Schuyler,Dix,"1741 Gano Road",,01/21/2008
+"New York",Schuyler,Cayuta,"6259 Swartwood Road",,01/23/2008
+"New York",Otsego,"Richfield Springs","136 Main Street",,02/21/2008
+"New York",Herkimer,"West Winfield","175 Taylor Avenue",,03/27/2008
+"New York",Herkimer,"West Winfield","1122 U.s. 20 Highway",,03/27/2008
+"New York",Broome,Richford,"453 Payne Marsh Road",,08/14/2008
+"New York",Clinton,Plattsburgh,"460 Margaret Str., Apt. 203",,01/19/2009
+"New York",Erie,Evans,"295 Dawn Avenue",,01/21/2009
+"New York",Erie,Buffalo,"73 Page Street",,05/06/2009
+"New York",Erie,Amherst,"322 Dan Troy Court",,05/06/2009
+"New York",Chemung,"Beaver Dams","44 Campground Road",,08/28/2009
+"New York",Broome,Maine,"47 Town Road",,09/09/2009
+"New York",Monroe,Scottsville,"440 North Road",,10/03/2009
+"New York",Cayuga,Venice,"3075 Gunn Road",,11/02/2009
+"New York",Cayuga,Venice,"3068 Gunn Road",,11/02/2009
+"New York",Genesee,Alabama,"789 Lewiston Road",,11/12/2009
+"New York",Genesee,Batavia,"135 Jackson Street",,11/12/2009
+"New York",Madison,Oneida,"127 Farrier Avenue",,11/15/2009
+"New York",Genesee,"Le Roy","28 Clay Street",,12/10/2009
+"New York",Erie,Sardinia,"12309 West Avenue",,12/29/2009
+"New York",Schuyler,"Montour Falls","148  Clawson Boulevard",,02/03/2010
+"New York",Clinton,Plattsburgh,"72  Spellman Road",,02/10/2010
+"New York",Oneida,Canastota,"3669  State Route 5 Route",,02/23/2010
+"New York",Genesee,Batavia,"13 Ross Street",,02/24/2010
+"New York",Genesee,Batavia,"165  Park Road",,02/24/2010
+"New York",Genesee,"Le Roy","9434  State Route 19",,03/02/2010
+"New York",Broome,"Whitney Point","2621  Liberty Street Apt. 2",,03/16/2010
+"New York",Madison,Oneida,"109  North Main Street",,03/19/2010
+"New York",Tompkins,Dryden,"64  West Main Street",,03/21/2010
+"New York",Madison,Sullivan,"1507  Smithridge",,03/31/2010
+"New York",Madison,Munnsville,"5643  State Route 46",,07/10/2010
+"New York",Erie,"West Seneca","87  Briarhill Road",,07/13/2010
+"New York",Oneida,"Sylvan Beach","2501  Vienna Road",,08/26/2010
+"New York",Erie,Hamburg,"5106 Parker Road, Apt. 3",,09/07/2010
+"New York",Erie,Hamburg,"4647 Parker Road",,09/07/2010
+"New York",Tompkins,Lansing,"3077 North Triphammer Road",,10/22/2010
+"New York",Oneida,Annsville,"3283 Pond Hill Road, Apt. 4",,11/16/2010
+"New York",Erie,Buffalo,"125 Chenango Street, Apt. 3",,11/22/2010
+"New York",Broome,Barker,"6480 State Route 79",,11/24/2010
+"New York",Steuben,Tuscarora,"1377  Stewart Road",,12/14/2010
+"New York",Steuben,Corning,"344  East Denison Parkway",,01/16/2011
+"New York",Oneida,Camden,"114 Main Street",,02/19/2011
+"New York",Albany,Latham,"1080  Route 9",,03/14/2011
+"New York",Chemung,Chemung,"1731 County Route 60",,03/29/2011
+"New York",Genesee,Byron,"6319 East Main Street",,04/15/2011
+"New York",Schuyler,Dix,"1334 Rollison Hollow Road",,05/18/2011
+"New York",Madison,Oneida,"414 Lenox Avenue, Apt. 3",,06/14/2011
+"New York",Madison,Oneida,"1080 Palmer Drive",,06/28/2011
+"New York",Schoharie,Schoharie,"325 Main Street, Apt. 3",,07/07/2011
+"New York",Oswego,Orwell,"22 Pennock Road",,07/13/2011
+"New York",Oneida,Rome,"402 Riverside Drive",,08/01/2011
+"New York",Chemung,Chemung,"560 Clark Road",,08/03/2011
+"New York",Madison,Oneida,"406  Lenox Avenue",,08/20/2011
+"New York",Steuben,Lindley,"8797 State Line Road",,08/26/2011
+"New York",Oneida,"New Hartford","302 Washington Drive",,08/27/2011
+"New York",Seneca,Waterloo,"54 Washington Street, Apt. 2",,10/12/2011
+"New York",Oswego,Mexico,"459 County Route 41",,10/12/2011
+"New York",Chemung,"Elmira Heights","135  Horseheads Boulevard",,11/11/2011
+"New York",Oswego,Oswego,"3 Mary Street",,11/20/2011
+"New York",Chemung,Southport,"2439 South Broadway Street",,01/18/2012
+"New York",Madison,Lenox,"8283 North Main Street",,01/18/2012
+"New York",Madison,Oneida,"146 Main Street",,01/25/2012
+"New York",Allegany,Wellsville,"23 South Main Street, Apt.6",,01/26/2012
+"New York",Allegany,Wellsville,"25 Madison Street, Apt. 7",,01/26/2012
+"New York",Allegany,Wellsville,"23 South Main Street, Apt. 6",,01/26/2012
+"New York",Madison,Nelson,"3634  Jones Road",,02/11/2012
+"New York",Chemung,Southport,"1695  Pennsylvania Avenue",,02/15/2012
+"New York",Allegany,"New Hudson","7290 Rawson Road",,02/22/2012
+"New York",Erie,Lancaster,"6224 Broadway Street",,03/02/2012
+"New York",Oswego,"New Haven","3882 County Route 6",,03/08/2012
+"New York",Chemung,Veteran,"131 Stewart Road",,03/10/2012
+"New York",Steuben,Tuscarora,"8302 Clendenning Road",,03/26/2012
+"New York",Madison,Canastota,"218 North Main Street",,03/29/2012
+"New York",Madison,Oneida,"330 North Main Street",,04/04/2012
+"New York",Chautauqua,Jamestown,"10 Windsor Street, Apt. 2",,04/06/2012
+"New York",Allegany,Independence,"729 Snow Road",,04/12/2012
+"New York",Cayuga,Auburn,"69 Owasco Street",,04/13/2012
+"New York",Madison,Lenox,"3174 Pine Ridge Road",,04/19/2012
+"New York",Yates,Dundee,"5716 State Route 14a",,04/19/2012
+"New York",Steuben,Corning,"100 Lamphear Court",,04/20/2012
+"New York",Madison,Oneida,"207 Genesee Street",,04/22/2012
+"New York",Oswego,Scriba,"10 Robins Lane",,04/25/2012
+"New York",Niagara,"Niagara Falls","87 A Street",,04/27/2012
+"New York",Oswego,Amboy,"1396 County Route 26",,04/30/2012
+"New York",Chautauqua,Jamestown,"49 Collins Avenue",,05/03/2012
+"New York",Niagara,"Niagara Falls","314 Quain Place",,05/03/2012
+"New York",Chautauqua,Jamestown,"144 Broadhead Avenue",,05/03/2012
+"New York",Oswego,Amboy,"1319  State Route 69",,06/08/2012
+"New York",Oneida,Verona,"3311 Center Street",,06/12/2012
+"New York",Oswego,Pulaski,"3396  Maple Avenue",,06/27/2012
+"New York",Cattaraugus,Ischua,"615  Yankee Hill Road",,07/11/2012
+"New York",Erie,Buffalo,"425 Hinman Avenue",,07/12/2012
+"New York",Cortland,Cortland,"76 Lincoln Avenue, Apt. 3",,07/13/2012
+"New York",Clinton,Plattsburgh,"10 Eleanor Way",,07/17/2012
+"New York",Cortland,Cortland,"76  Lincoln Avenue",,07/20/2012
+"New York",Oneida,Rome,"920  Floyd Avenue",,07/27/2012
+"New York",Cortland,Cortlandville,"4379 State Route 281",,08/10/2012
+"New York",Seneca,"Seneca Falls","3 Porter Street",,08/14/2012
+"New York",Steuben,Caton,"11118 Sagetown Road",,08/20/2012
+"New York",Monroe,Fairport,"4598 Fairport Nine Mile Road",,08/21/2012
+"New York",Madison,Canastota,"200  Kay Circle",,09/08/2012
+"New York",Chemung,Elmira,"1316  Hall Street",,10/01/2012
+"New York","New York",Manhattan,"330 West 45th Street Apt 8",,10/02/2012
+"New York",Chemung,Elmira,Elmira,,10/04/2012
+"New York",Erie,Buffalo,"49  Johnson Park",,10/06/2012
+"New York",Erie,Hamburg,"126  Crownview Terrace",,10/11/2012
+"New York",Oswego,Scriba,"31 Hayfly Road",,10/11/2012
+"New York",Cortland,Freetown,"3143 Mcgraw Marathon Rd.",,10/13/2012
+"New York",Oswego,"Sandy Creek","4124 County Route 22",,10/14/2012
+"New York",Broome,Lisle,"631 Mt. Hunger Road",,10/18/2012
+"New York",Steuben,Woodhull,"5434 Allen Road",,11/02/2012
+"New York",Allegany,Bolivar,"1440 Kansas Hollow Road",,11/21/2012
+"New York",Steuben,Lindley,"615 Lindley Road",,12/02/2012
+"New York",Herkimer,Schuyler,"2296 State Route 5, Apt. 1",,12/02/2012
+"New York",Madison,Sullivan,"7826  Black Creek Road",,12/03/2012
+"New York",Suffolk,"Stony Brook","188 Sycamore Circle",,12/06/2012
+"New York",Clinton,Altona,"4962  State Route 190",,12/09/2012
+"New York",Clinton,Plattsburgh,"6  First Street",,12/10/2012
+"New York",Allegany,Alma,"4823  Byrne Road",,12/11/2012
+"New York",Jefferson,Carthage,"228  North James Street Apt. B",,12/15/2012
+"New York",Steuben,Bradford,"7112  State Route 226",,12/19/2012
+"New York",Chemung,Ashland,"2782  South Broadway  Lot 16",,12/19/2012
+"New York",Clinton,Plattsburgh,"4009  State Route 22",,01/07/2013
+"New York",Steuben,Lindley,"1266  River Road",,01/08/2013
+"New York",Cortland,Cortland,"12  Park Street",,01/11/2013
+"New York",Niagara,Newfane,"6437  Hope Lane",,01/11/2013
+"New York",Cattaraugus,Humphrey,"4520  Five Mile Road",,01/16/2013
+"New York",Oswego,Palermo,"217  Craw Road",,01/26/2013
+"New York",Jefferson,Watertown,"336  W Main Street",,01/29/2013
+"New York",Oswego,Pulaski,"4855  North Jefferson Street Apt 2",,02/05/2013
+"New York",Clinton,"Ausable Chasm","395  Harkness Road",,03/05/2013
+"New York",Oswego,"Sandy Creek","36  Sawmill Road",,03/07/2013
+"New York",Oswego,Hastings,"913  County Route 37",,03/09/2013
+"New York",Clinton,Chazy,"7415  State Route 22",,04/03/2013
+"New York",Niagara,Olcott,"1579  Franklin Street",,04/04/2013
+"New York",Oswego,Hannibal,"1219  County Route 85",,04/04/2013
+"New York",Tioga,Owego,"80  Brainard Road",,04/08/2013
+"New York",Niagara,"Niagara Falls","1936  Falls Street Apt. 3",,04/08/2013
+"New York",Clinton,Altona,"1867  Alder Bend Road",,04/09/2013
+"New York",Oneida,Annsville,"9626  Glenmore Road",,04/12/2013
+"New York",Chautauqua,Jamestown,"181  Barrows Street",,04/17/2013
+"New York",Oswego,Orwell,"50  Whispering Oaks Lane",,04/18/2013
+"New York",Chemung,Elmira,"200  Harmon Street",,04/23/2013
+"New York",Clinton,Peru,"308  Allen Hill Road",,04/25/2013
+"New York",Clinton,Mooers,"131  Bashaw Road",,05/07/2013
+"New York",Cayuga,Auburn,"37  Olympia Avenue Apt. A16",,05/09/2013
+"New York",Niagara,Lockport,"6146  Ruhlmann Road",,05/10/2013
+"New York",Oswego,Oswego,"120  Liberty Street",,05/15/2013
+"New York",Cortland,Cortland,"34  Union Street",,05/22/2013
+"New York",Jefferson,Watertown,"675  Bronson Street",,05/26/2013
+"New York",Chemung,Elmira,"1010  North Main Street",,06/08/2013
+"New York",Chemung,Southport,"12  Fernwood Avenue",,06/10/2013
+"New York",Cortland,Taylor,"3255  Cheningo Solon Pond Road",,06/10/2013
+"New York",Chemung,Southport,"1154  Richard Street",,06/11/2013
+"New York",Oneida,Marcy,"6800  State Route 291",,07/14/2013
+"New York",Broome,Binghamton,"21  Green Meadow Lane",,07/23/2013
+"New York",Allegany,Wellsville,"22  Elm Street",,07/26/2013
+"New York",Madison,Stockbridge,"6222  East Hill",,10/01/2013
+"New York",Saratoga,"Greenfield Center","16  Plank Road Lot 2",,10/06/2013
+"New York","St. Lawrence",Canton,"11  James Road  Box Lot 16",,04/03/2014
+"New York",Oneida,Utica,"1128  Schuyler Street",,04/08/2014
+"New York",Oneida,Rome,"6282  Lamphear",,05/02/2014
+"New York",Cortland,Homer,"3037 East River Road",,05/12/2014
+"New York","St. Lawrence",Gouverneur,"90 West Main Street",,05/29/2014
+"New York",Westchester,Hastings,"91  Hogsback Road",,06/04/2014
+"New York",Cortland,Virgil,"854  Sherman Road",,06/11/2014
+"New York",Tioga,Oswego,"79  Liberty Street",,06/12/2014
+"New York",Cortland,Cortland,"9  Penguin Drive",,07/01/2014
+"New York",Oneida,Camden,"23 West Elm Street",,07/10/2014
+"New York",Oneida,"Sylvan Beach","1524  15th Avenue",,07/16/2014
+"New York","St. Lawrence","Ray Brook","404  Irona Road",,07/18/2014
+"New York",Broome,"Johnson City","0403  Endicott Avenue",,07/25/2014
+"New York",Cortland,Cortland,"15  Crawford Street",,08/01/2014
+"New York",Oswego,Lacona,"5  Demott Street  Box A3",,08/02/2014
+"New York",Herkimer,Watertown,"20710  Shepard Road",,08/02/2014
+"New York",Jefferson,Jefferson,"35033  Eddy Road",,08/04/2014
+"New York",Cortland,Freetown,"2941  Route 41",,08/12/2014
+"New York",Chautauqua,Jamestown,"519  Forest Avenue",,08/12/2014
+"New York",Jefferson,"Glen Park","23193  White Road",,08/12/2014
+"New York",Onondaga,Cicero,"5637  Bear Road",,08/13/2014
+"New York",Cattaraugus,"Little Valley","South Court Street",,08/17/2014
+"New York",Broome,Endicott,"422  Firth Street",,08/20/2014
+"New York",Jefferson,Binghamton,"23  Baxter Street",,08/21/2014
+"New York",Chautauqua,Portland,"5772  Ellicott Road  Box Lot 4",,08/23/2014
+"New York",Broome,Binghamton,"23  Blanchard Avenue",,08/26/2014
+"New York",Oswego,Fulton,"306 West Broadway",,09/02/2014
+"New York",Albany,Wellsville,"90  Howard Street  Box Apt 305",,09/04/2014
+"New York",Oneida,Oneida,"542  Main Street",,09/04/2014
+"New York",Oneida,Almond,"4  Karrdale Road",,09/05/2014
+"New York",Cortland,Cortland,"3  Kingsley Avenue",,09/16/2014
+"New York",Jefferson,Watertown,"236  Breen Avenue",,09/16/2014
+"New York",Oneida,Steuben,"Clen Denning Road",,09/17/2014
+"New York",Rockland,Suffern,"37  Woodland Drive",,09/19/2014
+"New York",Cortland,Cortland,"140  Penguin Park",,09/23/2014
+"New York",Oswego,Pulaski,"24 West Remington",,10/09/2014
+"New York",Chenango,Greene,"87 South Chenango",,10/10/2014
+"New York",Broome,Union,"223  Wilson Avenue",,10/20/2014
+"New York",Cortland,Willet,"1363  St Rt 41",,10/21/2014
+"New York",Jefferson,Jamestown,"115  Wilton",,10/23/2014
+"New York",Franklin,Clayton,"550  Merrick Street",,10/24/2014
+"New York",Herkimer,Binghamton,"2  Shady Maple",,12/09/2014
+"New York",Broome,Binghamton,"33  Evans Street",,12/14/2014
+"New York","St. Lawrence",Norwood,"39 South Main Street",,12/15/2014
+"New York",Essex,Watertown,"843  Superior Street",,12/16/2014
+"New York",Cortland,Cortland,"4003  Conable Avenue",,12/18/2014
+"New York",Herkimer,Watertown,"502  Academy Street",,12/25/2014
+"New York",Oneida,Vienna,"8143  Deeley Road",,12/31/2014
+"New York",Cattaraugus,Amboy,"390  Mellon Road",,01/02/2015
+"New York",Cortland,Homer,"969  Route 90",,01/05/2015
+"New York",Cortland,Homer,"5065  St Rt 11",,01/07/2015
+"New York",Herkimer,Owego,"116 E 11th Street",,01/09/2015
+"New York","St. Lawrence",Norwood,"29  Bernard Avenue",,01/09/2015
+"New York",Cortland,Cortland,"4  South Avenue",,01/14/2015
+"New York",Franklin,Genoa,"661  Indian Field Road",,01/20/2015
+"New York",Oswego,Mexico,"4  Mexico Pt Drive",,02/04/2015
+"New York",Oneida,Utica,"1519  York Street",,03/05/2015
+"New York",Lewis,"Port Leyden","7153 E Main Street",,03/10/2015
+"New York",Chautauqua,Chittenango,"319  Race Street",,04/23/2015
+"New York",Jefferson,Binghamton,"38  Hawley Street",,05/01/2015
+"New York",Madison,Binghamton,"8307  Rt -79",,05/05/2015
+"New York",Oswego,Pulaski,"7137  Main Street",,06/09/2015
+"New York",Oswego,Oswego,"196 E 2nd Street",,06/11/2015
+"New York",Tioga,Barton,"17  Oak Hill Road",,06/18/2015
+"New York",Cattaraugus,Waverly,"525  Clark Street",,06/23/2015
+"New York",Niagara,Rome,"1003  W. Dominic",,07/01/2015
+"New York",Jefferson,Pulaski,"4851  Jefferson",,07/01/2015
+"New York",Chemung,Camden,"75  Main Street",,07/07/2015
+"New York",Schuyler,"Watkins Glen","117  Second Street",,07/07/2015
+"New York",Cortland,Cortland,"79  Central Avenue",,07/07/2015
+"New York","New York",Cortland,"143  Madison Avenue",,07/10/2015
+"New York",Broome,Dewittville,"304  Washburn Drive",,07/11/2015
+"New York",Onondaga,"North Syracuse","13  Bellewood",,07/14/2015
+"New York",Lewis,"New Bremen","8353  Meadow Road",,07/21/2015
+"New York",Herkimer,Binghamton,"15  Mygatt Street",,07/26/2015
+"New York",Broome,Hastings,"284  Hunt Hill",,08/01/2015
+"New York",Jefferson,Lowville,"Shady Avenue",,08/02/2015
+"New York",Jefferson,Watertown,"333  Sterling Street",,08/04/2015
+"New York",Broome,Camden,"9007  Mill Street",,08/04/2015
+"New York",Cortland,Cortland,"133  Clinton",,08/04/2015
+"New York",Jefferson,Watertown,"203  Mechanic Street",,08/08/2015
+"New York",Chemung,Bath,"North Dansville",,08/09/2015
+"New York",Jefferson,Jamestown,"840  East 2nd",,09/08/2015
+"New York",Jefferson,Watertown,"362  Nys Rt 104b",,09/15/2015
+"New York",Chemung,Jamestown,"20  Cowden Place",,09/15/2015
+"New York",Lewis,Endwell,"127  W Wendell",,09/18/2015
+"New York",Franklin,Binghamton,"2  Chapel Place",,09/20/2015
+"New York",Herkimer,Rome,"716  Union Street",,10/02/2015
+"New York",Franklin,Endwell,"2106  Richmond",,10/04/2015
+"New York",Cortland,Watertown,"22904  Swan Road",,10/07/2015
+"New York",Oneida,Pembroke,"2538  Main Road",,10/08/2015
+"New York",Oswego,Richland,"5  Gerdon Drive",,10/08/2015
+"New York",Oneida,Whitesboro,"89  Foster Street",,11/04/2015
+"New York",Dutchess,Fredonia,"8  West Main",,11/11/2015
+"New York","St. Lawrence",Ogdensburg,"511  Elizabeth Street",,11/12/2015
+"New York",Lewis,Greig,"7899  Woodchuck",,11/13/2015
+"New York",Chenango,Greene,"518  Cummings Road",,03/02/2016
+"New York",Steuben,Corning,"3337  Wyncoop Circle",,03/04/2016
+"New York",Broome,Binghamton,"330  Rabbit Path",,03/09/2016

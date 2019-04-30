@@ -1,0 +1,453 @@
+state,county,city,address1,address2,date
+Kansas,Saline,Salina,"1904  Dover Drive",,
+Kansas,Sedgwick,Haysville,"7753 Ida S",,01/01/2004
+Kansas,Barber,Kiowa,"609 Drumm",,01/03/2004
+Kansas,Washington,Greenleaf,"2388 13th Rd",,01/11/2004
+Kansas,Bourbon,"Fort Scott","1420 Oak E",,01/11/2004
+Kansas,Cowley,"Arkansas City","1124 1st N",,01/13/2004
+Kansas,Crawford,Pittsburg,"609 9th E",,01/13/2004
+Kansas,Cherokee,Galena,"7927 Watermelon Se Ln",,01/14/2004
+Kansas,Cherokee,Galena,"220 Winsdor St",,01/14/2004
+Kansas,Kingman,Cheney,"14318 40 Ne St",,01/15/2004
+Kansas,Reno,Hutchinson,"310 5th W Ave",,01/15/2004
+Kansas,Kingman,Cheney,"4968 Tumbleweed Ne Ln",,01/17/2004
+Kansas,Ford,"Dodge City","2005 Mcartor W St",,01/18/2004
+Kansas,Hodgeman,Jetmore,"706 Main Street",,01/21/2004
+Kansas,Finney,"Garden City","1302 Summit D",,01/23/2004
+Kansas,Brown,Hiawatha,"404 1st S St",,01/23/2004
+Kansas,Johnson,Lenexa,"12500 87th W St",,01/24/2004
+Kansas,Crawford,Pittsburg,"1213 8th E",,01/28/2004
+Kansas,Sedgwick,Wichita,"1160 Emporia N 12",,01/28/2004
+Kansas,Reno,Hutchinson,"922 16th E Ave",,01/29/2004
+Kansas,Elk,Moline,"520 Main N",,01/29/2004
+Kansas,Jackson,Delia,"2085 102nd",,02/07/2004
+Kansas,Mcpherson,Moundridge,"2049 Arrowhead Road",,02/09/2004
+Kansas,Reno,Hutchinson,"322 4th E Ave",,02/09/2004
+Kansas,Crawford,Pittsburg,"2601 North Joplin Street N6",,02/10/2004
+Kansas,Cherokee,"Baxter Springs","11238 10th Sw St",,02/11/2004
+Kansas,Crawford,Pittsburg,"907 Taylor N",,02/13/2004
+Kansas,Seward,Liberal,"906 New York N St",,02/13/2004
+Kansas,Crawford,Pittsburg,"412 23rd E",,02/16/2004
+Kansas,Shawnee,Topeka,"3005 10th Se St",,02/17/2004
+Kansas,Crawford,Frontenac,"4091 1/2 Mt. Carmel Rd",,02/17/2004
+Kansas,Reno,Yoder,"3104 Switzer E",,02/19/2004
+Kansas,Pawnee,Larned,"915 Topeka",,02/19/2004
+Kansas,Bourbon,"Fort Scott","115 Caldwell N",,02/20/2004
+Kansas,Allen,Humboldt,"803 Sycamore",,02/20/2004
+Kansas,Labette,Bartlett,"502 Hackberry",,02/23/2004
+Kansas,Reno,Langdon,"118 Front St",,02/24/2004
+Kansas,Sumner,Wellington,"1014 Jefferson S",,02/24/2004
+Kansas,Riley,Leonardville,"303 Erpelding N St",,02/26/2004
+Kansas,Sedgwick,Wichita,"2635 Hydraulic S",,02/26/2004
+Kansas,Sedgwick,Wichita,"218 Athenian N",,02/27/2004
+Kansas,Butler,"El Dorado","701 High S St",,02/28/2004
+Kansas,Franklin,Ottawa,"24 Canterbury Ct C",,03/01/2004
+Kansas,Labette,Edna,"415 Marks",,03/01/2004
+Kansas,Franklin,Ottawa,"826 Cherry S",,03/02/2004
+Kansas,Sumner,Wellington,"1419 B St",,03/05/2004
+Kansas,Reno,Hutchinson,"424 Crescent",,03/11/2004
+Kansas,Labette,Edna,"221 Labette N",,03/13/2004
+Kansas,Gray,Ingalls,"4514 Q Road",,03/15/2004
+Kansas,Reno,Hutchinson,"109 Maple S St",,03/16/2004
+Kansas,Labette,Parsons,"722 15th N St",,03/18/2004
+Kansas,Cherokee,Scammon,"602 1st E St",,03/18/2004
+Kansas,Shawnee,Topeka,"2020 10th Se",,03/22/2004
+Kansas,Cherokee,Scammon,"605 Alley N",,03/23/2004
+Kansas,Riley,Manhattan,"618 Vattier",,03/26/2004
+Kansas,Johnson,"Overland Park","9001 Hadley",,03/28/2004
+Kansas,Cherokee,Galena,"1817 Galena Ave",,03/29/2004
+Kansas,Johnson,Merriam,"9622 55th W St",,03/31/2004
+Kansas,Crawford,Pittsburg,"4023 Parkview Drive",,04/01/2004
+Kansas,Ottawa,Minneapolis,"1061 190th N Rd",,04/01/2004
+Kansas,Labette,Oswego,"202 Vermont",,04/01/2004
+Kansas,Rush,Otis,"505 Diel W",,04/06/2004
+Kansas,Reno,Hutchinson,"230 Bigger E",,04/06/2004
+Kansas,Barton,Claflin,"521 3rd St",,04/07/2004
+Kansas,Douglas,Lawrence,"1900 31 St W St V-16",,04/08/2004
+Kansas,Shawnee,Topeka,"2631(a) Indiana Se",,04/08/2004
+Kansas,Shawnee,Berryton,"10236 Ratner Se Rd",,04/08/2004
+Kansas,Thomas,Colby,"2500 County M Rd",,04/08/2004
+Kansas,Montgomery,Coffeyville,"106 Warwick",,04/08/2004
+Kansas,Sedgwick,Wichita,"3313 Palisade S",,04/12/2004
+Kansas,Neosho,Chanute,"21418 Harper Rd",,04/13/2004
+Kansas,Neosho,Thayer,"321 Wilson",,04/15/2004
+Kansas,Neosho,Galesburg,"12730 70th Rd",,04/15/2004
+Kansas,Cheyenne,"Saint Francis","321 First W St",,04/16/2004
+Kansas,Finney,Holcomb,"409 Laura Lane",,04/16/2004
+Kansas,Sedgwick,Wichita,"4459 Broadway S 22",,04/19/2004
+Kansas,Morris,"Council Grove","1129 Vista Del Lago",,04/19/2004
+Kansas,Jackson,Mayetta,"13794 182nd Rd",,04/20/2004
+Kansas,Lyon,Emporia,"16 Randolph St",,04/21/2004
+Kansas,Bourbon,"Fort Scott","423 1/2 Crawford S",,04/22/2004
+Kansas,Shawnee,Topeka,"2417 Edgewater Sw Ter",,04/23/2004
+Kansas,Cherokee,"Baxter Springs","11499 10th Se St",,05/01/2004
+Kansas,Wilson,Fredonia,"826 8th N St",,05/06/2004
+Kansas,Bourbon,"Fort Scott","212 Caldwell N St",,05/07/2004
+Kansas,Rice,Geneseo,"500 Main",,05/09/2004
+Kansas,Rice,Lyons,"901 Taylor W",,05/09/2004
+Kansas,Cherokee,Galena,"1914 Joplin St",,05/09/2004
+Kansas,Sedgwick,Wichita,"6101 Seneca N",,05/13/2004
+Kansas,Allen,Iola,"602 Madison E",,05/14/2004
+Kansas,Reno,Hutchinson,"922 Main N St",,05/18/2004
+Kansas,Bourbon,"Fort Scott","1443 215th St",,05/18/2004
+Kansas,Cherokee,Weir,"201 Forrest E",,05/25/2004
+Kansas,Reno,Hutchinson,"1717 24th E D",,05/30/2004
+Kansas,Cherokee,Weir,"409 Grant S",,06/01/2004
+Kansas,Bourbon,"Fort Scott","1705 Oak E",,06/08/2004
+Kansas,Bourbon,"Fort Scott","604 Judson S",,06/10/2004
+Kansas,Pottawatomie,Belvue,"114 Jeanette Street",,06/10/2004
+Kansas,Reno,Hutchinson,"1420 Lorraine N",,06/12/2004
+Kansas,Bourbon,"Fort Scott","716 Wilson S",,06/15/2004
+Kansas,Cowley,"Arkansas City","23761 61st Rd",,06/18/2004
+Kansas,Cherokee,Galena,"5069 112th Se Dr",,06/23/2004
+Kansas,Ford,"Dodge City","911 Virginia Dr",,06/23/2004
+Kansas,Bourbon,"Fort Scott","1491 212 Ter",,06/24/2004
+Kansas,Hodgeman,Jetmore,"503 Adkins St",,06/27/2004
+Kansas,Barton,Ellinwood,"1416 50 Se Rd",,07/12/2004
+Kansas,Bourbon,"Fort Scott","203 Scott S",,07/16/2004
+Kansas,Montgomery,Independence,"317 10th N St",,07/16/2004
+Kansas,Bourbon,"Fort Scott","1415 Main S",,07/17/2004
+Kansas,Ford,"Dodge City","1601 Ave A",,07/21/2004
+Kansas,Clay,"Clay Center","710 7th St",,07/27/2004
+Kansas,Clay,"Clay Center","916 4th",,07/27/2004
+Kansas,Neosho,Thayer,"222 Greenwood",,07/28/2004
+Kansas,Crawford,Franklin,"107 10th W St",,07/29/2004
+Kansas,Sedgwick,Wichita,"1049 South Waco Street",,07/31/2004
+Kansas,Crawford,Frontenac,"109 Wright S",,08/14/2004
+Kansas,Ford,"Dodge City","104 Juneau",,08/14/2004
+Kansas,Johnson,Gardner,"130 Madison E 7",,08/14/2004
+Kansas,Reno,Hutchinson,"703 A E Ave",,08/16/2004
+Kansas,Riley,Leonardville,"309 Barton Road",,08/23/2004
+Kansas,Saline,Gypsum,"417 2nd E St",,08/25/2004
+Kansas,Scott,"Scott City","1004 5th W",,08/25/2004
+Kansas,Saline,Gypsum,"321 5th W St",,08/25/2004
+Kansas,Labette,Oswego,"819 5th",,08/27/2004
+Kansas,Douglas,Lawrence,"2531 Red Bud Ln",,08/30/2004
+Kansas,Lyon,Emporia,"1302 Goura Pl",,08/31/2004
+Kansas,Atchison,Lancaster,"6148 Johnson Rd",,09/07/2004
+Kansas,Montgomery,Coffeyville,"1316 Stark",,09/08/2004
+Kansas,Harvey,Sedgwick,"400 Waterman W 420",,09/12/2004
+Kansas,Finney,"Garden City","3003 Jones W Ave 9",,09/16/2004
+Kansas,Cowley,"Arkansas City","512 Oak W St",,09/17/2004
+Kansas,Shawnee,"Silver Lake","9944 46th Nw St",,09/23/2004
+Kansas,Reno,Sylvia,"36616 4th W St",,09/23/2004
+Kansas,Johnson,Lenexa,"8120 Swarner",,09/24/2004
+Kansas,Shawnee,Topeka,"4648 California Se",,09/25/2004
+Kansas,Barton,"Great Bend","5803 Aspen Drive",,09/26/2004
+Kansas,Finney,"Garden City","2601 C St",,10/09/2004
+Kansas,Johnson,Shawnee,"12408 52 W Ter",,10/31/2004
+Kansas,Barton,"Great Bend","705 10 E St 15",,11/05/2004
+Kansas,Cowley,"Arkansas City","1014 First N St",,11/09/2004
+Kansas,Ellis,Hays,"2400 7th E St",,11/19/2004
+Kansas,Saline,Salina,"156 Florida",,11/22/2004
+Kansas,Cherokee,Columbus,"7366 Beaver Se Dr",,12/07/2004
+Kansas,Sumner,Wellington,"624 Jefferson S",,12/09/2004
+Kansas,Pawnee,Larned,"511 Main N 3",,12/10/2004
+Kansas,Wilson,Fredonia,"321 Jefferson W St",,12/19/2004
+Kansas,Crawford,Pittsburg,"2101 Timberlane",,12/20/2004
+Kansas,Reno,Hutchinson,"1400 6th E Ave",,12/20/2004
+Kansas,Saline,Gypsum,"308 King St",,12/21/2004
+Kansas,Mcpherson,Mcpherson,"570 Pioneer Rd",,12/22/2004
+Kansas,Johnson,Olathe,"16518 132rd W",,01/08/2005
+Kansas,Cowley,"Arkansas City","716 South 1st Street",,01/08/2005
+Kansas,Whitley,Churubusco,"501 Main S St",,01/10/2005
+Kansas,Crawford,Pittsburg,"1502 Broadway N St",,01/12/2005
+Kansas,Miami,Louisburg,"401 1st S",,01/13/2005
+Kansas,Shawnee,Topeka,"3617 7th Se St",,01/13/2005
+Kansas,Ford,"Dodge City","1111 1/2 8th",,01/14/2005
+Kansas,Labette,Parsons,"529 32nd S",,01/17/2005
+Kansas,Barton,"Great Bend","227 Fruit St",,01/19/2005
+Kansas,Greenwood,Madison,"2612 310 St",,01/19/2005
+Kansas,Riley,Manhattan,"640 Moores",,01/21/2005
+Kansas,Riley,Manhattan,"811 El Paso St",,01/21/2005
+Kansas,Wyandotte,"Kansas City","3157 49 S Ter",,01/23/2005
+Kansas,Pawnee,Larned,"711 1st Street E",,01/24/2005
+Kansas,Johnson,Shawnee,"7612 King W E",,01/26/2005
+Kansas,Butler,"Rose Hill","13463 160 Sw St",,01/27/2005
+Kansas,Barton,"Great Bend","2812 Gano",,01/29/2005
+Kansas,Sherman,Goodland,"216 Hwy 24 E Hwy G-10",,01/30/2005
+Kansas,Sedgwick,Wichita,"935 Hiram S St",,01/31/2005
+Kansas,Neosho,Thayer,"222 Greenwood Street",,01/31/2005
+Kansas,Geary,Milford,"304 Laramie",,01/31/2005
+Kansas,Labette,Edna,"1030 Lyon Rd",,02/01/2005
+Kansas,Saline,Salina,"540 Claflin W Ave",,02/01/2005
+Kansas,Jackson,Hoyt,"16302 134th Rd",,02/03/2005
+Kansas,Reno,Hutchinson,"103 Star N St",,02/04/2005
+Kansas,Ford,"Dodge City","203 Juneau",,02/09/2005
+Kansas,Montgomery,Coffeyville,"2207 4th W St",,02/10/2005
+Kansas,Wyandotte,"Bonner Springs","505 Lakewood",,02/11/2005
+Kansas,Sedgwick,Wichita,"1446 Hydraulic S Ave",,02/14/2005
+Kansas,Finney,"Garden City","2160 Jennie Barker N Rd",,02/14/2005
+Kansas,Johnson,"Overland Park","9432 Hardy",,02/15/2005
+Kansas,Cheyenne,,"Rr 2 44",,02/22/2005
+Kansas,Sedgwick,Haysville,"140 Ballard",,02/24/2005
+Kansas,Barton,"Great Bend","3623 2nd St",,02/25/2005
+Kansas,Pawnee,Larned,"201 Johnson St",,02/27/2005
+Kansas,Greenwood,Eureka,"411 Walnut N St 1",,03/01/2005
+Kansas,Labette,Bartlett,"1711 5000 Rd",,03/04/2005
+Kansas,Reno,Hutchinson,"3 Sunset Dr",,03/07/2005
+Kansas,Coffey,Gridley,"318 Reed",,03/07/2005
+Kansas,Saline,Salina,"412 Prescott W Ave",,03/08/2005
+Kansas,Saline,Salina,"607 Fourth S",,03/10/2005
+Kansas,Reno,Hutchinson,"832 4th E Ave",,03/11/2005
+Kansas,Woodson,Toronto,"Route 1 133m",,03/18/2005
+Kansas,Crawford,Pittsburg,"412 23rd E St",,03/21/2005
+Kansas,Mcpherson,Galva,"2425 Chisholm Rd",,03/21/2005
+Kansas,Pratt,Byers,"100486 70 Nw Ave",,03/29/2005
+Kansas,Montgomery,Independence,"Co. Rd 4200",,03/29/2005
+Kansas,Barton,"Great Bend","2529 9th St",,04/01/2005
+Kansas,Reno,Hutchinson,"714 A E Ave",,04/02/2005
+Kansas,Neosho,Erie,"114 Railroad E St",,04/02/2005
+Kansas,Geary,Milford,"12412 Hickock",,04/07/2005
+Kansas,Sedgwick,Wichita,"1207 Mccormack W Ave",,04/09/2005
+Kansas,Seward,Liberal,"2141 Sierra Dr",,04/12/2005
+Kansas,Cloud,Jamestown,"615 Elm",,04/16/2005
+Kansas,Reno,Hutchinson,"615 16th W St",,04/25/2005
+Kansas,Miami,Osawatomie,"301 Kelly",,04/25/2005
+Kansas,Cherokee,Galena,"2715 Wood S St",,04/27/2005
+Kansas,Reno,Hutchinson,"629 Hendricks N St",,05/06/2005
+Kansas,Leavenworth,Leavenworth,"602 Spruce St",,05/08/2005
+Kansas,Cowley,"Arkansas City","215 1st S",,05/14/2005
+Kansas,Geary,"Junction City","10306 Cutoff Rd",,05/18/2005
+Kansas,Cherokee,Galena,"315 10th W",,05/26/2005
+Kansas,Crawford,Pittsburg,"1913 Jfk St",,05/27/2005
+Kansas,Crawford,Pittsburg,"2101 Timberlake Rd",,06/02/2005
+Kansas,Labette,"Mound Valley","15019 Elk Rd",,06/06/2005
+Kansas,Sedgwick,Wichita,"429 Seneca N St",,06/08/2005
+Kansas,Sedgwick,Wichita,"212 Greenwood S 3",,07/01/2005
+Kansas,Cherokee,Weir,"402 Pine E St",,07/01/2005
+Kansas,Sherman,Goodland,"715 Center St",,07/01/2005
+Kansas,Johnson,"Prairie Village","7526 Norwood",,07/07/2005
+Kansas,Johnson,Olathe,"1369 Ridge N Pkwy",,07/09/2005
+Kansas,Nemaha,Oneida,"505 Monroe",,07/20/2005
+Kansas,Sedgwick,Wichita,"11700 Waterman E 135",,08/11/2005
+Kansas,Pratt,Pratt,"324 Third W St",,08/11/2005
+Kansas,Leavenworth,Tonganoxie,"22212 219th Street",,08/16/2005
+Kansas,Johnson,Shawnee,"11137 76th W Ter 34",,08/17/2005
+Kansas,Osage,Burlingame,"13567 Indian Hills S Rd",,09/04/2005
+Kansas,Barber,"Medicine Lodge","208 1st E St",,09/16/2005
+Kansas,Reno,"South Hutchinson","12 Warren Dr",,09/16/2005
+Kansas,Reno,Hutchinson,"10307 4th E Ave C",,10/18/2005
+Kansas,Montgomery,Liberty,"7172 Ky & Hwy 40 N",,10/20/2005
+Kansas,Logan,Oakley,"700 5th W St",,10/27/2005
+Kansas,Morris,Dunlap,"2087 150 S Rd",,11/23/2005
+Kansas,Harvey,Hesston,"448 Main S St B-1",,11/30/2005
+Kansas,Mcpherson,Inman,"364 Chisholm Rd",,12/12/2005
+Kansas,Cowley,"Arkansas City","904 8th N St",,12/21/2005
+Kansas,Reno,Hutchinson,"1707 Blanchard E St 21",,01/11/2006
+Kansas,Barton,"Great Bend","1336 10 Nw Rd",,01/13/2006
+Kansas,Cherokee,Scammon,"711 3rd E",,01/17/2006
+Kansas,Shawnee,Topeka,"1009 Monroe Ne Ave",,01/30/2006
+Kansas,Chase,"Matfield Green","101 Evans Street",,01/30/2006
+Kansas,Barton,"Great Bend","1915 Hubbard",,02/18/2006
+Kansas,Haskell,Sublette,"209 Wooten",,02/26/2006
+Kansas,Russell,Gorham,"136 8th W St",,02/28/2006
+Kansas,Saline,Salina,"117 Front S St",,02/28/2006
+Kansas,Geary,"Junction City","122 13th E St",,03/10/2006
+Kansas,Miami,Osawatomie,"130 Walnut St",,03/13/2006
+Kansas,Saline,Salina,"607 Fourth S St",,03/14/2006
+Kansas,Miami,Osawatomie,"35980 Crescent Hill Rd",,03/28/2006
+Kansas,Cloud,Clyde,"2923 Plum",,04/05/2006
+Kansas,Cowley,"Arkansas City","1413 North 1st Street",,04/13/2006
+Kansas,Shawnee,Topeka,"1216 Highway 24 Nw 60",,04/15/2006
+Kansas,Cherokee,"Baxter Springs","5214 Southwest 166 Highway",,04/18/2006
+Kansas,Crawford,Pittsburg,"119 Devonna",,04/23/2006
+Kansas,Chase,"Strong City","410 South Cottonwood",,05/10/2006
+Kansas,Saline,Salina,"917 Pontiac Ave",,05/12/2006
+Kansas,Barton,"Great Bend","1302 Truman",,05/18/2006
+Kansas,Rawlins,Atwood,"305 North 6th Street",,05/26/2006
+Kansas,Labette,Parsons,"1810 Oak",,05/29/2006
+Kansas,Sedgwick,Wichita,"1130 South Ida",,06/01/2006
+Kansas,Ottawa,Tescott,"44 40th Road",,06/03/2006
+Kansas,Rice,Lyons,"619 West N Avenue",,07/18/2006
+Kansas,Montgomery,Independence,"404 South 10th",,07/23/2006
+Kansas,Marion,Marion,"1919 Zebulon",,07/26/2006
+Kansas,Reno,Hutchinson,"219 Reformatory Street",,08/02/2006
+Kansas,Cherokee,"Baxter Springs","429 Cherokee Avenue",,08/12/2006
+Kansas,Pratt,Pratt,"807 West 6th Street",,08/14/2006
+Kansas,Jackson,"Kansas City","137 North Hardesty Avenue",,08/16/2006
+Kansas,Jackson,Whiting,"307 Pratt",,08/24/2006
+Kansas,Reno,Nickerson,"7910 Roy L. Smith Road",,09/22/2006
+Kansas,Wilson,Neodesha,"2003 Mead Road",,09/24/2006
+Kansas,Crawford,Franklin,"301 South Church Street",,12/22/2006
+Kansas,Cherokee,Columbus,"511 East Buckeye Street",,12/23/2006
+Kansas,Reno,Hutchinson,"23 East F Avenue",,12/26/2006
+Kansas,Reno,Hutchinson,"204 Hoagland Street",,01/15/2007
+Kansas,Barton,"Great Bend","94 Southwest 10 Avenue",,01/17/2007
+Kansas,Kingman,Murdock,"9270 Southeast 60th Street",,01/26/2007
+Kansas,Douglas,Lawrence,"2300 West 26th Street",,02/17/2007
+Kansas,Greenwood,Eureka,"1222 150th Road",,02/22/2007
+Kansas,Greenwood,Eureka,"1224 150th Road",,02/22/2007
+Kansas,Reno,Hutchinson,"3 North Kent Road",,03/02/2007
+Kansas,Sedgwick,Wichita,"2107 South Water",,03/21/2007
+Kansas,Cherokee,Columbus,"5495 Southwest 50th Street",,03/25/2007
+Kansas,Johnson,"De Soto","34055 West 86 Trail",,04/19/2007
+Kansas,Coffey,Waverly,"409 East Kelly Street",,04/30/2007
+Kansas,Allen,Iola,"1258 1000",,05/15/2007
+Kansas,Cherokee,Columbus,"1583 Southeast 60th Street",,06/01/2007
+Kansas,Rush,"La Crosse","606 East 6th Street",,06/07/2007
+Kansas,Pawnee,Larned,"105 State Street",,06/11/2007
+Kansas,Jackson,Holton,"704 Iowa",,06/13/2007
+Kansas,Saline,Gypsum,"6620 South Solomon Road",,08/13/2007
+Kansas,Crawford,Pittsburg,"609 West Martin Street",,09/07/2007
+Kansas,Labette,Parsons,"315 South 23rd",,10/03/2007
+Kansas,Reno,Hutchinson,"124 East 10th Avenue",,10/12/2007
+Kansas,Cherokee,Weir,"5285 Northeast Highway 103",,10/20/2007
+Kansas,Shawnee,Topeka,"715 Southeast Gilmore Avenue",,11/19/2007
+Kansas,Crawford,Pittsburg,"1411 North Michigan Street",,11/20/2007
+Kansas,Crawford,Pittsburg,"18 4th Street Circle",,12/07/2007
+Kansas,Barton,"Great Bend","2303 8th Street",,12/08/2007
+Kansas,Republic,Belleville,"721 190th Road",,12/21/2007
+Kansas,Pawnee,Larned,"823 Johnson Street",,01/02/2008
+Kansas,Crawford,Pittsburg,"612 East 10th Street",,01/17/2008
+Kansas,Crawford,Pittsburg,"1409 North Grand Street",,01/24/2008
+Kansas,Comanche,Protection,"107 West Main Street",,01/30/2008
+Kansas,Rush,"La Crosse","623 East 6th Street",,02/14/2008
+Kansas,Cherokee,Galena,"9834 Star Road",,02/21/2008
+Kansas,Cherokee,Weir,"5200 Northeast Coal Valley Road",,02/25/2008
+Kansas,Cherokee,Galena,"108 West Empire Street",,02/27/2008
+Kansas,Cherokee,,"5285 Northeast 103 Highway",,02/28/2008
+Kansas,Gray,Cimarron,"803 East C Avenue",,03/12/2008
+Kansas,Stafford,Seward,"719 Main",,03/21/2008
+Kansas,Cherokee,Galena,"5069 Southeast 112th Terrace",,03/31/2008
+Kansas,Saline,Salina,"1121 West State Street",,04/11/2008
+Kansas,Cherokee,Galena,"315 East 9 Street",,04/16/2008
+Kansas,Crawford,Pittsburg,"1804 North Smelter Street",,04/30/2008
+Kansas,Cherokee,Galena,"1628 Roosevelt Drive",,05/13/2008
+Kansas,Pawnee,Rozel,"202 North Smith Street",,05/30/2008
+Kansas,Reno,"South Hutchinson","318 East E Avenue",,06/01/2008
+Kansas,Crawford,Weir,"713 North Dreher Street",,06/04/2008
+Kansas,Cherokee,Galena,"8217 Southeast Grape Lane",,06/09/2008
+Kansas,Ford,"Dodge City","1002 A Avenue A",,06/19/2008
+Kansas,Crawford,Arma,"103 West View Street",,06/25/2008
+Kansas,Reno,Hutchinson,"1604 North Cochran",,06/25/2008
+Kansas,Cherokee,Weir,"205 East Pine Street",,06/27/2008
+Kansas,Labette,Parsons,"2701 Chess Avenue",,07/17/2008
+Kansas,Bourbon,"Fort Scott","736 South Little Street",,08/01/2008
+Kansas,Mitchell,Beloit,"210 West 5th Street",,08/22/2008
+Kansas,Douglas,Lawrence,"2530 Redbud Ln 32",,08/22/2008
+Kansas,Reno,Hutchinson,"805 East A Avenue",,08/24/2008
+Kansas,Scott,"Scott City","411 West 7th Street",,09/10/2008
+Kansas,Reno,Hutchinson,"501 Green Garden Drive",,09/13/2008
+Kansas,Sedgwick,Wichita,"2651 South Cheyenne",,09/14/2008
+Kansas,Cherokee,Galena,"10324 Southeast 99th Drive",,09/19/2008
+Kansas,Cherokee,Columbus,"5214 Southeast 166 Avenue",,09/24/2008
+Kansas,Cherokee,"Baxter Springs","871 Southeast Star Road",,09/24/2008
+Kansas,Cherokee,Columbus,"425 North Railroad Avenue",,09/24/2008
+Kansas,Cherokee,Treece,"302 Lucky Avenue",,09/25/2008
+Kansas,Wilson,Neodesha,"1603 North 1st Street",,10/03/2008
+Kansas,Reno,Hutchinson,"5300 East 4th Avenue",,10/25/2008
+Kansas,Reno,Hutchinson,"7204 Backacres Road",,10/25/2008
+Kansas,Reno,Hutchinson,"8100 West 30th Avenue",,04/02/2009
+Kansas,Cowley,"Arkansas City","1601 West Kansas Avenue",,04/08/2009
+Kansas,Cowley,"Arkansas City","200 Bl South 8th Street",,04/08/2009
+Kansas,Labette,Oswego,"1515 West 6 Street",,04/09/2009
+Kansas,Reno,Hutchinson,"700 South Peace Road",,04/15/2009
+Kansas,Anderson,Kincaid,"20070 Southeast Texas Road",,04/15/2009
+Kansas,Reno,Hutchinson,"100 West 13 Avenue",,04/16/2009
+Kansas,Reno,Hutchinson,"200 West 2nd Avenue",,04/16/2009
+Kansas,Atchison,Cummings,"2438 Osborne Road",,04/30/2009
+Kansas,Neosho,Chanute,"16th Santa Fe Streets",,05/15/2009
+Kansas,Stafford,,"631 Northeast 140 Avenue",,05/21/2009
+Kansas,Stafford,"Saint John","624 Northeast 10 Avenue",,05/28/2009
+Kansas,Ford,"Dodge City","909 5th Avenue",,05/29/2009
+Kansas,Ellsworth,Ellsworth,"1402 Foster Road",,05/30/2009
+Kansas,Sumner,"Geuda Springs","1754 South 200 Street",,06/18/2009
+Kansas,Jefferson,"Lakeside Village","10169 Delaware Park",,06/21/2009
+Kansas,Cherokee,Galena,"702 Main",,06/29/2009
+Kansas,Cherokee,"Baxter Springs","10430 Southeast 90",,06/29/2009
+Kansas,Ottawa,Bennington,"456 North 150 Road",,06/30/2009
+Kansas,Saline,Salina,"1301 West Diamond Drive",,01/05/2010
+Kansas,Saline,Salina,"311 East Claflin Avenue",,01/05/2010
+Kansas,Harvey,Sedgwick,"202 West 8t",,01/13/2010
+Kansas,Cherokee,Scammon,"2037 Northwest Chickadee Lane",,01/26/2010
+Kansas,Shawnee,"Silver Lake","2320 Northwest Docking Road",,02/03/2010
+Kansas,Gray,Copeland,"205  Scott Street",,02/05/2010
+Kansas,Sheridan,Hoxie,"1532  Queen Street",,02/11/2010
+Kansas,Neosho,Erie,"110  Trego",,02/17/2010
+Kansas,Cheyenne,"Saint Francis","408 South College",,02/23/2010
+Kansas,Saline,Salina,"2100  Markley Road",,03/03/2010
+Kansas,Crawford,Pittsburg,"1119 South Broadway Street",,03/05/2010
+Kansas,Neosho,Chanute,"190 North Greenwood",,03/05/2010
+Kansas,Neosho,Chanute,"620 West Main Street",,03/10/2010
+Kansas,Cherokee,Weir,"5285 Northeast Highway 103",,03/11/2010
+Kansas,Neosho,Walnut,"170 Southwest York",,03/16/2010
+Kansas,Neosho,Chanute,".5 South Irving Street",,03/23/2010
+Kansas,Neosho,Mccune,"24980  10th Street",,03/26/2010
+Kansas,Neosho,Galesburg,"60th South Irving Street",,03/31/2010
+Kansas,Sumner,Wellington,"1415  Michigan Street",,04/12/2010
+Kansas,Labette,Parsons,"1115 North Central Avenue",,04/12/2010
+Kansas,Douglas,Eudora,"909  Oak Street",,04/21/2010
+Kansas,Cherokee,Galena,"595  Schermerhorn Road",,04/23/2010
+Kansas,Crawford,Mulberry,"989 East 640th Avenue",,04/24/2010
+Kansas,Montgomery,Coffeyville,"3736  County Road 1675  A",,04/25/2010
+Kansas,Neosho,"Saint Paul","809 North Main Street",,05/06/2010
+Kansas,Labette,Chetopa,"309 North 3rd Street",,05/12/2010
+Kansas,Cherokee,Galena,"2725 South Wood Street",,05/17/2010
+Kansas,Barton,"Great Bend","8801  6th Street",,05/19/2010
+Kansas,Montgomery,Cherryvale,"889 South Liberty Street",,05/21/2010
+Kansas,Neosho,Mccune,"24980  10th Road",,05/25/2010
+Kansas,Labette,Parsons,"1716  Kennedy Avenue",,05/27/2010
+Kansas,Labette,Parsons,"3005  Broadway Avenue",,06/01/2010
+Kansas,Reno,Partridge,"5307 South Riverton Road",,06/10/2010
+Kansas,Neosho,Erie,"318 North Webster Street",,06/17/2010
+Kansas,Labette,Parsons,"1300 North 26th Street",,06/26/2010
+Kansas,Crawford,Pittsburg,"943 South 190th Street",,07/27/2010
+Kansas,Crawford,Pittsburg,"111 East 22nd Street",,07/30/2010
+Kansas,Cherokee,Columbus,"606 South Washington Street",,08/03/2010
+Kansas,Crawford,Pittsburg,"415 South Broadway Street 21",,12/17/2010
+Kansas,Pawnee,Larned,"1728  110th Avenue",,12/21/2010
+Kansas,Crawford,Pittsburg,"503 South 200th Street",,12/22/2010
+Kansas,Labette,Parsons,"1626  Gabriel Avenue",,12/23/2010
+Kansas,Montgomery,Coffeyville,"206 West 2nd Street",,01/18/2011
+Kansas,Montgomery,Coffeyville,"1413  1st",,02/15/2011
+Kansas,Labette,Oswego,"301  2nd Street",,04/01/2011
+Kansas,Lyon,Emporia,"637  Woodland",,05/04/2011
+Kansas,Crawford,Pittsburg,"1603 North Smelter",,07/11/2011
+Kansas,Cherokee,Scammon,"201 North Main",,07/25/2011
+Kansas,Montgomery,Tyro,"303  First Street",,07/28/2011
+Kansas,Cowley,"Arkansas City","1116 North 1st Street",,08/11/2011
+Kansas,Montgomery,Independence,"1039 North 13th Street",,08/11/2011
+Kansas,Montgomery,Coffeyville,"303 West 15th Street",,08/17/2011
+Kansas,Johnson,Leawood,"13700  Sagamore Street 12",,08/24/2011
+Kansas,Pottawatomie,"Saint Marys","1225  Pawnee",,08/25/2011
+Kansas,Montgomery,Independence,"2521 South Brookside Drive",,12/14/2011
+Kansas,Montgomery,Dearing,"208  Hill Street",,02/10/2012
+Kansas,Cherokee,Galena,"1215  Baker",,02/23/2012
+Kansas,Bourbon,"Fort Scott","1418  Oak",,06/16/2012
+Kansas,Smith,Lebanon,"106  Chestnut Street",,06/19/2012
+Kansas,Montgomery,Coffeyville,"505  Willow",,06/25/2012
+Kansas,Reno,Hutchinson,"711 North Severance Street",,07/18/2012
+Kansas,Reno,Hutchinson,"716 West A Avenue",,07/20/2012
+Kansas,Cherokee,Galena,"719  Euclid Avenue",,08/10/2012
+Kansas,Labette,Parsons,"1620  Gabriel",,10/03/2012
+Kansas,Crawford,Pittsburg,"415 South Broadway Street",,10/17/2012
+Kansas,Gray,Ingalls,"204 West 1st",,10/31/2012
+Kansas,Labette,Oswego,"615  Iowa",,01/15/2013
+Kansas,Crawford,Pittsburg,"604 North Grand Street",,02/05/2013
+Kansas,Johnson,Olathe,"11675  Strang Line Road",,06/07/2013
+Kansas,Cherokee,"Baxter Springs","1041  Cleveland",,07/01/2013
+Kansas,Lyon,Emporia,"1101  Union",,08/13/2013
+Kansas,Sedgwick,Colwich,"211  Colorado",,09/24/2013
+Kansas,Johnson,Shawnee,"6323 South Hallet Street",,10/15/2013
+Kansas,Montgomery,Coffeyville,"2420  County Road 5400",,11/01/2013
+Kansas,Ellis,Hays,"700 East 6th Street 118",,12/26/2013
+Kansas,Crawford,Pittsburg,"117 North Broadway",,03/09/2014
+Kansas,Saline,Salina,"328 South 10th Street",,10/10/2014
+Kansas,Montgomery,Independence,"1017 East Walnut Street",,10/15/2014
+Kansas,Montgomery,Independence,"716 North 16",,10/19/2014
+Kansas,Crawford,Frontenac,"4091 S Mt Carmel",,02/19/2015
+Kansas,Sedgwick,Bentley,"207  York Street",,03/08/2015
+Kansas,Ellsworth,Ellsworth,"1402  Prospect Street",,03/19/2015
+Kansas,Sedgwick,Wichita,"2525 S Laura",,05/12/2015
+Kansas,Cowley,Winfield,"16126  151st Road",,05/14/2015
+Kansas,Johnson,Olathe,"501 S Sunset Drive",,06/19/2015
+Kansas,Rush,"La Crosse","902  Hargrove",,08/19/2015
+Kansas,Labette,Chetopa,"631 N 10th Street",,09/12/2015
+Kansas,Comanche,Coldwater,"615 W 1st Street",,09/17/2015
+Kansas,Crawford,Pittsburg,"414 N Broadway Street",,09/18/2015
+Kansas,Wichita,Leoti,"302 W A Street",,01/02/2016
+Kansas,Crawford,Mulberry,"613 S Fulton",,01/04/2016
+Kansas,Neosho,Chanute,"1220 W Mulberry St",,10/11/2016
+Kansas,Neosho,Chanute,"702 N Highland",,12/23/2017
+Kansas,Sedgwick,Wichita,"1349 Summitlawn Street",,02/06/2019

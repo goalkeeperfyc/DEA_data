@@ -1,0 +1,925 @@
+state,county,city,address1,address2,date
+California,Stanislaus,Ceres,"4837 Faith Home Rd 119",,01/01/2004
+California,"Los Angeles","Redondo Beach","208 B Ave",,01/04/2004
+California,Stanislaus,Oakdale,"143 N 6th St",,01/05/2004
+California,"San Luis Obispo",Atascadero,"1400 San Ramon",,01/05/2004
+California,"Los Angeles","Los Angeles","2742 Lanfranco St 7",,01/07/2004
+California,"San Diego",Boulevard,"2605 Paseo Alta Ct",,01/07/2004
+California,Sutter,"Yuba City","2898 Mckenly Rd",,01/11/2004
+California,"Los Angeles",Covina,"444 Citrus N Ave",,01/13/2004
+California,Yolo,"West Sacramento","1155 Linden Rd",,01/13/2004
+California,"Los Angeles","Santa Fe Springs","11462 Telegraph Rd",,01/14/2004
+California,Fresno,Reedley,"22134 E Hogan Ave",,01/15/2004
+California,"San Bernardino",Fontana,"14430 Santa Ana",,01/15/2004
+California,"Santa Clara","San Jose","3570 Columbine Dr",,01/15/2004
+California,Fresno,Reedley,"22134 E Hogan Ave",,01/15/2004
+California,"San Diego","San Ysidro","905 Hwy Caliente Rd",,01/16/2004
+California,Stanislaus,Modesto,"3356 Maze W Blvd",,01/17/2004
+California,Riverside,"Desert Hot Springs","66366 6th St",,01/20/2004
+California,"San Joaquin",Stockton,"7790 N Ashley Ln",,01/20/2004
+California,Stanislaus,Hickman,"948 Hickman Rd",,01/20/2004
+California,"San Bernardino",Ontario,"844 Wysteria E Ct",,01/21/2004
+California,"Los Angeles",Littlerock,"8632 Avenue U E",,01/21/2004
+California,Kern,Shafter,"18478 S Shafter Ave",,01/23/2004
+California,Kern,Shafter,"18478 S Shafter Ave",,01/23/2004
+California,Stanislaus,Modesto,"1520 Prospect Ln",,01/24/2004
+California,"Los Angeles","Long Beach","2520 Pacific Coast E Hwy 221",,01/27/2004
+California,Lake,Lakeport,"525 Esplanade St",,01/27/2004
+California,"San Bernardino",Redlands,"1034 Alta St",,01/28/2004
+California,Riverside,Riverside,"344 N State 148",,01/28/2004
+California,Imperial,Holtville,"819 1/2 Fern St",,01/28/2004
+California,Imperial,Holtville,"819 1/2 Fern St",,01/28/2004
+California,Tulare,Woodville,"16477 Hudson Ave",,01/29/2004
+California,"San Bernardino",Victorville,"16717 C St",,01/30/2004
+California,"San Diego","San Diego","875 Hotel S Cir",,01/30/2004
+California,"San Diego",Santee,"8593 Magnolia Ave",,01/30/2004
+California,Orange,"Laguna Beach","985 Pacific Coast N Hwy",,02/01/2004
+California,Shasta,Redding,"1420 Arizona Street",,02/02/2004
+California,Sacramento,Sacramento,"4405 23rd St",,02/04/2004
+California,Kern,Delano,"1305 20th Ave",,02/04/2004
+California,Butte,Oroville,"1940 Helman St",,02/04/2004
+California,Butte,Oroville,"1940 Helman St",,02/04/2004
+California,Kern,Delano,"1305 20th Ave",,02/04/2004
+California,Merced,Merced,"2536 Lobo",,02/04/2004
+California,Imperial,Holtville,"2300 Slayton Rd",,02/05/2004
+California,Butte,Oroville,"110 Greenback Dr",,02/05/2004
+California,Butte,Oroville,"110 Greenback Dr",,02/05/2004
+California,Alameda,"San Lorenzo","17283 Via Annette Dr",,02/06/2004
+California,Alameda,"San Lorenzo","17283 Via Annette Dr",,02/06/2004
+California,Riverside,Hemet,"531 Cedar Ln 2",,02/07/2004
+California,Tulare,Porterville,"27003 Avenue 120",,02/07/2004
+California,Stanislaus,Stanislaus,"13660 Carpenter Rd",,02/07/2004
+California,"Santa Clara","San Jose","110 Roundtable Dr 1",,02/08/2004
+California,Riverside,Perris,"332 W 11th St",,02/08/2004
+California,Orange,"Buena Park","7555 Beach Blvd 128",,02/10/2004
+California,Merced,Stevinson,"18910 W 6th St",,02/10/2004
+California,Riverside,Hemet,"1675 Cobble Ln",,02/11/2004
+California,"San Bernardino",Chino,"11838 Central Ave 93",,02/11/2004
+California,Orange,Irvine,"173 Topeka",,02/11/2004
+California,Solano,Vallejo,"1130 Monterey St",,02/12/2004
+California,Riverside,"Cathedral City","68557 C Street",,02/16/2004
+California,"San Bernardino","Apple Valley","21845 Arapahoe St 1",,02/17/2004
+California,Sutter,"Yuba City","1400 Lytle Rd",,02/17/2004
+California,"San Bernardino",Rialto,"349 N Lilac",,02/17/2004
+California,Riverside,Hemet,"1097 N State St 2",,02/18/2004
+California,Alameda,"San Leandro","1735 138th Ave",,02/18/2004
+California,Alameda,"San Leandro","1735 138th Ave",,02/18/2004
+California,"San Bernardino",Victorville,"16868 Stoddard Wells Rd",,02/19/2004
+California,Siskiyou,Weed,"208 Jackson St",,02/21/2004
+California,Kern,Bakersfield,"8614 Fuller",,02/22/2004
+California,"San Bernardino","Twentynine Palms","4828 Lear Ave",,02/22/2004
+California,Sacramento,Sacramento,"4719 Hayford Way",,02/24/2004
+California,"San Bernardino",Hesperia,"14926 Fir St",,02/25/2004
+California,Merced,Merced,"3613 N Garner Rd",,02/27/2004
+California,Alameda,Newark,"37120 Spruce St G",,02/29/2004
+California,Riverside,"Glen Avon Heights","4080 Conning",,02/29/2004
+California,Humboldt,Fortuna,"1788 Penn Ave",,03/02/2004
+California,Humboldt,Fortuna,"1788 Penn Ave",,03/02/2004
+California,Siskiyou,Dorris,"2100 Sheepy Island Rd 437",,03/03/2004
+California,"Los Angeles",Lancaster,"3995 Avenue H W",,03/03/2004
+California,"Los Angeles","East Los Angeles","4135 Floral Ave",,03/05/2004
+California,Stanislaus,Waterford,"575 E St",,03/05/2004
+California,"San Bernardino","San Bernardino","1443 Cedar 23",,03/09/2004
+California,"San Bernardino",Victorville,"15330 Condor Rd",,03/09/2004
+California,Sutter,"Yuba City","1718 Elmer Rd",,03/10/2004
+California,Yolo,Woodland,"1730 Donner Way",,03/10/2004
+California,"Los Angeles",Compton,"1016 Poinsettia S Ave",,03/10/2004
+California,Alameda,Hayward,"333 Jackson St 219",,03/12/2004
+California,Alameda,Hayward,"333 Jackson St 219",,03/12/2004
+California,Riverside,"El Cerrito","19078 Rising Sun Rd",,03/12/2004
+California,Riverside,Corona,"734 Viewtop Ln",,03/12/2004
+California,Riverside,Norco,"2574 Ridgecrest",,03/16/2004
+California,Butte,Oroville,"2437 Oro Quincy Hwy",,03/17/2004
+California,Butte,Oroville,"2437 Oro Quincy Hwy",,03/17/2004
+California,Shasta,Redding,"781 S Street",,03/21/2004
+California,"San Diego",Escondido,"1306 Ronda Ave",,03/23/2004
+California,Sacramento,Sacramento,"7624 Birdie Ct",,03/23/2004
+California,Solano,Dixon,"805 N Adams St 110",,03/23/2004
+California,Tulare,Lindsay,"1445 E Honolulu",,03/24/2004
+California,Riverside,Hemet,"772 N State",,03/24/2004
+California,"Los Angeles",Llano,"25757 V E Ave",,03/24/2004
+California,Humboldt,Mckinleyville,"2331 Central Ave 4",,03/25/2004
+California,"San Bernardino","Newberry Springs","52875 Bedford Rd",,03/25/2004
+California,Sacramento,Sacramento,"1536 Strader Ave",,03/26/2004
+California,Solano,Vallejo,"1163 Lewis Ave",,03/30/2004
+California,Sacramento,Sacramento,"5867 Auburn Blvd 30",,03/30/2004
+California,"San Bernardino",Fontana,"13519 Arrow Rt",,03/30/2004
+California,Shasta,Redding,"12691 Williamson Rd",,03/30/2004
+California,Riverside,Hemet,"225 S Elk St 36",,03/30/2004
+California,Butte,Paradise,"6441 Moss Ln",,03/31/2004
+California,Butte,Paradise,"6441 Moss Ln",,03/31/2004
+California,Tulare,Dinuba,"39780 Road 56",,03/31/2004
+California,Butte,Magalia,"3 Jordan Hill Rd",,03/31/2004
+California,Riverside,Riverside,"5861 Mitchell",,03/31/2004
+California,"San Bernardino","Twentynine Palms","7580 Mac Rd",,03/31/2004
+California,Sacramento,Sacramento,"2530 Street S 8",,04/01/2004
+California,Riverside,Corona,"995 Pomona Rd 17",,04/02/2004
+California,"Santa Clara",Gilroy,"7860 Driftwood Ter A",,04/03/2004
+California,"Los Angeles",Palmdale,"38233 Hendon Dr",,04/03/2004
+California,Sacramento,"Rancho Cordova","10892 Walnutwood Way",,04/04/2004
+California,Merced,Livingston,"5679 Arena Way",,04/06/2004
+California,Yuba,Marysville,"1118 I St",,04/06/2004
+California,"San Bernardino","San Bernardino","1443 Cedar St 1",,04/09/2004
+California,Butte,Biggs,"2164 Larkin",,04/09/2004
+California,Butte,Biggs,"2164 Larkin",,04/09/2004
+California,"Los Angeles",Torrance,"4111 Pacific Coast Highway 308",,04/11/2004
+California,Stanislaus,Turlock,"6407 Mitchell Rd",,04/12/2004
+California,Yuba,Marysville,"1205 E 22nd St",,04/12/2004
+California,"Del Norte","Crescent City","1733 Wildwood Ln",,04/14/2004
+California,Yuba,Marysville,"222 H St",,04/14/2004
+California,"Del Norte","Crescent City","1733 Wildwood Ln",,04/14/2004
+California,Riverside,Beaumont,"34250 San Timiteo Canyon Rd",,04/15/2004
+California,Merced,Hilmar,"20295 August Rd",,04/15/2004
+California,"San Bernardino","Twentynine Palms","5665 Aeronia",,04/15/2004
+California,"San Joaquin",Stockton,"9800 E Eight Mile Rd",,04/16/2004
+California,"San Bernardino",Baker,"71759 Baker Blvd",,04/16/2004
+California,"San Joaquin",Stockton,"5708 N Highway 99",,04/18/2004
+California,Riverside,Beaumont,"1016 Palm Ave",,04/19/2004
+California,Butte,Chico,"939 W East Ave 4",,04/19/2004
+California,Lake,Clearlake,"13660 East Lake Dr",,04/19/2004
+California,Butte,Chico,"939 W East Ave 4",,04/19/2004
+California,Lake,Clearlake,"13660 East Lake Dr",,04/19/2004
+California,Solano,Vallejo,"618 Main St",,04/20/2004
+California,"Los Angeles",Norwalk,"11026 Imperial E Hwy 10",,04/21/2004
+California,"San Joaquin",Stockton,"1560 Silver Creek",,04/22/2004
+California,"San Bernardino",Highland,"7409 Los Feliz Dr",,04/23/2004
+California,"San Bernardino","San Bernardino","3160 N State St",,04/23/2004
+California,Orange,Tustin,"13624 Estero Cir",,04/24/2004
+California,"San Bernardino",Phelan,"8135 Joshua St",,04/27/2004
+California,Humboldt,Eureka,"1984 Gage Ln",,04/27/2004
+California,Lake,Clearlake,"15888 19th St",,04/28/2004
+California,Madera,Chowchilla,"18899 Road 16",,04/28/2004
+California,Lake,Clearlake,"15888 19th St",,04/28/2004
+California,Riverside,"Lake Elsinore","17911 Thoreson",,04/29/2004
+California,"El Dorado","El Dorado","6841 Union Mine Rd",,04/29/2004
+California,"El Dorado","El Dorado","6841 Union Mine Rd",,04/29/2004
+California,Riverside,Hemet,"43939 Florida Ave",,05/04/2004
+California,"Santa Clara","San Jose","1374 Randol Ave",,05/05/2004
+California,Butte,Oroville,"126 Canyon Highlands Dr",,05/05/2004
+California,Butte,Oroville,"126 Canyon Highlands Dr",,05/05/2004
+California,Butte,Oroville,"208 Misty View Ln",,05/10/2004
+California,Butte,Oroville,"208 Misty View Ln",,05/10/2004
+California,Sutter,"Yuba City","1292 Harter Rd",,05/11/2004
+California,Glenn,Willows,"5627 County Road 69",,05/12/2004
+California,"Los Angeles","Los Angeles","560 Keenan Ave",,05/12/2004
+California,Yuba,Marysville,"1804 Hile Ave C",,05/12/2004
+California,Glenn,Willows,"5627 County Road 69",,05/12/2004
+California,"San Bernardino",Chino,"12018 Central Ave",,05/13/2004
+California,Solano,Vallejo,"136 Hogan St",,05/14/2004
+California,Riverside,Hemet,"585 S Santa Fe",,05/15/2004
+California,Sutter,Sutter,"2235 Madrone St",,05/17/2004
+California,"San Bernardino",Highland,"25715 Lime St",,05/18/2004
+California,"San Diego",Fallbrook,"422 Catalpa Ln",,05/19/2004
+California,Yuba,Marysville,"1505 Ramirez Rd",,05/20/2004
+California,Riverside,Winchester,"33091 Willard",,05/20/2004
+California,"San Diego","San Diego","6173 Fauna Drive",,05/21/2004
+California,Kings,"Unincorporated City","6260 Barstow Ave",,05/21/2004
+California,Monterey,Salinas,"1769 Yosemite Cir",,05/21/2004
+California,"San Bernardino","Apple Valley","10620 Matilija",,05/21/2004
+California,"San Bernardino",Highland,"28457 Merrion Ave",,05/21/2004
+California,"San Bernardino","San Bernardino","2176 Amanda St",,05/21/2004
+California,Kings,"Unincorporated City","6260 Barstow Ave",,05/21/2004
+California,"Los Angeles","La Canada Flintridge","5016 Angeles Crest Hwy",,05/25/2004
+California,Tulare,Tulare,"26442 99 Hwy 210",,05/26/2004
+California,Kern,Bakersfield,"2600 Norman Ave",,05/26/2004
+California,Kern,Bakersfield,"2600 Norman Ave",,05/26/2004
+California,"San Bernardino","Joshua Tree","62475 Cove Ln",,05/27/2004
+California,Yuba,Arboga,"13814 Charlies Ln",,05/27/2004
+California,"San Bernardino","Apple Valley","10808 Mills Rd",,06/02/2004
+California,Merced,Cressey,"9835 Cressey",,06/03/2004
+California,Riverside,Hemet,"2688 E Florida Ave 18",,06/04/2004
+California,Sutter,"Yuba City","1619 Franklin Rd K",,06/07/2004
+California,"San Bernardino",Barstow,"24966 Camino Del Sol St",,06/07/2004
+California,"Santa Clara","Santa Clara","1232 Warburton Ave",,06/08/2004
+California,Alameda,Hayward,"1032 Central Blvd",,06/09/2004
+California,Alameda,Hayward,"1032 Central Blvd",,06/09/2004
+California,Riverside,Indio,"46540 Padua Cir",,06/09/2004
+California,Riverside,Anza,"57310 Valley Vista",,06/11/2004
+California,Kern,Shafter,"31396 Burbank Ave",,06/12/2004
+California,"San Bernardino",Hesperia,"15356 Pendleton",,06/16/2004
+California,"San Bernardino","Twentynine Palms","68077 Indian Trail",,06/16/2004
+California,"Santa Clara","San Jose","90 Saddlebrook Dr",,06/22/2004
+California,"Los Angeles","Los Angeles","5320 1/2 Ithaca Ave",,06/22/2004
+California,"San Bernardino",Muscoy,"2544 3rd St",,06/23/2004
+California,"San Bernardino","Newberry Springs","47962 Horner Rd",,06/24/2004
+California,"Los Angeles",Whittier,"8171 Washington Ave",,06/24/2004
+California,Riverside,Perris,"143 Perou St",,06/27/2004
+California,Stanislaus,Turlock,"1625 Larkspur St",,06/29/2004
+California,Merced,Delhi,"16235 Redbud Ct",,06/29/2004
+California,"San Joaquin",Stockton,"10285 Hildreth Ln",,06/30/2004
+California,"Los Angeles","Long Beach","1401 11 E St",,07/01/2004
+California,Stanislaus,Ceres,"4022 Esmail Keyes",,07/02/2004
+California,"San Bernardino",Hesperia,"11976 Mariposa Rd",,07/03/2004
+California,"Los Angeles","Signal Hill","2210 Gaviota N Ave C",,07/06/2004
+California,Orange,"Santa Ana","1137 Mcfadden W",,07/07/2004
+California,"Contra Costa",Rodeo,"1120 4th St",,07/08/2004
+California,"Contra Costa",Rodeo,"1120 4th St",,07/08/2004
+California,Riverside,Victorville,"20197 Nandina Ave",,07/09/2004
+California,Stanislaus,Modesto,"2009 Monticello Ave",,07/13/2004
+California,Stanislaus,Modesto,"1312 Mchenry 111",,07/13/2004
+California,Butte,Chico,"853 E 7th St",,07/14/2004
+California,Fresno,Fresno,"12884 S Elm Ave",,07/15/2004
+California,Fresno,Fresno,"1315 E Cornell",,07/15/2004
+California,Fresno,Fresno,"1315 E Cornell",,07/15/2004
+California,Orange,Westminster,"7681 Baylor Dr",,07/15/2004
+California,Fresno,Fresno,"12884 S Elm Ave",,07/15/2004
+California,Orange,"La Habra","2320 Story Ave",,07/16/2004
+California,Monterey,"Pacific Grove","316 Prescott Ln",,07/16/2004
+California,Yuba,Marysville,"5956 Park Ave O",,07/18/2004
+California,Imperial,Seeley,"2205 Haskell Rd",,07/20/2004
+California,Butte,Oroville,"2750 De Bangar Hwy",,07/21/2004
+California,Riverside,Corona,"1330 W 8th St 18",,07/21/2004
+California,"Los Angeles",Glendora,"19104 Manua Loa",,07/21/2004
+California,Merced,"South Dos Palos","8827 W K St",,07/23/2004
+California,Butte,Paradise,"538 Castle",,07/23/2004
+California,Butte,Paradise,"538 Castle",,07/23/2004
+California,"San Bernardino",Ontario,"1506 E Highland Ct",,07/26/2004
+California,Shasta,Anderson,"6465 Saddle Trail Rd",,07/29/2004
+California,Riverside,Perris,"618 Bond Dr",,07/29/2004
+California,Fresno,Fresno,"7090 N Fruit Ave 140",,07/29/2004
+California,Nevada,"Grass Valley","439 Neal St 1",,07/30/2004
+California,"San Joaquin",Stockton,"2717 W March Ln",,07/31/2004
+California,Riverside,"San Jacinto","437 Mead",,08/02/2004
+California,Butte,Oroville,"2720 Oro Dam Blvd 6a",,08/03/2004
+California,Butte,Oroville,"2720 Oro Dam Blvd 6a",,08/03/2004
+California,Yuba,Marysville,"5818 Park Ave",,08/03/2004
+California,Butte,Chico,"453 Posada Way 12",,08/04/2004
+California,Butte,Chico,"453 Posada Way 12",,08/04/2004
+California,"San Joaquin",Stockton,"2654 W March Ln 304",,08/04/2004
+California,Sacramento,Elverta,"2495 Rhine Way",,08/05/2004
+California,Yuba,Marysville,"5931 Redburn Ave",,08/08/2004
+California,Merced,Winton,"6280 Central Ave",,08/08/2004
+California,Merced,Winton,"9605 Eucalyptus Ave",,08/08/2004
+California,"Santa Cruz",Soquel,"2600 41st St",,08/12/2004
+California,"San Diego",Lakeside,"11441 El Nopal",,08/12/2004
+California,"Los Angeles","Los Angeles","21150 Hobart",,08/18/2004
+California,"San Joaquin",Stockton,"3416 Farmington E Rd 2",,08/26/2004
+California,Kern,Taft,"412 Kern St",,08/26/2004
+California,Alameda,Hayward,"231 Culp Ave",,08/29/2004
+California,Alameda,Hayward,"231 Culp Ave",,08/29/2004
+California,Riverside,"Moreno Valley","25204 Bridle Trail",,08/29/2004
+California,Fresno,Coalinga,"47932 Lost Hills Rd",,08/30/2004
+California,"San Diego",Escondido,"431 4th E Ave 1b",,08/31/2004
+California,Sutter,"Yuba City","1081 Northridge Dr",,09/01/2004
+California,Stanislaus,Modesto,"1516 Bollinger Ct",,09/01/2004
+California,Sutter,"Yuba City","400 Walton N Ave 3",,09/02/2004
+California,Stanislaus,Modesto,"1240 N 9th St 10",,09/05/2004
+California,"San Bernardino",Fontana,"7642 Kempster Ave",,09/07/2004
+California,Yuba,Marysville,"1735 N Beale Rd",,09/10/2004
+California,Lake,Finley,"3424 Stone Dr",,09/15/2004
+California,Lake,Finley,"3424 Stone Dr",,09/15/2004
+California,"San Diego","San Diego","4242 34th St D",,09/16/2004
+California,"San Bernardino",Phelan,"6721 Nielson Rd",,09/17/2004
+California,"San Bernardino",Barstow,"2577 Community Blvd",,09/18/2004
+California,Stanislaus,Denair,"5319 Berkeley Ave",,09/19/2004
+California,Orange,"Garden Grove","8062 Garden Grove Blvd 241",,09/21/2004
+California,Kern,"Lake Isabella","3105 Wenyor",,09/21/2004
+California,Riverside,Indio,"47800 Madison St 169",,09/21/2004
+California,"Santa Clara","San Jose","935 Foxchase Dr 413",,09/21/2004
+California,Butte,Magalia,"14723 Gold Cone Dr",,09/21/2004
+California,Kern,"Lake Isabella","3105 Wenyor",,09/21/2004
+California,"Los Angeles","La Puente","410 Evanwood Ave",,09/22/2004
+California,"San Joaquin",Stockton,"2274 E Fremont",,09/25/2004
+California,"San Bernardino","Joshua Tree","3255 Sunset Rd",,09/26/2004
+California,Tehama,Corning,"6330 Piedmont Rd",,09/27/2004
+California,Yuba,Olivehurst,"3735 Arboga Rd",,09/27/2004
+California,Yuba,Olivehurst,"4456 College",,09/28/2004
+California,"Los Angeles","Baldwin Park","3109 Robinette Ave",,09/28/2004
+California,Alameda,"Union City","32673 Brenda Way 3",,09/28/2004
+California,Riverside,"Lake Matthews","17224 Cajon Dr",,09/28/2004
+California,Alameda,"Union City","32673 Brenda Way 3",,09/28/2004
+California,"Santa Clara","Morgan Hill","6760 Croy Rd",,09/29/2004
+California,"San Bernardino",Hesperia,"7892 Alston",,10/01/2004
+California,"San Bernardino","Rancho Cucamonga","7651 Effen",,10/01/2004
+California,Stanislaus,Modesto,"8100 Yosemite Blvd",,10/03/2004
+California,"Los Angeles","San Dimas","1717 Monte Vista Dr",,10/07/2004
+California,Sacramento,Sacramento,"3534 Summer Park Dr 354",,10/08/2004
+California,"San Bernardino","Newberry Springs","35377 Newberry Rd",,10/11/2004
+California,Merced,Hilmar,"19511 Williams Ave",,10/13/2004
+California,Orange,Orange,"2135 Almond W St",,10/15/2004
+California,Sutter,"Yuba City","761 Chestnut St",,10/18/2004
+California,Yuba,Marysville,"2209 Boulton Way",,10/18/2004
+California,"Los Angeles",Pomona,"320 Jefferson W Ave",,10/19/2004
+California,"San Bernardino",Victorville,"17053 B St",,10/19/2004
+California,"San Bernardino",Phelan,"11480 Macron",,10/19/2004
+California,"San Bernardino",Victorville,"16688 Hughes",,10/21/2004
+California,Stanislaus,Oakdale,"13537 Orange Blossom Rd",,10/22/2004
+California,Yuba,Marysville,"976 Kay St",,10/25/2004
+California,"San Bernardino",Redlands,"28565 San Timoteo Canyon",,10/25/2004
+California,Butte,Biggs,"488 G St",,10/26/2004
+California,Stanislaus,Oakdale,"410 Arboles Way",,10/26/2004
+California,"Santa Clara","Los Altos","25562 Fernhill Dr",,10/26/2004
+California,Butte,Biggs,"488 G St",,10/26/2004
+California,Riverside,Banning,"1007 Linda Vista Rd",,10/26/2004
+California,"Los Angeles",Lynwood,"10868 Drury Ln",,10/29/2004
+California,Stanislaus,Turlock,"265 Ironwood",,10/30/2004
+California,Sutter,"Yuba City","413 Pine St",,10/30/2004
+California,Yuba,Olivehurst,"1941 14th St",,11/03/2004
+California,Stanislaus,Turlock,"357 E Olive Ave",,11/04/2004
+California,Sutter,"Yuba City","1368 Hutchinson A",,11/05/2004
+California,Sutter,"Live Oak","2691 Stafford Dr",,11/10/2004
+California,"Santa Clara","San Jose","2251 Lansford Ave",,11/15/2004
+California,Riverside,Victorville,"22875 Rios",,11/16/2004
+California,"San Bernardino","San Bernardino","1162 E 2nd",,11/16/2004
+California,Lake,"Lower Lake","10243 Siegler Canyon Rd",,11/17/2004
+California,Yuba,Olivehurst,"4461 College Way",,11/17/2004
+California,"San Bernardino",Bloomington,"16742 14th St",,11/17/2004
+California,Lake,"Lower Lake","10243 Siegler Canyon Rd",,11/17/2004
+California,"Los Angeles","El Monte","11828 Emery St",,11/18/2004
+California,"San Bernardino",Barstow,"29779 N 1st",,11/18/2004
+California,"San Diego",Vista,"1280 Hacienda Dr G6",,11/24/2004
+California,"Los Angeles","El Monte","4350 Ranger Ave",,11/29/2004
+California,Stanislaus,Oakdale,"755 River Ave",,11/29/2004
+California,Orange,"Santa Ana","1233 Genoa S Dr",,11/30/2004
+California,Riverside,Menifee,"26814 Madera Ct",,12/06/2004
+California,Stanislaus,Oakdale,"445 N Fifth",,12/06/2004
+California,Riverside,Hemet,"4400 Florida W Ave 117",,12/08/2004
+California,Kern,Ridgecrest,"709 W Atkins Ave",,12/09/2004
+California,Sutter,"Yuba City","24 Central Ave",,12/11/2004
+California,Stanislaus,Modesto,"3708 Almeria Dr",,12/11/2004
+California,"Contra Costa",Antioch,"1927 Birch Ave",,12/12/2004
+California,"San Bernardino","Chino Hills","15553 Esther St",,12/13/2004
+California,Calaveras,"Mountain Ranch","5645 Doster Rd",,12/20/2004
+California,Calaveras,"Mountain Ranch","5645 Doster Rd",,12/20/2004
+California,Yuba,Marysville,"5395 Feather River Blvd",,12/21/2004
+California,Sutter,"Yuba City","132 S Walton Ave A",,12/22/2004
+California,"San Bernardino","San Bernardino","2547 3rd Ave",,12/28/2004
+California,"San Bernardino",Trona,"13860 Fremont St 2",,12/30/2004
+California,"San Bernardino",Barstow,"434 S Second St 1",,01/01/2005
+California,Merced,Merced,"321 S 59 S Hwy",,01/03/2005
+California,"San Bernardino",Upland,"359 Seventh St",,01/05/2005
+California,Butte,Oroville,"1130 Tehama St",,01/12/2005
+California,Butte,Oroville,"1130 Tehama St",,01/12/2005
+California,"Los Angeles","La Puente","18631 Altario St",,01/13/2005
+California,Stanislaus,Ceres,"2033 Hackett Rd",,01/18/2005
+California,Alameda,Pleasanton,"6443 Alisal St",,01/19/2005
+California,"San Bernardino","San Bernardino","123 E 11th St",,01/19/2005
+California,"San Bernardino","San Bernardino","1318 E Gould St",,01/22/2005
+California,Madera,Chowchilla,"1304 Colusa Ave A",,01/25/2005
+California,Yuba,Olivehurst,"1696 10th Ave",,01/27/2005
+California,Riverside,Hemet,"41251 Rope Rd",,01/29/2005
+California,Stanislaus,Modesto,"400 Algen Ave",,02/02/2005
+California,Stanislaus,Denair,"4540 Arnold Rd",,02/02/2005
+California,"Los Angeles",Lancaster,"42705 6th E St",,02/03/2005
+California,Madera,Madera,"21442 Avenue 19 Ave",,02/10/2005
+California,"San Bernardino",Redlands,"2155 Citrus Ave 112",,02/14/2005
+California,Sutter,"Yuba City","1587 Gray Ave",,02/15/2005
+California,"Los Angeles",Downey,"9322 Stamps Ave",,02/18/2005
+California,Yuba,Marysville,"5528 Alicia Ave",,02/22/2005
+California,Sacramento,"Elk Grove","5354 Jade Creek",,02/23/2005
+California,Merced,Gustine,"8450 Highway 33 S Hwy",,03/02/2005
+California,"San Diego",Escondido,"16975 Guejito Rd",,03/03/2005
+California,Riverside,Perris,"4715 Wade Ave",,03/03/2005
+California,Yuba,Marysville,"5696 Arboga Rd",,03/09/2005
+California,Solano,"Suisun City","515 Crested Dr",,03/09/2005
+California,Kern,Bakersfield,"321 Oakdale Dr",,03/15/2005
+California,Butte,Chico,"1056 E 8th St",,03/18/2005
+California,Butte,Chico,"1056 E 8th St",,03/18/2005
+California,"Santa Cruz","Santa Cruz","911 Soquel Ave",,03/18/2005
+California,Kern,Bakersfield,"2714 Allen Rd",,03/22/2005
+California,"Contra Costa",Martinez,"625 Marina Vista St",,03/22/2005
+California,Kern,Bakersfield,"2714 Allen Rd",,03/22/2005
+California,"Contra Costa",Martinez,"625 Marina Vista St",,03/22/2005
+California,Stanislaus,Modesto,"1022 Calder Ct",,03/26/2005
+California,Stanislaus,Grayson,"1705 Hito Dr",,04/07/2005
+California,Sutter,"Live Oak","9755 O St",,04/07/2005
+California,"Los Angeles","City Of Commerce","5820 Ramon Ct",,04/14/2005
+California,"San Joaquin",Stockton,"2071 La Jolla Dr",,04/25/2005
+California,Alameda,"San Leandro","872 Donovan Dr",,05/04/2005
+California,Humboldt,"Blue Lake","113 Raymar Ave",,05/09/2005
+California,Merced,Atwater,"9000 Moran Ave",,05/11/2005
+California,Yuba,Marysville,"1100 E 17th St 36",,05/18/2005
+California,Yuba,Marysville,"885 Grand Ave",,05/24/2005
+California,"San Bernardino",Yucaipa,"12470 15th St",,05/25/2005
+California,Alameda,"San Leandro","14446 Elm St",,05/31/2005
+California,Humboldt,Eureka,"1034 14th St",,06/06/2005
+California,Humboldt,Eureka,"1034 14th St",,06/06/2005
+California,Fresno,Fresno,"4822 E Mono St",,06/09/2005
+California,Butte,Oroville,"1915 Plumas St",,06/09/2005
+California,Fresno,Fresno,"4822 E Mono St",,06/09/2005
+California,Riverside,"San Jacinto","344 N State St Sp 196",,06/15/2005
+California,Lake,Clearlake,"16537 35th Ave",,06/18/2005
+California,Kern,Taft,"217 Lierly St",,06/20/2005
+California,Butte,Durham,"9606 Fimple Rd",,07/15/2005
+California,Shasta,Redding,"80 Churn Creek Rd",,07/18/2005
+California,"San Bernardino",Hesperia,"10721 Maple St",,07/29/2005
+California,"San Bernardino",Victorville,"16262 Yucca Ave",,08/01/2005
+California,"Los Angeles","San Pedro","975 5th W St",,08/03/2005
+California,"San Bernardino","San Bernardino","11571 5th St",,08/29/2005
+California,Sutter,"Yuba City","1341 Dustin Dr 39",,09/01/2005
+California,Merced,Atwater,"1236 Hull Rd",,09/23/2005
+California,"Los Angeles",Winnetka,"8474 Quartz Ave",,09/28/2005
+California,Solano,Vacaville,"7234 Shelton Ln",,09/29/2005
+California,"Santa Clara","San Jose","1425 Stahl St",,10/16/2005
+California,"San Bernardino",Victorville,"11550 White Rd",,10/17/2005
+California,Kern,Bakersfield,"2314 Center St",,10/19/2005
+California,Butte,Chico,"696 7th E St",,10/19/2005
+California,"Los Angeles","Van Nuys","15149 Domino St",,11/08/2005
+California,Butte,Chico,"1402 Pomona Ln",,11/17/2005
+California,Butte,Oroville,"2794 Oak Knoll Way",,11/30/2005
+California,Riverside,Perris,"19881 Gustin Rd",,12/12/2005
+California,Yuba,Marysville,"209 E St",,12/13/2005
+California,Butte,Chico,"997 E 16th St",,12/15/2005
+California,Butte,Chico,"997 E 16th St",,12/15/2005
+California,Tulare,Porterville,"670 E Poplar",,01/07/2006
+California,Tulare,Porterville,"1611 E Success Drive",,01/07/2006
+California,Alameda,Hayward,"27948 Pueblo Serena Way",,01/09/2006
+California,"San Bernardino",Hesperia,"9553 Los Banos Ave",,01/12/2006
+California,Yuba,Marysville,"1097 Vine Ave",,01/12/2006
+California,"Los Angeles",Whittier,"6133 Mcnees Ave",,01/14/2006
+California,Yuba,Olivehurst,"1440 Broadway Rd",,01/17/2006
+California,Stanislaus,Modesto,"205 Glacier Ave",,01/18/2006
+California,"Los Angeles","Panorama City","8154 Allott",,01/19/2006
+California,Riverside,Hemet,"525 Gilbert N 49",,01/20/2006
+California,Sutter,"Yuba City","4098 Marlette Rd",,01/23/2006
+California,"Santa Clara","San Jose","1560 Darlene Ave",,01/24/2006
+California,Yuba,"Loma Rica","5124 Wolf Trail",,01/25/2006
+California,Riverside,"Lake Elsinore","34323 Sunrise Drive",,01/27/2006
+California,Yuba,Olivehurst,"3948 Shimer Rd",,01/31/2006
+California,Yuba,Olivehurst,"4605 Summers Ln",,01/31/2006
+California,Stanislaus,Riverbank,"3939 Minniear Ave",,01/31/2006
+California,Riverside,Corona,"446 Francis E St",,02/02/2006
+California,"San Bernardino",Victorville,"13126 Mesa",,02/07/2006
+California,"San Bernardino",Ontario,"956 Princeton W St",,02/10/2006
+California,Lake,Nice,"6643 Collier",,02/15/2006
+California,Yuba,Marysville,"647 Ramirez Rd B",,02/16/2006
+California,"Los Angeles",Wilmington,"1724 Fries Ave",,02/17/2006
+California,Sutter,"Yuba City","1115 Marcia Avenue",,02/18/2006
+California,Butte,Gridley,"275 Kentucky St",,02/21/2006
+California,Butte,Gridley,"275 Kentucky St",,02/21/2006
+California,Butte,Gridley,"233 Kentucky Street",,02/21/2006
+California,Butte,Gridley,"233 Kentucky Street",,02/21/2006
+California,Riverside,"San Jacinto","610 Washington E Ave",,02/22/2006
+California,Ventura,N/a,"5892 Santa Clara Rd",,02/22/2006
+California,"San Bernardino",Victorville,"16755 Union St B",,02/24/2006
+California,Kern,Bakersfield,"200 Miraflores",,02/28/2006
+California,Kern,Bakersfield,"200 Miraflores",,02/28/2006
+California,Sacramento,Elverta,"2110 Quail Ranch Court",,02/28/2006
+California,"Los Angeles",Gardena,"14903 Chadron Ave 1",,03/01/2006
+California,"San Bernardino",Victorville,"15618 Topango Road",,03/02/2006
+California,Solano,Dixon,"9155 Olmo Rd",,03/03/2006
+California,Sacramento,Sacramento,"4144 Cabinet Circle",,03/06/2006
+California,Stanislaus,Modesto,"3500 Plain View Road",,03/07/2006
+California,"San Bernardino","San Bernardino","2131 Genevieve Street",,03/10/2006
+California,Fresno,"San Joaquin","2243 Eldorado S B",,03/10/2006
+California,"San Luis Obispo",Atascadero,"4080 Dolores Avenue",,03/14/2006
+California,Riverside,Hemet,"25873 Riverview Lane",,03/15/2006
+California,"San Bernardino",Victorville,"13602 Nassau Drive",,03/15/2006
+California,"San Bernardino","San Bernardino","756 W 19 St",,03/16/2006
+California,Imperial,Holtville,"819 1/2 Fern Ave",,03/20/2006
+California,"San Bernardino",Fontana,"17265 Lurelane Street",,03/20/2006
+California,Imperial,Holtville,"819 1/2 Fern Ave",,03/20/2006
+California,Kern,Bakersfield,"101 Agarnsey Ln",,03/20/2006
+California,Kern,Bakersfield,"101 Agarnsey Ln",,03/20/2006
+California,Stanislaus,Ceres,"527 Mitchell Rd",,03/22/2006
+California,"San Bernardino",Redlands,"828 6th Street",,03/23/2006
+California,Riverside,"Desert Hot Springs","13255 Mexquite Avenue",,03/23/2006
+California,Stanislaus,Ceres,"3707 Monte Vista E Ave",,03/24/2006
+California,"San Bernardino",Hesperia,"11516 Hawthorne",,03/25/2006
+California,"Los Angeles","Los Angeles","1406 Gordon Street",,03/26/2006
+California,Shasta,Igo,"14463 Windwalker Ln",,03/27/2006
+California,Merced,Stevinson,"23875 Second Avenue",,03/27/2006
+California,"San Francisco","San Francisco","35 Belvedere St 5",,03/29/2006
+California,"San Luis Obispo","Grover Beach","448 North 9th Street",,03/30/2006
+California,Yuba,Marysville,"714 Boyer Road",,03/30/2006
+California,Alameda,"Union City","2351 Hartford Drive",,04/07/2006
+California,Alameda,"Union City","2351 Hartford Drive",,04/07/2006
+California,Orange,Cypress,"4812 Grace Avenue",,04/10/2006
+California,Shasta,Shingletown,"7498 Hilda Rd",,04/13/2006
+California,Plumas,Portola,"5630 Casey Jones Road",,04/14/2006
+California,Riverside,"San Jacinto","182 De Anza",,04/20/2006
+California,Riverside,Nuevo,"22788 Via Santana",,04/21/2006
+California,"San Bernardino","Newberry Springs","42378 Silver Valley Road",,04/21/2006
+California,Stanislaus,Modesto,"1411 Scenic Drive",,04/24/2006
+California,"Los Angeles","Long Beach","2124 Mc Kenzie Avenue",,04/25/2006
+California,Kern,Bakersfield,"109 Clyde Street",,04/26/2006
+California,Kern,Bakersfield,"109 Clyde Street",,04/26/2006
+California,Tulare,Cutler,"39500 Road 136",,04/28/2006
+California,"Santa Cruz","Santa Cruz","231 Felix Street",,05/02/2006
+California,Ventura,Ventura,"1300 Saratoga Street",,05/04/2006
+California,Orange,Westminster,"9851 Bolsa Avenue",,05/05/2006
+California,Mendocino,"Fort Bragg","16900 Franklin Road",,05/09/2006
+California,"Santa Clara","San Jose","1919 Fruitdale Avenue",,05/11/2006
+California,Sacramento,,"5140 W Sherman Island Road",,05/13/2006
+California,Orange,Westminster,"5051 Princeton Avenue",,05/17/2006
+California,Stanislaus,Modesto,"110 Wisenor",,05/18/2006
+California,Sutter,"Yuba City","1250 Kenny Drive",,05/19/2006
+California,Butte,Paradise,"5955 Hazel Way",,05/25/2006
+California,"San Joaquin",Stockton,"2553 Michaelangelo Drive",,06/01/2006
+California,"Los Angeles",Lancaster,"44634 Date Avenue",,06/02/2006
+California,"San Mateo","East Palo Alto","1894 Bay Road",,06/04/2006
+California,Sacramento,Sacramento,"7662 Country Park Drive",,06/06/2006
+California,"San Diego",Escondido,"1825 East Valley Way",,06/06/2006
+California,Stanislaus,Modesto,"2008 Stracker Way",,06/08/2006
+California,Riverside,Calimesa,"9453 Sharondale Road",,06/08/2006
+California,"San Bernardino",Hesperia,"9393 Hickory",,06/08/2006
+California,"San Bernardino",Hesperia,"10983 4th Avenue",,06/09/2006
+California,"San Bernardino","Oro Grande","21451 National Trails Highway",,06/13/2006
+California,Ventura,Fillmore,"2989 West W Telegraph Road Highway",,06/14/2006
+California,Humboldt,Eureka,"1323 Summer Street",,06/15/2006
+California,"San Bernardino",Fontana,"13449 Ivy",,06/15/2006
+California,"San Mateo",Belmont,"926 South Road",,06/21/2006
+California,"Los Angeles","Shadow Hills","10339 Johanna Avenue",,06/22/2006
+California,Riverside,Riverside,"11235 Cypress",,06/27/2006
+California,"San Luis Obispo","Morro Bay","525 Atascadero Road",,07/12/2006
+California,Yuba,Marysville,"5514 Feather River Boulevard",,07/13/2006
+California,"Los Angeles","Los Angeles","123 S Lake Street",,07/14/2006
+California,Orange,"La Palma","4761 Sharon Drive A",,07/17/2006
+California,"Los Angeles",Sylmar,"12600 Bradley Street",,07/19/2006
+California,Alameda,Fremont,"35856 Toledo Court",,07/28/2006
+California,Tehama,Corning,"323 Rio Del Rey Court",,07/31/2006
+California,"San Bernardino","Loma Linda","26232 Newport Avenue",,08/01/2006
+California,Tehama,"Red Bluff","19932 Sawtooth Drive",,08/01/2006
+California,"Los Angeles","Diamond Bar","2620 Castlerock Road",,08/01/2006
+California,"San Joaquin",Tracy,"14703 Finck Road",,08/03/2006
+California,"Los Angeles",Covina,"19850 Arrow Highway",,08/06/2006
+California,Tulare,Tipton,"14144 Road 152",,08/09/2006
+California,"San Bernardino",Yermo,"37933 Grandview Avenue",,08/10/2006
+California,Merced,"Los Banos","313 J Street",,08/11/2006
+California,"Los Angeles","Los Angeles","3015 Sunnynook Drive",,08/11/2006
+California,Tulare,Dinuba,"38929 Road 84",,08/17/2006
+California,Madera,Madera,"815 East Clinton Avenue",,08/29/2006
+California,"San Luis Obispo","San Luis Obispo","3500 Bullock",,08/29/2006
+California,Humboldt,Arcata,"258 Lupin Avenue",,08/30/2006
+California,Humboldt,Arcata,"258 Lupin Avenue",,08/30/2006
+California,"San Luis Obispo","Paso Robles","749 Orchard",,09/05/2006
+California,"San Bernardino","Yucca Valley","58620 San Marino Drive",,09/06/2006
+California,"San Bernardino","San Bernardino","19829 Kendall Drive",,09/12/2006
+California,Stanislaus,Modesto,"620 Paradise Road",,09/13/2006
+California,Stanislaus,Modesto,"306 Locust Street",,09/14/2006
+California,"San Diego",Vista,"1710 Avocado Drive",,09/14/2006
+California,Orange,Stanton,"10698 Court Street",,09/15/2006
+California,Shasta,Redding,"3115 Stratford Avenue",,09/19/2006
+California,"San Diego",Oceanside,"3965 Brown Street",,09/20/2006
+California,"Santa Cruz","Santa Cruz","870 17th Avenue",,09/29/2006
+California,"Los Angeles",Palmdale,"38566 East 35th Street",,10/03/2006
+California,Yuba,Marysville,"8369 Hwy 70",,10/03/2006
+California,Yuba,Marysville,"7340 Doc Adams Road",,10/09/2006
+California,"Los Angeles","Los Angeles","244 West 47th Place",,10/12/2006
+California,"Los Angeles","Los Angeles","244 47th Place",,10/12/2006
+California,"San Bernardino","San Bernardino","2292 Portola Street",,10/13/2006
+California,"San Bernardino","Apple Valley","12618 Pocono Road",,10/15/2006
+California,Stanislaus,Ceres,"1743 Central",,10/20/2006
+California,Ventura,Oxnard,"765 Kohala Street",,11/09/2006
+California,Merced,Atwater,"1001 Sandpiper Way",,11/15/2006
+California,Merced,Delhi,"8620 Hinton",,11/15/2006
+California,Fresno,Fresno,"2540 North Floyd Avenue",,11/24/2006
+California,Fresno,Fresno,"2540 North Floyd Avenue",,11/24/2006
+California,Fresno,Caruthers,"14594 South Elm Avenue",,11/28/2006
+California,Fresno,Caruthers,"14594 South Elm Avenue",,11/28/2006
+California,Stanislaus,Modesto,"665 7th Street",,12/04/2006
+California,"Contra Costa",Richmond,"2420 Esmond Avenue",,12/05/2006
+California,"Los Angeles",Pomona,"1347 Cambrin Road",,12/07/2006
+California,"Los Angeles","Los Angeles","11630 West 207th Street",,12/07/2006
+California,"San Bernardino",Fontana,"14349 Figwood Drive",,12/13/2006
+California,Fresno,Fresno,"8971 Mountain View",,12/13/2006
+California,Fresno,Fresno,"8971 Mountain View",,12/13/2006
+California,"San Bernardino",Victorville,"14349 Hesperia Road",,12/21/2006
+California,Sutter,"Yuba City","617 Forbes Avenue",,01/02/2007
+California,"San Bernardino","Apple Valley","20024 Happy Trails Highway",,01/04/2007
+California,"San Luis Obispo",Templeton,"30 Danelion Road",,01/15/2007
+California,Merced,Merced,"824 S Freya",,01/25/2007
+California,Sacramento,Sacramento,"5230 Palm",,01/30/2007
+California,Sacramento,Sacramento,"2681 Fairfield Street",,02/13/2007
+California,"San Bernardino",Hesperia,"13010 Prairie Trail",,02/22/2007
+California,Butte,Oroville,"91 Toyon Hills Drive",,02/23/2007
+California,Butte,Chico,"1735 Magnolia Avenue",,02/26/2007
+California,Butte,Chico,"1735 Magnolia Avenue",,02/26/2007
+California,"Los Angeles",Cerritos,"12513 Sandy Creek Lane",,03/09/2007
+California,Trinity,"Trinity Center","360 Maude Avenue",,03/11/2007
+California,Merced,Winton,"7409 Amanda Drive",,03/13/2007
+California,Butte,Oroville,"165 Hurles Circle",,03/18/2007
+California,Kern,Bakersfield,"200 Miraflores Avenue",,03/18/2007
+California,Kern,Bakersfield,"200 Miraflores Avenue",,03/18/2007
+California,Butte,Oroville,"165 Hurles Circle",,03/18/2007
+California,Ventura,"Thousand Oaks","982 East Janas Road",,03/20/2007
+California,Merced,Merced,"2499 East Gerard Avenue",,03/21/2007
+California,"San Bernardino","Pinon Hills","11475 Prado Road",,03/27/2007
+California,Yolo,"West Sacramento","1900 Evergreen Avenue",,03/30/2007
+California,"San Diego",Vista,"663 Eucalyptus",,04/03/2007
+California,"Los Angeles","Long Beach","1624 Junipero Avenue",,04/04/2007
+California,Riverside,"Mountain Center","63137 Jeraboa Road",,04/12/2007
+California,Kings,Hanford,"11111 9 3/4 Avenue",,04/16/2007
+California,Kings,Hanford,"11111 9 3/4 Avenue",,04/16/2007
+California,Orange,Stanton,"7701 Westbrook Way",,04/19/2007
+California,"San Joaquin",Stockton,"301 Morada",,04/19/2007
+California,"San Joaquin",Manteca,"481 South Union Road",,04/20/2007
+California,"Santa Clara","San Jose","4075 Hobart Avenue",,04/27/2007
+California,"San Bernardino",Victorville,"13852 Burning Tree Lane",,05/03/2007
+California,"San Diego","La Puente","1254 Bannon",,05/10/2007
+California,"Los Angeles",Whittier,"10816 Townley Drive",,05/11/2007
+California,"Los Angeles","Huntington Park","2505 Olive Street",,05/15/2007
+California,"San Bernardino",Redlands,"511 Redlands Boulevard",,05/16/2007
+California,"Los Angeles","South Gate","2634 Palm Place",,05/29/2007
+California,Butte,Oroville,"4210 Oro Bangor Highway",,06/01/2007
+California,Butte,Oroville,"4210 Oro Bangor Highway",,06/01/2007
+California,Stanislaus,Modesto,"1331 Paradise Road",,06/03/2007
+California,Kern,Ridgecrest,"345 West Moyer Avenue",,06/04/2007
+California,Kern,Ridgecrest,"345 West Moyer Avenue",,06/04/2007
+California,Yuba,Marysville,"1164 Redwood Avenue",,06/11/2007
+California,"San Bernardino",Colton,"1822 Admiralty Street",,06/15/2007
+California,Monterey,Salinas,"18840 Northeast Eisenhowere Drive",,06/20/2007
+California,Monterey,Salinas,"1233 East Polk Street",,06/20/2007
+California,"San Diego","San Diego","3835 Midway #203 Drive",,06/20/2007
+California,Sacramento,"Citrus Heights","7401 Lovato",,06/23/2007
+California,Stanislaus,Turlock,"201 G Street",,06/26/2007
+California,Yuba,Marysville,"4499 East Erle Road",,07/07/2007
+California,Kern,Lamont,"10224 San Emidio Street",,07/11/2007
+California,"Santa Clara",Campbell,"768 Nevins Street",,07/11/2007
+California,Kern,Lamont,"10224 San Emidio Street",,07/11/2007
+California,"Los Angeles",Pomona,"260 La Verne Avenue",,07/12/2007
+California,"Los Angeles",Lancaster,"45448 Elm",,07/14/2007
+California,"San Bernardino","San Bernardino","243 Meridian Avenue",,07/18/2007
+California,"Los Angeles",Wilmington,"1630 Sandison Street",,07/20/2007
+California,"San Bernardino",Victorville,"16753 Zenda Street",,08/06/2007
+California,"Los Angeles","Los Angeles","321 Westminster Avenue",,08/09/2007
+California,"Los Angeles","Los Angeles","1216 Hanover Avenue",,08/12/2007
+California,Madera,Madera,"18697 Avenue Pass",,08/21/2007
+California,Fresno,Fowler,"6424 South Fowler Avenue",,08/21/2007
+California,Madera,Madera,"512 Fein Street",,08/25/2007
+California,Butte,Palermo,"2398 Louis Avenue",,08/27/2007
+California,Butte,Palermo,"2398 Louis Avenue",,08/27/2007
+California,Shasta,Redding,"1571 College View Drive",,08/29/2007
+California,Merced,Merced,"14717 East 272nd",,09/06/2007
+California,"San Bernardino",Ontario,"740 Camalot",,09/10/2007
+California,Butte,Oroville,"2349 Via Madero",,09/11/2007
+California,Stanislaus,Turlock,"1105 Berea",,09/15/2007
+California,"Los Angeles","Huntington Park","6418 Seville",,09/18/2007
+California,"Contra Costa","El Sobrante","2211 Rancho Road",,09/20/2007
+California,"Contra Costa","El Sobrante","2211 Rancho Road",,09/20/2007
+California,"Los Angeles","Los Angeles","359 71st Street",,10/10/2007
+California,Plumas,Chester,"460 Melissa Avenue",,10/11/2007
+California,"San Joaquin",Lathrop,"15523 Sixth Street",,10/11/2007
+California,Merced,Hilmar,"250 N Union",,10/12/2007
+California,"Santa Cruz",Watsonville,"216 Silverleaf Drive",,10/17/2007
+California,Alameda,"San Lorenzo","1302 Via San Juan Street",,10/25/2007
+California,Butte,Oroville,"1616 Oro Dam Boulevard",,10/29/2007
+California,Butte,Oroville,"1616 Oro Dam Boulevard",,10/29/2007
+California,"Los Angeles","Diamond Bar","749 Featherwood Drive",,11/01/2007
+California,"San Bernardino","San Bernardino","223 49th",,11/07/2007
+California,Orange,"Yorba Linda","5471 Jefferson Street",,11/13/2007
+California,"Los Angeles","Long Beach","3613 La Jara Street",,11/14/2007
+California,"San Bernardino","San Bernardino","1431 7th Street",,11/26/2007
+California,Alameda,"San Leandro","1553 Santa Maria Road",,11/28/2007
+California,Alameda,"San Leandro","1553 Santa Maria Road",,11/28/2007
+California,"San Diego",Vista,"526 Mar Vista Drive",,11/29/2007
+California,"San Bernardino",Adelanto,"17526 Keats Road",,11/29/2007
+California,Orange,Fullerton,"641 Commonwealth Avenue",,12/07/2007
+California,Fresno,Reedley,"20069 Clayton Avenue",,12/08/2007
+California,Fresno,Reedley,"20069 Clayton Avenue",,12/08/2007
+California,"Los Angeles","Los Angeles","3744 59th Street",,12/20/2007
+California,"San Bernardino",Rialto,"624 Etiwanda Avenue",,12/22/2007
+California,Riverside,Corona,"379 East Rancho Road",,01/02/2008
+California,Stanislaus,Turlock,"1090 Denair Avenue",,01/06/2008
+California,"San Bernardino","Joshua Tree","8997 Tortuga Road",,01/14/2008
+California,Stanislaus,Newman,"531 Lady Slipper",,01/15/2008
+California,Merced,Merced,"5 West 25th Street 2",,01/16/2008
+California,Butte,Oroville,"1660 20th Street",,01/31/2008
+California,Solano,Vallejo,"318 Taper Avenue",,01/31/2008
+California,Riverside,Norco,"3117 Shadow Canyon Circle",,01/31/2008
+California,Butte,Oroville,"1660 20th Street",,01/31/2008
+California,Madera,Madera,"35626 14 1/2 Avenue",,02/01/2008
+California,"Los Angeles","Van Nuys","7400 Sepulveda Boulevard",,02/12/2008
+California,Stanislaus,Turlock,"1125 South Tegner Road A",,02/16/2008
+California,Riverside,Hemet,"32809 Red Mountain Road",,02/18/2008
+California,Merced,Stevinson,"2917 Cemetery Road",,02/20/2008
+California,Merced,Stevinson,"2991 Cemetery",,02/20/2008
+California,Mendocino,Willits,"65000 Sherwood Ridge Road",,02/20/2008
+California,"Santa Clara","San Jose","2475 Glen Angus Way",,02/21/2008
+California,"Santa Clara","Santa Clara","2597 Borax Drive",,02/22/2008
+California,Solano,Vacaville,"148 Lomita Avenue",,03/05/2008
+California,Merced,Winton,"6814 Arlene Way",,03/12/2008
+California,"Santa Cruz","Santa Cruz","15769 Comstock Mill Road",,03/13/2008
+California,"Los Angeles","Los Angeles","218 1/2 54th Street",,03/14/2008
+California,"San Joaquin",Tracy,"11422 West Larch Road",,03/14/2008
+California,"Santa Clara","San Jose","843 Spindrift Way",,03/18/2008
+California,"Santa Clara","San Jose","1480 Douglas Street",,03/20/2008
+California,Orange,Anaheim,"131 Magnolia Avenue",,03/21/2008
+California,Orange,Anaheim,"3554 West Cornelia Circle",,03/24/2008
+California,Orange,Anaheim,"1819 Cris",,03/27/2008
+California,Orange,Anaheim,"1261 Placentia Street",,03/29/2008
+California,"San Bernardino","San Bernardino","6317 Bonnie Street",,04/03/2008
+California,Orange,Anaheim,"2500 East Terrace Street",,04/08/2008
+California,Orange,"Santa Ana","1314 Harbor Boulevard",,04/09/2008
+California,"San Diego",Vista,"1610 N Santa Fe",,04/09/2008
+California,Orange,"Garden Grove","9755 Bixby Avenue",,04/11/2008
+California,"San Bernardino",Fontana,"16411 Athol Street",,04/17/2008
+California,"Los Angeles","Los Angeles","4154 Compton Avenue",,04/17/2008
+California,Stanislaus,Turlock,"3800 Crowell Road",,04/18/2008
+California,"San Luis Obispo",Nipomo,"155 East Price Street",,04/29/2008
+California,Butte,Oroville,"3 Alverda Drive",,05/13/2008
+California,Butte,Oroville,"3 Alverda Drive",,05/13/2008
+California,Orange,"Costa Mesa","929 Joann Street",,05/13/2008
+California,Alameda,Hayward,"698 Overhill Drive",,05/16/2008
+California,Alameda,Hayward,"698 Overhill Drive",,05/16/2008
+California,Orange,"Santa Ana","3012 Halladay",,05/19/2008
+California,Kern,Lamont,"8008 Middleton Lane",,05/19/2008
+California,Kern,Lamont,"8008 Middleton Lane",,05/19/2008
+California,"Los Angeles",Downey,"10350 Haledon Avenue",,05/21/2008
+California,Orange,"Santa Ana","412 Baker Street",,05/21/2008
+California,"Santa Clara","San Jose","71 Avenida Espana",,05/29/2008
+California,Orange,Orange,"207 Esplande Street",,05/30/2008
+California,Butte,Chico,"1024 Neal Dow Avenue",,06/07/2008
+California,"Los Angeles","Baldwin Park","4442 Edra Avenue",,06/16/2008
+California,Stanislaus,Modesto,"1016 East Marlow",,06/19/2008
+California,Stanislaus,Hickman,"861 Meier Road",,06/19/2008
+California,Stanislaus,Modesto,"1016 Marlow",,06/19/2008
+California,Riverside,"Palm Springs","383 Vereda Norte",,06/20/2008
+California,"San Bernardino","San Bernardino","7234 Dwight Way",,07/01/2008
+California,Orange,"Santa Ana","702 Santa Ana Boulevard",,07/14/2008
+California,Alameda,Berkeley,"2240 9th Street",,07/19/2008
+California,"Contra Costa",Richmond,"712 Bradford Drive",,07/29/2008
+California,"Contra Costa",Richmond,"712 Bradford Drive",,07/29/2008
+California,Stanislaus,Turlock,"590 Minaret Avenue",,08/05/2008
+California,Riverside,Perris,"21747 Webster Avenue",,08/07/2008
+California,"Los Angeles",Encino,"17448 Ventura Boulevard",,08/11/2008
+California,Merced,Atwater,"4146 South Elliott Road",,08/11/2008
+California,Stanislaus,Ceres,"112 Taylor Road",,08/25/2008
+California,Riverside,Perris,"21881 Oleander Avenue",,08/29/2008
+California,"Santa Clara","San Jose","973 Idlewood Drive",,08/31/2008
+California,Butte,Honcut,"16 Truxton Court",,09/02/2008
+California,Butte,Honcut,"16 Truxton Court",,09/02/2008
+California,Madera,Madera,"13577 20th Avenue",,09/04/2008
+California,Merced,Delhi,"15575 August Avenue",,09/08/2008
+California,Orange,Anaheim,"622 Velare Avenue",,09/16/2008
+California,Butte,Oroville,"1840 7th Street",,09/17/2008
+California,Butte,Oroville,"1840 7th Street",,09/17/2008
+California,Butte,Chico,"729 Nord Avenue",,09/30/2008
+California,Butte,Chico,"729 Nord Avenue",,09/30/2008
+California,Kern,Johannesburg,"405 Broadway Avenue",,10/09/2008
+California,Kern,Johannesburg,"405 Broadway Avenue",,10/09/2008
+California,"San Bernardino",Landers,"57646 Linn Road",,10/14/2008
+California,"San Bernardino",Hesperia,"9519 Maple Avenue",,10/18/2008
+California,"Los Angeles",Bellflower,"17122 Downey Avenue",,11/02/2008
+California,"San Diego","Valley Center","30118 Miller Road",,11/07/2008
+California,Riverside,"Mira Loma","10351 Oak Bark Lane",,11/12/2008
+California,Stanislaus,Ceres,"1948 Evans Road",,11/16/2008
+California,"Los Angeles","Huntington Park","2409 Olive Street",,11/18/2008
+California,Stanislaus,Ceres,"1528 Evans Road",,11/18/2008
+California,Alameda,Oakland,"923 39th Street",,11/25/2008
+California,Sacramento,Sacramento,"6316 Welty Way",,12/03/2008
+California,Stanislaus,Turlock,"677 North Soderquist Road",,12/15/2008
+California,Fresno,Fresno,"4409 East Hedges Avenue A",,12/16/2008
+California,"Los Angeles","Long Beach","1875 Lime Avenue",,12/22/2008
+California,"San Bernardino",Hinkley,"23572 State Highway 58",,04/05/2009
+California,Butte,Oroville,"1960 Rose Street",,04/07/2009
+California,Butte,Oroville,"5075 Lower Wyandotte Avenue",,04/07/2009
+California,Butte,Oroville,"5075 Lower Wyandotte Avenue",,04/07/2009
+California,Butte,Oroville,"1960 Rose Street",,04/07/2009
+California,Alameda,"San Lorenzo","16150 Arriba Viaduct",,04/08/2009
+California,Mendocino,"Redwood Valley","9800 West Road",,04/09/2009
+California,Stanislaus,Denair,"18000 Keyes Road",,04/14/2009
+California,Stanislaus,Turlock,"4519 Moffett Road",,04/22/2009
+California,"Los Angeles","Los Angeles","6118 Hooper Street",,04/24/2009
+California,Orange,Westminster,"13100 Goldenwest Street",,04/28/2009
+California,Riverside,"Desert Hot Springs","12155 Ocotillo Road",,04/29/2009
+California,Stanislaus,Patterson,"1830 Orange Avenue",,05/03/2009
+California,"San Bernardino","Apple Valley","9611 Navajo Road",,05/05/2009
+California,Orange,"Santa Ana","1450 Auto Drive",,05/11/2009
+California,Orange,"Garden Grove","10042 Lampson Avenue",,05/13/2009
+California,Stanislaus,Ceres,"3107 Taylor Road",,05/19/2009
+California,Stanislaus,Ceres,"3107 East Taylor Road",,05/19/2009
+California,Stanislaus,Turlock,"6107 Mountain View Road",,05/19/2009
+California,Riverside,Hemet,"871 San Mateo Circle",,05/21/2009
+California,Orange,Westminster,"6942 Garden Grove Boulevard",,05/21/2009
+California,Stanislaus,Modesto,"1898 Skylane Way",,05/21/2009
+California,Stanislaus,Oakdale,"20601 Warnerville Road",,05/28/2009
+California,Stanislaus,Turlock,"460 Moffet Road",,05/29/2009
+California,"Los Angeles",Bell,"3717 Bell Avenue",,06/06/2009
+California,"San Diego","San Diego","9777 De La Amistad Viaduct",,06/12/2009
+California,Stanislaus,Riverbank,"2924 Stanislaus Street",,06/18/2009
+California,Kern,Bakersfield,"8th Street",,06/22/2009
+California,Stanislaus,Oakdale,"10742 Pioneer Avenue",,06/30/2009
+California,"Los Angeles","Los Angeles","5170 South Normandie Avenue",,01/03/2010
+California,Merced,Ballico,"11368 North Santa Fe Avenue",,01/10/2010
+California,"San Mateo","Daly City","439  Bonnie Street",,01/14/2010
+California,Lake,Clearlake,"13820  Manakee Drive",,01/20/2010
+California,Lake,Clearlake,"13820  Manakee Drive",,01/20/2010
+California,"San Diego","Escondido Junction","1531  Montiel",,01/20/2010
+California,"Los Angeles","Los Angeles","2109  Estrella Avenue",,02/02/2010
+California,Riverside,Temecula,"29774  Calle Pantano",,02/02/2010
+California,"Los Angeles","Long Beach","2345 East Harding Street",,02/04/2010
+California,Stanislaus,Ceres,"2329  6th Street",,02/05/2010
+California,Riverside,Riverside,"4080  Pedley Road",,02/05/2010
+California,Stanislaus,Turlock,"1180 West Linwood Avenue",,02/09/2010
+California,Orange,"Buena Park","7111  Beach Boulevard",,02/10/2010
+California,"Los Angeles","Long Beach","2454  Easy Avenue",,02/10/2010
+California,"Contra Costa",Brentwood,"638  Summerwood Drive",,02/11/2010
+California,"Contra Costa",Brentwood,"638  Summerwood Drive",,02/11/2010
+California,Orange,"Garden Grove","13691  Barnett Way",,02/13/2010
+California,Plumas,"Quincy Junction","1426  Butterfly Valley Road",,02/17/2010
+California,Orange,Anaheim,"1303 West Marlboro Avenue",,02/22/2010
+California,"San Bernardino",Victorville,"13143  Sleepy Ridge Lane",,03/05/2010
+California,Plumas,Portola,"324  Bella Vista",,03/09/2010
+California,Alameda,Pleasanton,"818  Angela Street",,03/10/2010
+California,Alameda,Pleasanton,"818  Angela Street",,03/10/2010
+California,Shasta,Redding,"13922a  Sundust Road",,03/11/2010
+California,Orange,Placentia,"745  Dunn",,03/16/2010
+California,Riverside,Banning,"514 East Victory Avenue",,03/21/2010
+California,Orange,Irvine,"87  Pinestone",,03/23/2010
+California,Alameda,"Castro Valley","19127  Santa Maria Avenue",,03/24/2010
+California,Alameda,"Castro Valley","19127  Santa Maria Avenue",,03/24/2010
+California,Orange,Orange,"2300 North Tustin Avenue",,03/29/2010
+California,Merced,Hilmar,"19542 East First Street",,04/01/2010
+California,Riverside,Riverside,"12172  Severn Way",,04/02/2010
+California,"San Bernardino","San Bernardino","205 West Benedict Road",,04/02/2010
+California,Riverside,Riverside,"11744  Hazeldell Drive",,04/02/2010
+California,Orange,"Huntington Beach","8230  Talbert",,04/07/2010
+California,"Los Angeles","Santa Fe Springs","13310  Telegraph Road",,04/14/2010
+California,Fresno,"Dos Palos","43186  Merrill Avenue",,04/15/2010
+California,Fresno,"Dos Palos","43186  Merrill Avenue",,04/15/2010
+California,Sacramento,Galt,"132  4th",,04/20/2010
+California,Merced,Winton,"7125 North Vine Avenue",,04/21/2010
+California,Merced,Stevinson,"2228  Nelander Avenue",,04/27/2010
+California,Tehama,"Los Molinos","24881  68th",,04/28/2010
+California,Orange,"Santa Ana","4417  Morningside",,04/28/2010
+California,Solano,Vallejo,"264  Flyingcloud Court",,04/30/2010
+California,"Los Angeles","Bell Gardens","7534  Purdy Street",,05/01/2010
+California,"Los Angeles",Inglewood,"8815 South Van Ness Avenue",,05/04/2010
+California,Mendocino,Philo,"3500  Little Mill Creek Road",,05/06/2010
+California,Butte,Gridley,"124 East Gridley Road",,05/14/2010
+California,Butte,Gridley,"124 East Gridley Road",,05/14/2010
+California,Orange,Brea,"2595  Imperial Highway",,05/20/2010
+California,Stanislaus,Riverbank,"3238  Pocket Avenue",,05/22/2010
+California,Butte,Durham,"8200  Durnel Drive",,05/22/2010
+California,Butte,Durham,"8200  Durnel Drive",,05/22/2010
+California,Merced,Livingston,"15290  Sunset Drive",,05/22/2010
+California,"Los Angeles","Los Angeles","6516 South Main Street",,06/02/2010
+California,Merced,Delhi,"9640  Sands Road",,06/06/2010
+California,"Santa Clara","San Jose","800  Saratoga Avenue A308",,06/10/2010
+California,"Los Angeles",Norwalk,"12618  Studebaker Road",,06/14/2010
+California,"Los Angeles",Hawthorne,"12600  Prairie Avenue",,07/19/2010
+California,"Los Angeles",Hawthorne,"2851 West 120th Street",,07/22/2010
+California,Stanislaus,Newman,"1200  Main Street",,07/26/2010
+California,"San Diego",Carlsbad,"382  Acacia",,08/08/2010
+California,"San Diego",Carlsbad,"847  Laguna",,08/08/2010
+California,"Santa Clara",Gilroy,"2250  Roop Rd Road",,08/19/2010
+California,"Santa Clara","San Jose","5674  San Felipe Road",,08/26/2010
+California,"Santa Cruz",Capitola,"1066  41st Avenue",,09/12/2010
+California,Monterey,Greenfield,"424  7th Avenue",,09/19/2010
+California,"Los Angeles","Los Angeles","213 1/2 West 66 Street",,09/21/2010
+California,"Contra Costa",Crockett,"815  1st Avenue",,12/09/2010
+California,"Contra Costa",Crockett,"815  1st Avenue",,12/09/2010
+California,"Los Angeles",Hawthorne,"13611  Doty Avenue",,02/03/2011
+California,Kern,Bakersfield,"3804  La Tonia Court",,03/03/2011
+California,Kern,Bakersfield,"3804  La Tonia Court",,03/03/2011
+California,Kern,Bakersfield,"3801  Newcombe Court",,03/03/2011
+California,Kern,Bakersfield,"3801  Newcombe Court",,03/03/2011
+California,"Santa Clara","Santa Clara","2147  Newhall Street",,03/09/2011
+California,"Contra Costa","Bay Point","71  Mountain View Avenue",,03/22/2011
+California,"Contra Costa","Bay Point","71  Mountain View Avenue",,03/22/2011
+California,Riverside,Perris,"644  Primrose Place",,04/08/2011
+California,Kern,Bakersfield,"218  El Tejon Avenue",,07/08/2011
+California,Kern,Bakersfield,"218  El Tejon Avenue",,07/08/2011
+California,Stanislaus,Modesto,"1600  French",,08/11/2011
+California,Stanislaus,Hughson,"1828  White Birtch Drive",,08/28/2011
+California,"San Luis Obispo","San Luis Obispo","1771  Cordova",,12/07/2011
+California,Kern,Bakersfield,"7601  Redbank",,12/13/2011
+California,Kern,Bakersfield,"7601  Redbank",,12/13/2011
+California,Orange,"Santa Ana","800 South Sullivan Street D3",,12/23/2011
+California,Stanislaus,Modesto,"1749  Poland",,02/09/2012
+California,Fresno,Clovis,"287 West Barstow Avenue 125b",,10/26/2012
+California,"Los Angeles","Los Angeles","1564 East 117th Street",,04/04/2013
+California,"Los Angeles",Artesia,"11635  Artesia Boulevard",,05/01/2013
+California,"Los Angeles","Beverly Hills","712 North Rexford Drive",,06/01/2013
+California,Fresno,Fresno,"3001 West Swift Ave Avenue 104",,08/06/2013
+California,Fresno,Fresno,"3001 West Swift Ave Avenue 104",,08/06/2013
+California,Fresno,"Squaw Valley","46992  Creekside Road",,11/18/2013
+California,"San Diego",Alpine,"404  Summerhill Terrace",,12/02/2013
+California,Fresno,Fresno,"4851 North N Cedar Ave Avenue 117",,01/06/2014
+California,Fresno,Fresno,"3852 East E Olive Ave Avenue 201",,01/14/2014
+California,Fresno,Fresno,"3852 East E Olive Ave Avenue 201",,01/14/2014
+California,Fresno,Fresno,"3025 East E Gettysburg Ave Avenue 102",,01/21/2014
+California,Fresno,Fresno,"3025 East E Gettysburg Ave Avenue 102",,01/21/2014
+California,Madera,Madera,"19184  Ave 18",,05/15/2014
+California,Riverside,Perris,"2520  Spectacular  Bid Street",,07/29/2014
+California,"Contra Costa",Brentwood,"1880 East Eden Plains Street",,10/02/2014
+California,"Contra Costa",Brentwood,"1880 East Eden Plains Street",,10/02/2014
+California,Riverside,"Moreno Valley","16329  Saddleback Lane",,02/03/2015
+California,Riverside,"Moreno Valley","25399  Todd Drive",,08/15/2015
+California,Fresno,Fresno,"7675 N First Street Box 203",,09/06/2015
+California,"Santa Clara","San Jose","315 N 21st Street",,09/18/2015
+California,Alameda,Oakland,"1950  86th Avenue",,12/07/2015
+California,Alameda,Oakland,"1950  86th Avenue",,12/07/2015
+California,Fresno,Fresno,"4102 E North Avenue",,12/24/2015
+California,Fresno,Fresno,"2715 N Millbrook Avenue",,02/03/2016
+California,Fresno,Fresno,"2715 N Millbrook Avenue",,02/03/2016
+California,Merced,Winton,"7040  Myrtle Avenue",,02/08/2016
+California,Riverside,"Moreno Valley","16329  Saddlebrook Lane",,02/09/2016
+California,Riverside,Hemet,"1610  Bluejay Way",,03/02/2016
+California,"Santa Clara","Santa Clara","930  El Camino Real",,05/19/2016
+California,"Los Angeles",Covina,"771  Rancho Simi Drive",,06/01/2016
+California,Madera,Madera,"25816  Avenue 18 1/2",,06/14/2016
+California,"Los Angeles",Compton,"14502 S Keene Ave",,08/14/2016
+California,Riverside,Indio,"43430 Monroe St",,09/03/2016
+California,Mendocino,"Fort Bragg","621 West St",,09/16/2016
+California,Mendocino,Hopland,"14410 Mountain House Rd",,09/21/2016
+California,Merced,Atwater,"2521 Boulder Dr",,09/21/2016
+California,"Los Angeles",Gardena,"1218 W 134th St",,09/25/2016
+California,Riverside,Coachella,"731 Orchard St",,10/04/2016
+California,Riverside,"Mira Loma","12332 Kern River Dr",,12/06/2017
+California,Riverside,Temecula,"30984 Lolita Rd",,12/07/2017
+California,Orange,Anaheim,"10141 Gravier St",,12/08/2017
+California,"Los Angeles",Lancaster,"42835 San Francisco Av",,12/10/2017
+California,"Los Angeles","North Hollywood","7829 Nagle Av",,12/10/2017
+California,Madera,Madera,"11265 Iowa Av",,12/27/2017

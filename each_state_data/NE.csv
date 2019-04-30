@@ -1,0 +1,107 @@
+state,county,city,address1,address2,date
+Nebraska,Cass,Plattsmouth,"13514 Wallace",,01/05/2004
+Nebraska,Jefferson,Fairbury,"823 4th St",,01/08/2004
+Nebraska,Jefferson,Fairbury,"1100(a) 4th St",,01/08/2004
+Nebraska,Cass,Plattsmouth,"615 South 9th",,01/10/2004
+Nebraska,Garden,Oshkosh,"1004 East Second",,01/10/2004
+Nebraska,Jefferson,Fairbury,"913 A St",,01/13/2004
+Nebraska,Pierce,Pierce,"209 North 2nd",,01/15/2004
+Nebraska,Dodge,Fremont,"5776 Wesy Hwy 30",,02/06/2004
+Nebraska,Jefferson,Fairbury,"1102 Maple",,02/10/2004
+Nebraska,Lancaster,Davey,"13201 North 40th",,02/14/2004
+Nebraska,Sarpy,Bellevue,"3618 South Fort Crook",,02/26/2004
+Nebraska,Douglas,Omaha,"4319 Parker",,02/29/2004
+Nebraska,Cass,Union,"318 Main St",,03/03/2004
+Nebraska,Sarpy,Bellevue,"2120 Platte River Drive",,03/11/2004
+Nebraska,Dodge,Fremont,"310 23rd W St",,03/17/2004
+Nebraska,Nemaha,Brock,"1409 Main S",,03/18/2004
+Nebraska,Cass,Plattsmouth,"17404 Club View Dr",,03/21/2004
+Nebraska,Douglas,Omaha,"2464 Harney #1",,03/28/2004
+Nebraska,Lancaster,Lincoln,"8323 Sunridge Road 104",,04/14/2004
+Nebraska,Douglas,Waterloo,"2521 Campanile Road #25",,04/16/2004
+Nebraska,Jefferson,Fairbury,"825 9th St",,05/12/2004
+Nebraska,Burt,Tekamah,"720 South 11th Street",,05/25/2004
+Nebraska,Jefferson,Fairbury,"122 3rd W St",,06/03/2004
+Nebraska,Lancaster,Lincoln,"1226 24 S B",,06/05/2004
+Nebraska,Dawes,Chadron,"544 Morehead St",,06/08/2004
+Nebraska,Platte,Columbus,"37355 197 St",,06/10/2004
+Nebraska,Dodge,Fremont,"810 16th E St",,06/16/2004
+Nebraska,Cass,Plattsmouth,"921 2nd Ave",,06/17/2004
+Nebraska,Dodge,Fremont,"825 Military W St",,06/21/2004
+Nebraska,Cass,Plattsmouth,"2415 Chicago Ave 101",,06/30/2004
+Nebraska,Dawson,Gothenburg,"801 7th St",,07/09/2004
+Nebraska,Nemaha,Peru,"210 California St",,07/18/2004
+Nebraska,Nemaha,Auburn,"1102 14th St",,07/20/2004
+Nebraska,Nemaha,Auburn,"1915 M St",,07/21/2004
+Nebraska,Dodge,Dodge,"300 Cedar Street",,07/27/2004
+Nebraska,Cass,Union,"322 Avenue A",,08/13/2004
+Nebraska,Gage,Ellis,"30905 Commercial St",,08/31/2004
+Nebraska,Cass,Plattsmouth,"236 Valeria Drive",,09/09/2004
+Nebraska,Cass,,"1812 12th Ave A",,09/18/2004
+Nebraska,Cass,"Weeping Water","103 Garfield St",,09/24/2004
+Nebraska,Buffalo,Kearney,"702 48th E St",,10/02/2004
+Nebraska,Cass,Plattsmouth,"13109 30th Ave",,11/10/2004
+Nebraska,Platte,Columbus,"3919 23rd St 221",,11/11/2004
+Nebraska,Douglas,Valley,"117 Charles E St",,12/11/2004
+Nebraska,Lincoln,"North Platte","1515 Third W St",,12/13/2004
+Nebraska,Hamilton,Aurora,"1213 P St",,12/13/2004
+Nebraska,Madison,Norfolk,"305 14th S St",,12/13/2004
+Nebraska,Richardson,Stella,"507 Elm N",,12/14/2004
+Nebraska,Madison,Tilden,"411 Elm S St",,12/23/2004
+Nebraska,Gage,Beatrice,"311 Hill",,12/27/2004
+Nebraska,Madison,Norfolk,"304 12th S St 1",,12/28/2004
+Nebraska,Douglas,Omaha,"5026 58th S St",,12/30/2004
+Nebraska,Nemaha,Auburn,"2315 16th St",,01/28/2005
+Nebraska,Gage,Beatrice,"109 Bell St",,01/28/2005
+Nebraska,Otoe,"Nebraska City","409 16th S St",,02/01/2005
+Nebraska,Lincoln,"North Platte","2309 E E St",,02/02/2005
+Nebraska,Lincoln,"North Platte","315 East 7th Street",,02/04/2005
+Nebraska,Douglas,Omaha,"1738 1/2 13th S St",,02/08/2005
+Nebraska,Jefferson,Fairbury,"813 7th St 1",,02/10/2005
+Nebraska,Gage,Beatrice,"1405 Summit St",,02/22/2005
+Nebraska,Cass,Plattsmouth,"1726 1st Ave",,02/25/2005
+Nebraska,Cass,Plattsmouth,"317 (b) 8th S St",,03/01/2005
+Nebraska,Jefferson,Fairbury,"417 7th St 13",,03/21/2005
+Nebraska,Cass,Plattsmouth,"613 2nd Ave",,03/24/2005
+Nebraska,Franklin,Campbell,"313 Taylor Street",,04/01/2005
+Nebraska,"Scotts Bluff",Scottsbluff,"2502 Addison Ave",,04/27/2005
+Nebraska,Cass,Plattsmouth,"720 1st Ave",,05/20/2005
+Nebraska,Cedar,Randolph,"56077 857th Rd",,05/27/2005
+Nebraska,Gage,Filley,"410 Mclean St",,06/01/2005
+Nebraska,Cass,Alvo,"245 Main St",,07/14/2005
+Nebraska,Jefferson,Fairbury,"1020 9th St",,08/15/2005
+Nebraska,Johnson,Tecumseh,"72394 611 Ave",,08/29/2005
+Nebraska,Lancaster,Lincoln,"2129 65th N St",,09/13/2005
+Nebraska,Pierce,Plainview,"86588 534th Ave",,09/16/2005
+Nebraska,Antelope,Oakdale,"300 Grant St",,09/28/2005
+Nebraska,Saunders,Ceresco,"521 Country Road 12",,09/30/2005
+Nebraska,Buffalo,Kearney,"1712 Avenue G",,10/24/2005
+Nebraska,Cass,Plattsmouth,"123 9th Ave",,11/17/2005
+Nebraska,Dundy,Benkelman,"1106 Cheyenne N St",,12/14/2005
+Nebraska,Franklin,Riverton,"153 Gold St",,03/29/2006
+Nebraska,Buffalo,Kearney,"2005 Third Ave",,04/05/2006
+Nebraska,Douglas,Omaha,"3522 Webster",,04/24/2006
+Nebraska,Adams,,"13090 North Florence Street",,09/07/2006
+Nebraska,Douglas,Bennington,"12525 Bennington Road",,01/08/2007
+Nebraska,Saline,Milligan,"491 Countty Road O",,02/15/2007
+Nebraska,Lancaster,Lincoln,"1955 G Street 6",,06/18/2007
+Nebraska,Buffalo,Kearney,"4664 West 30 Highway Apt 62",,11/10/2007
+Nebraska,Buffalo,"Elm Creek","205 North Mill Street",,01/22/2008
+Nebraska,Dawes,Chadron,"228 Ann Street",,03/04/2008
+Nebraska,Cass,Plattsmouth,"2425 South 15 Street 36",,03/06/2008
+Nebraska,Cass,Plattsmouth,"915 5 Avenue",,03/06/2008
+Nebraska,Pawnee,"Elk Creek","71924 50 Highway",,03/26/2008
+Nebraska,Lincoln,"North Platte","1616 North Jackson",,04/29/2008
+Nebraska,Lincoln,"North Platte","617 North Washington",,06/18/2008
+Nebraska,Lincoln,"North Platte","2300 East Philip Lot 49a",,08/12/2008
+Nebraska,Howard,Palmer,"1025 Cody Road",,10/03/2008
+Nebraska,Hamilton,Marquette,"106  Lynn Street",,01/16/2010
+Nebraska,Douglas,Omaha,"2504 South 49th Street",,02/24/2010
+Nebraska,Dodge,Scribner,"1489  F Road",,03/04/2010
+Nebraska,Douglas,Omaha,"6200  Arbor Street",,03/31/2010
+Nebraska,Kimball,Kimball,"3908 South 28 Street",,04/10/2010
+Nebraska,Douglas,Omaha,"2300 South 23rd Street",,04/12/2010
+Nebraska,Douglas,Omaha,"3421 South 58th Street",,04/16/2010
+Nebraska,Douglas,Omaha,"219 South 38th Avenue In",,07/01/2010
+Nebraska,Lancaster,Lincoln,"1020 North 35th Street 8",,10/02/2013
+Nebraska,Lancaster,Lincoln,"727 W E St",,11/11/2016

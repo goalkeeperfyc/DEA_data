@@ -1,0 +1,478 @@
+state,county,city,address1,address2,date
+Washington,King,Enumclaw,"21910 Se 424 St",,01/01/2004
+Washington,Pierce,Tacoma,"614 162nd S St",,01/05/2004
+Washington,"Grays Harbor",Elma,"18270 Cloquallum Rd",,01/06/2004
+Washington,Pierce,Tacoma,"5120 N 9th St",,01/07/2004
+Washington,Pierce,Roy,"101 358th E St",,01/09/2004
+Washington,Pierce,Tacoma,"3646 S Monroe St",,01/09/2004
+Washington,Spokane,Spokane,"903 E Central",,01/10/2004
+Washington,King,Sea-tac,"18900 47 S Ave 128",,01/12/2004
+Washington,Whatcom,Blaine,"8233 Cedar Ave",,01/13/2004
+Washington,Pierce,Tacoma,"2303 104th E St",,01/14/2004
+Washington,King,Kent,"11100 Se 176th St",,01/14/2004
+Washington,"Grays Harbor",Elma,"257 Newman Creek",,01/14/2004
+Washington,Grant,"Moses Lake","12037 Heritage Ln",,01/14/2004
+Washington,Kitsap,Olalla,"13238 Hadfield Rd",,01/15/2004
+Washington,Kitsap,"Port Orchard","425 S 321st Pl D6",,01/19/2004
+Washington,Pierce,Tacoma,"5102 S 58th St Q5",,01/20/2004
+Washington,Spokane,Spokane,"9508 N Division 118",,01/20/2004
+Washington,"Walla Walla",Touchet,"7028 Stateline Rd",,01/21/2004
+Washington,Pierce,Lakewood,"15209 Portland Sw Ave",,01/26/2004
+Washington,King,Seattle,"6222 S 118th Pl",,01/27/2004
+Washington,Kitsap,Seabeck,"1154 Stavis Nw Dr",,01/28/2004
+Washington,King,Auburn,"11604 Se 323 Pl",,01/28/2004
+Washington,Pierce,Tacoma,"911 Lafayette S St",,01/28/2004
+Washington,Pierce,Tacoma,"2545 Narrows Dr",,01/30/2004
+Washington,Pierce,Puyallup,"5819 77th Ave E Ct",,02/01/2004
+Washington,Thurston,Bucoda,"308 S Market St",,02/02/2004
+Washington,Spokane,Spokane,"4209 E Rich Ave",,02/03/2004
+Washington,Pierce,"Gig Harbor","18012 50th St",,02/03/2004
+Washington,Pierce,Lakewood,"10706 Douglas Sw Dr",,02/05/2004
+Washington,King,Seattle,"1923 East 10th Avenue",,02/05/2004
+Washington,Snohomish,"Mountlake Terrace","5408 236th Sw St",,02/06/2004
+Washington,Pierce,Tacoma,"3715 Wikleson S St",,02/06/2004
+Washington,Pierce,"Bonney Lake","19914 117th E St",,02/08/2004
+Washington,"Grays Harbor",Oakville,"315 N Newton",,02/09/2004
+Washington,Island,"Oak Harbor","651 Se Midway Blvd 9",,02/10/2004
+Washington,Snohomish,Monroe,"27623 178th Se Pl",,02/10/2004
+Washington,Pierce,Sumner,"15007 Main St 5",,02/10/2004
+Washington,Pierce,Tacoma,"520 72nd E St",,02/10/2004
+Washington,Skagit,Anacortes,"8244 Marchs Point S Rd",,02/11/2004
+Washington,Pierce,Sumner,"19201 54th E St",,02/12/2004
+Washington,Spokane,Spokane,"3523 E Olympic Ave",,02/12/2004
+Washington,Kitsap,Olalla,"10105 Olalla Valley",,02/13/2004
+Washington,Kitsap,Bremerton,"2150 Ne Winters",,02/13/2004
+Washington,Lewis,Packwood,"301 Bennett Rd",,02/13/2004
+Washington,Pierce,Tacoma,"15505 Canyon E Rd",,02/17/2004
+Washington,Thurston,Tacoma,"1117 6th N St",,02/18/2004
+Washington,Kitsap,"Port Orchard","5523 Peterson Se Rd",,02/18/2004
+Washington,Pierce,"Browns Point","4262 Foster Nw Pl",,02/23/2004
+Washington,"Pend Oreille",Newport,"512 Vista Dr",,02/23/2004
+Washington,Thurston,Tacoma,"404 30th S St",,02/24/2004
+Washington,Snohomish,Arlington,"4300 Stanword Bryant Rd",,02/24/2004
+Washington,Pierce,Sumner,"13418 Cedar Cir",,02/27/2004
+Washington,Pierce,Graham,"15421 50th E Ave",,02/29/2004
+Washington,Spokane,Spokane,"728 E Crown",,03/02/2004
+Washington,Spokane,Spokane,"112 W Longfellow",,03/03/2004
+Washington,"Grays Harbor",Aberdeen,"2312 Bay Ave",,03/04/2004
+Washington,Pierce,Kapowsin,"14401 Kapowsin E Hwy",,03/04/2004
+Washington,King,Burien,"260 S 156th St 9",,03/07/2004
+Washington,Pierce,Tacoma,"1005 S Ferry",,03/07/2004
+Washington,Whatcom,Blaine,"8870 Blaine Rd 80",,03/08/2004
+Washington,Whatcom,Blaine,"1319 E North St",,03/08/2004
+Washington,Whatcom,Blaine,"388 Cherry St",,03/08/2004
+Washington,Clark,Vancouver,"2122 Ne 90th Ave",,03/09/2004
+Washington,Pierce,Puyallup,"14205 Pioneer E Way",,03/09/2004
+Washington,Whatcom,Custer,"3029 Birchbay Lynden Rd",,03/10/2004
+Washington,Pierce,Orting,"705 Washington Ave",,03/11/2004
+Washington,Franklin,Pasco,"4721 Ivy Rd",,03/12/2004
+Washington,Snohomish,Arlington,"2405 188th Ne St",,03/12/2004
+Washington,Kitsap,"Port Orchard","1145 Sw J H Rd",,03/16/2004
+Washington,Snohomish,Marysville,"12015 Marine Dr 2278",,03/16/2004
+Washington,Yakima,Ahtanum,"3160 S Fork",,03/17/2004
+Washington,Mason,Shelton,"951 Crescent Se Dr",,03/18/2004
+Washington,King,Kent,"1233 Central N Ave",,03/18/2004
+Washington,Thurston,Lacey,"5134 Berger Se Dr",,03/19/2004
+Washington,King,Seattle,"9633 28 Sw Ave",,03/20/2004
+Washington,Spokane,Spokane,"7825 N Debby Lynn Ct",,03/23/2004
+Washington,Skagit,Bow,"11033 Blue Heron Rd",,03/26/2004
+Washington,Pierce,Tacoma,"6034 S Montgomery St 98409",,03/29/2004
+Washington,Pierce,Tacoma,"9008 47th E Ave",,03/30/2004
+Washington,Lewis,Centralia,"18302 Old Highway 99 Sw",,03/30/2004
+Washington,King,Covington,"26701 166th Se Pl",,03/31/2004
+Washington,"Grays Harbor",Aberdeen,"319 1/2 W 3rd",,03/31/2004
+Washington,Pierce,Tacoma,"6627 S Oakes St",,04/03/2004
+Washington,Pierce,Buckley,"25215 149th E St",,04/03/2004
+Washington,Pierce,Tacoma,"4611 S M St",,04/03/2004
+Washington,King,"Federal Way","506 Sw 366th St",,04/05/2004
+Washington,Pierce,Graham,"29807 92nd S Ave",,04/05/2004
+Washington,Clark,Amboy,"43207 Ne 285th Ave 23",,04/08/2004
+Washington,Pierce,Tacoma,"614 S Adams St",,04/08/2004
+Washington,Pierce,Lakewood,"6610 88th Sw St 3",,04/09/2004
+Washington,Thurston,Olympia,"2816 Martin E Way",,04/12/2004
+Washington,Pierce,Orting,"20913 175th Street E Ct",,04/12/2004
+Washington,Thurston,Yelm,"15547 148th Se Ave",,04/12/2004
+Washington,King,Seattle,"5840 Oberling Ne Ave",,04/13/2004
+Washington,Spokane,Spokane,"2020 N Argonne Rd",,04/14/2004
+Washington,Pierce,Tacoma,"5039 S Trafton",,04/14/2004
+Washington,Snohomish,Arlington,"24025 99th Ne Dr",,04/15/2004
+Washington,Snohomish,Arlington,"19300 106th Ne Ave",,04/17/2004
+Washington,Pierce,Lakebay,"17508 8th St",,04/19/2004
+Washington,Island,Freeland,"230 Lighthouse Way",,04/19/2004
+Washington,Pierce,"University Place","3302 72nd W Ave 103",,04/21/2004
+Washington,Spokane,Spokane,"6801 E 7th",,04/21/2004
+Washington,Benton,"Benton City","1002 E 7th St",,04/23/2004
+Washington,Lewis,Chehalis,"135 Criswell Ln",,04/23/2004
+Washington,Pierce,Tacoma,"5411 K S St",,04/26/2004
+Washington,Pierce,Tacoma,"922 S Shirley St",,04/26/2004
+Washington,Pierce,Tacoma,"1310 S 41st St",,04/29/2004
+Washington,Pierce,Tacoma,"7927 F E St",,04/30/2004
+Washington,Pierce,Tacoma,"7007 Waller E Rd",,05/01/2004
+Washington,Pierce,Milton,"903 23rd Ave",,05/03/2004
+Washington,Snohomish,"Lake Stevens","11801 20th Ne",,05/06/2004
+Washington,King,"Federal Way","137 S 330th St 19-b",,05/10/2004
+Washington,Pierce,Tacoma,"5402 S Junett St",,05/12/2004
+Washington,Pierce,Tacoma,"8032 E Mckinley",,05/12/2004
+Washington,Spokane,Spokane,"5302 N Lacey",,05/12/2004
+Washington,Pierce,Puyallup,"14522 128th St",,05/13/2004
+Washington,Pierce,Roy,"34615 25th S",,05/13/2004
+Washington,Benton,Kennewick,"950 S Keller B",,05/13/2004
+Washington,Pierce,Puyallup,"801 E Pioneer",,05/14/2004
+Washington,Pierce,Sumner,"15007 W Main 4",,05/16/2004
+Washington,King,Seattle,"12434 Ambaum Sw Blvd C215",,05/17/2004
+Washington,Cowlitz,Longview,"337 21st Ave",,05/20/2004
+Washington,King,Seatac,"19631 International Blvd 217",,05/21/2004
+Washington,Pierce,Spanaway,"12131 6th E Ave",,05/24/2004
+Washington,Whatcom,,"2008 Lopez E Ct",,05/26/2004
+Washington,Skagit,"Sudden Valley (subdiv)","7 Lost Fork Ln",,05/26/2004
+Washington,Pierce,Lakewood,"6141 Lake Grove Sw St",,05/27/2004
+Washington,"Pend Oreille",Cusick,"218 N Kalispel St",,05/27/2004
+Washington,Clark,Washougal,"2124 B St 1",,05/30/2004
+Washington,Benton,Kennewick,"953 S Keller E",,06/02/2004
+Washington,Pierce,"Unincorporated City","11717 241st E Ave",,06/02/2004
+Washington,"Pend Oreille",Newport,"435812 State Route 20 Rt",,06/02/2004
+Washington,Kitsap,"Port Orchard","1274 Sherman Ave",,06/04/2004
+Washington,Pierce,Tacoma,"6086 S Ainsworth",,06/04/2004
+Washington,Pierce,Tacoma,"5138 N Pearl 2",,06/06/2004
+Washington,Thurston,Rainier,"12510 Rainier Se Rd",,06/07/2004
+Washington,King,Hobart,"36470 Se 191 St",,06/08/2004
+Washington,King,Kent,"11101 Se 208 St",,06/08/2004
+Washington,Mason,Belfair,"17052 E 106 Hwy",,06/08/2004
+Washington,Pierce,Tacoma,"4214 N Baltimore",,06/08/2004
+Washington,Pierce,Tacoma,"6138 Park S Ave",,06/09/2004
+Washington,King,Tukwila,"12253 47th S Ave",,06/10/2004
+Washington,Franklin,Pasco,"8205 Sunset Ln",,06/12/2004
+Washington,Mason,Belfair,"291 Ne Mcknight Rd",,06/14/2004
+Washington,King,Auburn,"27102 78th S Ave",,06/15/2004
+Washington,Pierce,Spanaway,"25313 51st E Ave",,06/16/2004
+Washington,Franklin,Pasco,"507 N 4th Ave 606",,06/16/2004
+Washington,Pierce,Tacoma,"19901 22nd E Ave",,06/17/2004
+Washington,Benton,Kennewick,"213403 E 194 Pr Se",,06/22/2004
+Washington,Whatcom,Ferndale,"6170 Portal Way",,06/22/2004
+Washington,Pierce,Puyallup,"12710 112th E Ave 22",,06/24/2004
+Washington,Pierce,Tacoma,"5208 S Pine St",,06/24/2004
+Washington,Pierce,Tacoma,"905 N Washington St",,06/26/2004
+Washington,Island,Coupeville,"586 Wanamaker Rd",,06/28/2004
+Washington,Pierce,Tacoma,"14406 Pacific E Ave",,06/29/2004
+Washington,Benton,"Benton City","2201 Dusty Ln",,06/29/2004
+Washington,Pierce,Tacoma,"835 E 48th St",,06/30/2004
+Washington,Pierce,Tacoma,"4009 Brookdale E Rd",,06/30/2004
+Washington,Benton,"Benton City","400 14th St 4",,07/01/2004
+Washington,Pierce,Tacoma,"2910 N 7th St 1",,07/01/2004
+Washington,Pierce,Graham,"16715 230th E St",,07/03/2004
+Washington,"Grays Harbor","Ocean Shores","2436 Ocean Beach Rd",,07/06/2004
+Washington,Lewis,Chehalis,"1126 Centralia Alpha Rd",,07/07/2004
+Washington,Benton,Kennewick,"216094 E State Route 397 C",,07/07/2004
+Washington,King,Pacific,"222 Portland Ct 1",,07/09/2004
+Washington,Pierce,Orting,"306 Bowlin Ne Ave",,07/10/2004
+Washington,Snohomish,Arlington,"7415 204th Ne St",,07/11/2004
+Washington,Pierce,Tacoma,"816 E 49th St",,07/11/2004
+Washington,Pierce,Tacoma,"5421 Marine View Dr",,07/13/2004
+Washington,Pierce,Lakewood,"12613 Bridgeport Sw Way",,07/13/2004
+Washington,Spokane,"Spokane Valley","909 N Ravalli",,07/13/2004
+Washington,King,"Des Moines","1326 S 260th Pl",,07/13/2004
+Washington,Pierce,"Gig Harbor","3504 Ross Ave",,07/14/2004
+Washington,Lewis,Packwood,"12984-07 Us Highway 12 Hwy",,07/16/2004
+Washington,King,Auburn,"20231 Auburn Black Diamond Rd",,07/17/2004
+Washington,Clark,Camas,"31608 Ne George Rd",,07/20/2004
+Washington,Pierce,Sumner,"12925 Valley E Ave",,07/21/2004
+Washington,Chelan,Wenatchee,"361 Terminal St",,07/21/2004
+Washington,Lewis,Packwood,"12662 Us Highway 12 Hwy",,07/29/2004
+Washington,Lewis,Centralia,"3805 Karla Ct",,07/31/2004
+Washington,King,Burien,"106th Sw St",,08/01/2004
+Washington,Snohomish,Bothell,"1515 196th Se St",,08/02/2004
+Washington,Yakima,Tieton,"1490 W Tieton Rd",,08/03/2004
+Washington,Pierce,Tacoma,"5115 Filbert Sw Ln",,08/04/2004
+Washington,Pierce,Spanaway,"5227 204th Street E Ct",,08/05/2004
+Washington,Pierce,Tacoma,"9307 S Alaska St",,08/10/2004
+Washington,Stevens,Valley,"32945-d Waitts Lake Rd",,08/11/2004
+Washington,Pierce,Tacoma,"5034 S L St",,08/14/2004
+Washington,Pierce,Sumner,"14317 Praire Ridge E Dr",,08/14/2004
+Washington,Thurston,Yelm,"18220 Bald Hills Se Rd",,08/16/2004
+Washington,Skagit,Bow,"2758 Barrell Springs Rd",,08/16/2004
+Washington,Pierce,Tacoma,"12317 6th E Ave",,08/17/2004
+Washington,Stevens,Colville,"780d Hoffman Rd",,08/18/2004
+Washington,King,Renton,"15015 Se Jones Pl",,08/20/2004
+Washington,Benton,Kennewick,"40204 S Morton Rd",,08/21/2004
+Washington,Kitsap,"Port Orchard","15895 Sw Glenwood Rd",,08/23/2004
+Washington,Cowlitz,Longview,"122 18th Ave",,08/26/2004
+Washington,"Grays Harbor","Pacific Beach","17 Campbell Ln",,08/26/2004
+Washington,Pierce,Tacoma,"21805 58th E Ave",,08/31/2004
+Washington,King,Kent,"26339 116th Se St",,08/31/2004
+Washington,Cowlitz,Kalama,"194 Confer Rd",,09/01/2004
+Washington,Snohomish,Lynnwood,"6304 176th Sw St",,09/01/2004
+Washington,Whatcom,Bellingham,"1101 Alabama St",,09/01/2004
+Washington,Pierce,Tacoma,"6843 S K St",,09/05/2004
+Washington,Pierce,Tacoma,"614 S Ainsworth 1",,09/06/2004
+Washington,Pierce,Tacoma,"8425 S Thompson St",,09/07/2004
+Washington,Pierce,Tacoma,"1811 76th S St 246",,09/09/2004
+Washington,Pierce,Tacoma,"3719 S Thompson",,09/10/2004
+Washington,Douglas,Palisades,"1271 Palisades Rd A",,09/10/2004
+Washington,Whatcom,Custer,"7996 Valley View Rd",,09/13/2004
+Washington,Pierce,Tacoma,"1700 Blk Marshall Ave",,09/13/2004
+Washington,Pierce,"Bonney Lake","20709 91st E St",,09/17/2004
+Washington,Pierce,Tacoma,"1601 E Ells St",,09/20/2004
+Washington,Pierce,Graham,"4212 245th E",,09/21/2004
+Washington,Pierce,Roy,"31500 48th S Ave",,09/22/2004
+Washington,Pierce,Tacoma,"2011 S 7th 3",,09/26/2004
+Washington,Benton,Kennewick,"2906 W 7th 42",,09/27/2004
+Washington,Thurston,Rochester,"185th Sw Ave",,09/28/2004
+Washington,Pierce,Tacoma,"5832 S Fife St",,10/01/2004
+Washington,Pierce,Tacoma,"502 S 7th 43",,10/04/2004
+Washington,Pierce,Puyallup,"15307 273 E Ave",,10/04/2004
+Washington,Pierce,Roy,"35807 48th S Ave",,10/05/2004
+Washington,Pierce,Roy,"29712 64th S Ave",,10/06/2004
+Washington,Yakima,Yakima,"720 Cowiche Mill Rd",,10/08/2004
+Washington,Snohomish,Everett,"8218 Larimer Rd",,10/08/2004
+Washington,Yakima,Yakima,"1608 Fruitvale E Ave 118",,10/11/2004
+Washington,King,"Federal Way","29645 18th S Ave D",,10/12/2004
+Washington,King,Seattle,"10632 1 St Sw",,10/12/2004
+Washington,Kitsap,Seabeck,"2851 Komichan Nw Ln",,10/12/2004
+Washington,Pierce,Parkland,"11513 A S St",,10/13/2004
+Washington,King,Seatac,"3768 170 S St",,10/13/2004
+Washington,Snohomish,Marysville,"13807 36 Nw Dr",,10/15/2004
+Washington,Pierce,Tacoma,"817 S 40th St",,10/15/2004
+Washington,Benton,Kennewick,"611 E 3rd",,10/24/2004
+Washington,Clark,Vancouver,"9203 Ne Ward Rd",,10/27/2004
+Washington,Pierce,Purdy,"9213 147th Nw St",,10/28/2004
+Washington,Spokane,Spokane,"13801 Clear Lake S Rd",,10/29/2004
+Washington,Franklin,Pasco,"3605 Quail St",,11/04/2004
+Washington,Pierce,Graham,"25523 48th E Ave",,11/12/2004
+Washington,King,Kent,"128 Naden S Ave",,11/15/2004
+Washington,Benton,Kennewick,"203212 E State Route 397",,11/19/2004
+Washington,Pierce,Parkland,"421 161st S St",,11/22/2004
+Washington,Whatcom,Bellingham,"2808 Plymouth Dr",,11/23/2004
+Washington,Cowlitz,Longview,"149 Nibblett Way",,11/24/2004
+Washington,Pierce,Tacoma,"602 S Wright 402",,11/25/2004
+Washington,Spokane,Spokane,"121 E Wedgewood 207",,11/26/2004
+Washington,King,Burien,"1020 Sw 156th St",,11/29/2004
+Washington,Pierce,Tacoma,"10707 209th E Ave",,12/01/2004
+Washington,Spokane,"Spokane Valley","711 N Argonne Rd 42",,12/03/2004
+Washington,Spokane,Spokane,"711 N Argonne 42",,12/03/2004
+Washington,Kitsap,"Port Orchard","2553 Fircrest Dr",,12/03/2004
+Washington,Snohomish,Marysville,"3925 120th Ne Pl",,12/03/2004
+Washington,Pierce,Parkland,"623 134 S St",,12/04/2004
+Washington,Pierce,Lakewood,"10821 Idlewild Rd",,12/04/2004
+Washington,King,Enumclaw,"1143 Spruce St",,12/07/2004
+Washington,Spokane,"Otis Orchards","3615 N Kenney Rd",,12/08/2004
+Washington,Spokane,Spokane,"3615 Kenney N Rd",,12/08/2004
+Washington,Pierce,Lakewood,"12039 Pacific Sw Hwy",,12/11/2004
+Washington,Island,"Oak Harbor","1175 Burhma Rd",,12/15/2004
+Washington,Snohomish,Marysville,"1028 Cedar Ave D",,12/16/2004
+Washington,Snohomish,"Gold Bar","40500 169th Se St",,12/16/2004
+Washington,Clark,Vancouver,"5009 Hazeldell Ne Ave",,12/16/2004
+Washington,Pierce,Tacoma,"18810 Meridian E Ave",,12/17/2004
+Washington,King,Renton,"44050 4th Ne St",,12/20/2004
+Washington,Pierce,Graham,"8102 304th E St",,12/21/2004
+Washington,Snohomish,Arlington,"223 E Burke 2",,12/21/2004
+Washington,Pierce,Tacoma,"1407 S Madison St",,12/21/2004
+Washington,Spokane,Spokane,"4903 N Whitehouse",,12/22/2004
+Washington,Clark,Vancouver,"702 Se 141st Ave",,12/24/2004
+Washington,Pierce,Tacoma,"615 S 7th St",,12/27/2004
+Washington,Cowlitz,Longview,"336 21st Ave",,12/27/2004
+Washington,Pierce,Graham,"9402 213th St",,12/28/2004
+Washington,Benton,Kennewick,"218406 Sr 397 51",,12/31/2004
+Washington,Pierce,Tacoma,"6023 S Oakes",,01/03/2005
+Washington,Thurston,Rochester,"4840 176th Ave",,01/05/2005
+Washington,Pierce,Tacoma,"6704 S J St",,01/08/2005
+Washington,Pierce,Graham,"10001 237th Street Ct",,01/08/2005
+Washington,Garfield,Pomeroy,"2100 Gould City Mayview Rd",,01/09/2005
+Washington,"Grays Harbor",Aberdeen,"2617 Bay Ave",,01/09/2005
+Washington,Pierce,Tacoma,"7031 S Trafton St",,01/10/2005
+Washington,"Grays Harbor",Montesano,"455 Monte Elma Rd",,01/10/2005
+Washington,Pierce,Edgewood,"5205 Sumner Heights E Dr",,01/13/2005
+Washington,King,Burien,"15404 10th Sw Ave 3",,01/13/2005
+Washington,King,Kent,"24415 64th S Ave",,01/13/2005
+Washington,Clark,Vancouver,"7108 117th Ne Ave",,01/13/2005
+Washington,Thurston,Olympia,"6212 Miller Nw Rd",,01/14/2005
+Washington,Pierce,Tacoma,"9720 9th E Ave",,01/14/2005
+Washington,Pierce,Parkland,"10906 Golden Given E Rd",,01/18/2005
+Washington,Pierce,Graham,"25509 50th E Ave",,01/19/2005
+Washington,Snohomish,Sultan,"52619 Deep Woods Rd",,01/19/2005
+Washington,Pierce,Roy,"36412 62nd S Ave",,01/20/2005
+Washington,"Pend Oreille",Cusick,"208 1st St",,01/24/2005
+Washington,Thurston,Yelm,"15913 90th Se Ave",,01/25/2005
+Washington,Thurston,Yelm,"9502 Cullens Rd",,01/25/2005
+Washington,Grant,"Soap Lake","19415 Division N Rd",,01/26/2005
+Washington,Spokane,Elk,"16203 Nelson E Rd",,01/28/2005
+Washington,Chelan,Wenatchee,"3202 Hedding St",,01/28/2005
+Washington,Pierce,Parkland,"711 112th E St",,01/31/2005
+Washington,Pierce,Tacoma,"3842 Pacific Ave",,02/05/2005
+Washington,Kitsap,"Bainbridge Island","2229 Eastview Ave",,02/10/2005
+Washington,Clark,Vancouver,"9208 Ne 50th Ct",,02/17/2005
+Washington,Pierce,Puyallup,"12416 143rd E Ave",,02/17/2005
+Washington,Snohomish,Monroe,"20800 Lake Fontal Rd",,02/19/2005
+Washington,Pierce,Tacoma,"14705 9th E Ave",,02/19/2005
+Washington,Pierce,Puyallup,"8315 166th E St",,02/19/2005
+Washington,Snohomish,Everett,"6629 Olympic Dr",,02/21/2005
+Washington,Thurston,Yelm,"14804 Lawrence Lake Se Rd B",,02/21/2005
+Washington,Whatcom,Blaine,"1640 Peace Portal Ave 18",,02/23/2005
+Washington,Pierce,"Bonney Lake","7010 181st E St",,02/25/2005
+Washington,Snohomish,Everett,"6929 Beverly Blvd",,02/25/2005
+Washington,Pierce,Tacoma,"3719 8th S St",,02/26/2005
+Washington,Pierce,Tacoma,"5302 146th E St",,02/26/2005
+Washington,Pierce,Tacoma,"1422 Tyler S St",,02/26/2005
+Washington,Clark,Vancouver,"4004 Ne 44th St",,03/04/2005
+Washington,King,Renton,"19016 116th Se Ave",,03/08/2005
+Washington,Pierce,Tacoma,"2218 E Sherman E St",,03/09/2005
+Washington,Stevens,Ford,"5439 Happy Hill Rd",,03/10/2005
+Washington,Pierce,Eatonville,"7710 313th E St",,03/10/2005
+Washington,Skagit,Sedro-woolley,"211 Woodworth W St",,03/11/2005
+Washington,Whitman,Palouse,"200 W Almota Rd 4",,03/11/2005
+Washington,Pierce,Tacoma,"1218 95th E St",,03/11/2005
+Washington,Lewis,Vader,"228 Brim Creek Rd",,03/24/2005
+Washington,Snohomish,Sultan,"12605 Trout Farm Rd",,03/25/2005
+Washington,Franklin,Pasco,"2724 Lewis W",,03/28/2005
+Washington,Pierce,Tacoma,"2227 74th S St",,03/30/2005
+Washington,"Grays Harbor",Westport,"2803 Woodhill Ct B",,03/31/2005
+Washington,Pierce,Graham,"22422 40th E Ave",,03/31/2005
+Washington,Thurston,Olympia,"2612 Crestridge Nw Dr",,04/08/2005
+Washington,"Grays Harbor",Elma,"1211 Young St",,04/08/2005
+Washington,Pierce,Parkland,"1728 112th S St",,04/09/2005
+Washington,King,Renton,"19224 Se 164th St",,04/10/2005
+Washington,Pierce,Graham,"24719 44th E Ave",,04/14/2005
+Washington,Pierce,"Unincorporated City","186th Ave",,04/14/2005
+Washington,Pierce,Tacoma,"3800 E K St",,04/18/2005
+Washington,Pierce,Tacoma,"3566 E M St",,04/19/2005
+Washington,Pierce,Parkland,"1711 102nd S St",,04/20/2005
+Washington,Pierce,Puyallup,"17113 84th E Ave",,04/21/2005
+Washington,Snohomish,Index,"21600 Blk Stub Rd",,04/23/2005
+Washington,Pierce,Tacoma,"802 E 34th St",,04/25/2005
+Washington,Pierce,Tacoma,"2231 68th E St",,04/28/2005
+Washington,Pierce,Puyallup,"271 John Bananola E Way",,04/29/2005
+Washington,Pierce,"Bonney Lake","9920 192nd E Ave",,05/02/2005
+Washington,Pierce,Graham,"24818 160th E Ave",,05/03/2005
+Washington,Pierce,Sumner,"11507 205th E Ave",,05/04/2005
+Washington,Pierce,Tacoma,"2614 192nd E Ave",,05/04/2005
+Washington,Pierce,Tacoma,"1118 E 51st St",,05/04/2005
+Washington,Pierce,Tacoma,"18925 30th E Ave",,05/05/2005
+Washington,Pierce,Tacoma,"3585 E Howe St",,05/09/2005
+Washington,Pierce,Puyallup,"1407 156th E St",,05/13/2005
+Washington,Pierce,Tacoma,"1810 E Columbia Ave",,05/13/2005
+Washington,Snohomish,Arlington,"20813 79th Ne Dr",,05/13/2005
+Washington,Pierce,Graham,"32800 8th S Ave",,06/02/2005
+Washington,Spokane,Spokane,"10807 4th E Ave 08",,06/06/2005
+Washington,Kitsap,"Port Orchard","1440 Dekalb St",,06/11/2005
+Washington,"Walla Walla","Walla Walla","918 W Willow Street",,06/29/2005
+Washington,Okanogan,Tonasket,"225 1st St",,06/30/2005
+Washington,"Grays Harbor",Elma,"20 Timothy Ln",,07/05/2005
+Washington,Pierce,Tacoma,"1606 S Adams",,07/09/2005
+Washington,Grant,"Moses Lake","4647 Star Dr",,07/11/2005
+Washington,King,Woodinville,"19707 130th Ne Pl",,07/11/2005
+Washington,Pierce,"Gig Harbor","6708 54th Nw Ave",,07/12/2005
+Washington,Pierce,Puyallup,"8005 156th E St",,07/18/2005
+Washington,Thurston,Olympia,"5217 Kagy Se Rd",,07/25/2005
+Washington,King,Burien,"415 So 128 St",,07/27/2005
+Washington,King,Seattle,"415 S 128th St",,07/27/2005
+Washington,Mason,Belfair,"1000 Sandhill Rd",,08/02/2005
+Washington,Pierce,Tacoma,"511 South 141st Street",,08/02/2005
+Washington,Pierce,"Gig Harbor","8720 Randall Nw Dr",,08/16/2005
+Washington,Pierce,Tacoma,"5301 S Oakes St",,08/29/2005
+Washington,King,Ravensdale,"34104 270th Se",,08/31/2005
+Washington,Pierce,Tacoma,"5707 N 45th St",,09/03/2005
+Washington,Pierce,Tacoma,"1625 E 32nd St",,09/16/2005
+Washington,Pierce,"Unincorporated City","1702 194th Ave",,09/16/2005
+Washington,Pierce,Puyallup,"16816 79th E Ave",,09/18/2005
+Washington,Pierce,"University Place","5503 S Stevens St",,09/20/2005
+Washington,Pierce,Roy,"33811 S 82nd",,09/25/2005
+Washington,King,Auburn,"25422 29th S Ave",,09/25/2005
+Washington,Pierce,Tacoma,"12715 Pacific Ave 6",,09/27/2005
+Washington,Pierce,Lakewood,"10411 Fruitland",,10/13/2005
+Washington,King,Burien,"210 Sw 155th St 303",,10/26/2005
+Washington,King,Seatac,"14043 24th S",,10/27/2005
+Washington,Wythe,"Rural Retreat","1039 Dutton Hollow Rd",,11/08/2005
+Washington,Pierce,Puyallup,"7805 183rd St",,11/21/2005
+Washington,Benton,Kennewick,"1206 N Arthur",,11/27/2005
+Washington,Snohomish,Marysville,"12105 Smokey Point Blvd",,11/29/2005
+Washington,Pierce,Tacoma,"5514 S Sheridan",,12/01/2005
+Washington,King,Kent,"30665 Kent Black Diamond Rd",,12/07/2005
+Washington,Pierce,Tacoma,"6312 S I St",,01/05/2006
+Washington,Pierce,Buckley,"22406 112th E St",,01/11/2006
+Washington,Chelan,Wenatchee,"914 Washington St Upstairs",,01/11/2006
+Washington,Pierce,Eatonville,"115 Rainier S Ave A",,01/13/2006
+Washington,Clark,Vancouver,"2800 Northeast Stapleton Road",,01/13/2006
+Washington,Pierce,Graham,"6321 202nd E St",,01/16/2006
+Washington,Yakima,Grandview,"601 Hillcrest",,01/17/2006
+Washington,Whatcom,Bellingham,"8968 Portal",,01/17/2006
+Washington,Pierce,Tacoma,"628 S Hawthorne",,01/20/2006
+Washington,Yakima,Yakima,"3200 S Fork",,02/02/2006
+Washington,King,Enumclaw,"34401 Enumclaw Franklin Road",,02/14/2006
+Washington,Pierce,Puyallup,"15720 62nd E Ave",,02/15/2006
+Washington,King,Enumclaw,"1820 Washington Avenue",,02/23/2006
+Washington,Lewis,Centralia,"111 1/2 West Chestnut",,02/23/2006
+Washington,Pierce,Graham,"9024 216th",,02/24/2006
+Washington,Pierce,"Bonney Lake","20314 Church Lake Drive",,02/27/2006
+Washington,King,"Federal Way","2416 S 315th Ln H-206",,03/01/2006
+Washington,Chelan,Manson,"500 Lakeshore Dr",,03/07/2006
+Washington,Pierce,Roy,"6618 South 325th Street",,03/23/2006
+Washington,Stevens,Tumtum,"6248 Whitmore Hill",,03/26/2006
+Washington,Lewis,Chehalis,"2635 Jackson Highway",,03/28/2006
+Washington,Spokane,Cheney,"15309 S Cheney Road",,04/04/2006
+Washington,Pierce,Lakewood,"7300 Southwest Block 146th",,04/08/2006
+Washington,Pierce,Tacoma,"4329 G Street",,04/13/2006
+Washington,Pierce,Tacoma,"1928 56th Street",,04/13/2006
+Washington,Spokane,Spokane,"5303 N Crestline Street",,04/18/2006
+Washington,Snohomish,Bothell,"22605 Southeast 9th",,05/03/2006
+Washington,Whatcom,Blaine,"4284 Sweet Road",,05/03/2006
+Washington,Thurston,Olympia,"1730 Southeast Elizabeth Street",,05/04/2006
+Washington,Wahkiakum,Skamokawa,"1069 W State Route 4",,05/04/2006
+Washington,King,Seattle,"4053 Southwest 23rd",,05/10/2006
+Washington,Pierce,Sumner,"16712 East 196th",,05/20/2006
+Washington,Pierce,Sumner,"11601 East 205th",,05/24/2006
+Washington,Lewis,Packwood,"114 Edmonds Road",,05/25/2006
+Washington,Pierce,Tacoma,"920 East 61st Street",,06/01/2006
+Washington,Clark,Vancouver,"5910 Northeast 131st Avenue",,06/13/2006
+Washington,Klickitat,Goldendale,"24 Bahems Way",,06/14/2006
+Washington,King,Seattle,"518 North 101st Street",,06/22/2006
+Washington,Pierce,Tacoma,"810 South 98th Street",,06/29/2006
+Washington,Cowlitz,Longview,"149 Niblett",,08/10/2006
+Washington,Lewis,Centralia,"18323 Southwest Loganberry",,08/23/2006
+Washington,Whatcom,"Maple Falls","6365 Dardu Road",,09/05/2006
+Washington,Pierce,Graham,"26915 East 76th Avenue",,09/15/2006
+Washington,Spokane,Spokane,"5300 N Market",,09/20/2006
+Washington,Pierce,Sumner,"22109 East 125th Street",,09/21/2006
+Washington,Spokane,Fairfield,"22315 East Powers Road",,09/27/2006
+Washington,Clark,Vancouver,"6920 Ne Saint Johns Road",,10/04/2006
+Washington,Pierce,Vaughn,"15611 182nd Kpn",,10/13/2006
+Washington,Spokane,Spokane,"165 S Washington",,10/18/2006
+Washington,Pierce,Buckley,"11408 243rd Avenue",,10/30/2006
+Washington,Pierce,Tacoma,"1422 S 80th Street",,11/07/2006
+Washington,Pierce,Eatonville,"314 W Washington",,01/03/2007
+Washington,Kitsap,"Port Orchard","2816 Southeast Salmonberry Road",,01/16/2007
+Washington,Pierce,Buckley,"25509 East 162nd Street",,02/08/2007
+Washington,Pierce,,"38107 South 2nd",,02/22/2007
+Washington,King,Kent,"20633 Southeast 148th Avenue",,03/01/2007
+Washington,Pierce,Buckley,"12124 East Sr 165 Route",,04/13/2007
+Washington,Pierce,"Bonney Lake","481 S Union Road",,04/20/2007
+Washington,Pierce,"Bonney Lake","24316 East 117th Street",,04/26/2007
+Washington,King,Seattle,"10607 Des Moines Memorial Drive #4",,05/08/2007
+Washington,King,Seattle,"10607 South Desmoines Memorial Drive",,05/09/2007
+Washington,Pierce,"Gig Harbor","9509 Northwest Peacock Hill",,05/10/2007
+Washington,Kitsap,Poulsbo,"18470 9th",,05/24/2007
+Washington,Mason,Belfair,"102 Northeast Rainbow Lane",,06/29/2007
+Washington,Whatcom,"Maple Falls","6364 Dardu Road",,07/12/2007
+Washington,Stevens,Colville,"108 West King",,07/12/2007
+Washington,Pierce,Vaughn,"816 Webb Road",,07/18/2007
+Washington,Cowlitz,Longview,"281 17th Avenue",,07/30/2007
+Washington,King,Kent,"21412 East 131st Street",,08/02/2007
+Washington,Benton,Prosser,"126702 West W King Tull Road",,08/11/2007
+Washington,Pierce,Tacoma,"4601 East Pacific Highway",,08/14/2007
+Washington,Pierce,Longbranch,"18697 Avenue 18",,08/21/2007
+Washington,Skamania,Stevenson,"580 Northeast Ne Major Street",,08/28/2007
+Washington,Kitsap,"Port Orchard","6904 Garfield",,01/21/2008
+Washington,Pierce,Roy,"40113 South 32nd",,02/21/2008
+Washington,Pierce,"Bonney Lake","20906 East Edwards Road",,04/17/2008
+Washington,Spokane,Mead,"17703 N Timberlane",,07/01/2008
+Washington,Douglas,"East Wenatchee","305 Falcon Ridge",,04/13/2009
+Washington,Pierce,Buckley,"25206 96th",,04/14/2009
+Washington,Pierce,Sumner,"5221 160th",,04/21/2009
+Washington,Pierce,Puyallup,"6801 144th",,04/22/2009
+Washington,Benton,"Benton City","31404 E Kennedy",,05/06/2009
+Washington,Snohomish,Everett,"2311 Grand",,06/02/2009
+Washington,Lewis,Centralia,"3810  Glavin",,01/26/2010
+Washington,Kitsap,"Port Orchard","2593  Griffith",,01/28/2010
+Washington,Kanawha,Charleston,"1602  Livingston Avenue",,10/07/2013
+Washington,Kanawha,Charleston,"31  Arlington Avenue",,10/07/2013
+Washington,Kanawha,Charleston,"156  Wildwood Acres",,10/13/2013
+Washington,Kanawha,Marmet,"8402  Macorkle Avenue",,10/23/2013
+Washington,King,Seattle,"5609 S Prentice Street",,03/09/2016

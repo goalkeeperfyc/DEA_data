@@ -1,0 +1,111 @@
+state,county,city,address1,address2,date
+Minnesota,Anoka,"Columbia Heights","3906 3rd Ne St",,01/09/2004
+Minnesota,"Le Sueur",Kasota,"321 Rice S St",,01/20/2004
+Minnesota,Anoka,Linwood,"22 Lyons W St",,01/21/2004
+Minnesota,Cottonwood,"Heron Lake","37722 410th St",,01/31/2004
+Minnesota,Dakota,"Inver Grove Heights","2113 78th St",,02/04/2004
+Minnesota,Sherburne,"Elk River","204 Lowell Ave",,02/18/2004
+Minnesota,"Le Sueur",Kasota,"1 Kossuth St",,02/19/2004
+Minnesota,"Le Sueur",Kasota,"700 Webster N",,02/19/2004
+Minnesota,Dodge,Kasson,"11 8th Nw Ave",,02/23/2004
+Minnesota,Brown,"New Ulm","1003 Washington S St",,02/23/2004
+Minnesota,Freeborn,"Twin Lakes","Lot 39 3rd St 39",,02/24/2004
+Minnesota,Brown,"New Ulm","22927 185th St",,02/24/2004
+Minnesota,Chisago,Harris,"44107 Forest Boulevard",,02/28/2004
+Minnesota,"Blue Earth",Mankato,"1255 Range St 233",,03/02/2004
+Minnesota,Freeborn,"Maple Island","28143 Island N Cir",,03/11/2004
+Minnesota,"St. Louis",Hibbing,"3425 4th W Ave",,03/12/2004
+Minnesota,Mower,Austin,"702 4th Nw St",,03/12/2004
+Minnesota,Wright,Buffalo,"212 4th S Ave",,03/22/2004
+Minnesota,Cass,Longville,"1669 Townline Ne Rd",,03/25/2004
+Minnesota,Aitkin,Aitkin,"36925 295th St",,03/29/2004
+Minnesota,Freeborn,"Albert Lea","214 Columbus S Ave",,03/31/2004
+Minnesota,Aitkin,Isle,"13797 260th Pl",,04/05/2004
+Minnesota,Anoka,Blaine,"8818 Goodbye Ne St",,04/06/2004
+Minnesota,Grant,"Elbow Lake","1411 State 79 E Hwy Lot 9",,04/07/2004
+Minnesota,Hubbard,"Park Rapids","18515 209th Ave",,04/14/2004
+Minnesota,Dakota,Farmington,"4758 220th W St",,04/22/2004
+Minnesota,"Crow Wing","Fort Ripley","20082 243rd St",,05/13/2004
+Minnesota,Anoka,"Coon Rapids","10805 Thrush Nw St",,05/17/2004
+Minnesota,Anoka,"Coon Rapids","13241 Grouse Nw",,05/31/2004
+Minnesota,Anoka,"Columbia Heights","1032 44th Ave",,06/08/2004
+Minnesota,Aitkin,Isle,"27563 110th St",,06/14/2004
+Minnesota,Wright,"Saint Michael","14016 42nd Ne St",,06/16/2004
+Minnesota,"Mille Lacs",Milaca,"6655 Falcon Rd",,06/25/2004
+Minnesota,Clay,Moorhead,"1610 3rd S St",,06/25/2004
+Minnesota,Anoka,"Oak Grove","2105 181st Nw Ave",,07/03/2004
+Minnesota,Anoka,"Columbus Township","6821 167th Ave",,07/07/2004
+Minnesota,Anoka,"Saint Francis","2720 239 Nw Ave",,07/13/2004
+Minnesota,"Otter Tail",Perham,"325 3rd Ne Ave",,08/04/2004
+Minnesota,Sherburne,"Clear Lake","7072 100th Se Ave",,08/19/2004
+Minnesota,Wright,Monticello,"11948 Northeast Aetna Avenue",,08/25/2004
+Minnesota,"Otter Tail",Ottertail,"36599 State Hwy 78",,09/02/2004
+Minnesota,Wright,Otsego,"8560 Parell Ne Ave",,10/01/2004
+Minnesota,Pipestone,Pipestone,"508 Northeast 2nd Avenue",,10/06/2004
+Minnesota,"Otter Tail",Ottertail,"35777 Rush Lake Lp",,10/06/2004
+Minnesota,Pipestone,Pipestone,"905 Southwest 6th Street",,10/07/2004
+Minnesota,Hubbard,Laporte,"39255 257th Ave",,10/09/2004
+Minnesota,Polk,Crookston,"701 Minnesota S",,10/13/2004
+Minnesota,Dakota,"Inver Grove Heights","3104 65th E St 107",,10/22/2004
+Minnesota,Wright,Clearwater,"300 Lime St",,11/03/2004
+Minnesota,Polk,Crookston,"708 3rd Ne Ave 8",,12/03/2004
+Minnesota,Becker,Audubon,"18999 Deroxe Rd",,12/17/2004
+Minnesota,"Mille Lacs",Isle,"34417 Hwy 47",,12/27/2004
+Minnesota,Olmsted,Rochester,"3873 Willow Ridge Sw Dr",,12/28/2004
+Minnesota,Olmsted,Rochester,"1230 Broadway S 324",,12/29/2004
+Minnesota,Wright,Clearwater,"15007 County Road 75 Nw",,01/02/2005
+Minnesota,Chisago,Shafer,"34223 Unity Ave",,01/17/2005
+Minnesota,Sherburne,"Elk River","18034 Queen Nw",,01/20/2005
+Minnesota,Pipestone,Woodstock,"32 131st St",,01/25/2005
+Minnesota,Stearns,Avon,"35063 County Road 155",,01/27/2005
+Minnesota,Freeborn,"Albert Lea","1023 Abbott St",,01/30/2005
+Minnesota,Polk,Beltrami,"21809 450 Sw St",,02/10/2005
+Minnesota,Sherburne,"Clear Lake","13495 County 3 Rd",,02/25/2005
+Minnesota,"Otter Tail",Dent,"37551 395th St",,03/01/2005
+Minnesota,Benton,"Sauk Rapids","2417 65th Ne St",,03/03/2005
+Minnesota,Polk,"East Grand Forks","20 Garden Court Nw",,03/03/2005
+Minnesota,Pope,Glenwood,"309 3rd Se St",,03/14/2005
+Minnesota,Polk,Erskine,"19066 Union Dr",,03/20/2005
+Minnesota,Olmsted,Rochester,"322 Northwest 36th Avenue",,03/25/2005
+Minnesota,Freeborn,"Albert Lea","1405 Broadway S Ave",,04/02/2005
+Minnesota,Anoka,Anoka,"1544 Sunny Way N Ct",,04/11/2005
+Minnesota,Isanti,Isanti,"24782 Lincoln N Ct",,04/14/2005
+Minnesota,Faribault,Winnebago,"329 2nd Nw Ave",,04/19/2005
+Minnesota,Waseca,Waseca,"820 5th Sw St",,07/21/2005
+Minnesota,Kandiyohi,"New London","19343 63rd Ne St",,08/12/2005
+Minnesota,Morrison,"Little Falls","1010 1st Sw Ave",,08/15/2005
+Minnesota,Renville,"Sacred Heart","305 Maple E St",,09/03/2005
+Minnesota,Lyon,Marshall,"2167 260th St",,09/13/2005
+Minnesota,Traverse,Wheaton,"1605 1st N Ave",,10/03/2005
+Minnesota,"Van Buren","Paw Paw","38620 30th St",,12/22/2005
+Minnesota,Anoka,,"6545 10 #203 Highway",,02/08/2006
+Minnesota,Goodhue,Welch,"2127 Frazier St",,02/23/2006
+Minnesota,Isanti,Isanti,"28625 Lakewood Dr",,03/07/2006
+Minnesota,Goodhue,"Red Wing","716 1/2 Central Ave",,03/10/2006
+Minnesota,Hubbard,Nevis,"21706 State Highway 34",,06/10/2006
+Minnesota,Steele,Owatonna,"337 State Avenue",,07/21/2006
+Minnesota,Sherburne,"Big Lake","3110 Northwest Lake Ridge Dr",,08/04/2006
+Minnesota,Anoka,"East Bethel","2711 Northeast 226th Lane",,08/15/2006
+Minnesota,Wright,Clearwater,"30 Porter Circle",,08/17/2006
+Minnesota,Isanti,Isanti,"102 South Dahlin Avenue",,12/01/2006
+Minnesota,Steele,Owatonna,"569 East Rose Street",,04/11/2007
+Minnesota,"Le Sueur","Le Sueur","509 North Second #209 Street",,05/09/2007
+Minnesota,Washington,Hugo,"4964 North Emmit Drive",,05/16/2007
+Minnesota,Olmsted,Rochester,"1119 Southwest 7 Avenue",,06/05/2007
+Minnesota,Olmsted,Rochester,"805 Northwest 4 Avenue",,06/05/2007
+Minnesota,Anoka,Andover,"516 Northwest 166th Avenue",,08/09/2007
+Minnesota,Isanti,Isanti,"3982 Northwest 253rd Street",,11/29/2007
+Minnesota,Nobles,Dundee,"11 East 2nd Street",,11/29/2007
+Minnesota,Lincoln,Tyler,"1540 240th Avenue",,12/15/2007
+Minnesota,Kandiyohi,Atwater,"110 Main Street",,02/07/2008
+Minnesota,Pipestone,Pipestone,"519 Southeast 7th Avenue",,02/13/2008
+Minnesota,Koochiching,Littlefork,"5967 Co Rd 78",,03/07/2008
+Minnesota,Hennepin,"Brooklyn Park","4333 Edinbrook Terrace",,04/03/2008
+Minnesota,Isanti,Cambridge,"560 Calhoun Place",,08/07/2008
+Minnesota,Olmsted,Oronoco,"1197 Northwest 115th Street",,09/11/2008
+Minnesota,Marshall,Alvarado,"46378 230th Street",,09/19/2008
+Minnesota,Itasca,"Grand Rapids","15146  Danson Road",,01/12/2011
+Minnesota,Beltrami,Bemidji,"166 Northwest Old Willow Ct",,02/07/2012
+Minnesota,Hennepin,Minneapolis,"5137 South Abbott Avenue",,04/11/2014
+Minnesota,Washington,Landfall,"12  Ivy Lane",,01/08/2015
+Minnesota,Dakota,,"1550 Charlton St",,11/18/2016

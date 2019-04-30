@@ -1,0 +1,3021 @@
+state,county,city,address1,address2,date
+Missouri,Dent,Salem,"101 N Iron Street",,
+Missouri,"St. Louis (city)","Saint Louis","6153  Beverly Court",,
+Missouri,Douglas,Ava,"728 5 Rt",,01/01/2004
+Missouri,Washington,"Mineral Point","1 Rt 491-b",,01/02/2004
+Missouri,Lawrence,"Mount Vernon","15235 Farm Road 2153",,01/02/2004
+Missouri,Iron,Arcadia,"313 Spring St",,01/02/2004
+Missouri,Benton,Warsaw,"516 State St",,01/02/2004
+Missouri,Newton,Seneca,"1433 Gum Rd",,01/02/2004
+Missouri,Franklin,"Saint Clair","1701 River Haven Dr",,01/02/2004
+Missouri,Laclede,Conway,"101 Martingale Dr",,01/03/2004
+Missouri,Laclede,Lebanon,"27512 Parkgrove Ln G",,01/03/2004
+Missouri,Henry,Clinton,"112 Allen W",,01/04/2004
+Missouri,Jefferson,Hillsboro,"8524 Southwinds",,01/04/2004
+Missouri,Jefferson,Dittmer,"8409 Cedar Ln",,01/05/2004
+Missouri,"St. Louis","Saint Louis","2810 Ohio St",,01/05/2004
+Missouri,Pemiscot,Steele,"2123 County Road 407",,01/05/2004
+Missouri,Greene,Springfield,"823 Jefferson S St",,01/05/2004
+Missouri,Scott,Sikeston,"67 Rainbow Lake Rd",,01/06/2004
+Missouri,Barry,Golden,"Hcr 1 1248",,01/06/2004
+Missouri,"Saint Louis","Saint Louis","7340 Vermont",,01/06/2004
+Missouri,"St. Francois",Farmington,"1655 Heinrich Rd",,01/06/2004
+Missouri,Greene,Springfield,"1221 Crutcher S St",,01/07/2004
+Missouri,Franklin,Sullivan,"416 Elm St B",,01/08/2004
+Missouri,"St. Charles","Saint Charles","109 Tecumseh",,01/08/2004
+Missouri,Jefferson,Pacific,"8607 John Mckeever",,01/08/2004
+Missouri,Christian,Nixa,"1423 Nicholas S",,01/08/2004
+Missouri,Jefferson,Dittmer,"8432 Highway Ww",,01/08/2004
+Missouri,Warren,Warrenton,"28 Fairlane Acres",,01/09/2004
+Missouri,Jefferson,"Crystal City","129 Beffa E",,01/09/2004
+Missouri,Dunklin,Arbyrd,"4688 Elbert Dr",,01/09/2004
+Missouri,Ripley,Doniphan,"Hc 4 51f",,01/09/2004
+Missouri,Lincoln,"Moscow Mills","14 Clarence Ct",,01/10/2004
+Missouri,Montgomery,Jonesburg,"53 Missouri Route 'v'",,01/10/2004
+Missouri,Camden,"Osage Beach","5042 Highway 54 E",,01/11/2004
+Missouri,Franklin,"Saint Clair","2572 Riverbend Rd",,01/12/2004
+Missouri,Dunklin,Clarkton,"104 Lorton",,01/12/2004
+Missouri,Ralls,"New London","62077 Oakhill Rd",,01/13/2004
+Missouri,Lawrence,Aurora,"1600 Engle S 21",,01/13/2004
+Missouri,Ralls,"New London","13668 Whitaker Ln",,01/13/2004
+Missouri,Jefferson,"Cedar Hill","8850 Highway Nn",,01/14/2004
+Missouri,Lincoln,"Moscow Mills","2941 Cappel N Rd",,01/14/2004
+Missouri,Greene,Springfield,"1530 National N Ave",,01/14/2004
+Missouri,Jackson,"Kansas City","9641 Manning S Ave",,01/14/2004
+Missouri,Franklin,Labadie,"223 West Bend Heights Dr",,01/15/2004
+Missouri,Jefferson,Dittmer,"7881 Woodland",,01/15/2004
+Missouri,Mcdonald,Noel,"312 High",,01/15/2004
+Missouri,Gasconade,Bland,"302 Marvin E St",,01/15/2004
+Missouri,Sullivan,Browning,"51855 Woodland Rd",,01/15/2004
+Missouri,Greene,Springfield,"3501 Sunshine W 33",,01/15/2004
+Missouri,"St. Francois","Bonne Terre","6418 Dunn St 2",,01/16/2004
+Missouri,Jackson,"Kansas City","5829 Truman S Rd",,01/17/2004
+Missouri,"Saint Louis",Ferguson,"1042 Highmont",,01/17/2004
+Missouri,Marion,Hannibal,"2702 Rackliffe",,01/18/2004
+Missouri,Warren,Warrenton,"381 Pendelton Lost Creek",,01/18/2004
+Missouri,Jackson,"Kansas City","1900 82nd E Ter",,01/18/2004
+Missouri,Howard,"New Franklin","109 Pearl St",,01/18/2004
+Missouri,"St. Louis","Saint Louis","8441 Tennessee St B",,01/19/2004
+Missouri,Jasper,Carthage,"9351 County 172 Ln",,01/20/2004
+Missouri,Jackson,"Blue Springs","405 13th Sw St 413",,01/20/2004
+Missouri,Newton,Granby,"7128 Shetland Rd",,01/21/2004
+Missouri,Stoddard,Puxico,"18497 County 493 Rd",,01/21/2004
+Missouri,Morgan,Otterville,"4529 50 Hwy",,01/22/2004
+Missouri,Stone,"Kimberling City","9755 13 Hwy 2",,01/23/2004
+Missouri,Ripley,Doniphan,"7 160 W Hwy 106",,01/23/2004
+Missouri,Jasper,Joplin,"1960 Eagle Ln",,01/23/2004
+Missouri,Christian,Rogersville,"3253 Braden Rd",,01/23/2004
+Missouri,Christian,Nixa,"30 Meadows Trailer Park",,01/24/2004
+Missouri,Boone,Columbia,"6450 Southwest Way",,01/25/2004
+Missouri,Greene,Springfield,"1603 National N B",,01/26/2004
+Missouri,Jefferson,"Cedar Hill","8615 Terri Hill",,01/26/2004
+Missouri,Crawford,Cherryville,"290 White River Rd",,01/27/2004
+Missouri,"St. Charles","Saint Peters","144 Eldorado Ct",,01/27/2004
+Missouri,Jasper,Joplin,"1842 22nd W St",,01/27/2004
+Missouri,Jasper,Joplin,"1310 Kentucky S St",,01/28/2004
+Missouri,Jefferson,Hillsboro,"8844 Chapel Hill Ct",,01/28/2004
+Missouri,Laclede,Lebanon,"22170 Hackberry Rd 41",,01/28/2004
+Missouri,Newton,Joplin,"6450 Castle Heights Rd",,01/28/2004
+Missouri,Stoddard,Dexter,"916 Elm N",,01/28/2004
+Missouri,"St. Clair","Appleton City","6490 B Nw Rt",,01/29/2004
+Missouri,"St. Louis (city)","Saint Louis","4522 Arsenal",,01/29/2004
+Missouri,Greene,Springfield,"2208 Drury N",,01/29/2004
+Missouri,Greene,Springfield,"2746 Summit N Ave",,01/29/2004
+Missouri,Lewis,Lewistown,"108 Crist Ln",,01/30/2004
+Missouri,Pulaski,Richland,"400 Washington W St W-4-b",,02/03/2004
+Missouri,"St. Francois",Farmington,"4903 Frye R Rd",,02/04/2004
+Missouri,Jasper,Carterville,"502 Elm S Rd",,02/04/2004
+Missouri,"Saint Louis",Overland,"2204 Burns",,02/04/2004
+Missouri,Crawford,Bourbon,"344 Old Springfield",,02/04/2004
+Missouri,Jefferson,"De Soto","1201 Cedar Valley F",,02/04/2004
+Missouri,Caldwell,Polo,"200 West Center E St",,02/05/2004
+Missouri,Washington,Potosi,"1859 1 Rt",,02/06/2004
+Missouri,Howell,Caulfield,"2950 County Road 7400",,02/06/2004
+Missouri,Moniteau,Clarksburg,"208 State W St",,02/06/2004
+Missouri,Christian,Nixa,"523 Primrose Ln",,02/08/2004
+Missouri,Jefferson,Arnold,"3610 Outer W Rd 310",,02/08/2004
+Missouri,Grundy,Spickard,"905 Coral St",,02/08/2004
+Missouri,Warren,Warrenton,"28087 Pendleton Lost Creek",,02/08/2004
+Missouri,Greene,Springfield,"7416 266 W Hwy",,02/09/2004
+Missouri,Jefferson,Festus,"12530 Cc Hwy",,02/09/2004
+Missouri,Franklin,Catawissa,"5215 Miller Ln",,02/09/2004
+Missouri,Jasper,Joplin,"3981 Calliope Ln",,02/09/2004
+Missouri,Wright,Mansfield,"2450 Ee N Hwy",,02/09/2004
+Missouri,"Saint Louis","Saint John","8613 Betty Lee Dr",,02/09/2004
+Missouri,Camden,Branch,"1411 State Highway 73",,02/09/2004
+Missouri,Madison,Fredericktown,"1447 Oo Hwy",,02/10/2004
+Missouri,Howard,Clark,"305 County Road 142",,02/10/2004
+Missouri,Jefferson,Hillsboro,"137 Crest Dr",,02/10/2004
+Missouri,Jefferson,Arnold,"1471 Hill Dr",,02/10/2004
+Missouri,Jasper,Joplin,"1700 30th W St",,02/10/2004
+Missouri,Wright,Hartville,"4766 State Hh E Hwy",,02/11/2004
+Missouri,Jasper,Joplin,"219 Oak St",,02/11/2004
+Missouri,Pemiscot,Wardell,"2887 State A Hwy",,02/11/2004
+Missouri,Greene,Springfield,"1293 Sunset E",,02/11/2004
+Missouri,Washington,Cadet,"2048 2 Rt",,02/11/2004
+Missouri,Howard,"New Franklin","211 Missouri S St",,02/12/2004
+Missouri,Lawrence,Freistatt,"228 Main N St",,02/12/2004
+Missouri,Jefferson,Festus,"1940 Cardinal",,02/12/2004
+Missouri,"Ste. Genevieve",Bloomsdale,"8438 Terry Lee Dr",,02/13/2004
+Missouri,Franklin,Sullivan,"8785 Ae Hwy",,02/13/2004
+Missouri,Ripley,Fairdealing,"160 Hwy 101",,02/13/2004
+Missouri,"St. Francois","French Village","5457 Y Hwy",,02/13/2004
+Missouri,Taney,Ridgedale,"4086 Ridgedale Rd",,02/14/2004
+Missouri,Jefferson,Dittmer,"8814 Ee Hwy",,02/14/2004
+Missouri,Howard,Glasgow,"614 Commerce St",,02/16/2004
+Missouri,Pulaski,Dixon,"17357 Cambridge Ln",,02/16/2004
+Missouri,"St. Francois","Park Hills","308 Field W St",,02/17/2004
+Missouri,Scott,Sikeston,"107 Kay St",,02/17/2004
+Missouri,Jefferson,"High Ridge","6625 Pp Hwy",,02/17/2004
+Missouri,"Saint Louis",Overland,"9208 Meadow Brook",,02/17/2004
+Missouri,Jackson,"Kansas City","9736 Locust S St",,02/18/2004
+Missouri,Greene,Springfield,"2320 Pierce N",,02/18/2004
+Missouri,"St. Charles",O'fallon,"14 Gauntlet",,02/18/2004
+Missouri,Saline,Marshall,"682 Benton N Ave",,02/18/2004
+Missouri,Jefferson,Pevely,"1832 Willow Dr",,02/18/2004
+Missouri,Wright,"Mountain Grove","2200 Stoney Point S",,02/19/2004
+Missouri,Washington,Irondale,"172 1 Rr",,02/19/2004
+Missouri,Newton,Stella,"18645 Highway O",,02/19/2004
+Missouri,Johnson,"Knob Noster","763 50 Ne Hwy",,02/19/2004
+Missouri,Iron,Ironton,"416 Main N St",,02/20/2004
+Missouri,Jackson,Independence,"201 Willis S St",,02/20/2004
+Missouri,"St. Francois",Bismarck,"458 Center St",,02/20/2004
+Missouri,Jasper,Joplin,"5321 20th W St",,02/20/2004
+Missouri,Henry,Clinton,"253 Yy Ne Rt",,02/21/2004
+Missouri,Franklin,Pacific,"2647 N Hwy",,02/21/2004
+Missouri,Greene,Springfield,"7159 Farm Road 140 W",,02/21/2004
+Missouri,Jefferson,Arnold,"2494 Starling Airport Rd",,02/22/2004
+Missouri,Jasper,Carterville,"115 Bulger St",,02/22/2004
+Missouri,Boone,Centralia,"18399 Roddy Rd",,02/23/2004
+Missouri,Saline,Marshall,"472 Washington W St",,02/23/2004
+Missouri,Newton,Neosho,"911 Hearrell St",,02/23/2004
+Missouri,Franklin,Labadie,"265 Decker Rd",,02/23/2004
+Missouri,Taney,Branson,"3400 76 W Hwy 216",,02/23/2004
+Missouri,Washington,Potosi,"2419 B 1 Rt",,02/23/2004
+Missouri,Jasper,Joplin,"3400 Rangeline N Rd",,02/23/2004
+Missouri,Howell,"West Plains","11011 County Road 9510",,02/24/2004
+Missouri,Jefferson,"Cedar Hill","6541 Jenny Ct",,02/24/2004
+Missouri,Laclede,Lebanon,"25989 Oakdale Dr",,02/24/2004
+Missouri,Ripley,Doniphan,"107 Locust",,02/24/2004
+Missouri,Jefferson,Eureka,"3138 Beach",,02/25/2004
+Missouri,Jasper,Joplin,"1604 Indiana S St",,02/25/2004
+Missouri,Jackson,"Kansas City","8917 Campbell N Ave",,02/25/2004
+Missouri,Jefferson,"Cedar Hill","8408 Industrial",,02/25/2004
+Missouri,Dunklin,Kennett,"821 Oak Lawn Cir",,02/25/2004
+Missouri,Jefferson,Eureka,"3152 Beach Rd",,02/25/2004
+Missouri,"St. Charles","Saint Charles","2401 8th N",,02/25/2004
+Missouri,Pulaski,Crocker,"15840 Bunker Rd",,02/25/2004
+Missouri,Boone,Columbia,"1111 South Elizabeth E 1",,02/25/2004
+Missouri,Jefferson,"De Soto","717 Jefferson",,02/26/2004
+Missouri,"Saint Louis",Overland,"2230 Hood",,02/26/2004
+Missouri,Crawford,Cuba,"1005 Grand E",,02/26/2004
+Missouri,Jackson,"Kansas City","5504 44 Ne Ter Kansas Cit",,02/26/2004
+Missouri,Jasper,Oronogo,"21600 Kafir Rd",,02/26/2004
+Missouri,Perry,Perryville,"1025 Old St. Marys Rd 3",,02/26/2004
+Missouri,Jackson,"Kansas City","114 80th E Ter",,02/27/2004
+Missouri,Lincoln,"Moscow Mills","4710 Brandes Rd",,02/27/2004
+Missouri,Pemiscot,Caruthersville,"3129 State 164 Hwy",,02/28/2004
+Missouri,Lafayette,Odessa,"503 Chestnut E",,03/01/2004
+Missouri,Clay,"Kansas City","4103 Winn Ne Road",,03/01/2004
+Missouri,Jasper,Joplin,"1904 Picher S St",,03/01/2004
+Missouri,Camden,"Macks Creek","1411 State 73 Hwy",,03/01/2004
+Missouri,Douglas,Ava,"1 Rt 3544",,03/01/2004
+Missouri,"Saint Louis","Saint Louis","308 Fannie",,03/02/2004
+Missouri,Newton,Seneca,"9859 Bethel Rd",,03/02/2004
+Missouri,Christian,Nixa,"Meadows Trailer Park 62",,03/02/2004
+Missouri,Jefferson,Hillsboro,"8841 Central Point",,03/02/2004
+Missouri,Jasper,Joplin,"2028 Adele S St",,03/04/2004
+Missouri,Jefferson,Hillsboro,"6213 Lakeshore S Dr",,03/04/2004
+Missouri,"Saint Louis",Maplewood,"2572 Westpoint Rd",,03/04/2004
+Missouri,Crawford,Steelville,"394 Long Spring",,03/04/2004
+Missouri,Christian,Billings,"824 Metzletine N",,03/05/2004
+Missouri,Ralls,"New London","12686 Thornberry Rd",,03/05/2004
+Missouri,Webster,Marshfield,"702 Washington E St",,03/05/2004
+Missouri,"St. Charles","Saint Charles","3800 Harry S Truman",,03/06/2004
+Missouri,Butler,Fisk,"104 Lincoln St",,03/08/2004
+Missouri,"Ste. Genevieve",Bloomsdale,"5891 Fork S Dr",,03/08/2004
+Missouri,Jefferson,Hillsboro,"8155 Wohlbold",,03/08/2004
+Missouri,"Saint Louis",Affton,"4873 Oldenburg",,03/09/2004
+Missouri,Washington,Irondale,"75 1 Rt",,03/09/2004
+Missouri,Jefferson,Festus,"7 High Hill",,03/10/2004
+Missouri,Crawford,Bourbon,"1805 Bernett",,03/10/2004
+Missouri,Gasconade,Hermann,"338 Goethe St",,03/11/2004
+Missouri,Jackson,Grandview,"15007 Grand Summit E 105",,03/11/2004
+Missouri,Livingston,Chillicothe,"555 Mohawk W 22",,03/11/2004
+Missouri,Washington,Richwoods,"473 Long Horn Rd",,03/12/2004
+Missouri,Saline,Marshall,"540 Seargent N St",,03/12/2004
+Missouri,"Cape Girardeau",Perryville,"730 Main N St",,03/12/2004
+Missouri,Taney,Branson,"153 Hope St",,03/13/2004
+Missouri,Lafayette,Higginsville,"1710 Olive St",,03/15/2004
+Missouri,Pulaski,Waynesville,"25232 W Hwy",,03/15/2004
+Missouri,Ripley,Doniphan,"160e-1 Hwy",,03/16/2004
+Missouri,Jefferson,"High Ridge","2300 Darla Dr",,03/16/2004
+Missouri,Jackson,"Kansas City","8500 350 E Hwy 143",,03/16/2004
+Missouri,Cass,Raymore,"318 Sunrise S Dr",,03/16/2004
+Missouri,Miller,Iberia,"884 A Hwy",,03/16/2004
+Missouri,Jasper,"Carl Junction","303 Rowden Ln",,03/17/2004
+Missouri,Henry,Clinton,"711 Carter S",,03/17/2004
+Missouri,Phelps,Newburg,"21715 Private 8496 Dr",,03/17/2004
+Missouri,Lincoln,Troy,"360 Boone St",,03/17/2004
+Missouri,Jasper,Carthage,"405 5th E St",,03/17/2004
+Missouri,Franklin,Sullivan,"450 Springfield E 40",,03/18/2004
+Missouri,Wright,Mansfield,"224 Maple W St",,03/18/2004
+Missouri,Warren,Warrenton,"4 Lotus Ct",,03/18/2004
+Missouri,Jasper,Joplin,"310 Forest",,03/18/2004
+Missouri,Jefferson,"High Ridge","3321 Rock Creek",,03/18/2004
+Missouri,"St. Francois","Park Hills","600 Scoggins St",,03/18/2004
+Missouri,Jefferson,"De Soto","5175 Hillsboro Hematite Rd",,03/19/2004
+Missouri,"Saint Louis","Saint Louis","8441 Tennessee B",,03/21/2004
+Missouri,Jasper,Carthage,"11325 Kafir Rd",,03/23/2004
+Missouri,Jasper,Carthage,"9935 County 185 Ln",,03/23/2004
+Missouri,Boone,Columbia,"1602 Mills Dr 4",,03/24/2004
+Missouri,Crawford,Cuba,"713 Prairie S 3",,03/24/2004
+Missouri,Webster,Seymour,"921 Dillon Rd",,03/26/2004
+Missouri,Cole,Henley,"145 Hyline Dr",,03/26/2004
+Missouri,"Ste. Genevieve",Bloomsdale,"7201 Bieller Rd",,03/26/2004
+Missouri,Jasper,Joplin,"929 Picher St",,03/26/2004
+Missouri,Laclede,Lebanon,"13857 Cc Hwy",,03/26/2004
+Missouri,Jefferson,"De Soto","3539 V Hwy",,03/29/2004
+Missouri,Mcdonald,Anderson,"2230 Racetrack Hollow Rd",,03/30/2004
+Missouri,"Ste. Genevieve",Bloomsdale,"3390 U.s. 61 Hwy",,03/30/2004
+Missouri,Bollinger,Patton,"County 902 N Rd",,03/30/2004
+Missouri,Jasper,Carthage,"1875 Country Club S Rd",,03/31/2004
+Missouri,"Saint Louis","Maryland Heights","11827 Lackland 337",,03/31/2004
+Missouri,Jasper,Carthage,"10299 Oak Rd",,03/31/2004
+Missouri,Howell,"West Plains","670 Howell County 1280 Rd",,04/01/2004
+Missouri,Jackson,"Kansas City","4816 18th E St",,04/01/2004
+Missouri,Jefferson,"House Springs","4780 Wedgewood",,04/02/2004
+Missouri,Cass,Harrisonville,"1003 Wall W B",,04/04/2004
+Missouri,Wright,"Mountain Grove","999 Sunshine E Ave",,04/05/2004
+Missouri,Pemiscot,Deering,"5760 Deering N Rd",,04/06/2004
+Missouri,Jefferson,"De Soto","12381 Greenhouse",,04/06/2004
+Missouri,Vernon,Nevada,"403 Hickory W St",,04/06/2004
+Missouri,Jefferson,Festus,"113 Blue Fountain",,04/06/2004
+Missouri,Franklin,"Saint Clair","1236 Cedar Trl",,04/06/2004
+Missouri,Barry,Purdy,"5th N St",,04/06/2004
+Missouri,Ripley,Doniphan,"339 160 W Hwy",,04/07/2004
+Missouri,"St. Francois",Leadwood,"716 Hunt St",,04/08/2004
+Missouri,Franklin,Catawissa,"4811 Hh Hwy",,04/08/2004
+Missouri,Christian,Ozark,"302 Church E",,04/09/2004
+Missouri,"St. Charles","Saint Charles","150 Red Scholl Rd",,04/09/2004
+Missouri,"Cape Girardeau",Perryville,"1116 Grand Ave",,04/09/2004
+Missouri,Pulaski,Crocker,"235 Hawkings St",,04/10/2004
+Missouri,Newton,Diamond,"4498 Lark Rd",,04/10/2004
+Missouri,Jefferson,Hillsboro,"5505 Crescent",,04/12/2004
+Missouri,Jefferson,Hillsboro,"9596 Meadow",,04/12/2004
+Missouri,Jefferson,"De Soto","620 Miller",,04/12/2004
+Missouri,Jasper,Carthage,"15877 Mint Ln",,04/12/2004
+Missouri,Jefferson,"Cedar Hill","8529 Lake Dr",,04/12/2004
+Missouri,Franklin,"Saint Clair","1750 Tt Hwy",,04/12/2004
+Missouri,Jefferson,"De Soto","5301 Knorp",,04/13/2004
+Missouri,Dallas,Buffalo,"13 Engle Rd",,04/13/2004
+Missouri,Jefferson,Hillsboro,"6067 Old Bakers School Rd",,04/13/2004
+Missouri,Lincoln,Silex,"177 Palmer School Ln",,04/14/2004
+Missouri,Lincoln,Truxton,"115 Prairie",,04/14/2004
+Missouri,Howell,"Mountain View","8560 Howell County 2660 Rd",,04/14/2004
+Missouri,Henry,Clinton,"305 Washington",,04/14/2004
+Missouri,Iron,Viburnum,"4 Meadow Crest St",,04/15/2004
+Missouri,Carroll,Carrollton,"602 Grand Avenue Circle",,04/15/2004
+Missouri,"St. Charles",O'fallon,"315 San Jose",,04/15/2004
+Missouri,Jefferson,Imperial,"1131 Westward Trl",,04/15/2004
+Missouri,"Cape Girardeau","Oak Ridge","154 Red Pine Ln",,04/16/2004
+Missouri,Warren,Warrenton,"404 Highway B S",,04/16/2004
+Missouri,Newton,Neosho,"503 West Hill",,04/16/2004
+Missouri,"St. Francois",Bismarck,"1012 Mulberry St",,04/16/2004
+Missouri,Johnson,"Knob Noster","704 Mcpherson E",,04/17/2004
+Missouri,Mississippi,"East Prairie","109 Irene St",,04/17/2004
+Missouri,Jefferson,Arnold,"102 Frisco St",,04/17/2004
+Missouri,Newton,Neosho,"312 Farm Road 2100",,04/19/2004
+Missouri,Jefferson,Dittmer,"8432 State Ww Rd",,04/20/2004
+Missouri,"St. Charles",O'fallon,"1919 Winter Hill",,04/20/2004
+Missouri,Jasper,Joplin,"315 Wall N St",,04/20/2004
+Missouri,Lawrence,Aurora,"19557 Lawrence 2180",,04/20/2004
+Missouri,Pettis,Sedalia,"1585 Crestview Dr",,04/20/2004
+Missouri,Osage,Linn,"205 Second S 7",,04/21/2004
+Missouri,"St. Francois","Park Hills","5350 Jarvis Rd",,04/21/2004
+Missouri,Jefferson,"Cedar Hill","6533 Jenny Ct",,04/21/2004
+Missouri,Laclede,Lebanon,"20496 Cole Rd",,04/21/2004
+Missouri,Jasper,Joplin,"809 Empire S St",,04/21/2004
+Missouri,Wright,"Mountain Grove","224 Fox Creek S Rd",,04/21/2004
+Missouri,Lawrence,Marionville,"404 Circle Dr",,04/21/2004
+Missouri,Jefferson,Hillsboro,"11707 Castle Ranch",,04/23/2004
+Missouri,Montgomery,Jonesburg,"214 Lyon W St",,04/23/2004
+Missouri,Montgomery,Bellflower,"50 Baptist Rd",,04/23/2004
+Missouri,Jackson,"Kansas City","2941 Topping S Ave",,04/24/2004
+Missouri,Howard,"New Franklin","302 Broadway E",,04/24/2004
+Missouri,Laclede,Lebanon,"352 Washington S Ave",,04/26/2004
+Missouri,"St. Charles","Saint Charles","37 Lee Dr",,04/26/2004
+Missouri,"St. Charles","Saint Charles","2201 Benton N",,04/27/2004
+Missouri,Newton,Joplin,"10239 Amy Ln",,04/27/2004
+Missouri,"Ste. Genevieve","Sainte Genevieve","20257 Brown Rd",,04/27/2004
+Missouri,Jackson,"Kansas City","7901 40 E Hwy 110",,04/28/2004
+Missouri,Greene,Springfield,"1223 Locust E",,04/28/2004
+Missouri,Jefferson,Hillsboro,"11775 Castle Ranch Rd",,04/29/2004
+Missouri,Barry,"Shell Knob","4549 Route 1",,04/30/2004
+Missouri,Osage,Chamois,"323 Missouri E Ave",,04/30/2004
+Missouri,Warren,Warrenton,"1429 Service Road N 127",,04/30/2004
+Missouri,Jasper,Joplin,"316 Brownell S",,04/30/2004
+Missouri,Henry,Windsor,"1260 651 Ne Rd",,05/04/2004
+Missouri,Jefferson,"De Soto","729 Kelly E",,05/04/2004
+Missouri,Vernon,Nevada,"620 Arch W St",,05/04/2004
+Missouri,Franklin,"Villa Ridge","1301 At Hwy A",,05/04/2004
+Missouri,Jasper,Carterville,"5965 County 200 Rd",,05/05/2004
+Missouri,Webster,Fordland,"8879 State Z Hwy",,05/05/2004
+Missouri,"Saint Louis",Overland,"10739 Lack Link",,05/05/2004
+Missouri,Phelps,Rolla,"2006 Bishop N Ave",,05/06/2004
+Missouri,Christian,Sparta,"475 Hill Tops Oak Ln",,05/07/2004
+Missouri,Franklin,"New Haven","1008 Washington St",,05/08/2004
+Missouri,Jasper,Joplin,"5635 Choctaw Ln",,05/09/2004
+Missouri,Greene,Republic,"6455 Farm 194 W Rd",,05/10/2004
+Missouri,Linn,Brookfield,"217 East Prairie Street",,05/10/2004
+Missouri,Phelps,Rolla,"1407 Spencer St",,05/10/2004
+Missouri,Phelps,Rolla,"800 6th E St",,05/10/2004
+Missouri,Jefferson,"De Soto","13800 Laguna Palma",,05/10/2004
+Missouri,Jackson,"Kansas City","506 Booth S Ave",,05/11/2004
+Missouri,Jasper,Carthage,"621 6th E St",,05/11/2004
+Missouri,"St. Charles",O'fallon,"1910 Mark Twain",,05/11/2004
+Missouri,Newton,Joplin,"1893 Jaquar Rd",,05/12/2004
+Missouri,Greene,Springfield,"3703 Farm 139 N Rd",,05/12/2004
+Missouri,Jasper,Joplin,"1117 Picher S St",,05/12/2004
+Missouri,Howell,"West Plains","10404 Cr 6570",,05/12/2004
+Missouri,Greene,Springfield,"3550 Chestnut Expressway W",,05/13/2004
+Missouri,Boone,Columbia,"4514 Broadway W",,05/13/2004
+Missouri,Howell,"West Plains","201 Railroad N Ave",,05/14/2004
+Missouri,Lincoln,Winfield,"109 Whispering Wind Dr",,05/14/2004
+Missouri,Jasper,Carthage,"12232 Kent Ln",,05/15/2004
+Missouri,Pettis,Sedalia,"20625 Mcfarland Rd",,05/16/2004
+Missouri,Macon,Atlanta,"415 Marion W St",,05/16/2004
+Missouri,Jefferson,Festus,"105 Blue Fountain",,05/17/2004
+Missouri,Dunklin,Holcomb,"201 Army Dr",,05/18/2004
+Missouri,"New Madrid",Sikeston,"821 South West St D",,05/19/2004
+Missouri,Jefferson,"De Soto","14192 Klondike Rd",,05/19/2004
+Missouri,Lawrence,Marionville,"356 Gracie Ln",,05/19/2004
+Missouri,Franklin,Lonedell,"8175 Rye Creek Rd",,05/19/2004
+Missouri,Howell,"West Plains","7410 County 5090 Rd",,05/19/2004
+Missouri,"St. Charles","Saint Charles","2688 Droste",,05/19/2004
+Missouri,Lafayette,Lexington,"415 23rd S St A1",,05/19/2004
+Missouri,Ripley,Doniphan,"21 N Hwy",,05/19/2004
+Missouri,Warren,Warrenton,"425 Veteran's Memorial Parkway W",,05/20/2004
+Missouri,Wright,Hartville,"4202 Krause Road",,05/20/2004
+Missouri,Crawford,Cuba,"5810 Riverside",,05/22/2004
+Missouri,Cedar,"El Dorado Springs","2905 350 E Rd",,05/22/2004
+Missouri,Jasper,Joplin,"2029 Empire S",,05/23/2004
+Missouri,Franklin,Sullivan,"25 Shamrock",,05/24/2004
+Missouri,Franklin,Lonedell,"340 Linda Dr",,05/24/2004
+Missouri,Adair,Kirksville,"307 Centnial N St",,05/25/2004
+Missouri,Jefferson,Dittmer,"8451 Elm Springs",,05/25/2004
+Missouri,Ray,Hardin,"202 Elm E St",,05/25/2004
+Missouri,Adair,Kirksville,"1400 Michigan W St 3",,05/25/2004
+Missouri,Bates,"Rich Hill","704 Olive E",,05/25/2004
+Missouri,Greene,Springfield,"435 Jewett E",,05/25/2004
+Missouri,Jefferson,Imperial,"4016 Woodland",,05/26/2004
+Missouri,Ralls,"New London","3588 79 Hwy",,05/26/2004
+Missouri,Pulaski,Dixon,"20407 Hartford Rd",,05/27/2004
+Missouri,Franklin,"Villa Ridge","11 Diamond Patch Ln",,05/27/2004
+Missouri,Greene,Springfield,"2951 West Camino Alto Street",,05/27/2004
+Missouri,Jefferson,Imperial,"3841 Imperial",,05/27/2004
+Missouri,Jackson,"Kansas City","8220 Hickman Mills S Dr 201",,05/28/2004
+Missouri,Jackson,Independence,"11014 23rd E St",,05/28/2004
+Missouri,Jefferson,Arnold,"1255 Telegraph P",,05/29/2004
+Missouri,Franklin,Union,"1793 Judith Springs Rd",,05/31/2004
+Missouri,"St. Charles",O'fallon,"2324 Oak Path",,06/01/2004
+Missouri,Jefferson,Imperial,"3592 (b) Ridge",,06/01/2004
+Missouri,Jackson,Independence,"1817 Willow S Ave",,06/03/2004
+Missouri,"St. Charles",O'fallon,"14 Joan Dr A",,06/03/2004
+Missouri,Washington,"Mineral Point","803 Commercial St",,06/03/2004
+Missouri,Crawford,Cuba,"75 Indian Hills Dr",,06/03/2004
+Missouri,Greene,Springfield,"827 East Dale Street",,06/03/2004
+Missouri,"St. Charles",Foristell,"2507 N W Hwy",,06/03/2004
+Missouri,Warren,"Wright City","1122 Chester Rd",,06/04/2004
+Missouri,Christian,Sparta,"200-6 Hcr 66",,06/04/2004
+Missouri,"St. Charles",O'fallon,"8008 Oak Field",,06/04/2004
+Missouri,Greene,"Ash Grove","3559 Lawrence County Road 1250",,06/04/2004
+Missouri,Ripley,Doniphan,"167 2 E Rt",,06/05/2004
+Missouri,Jackson,"Kansas City","1601 Universal N Ave 212",,06/05/2004
+Missouri,"St. Charles","Saint Charles","3254 Ipswich",,06/07/2004
+Missouri,Greene,Willard,"619 Mark S",,06/08/2004
+Missouri,"St. Charles","Saint Charles","1005 Saint Charles",,06/08/2004
+Missouri,Newton,Neosho,"13448 Kylee Ln 11",,06/08/2004
+Missouri,Jasper,Carterville,"106 Gum Rd",,06/08/2004
+Missouri,"Saint Louis",Eureka,"3138 Beach Ct",,06/09/2004
+Missouri,Jefferson,"De Soto","4325 Downs",,06/09/2004
+Missouri,"Saint Louis",Fenton,"914 Oak Dr",,06/09/2004
+Missouri,Pulaski,Dixon,"214 Ellen St",,06/10/2004
+Missouri,"St. Francois",Farmington,"202 Hyler St",,06/10/2004
+Missouri,Howell,"West Plains","11544 State Mm Rt",,06/10/2004
+Missouri,Dade,Arcola,"102 Pearl W 11",,06/11/2004
+Missouri,"St. Francois","Doe Run","2772 Railroad Rd",,06/11/2004
+Missouri,Howell,"West Plains","2743 Cr 4420",,06/11/2004
+Missouri,Scott,Benton,"26 Ferrell Trailer Ct",,06/13/2004
+Missouri,Jasper,Joplin,"202 Rock Ln",,06/14/2004
+Missouri,"Saint Louis",Eureka,"7985 Jim Weber Rd",,06/14/2004
+Missouri,Christian,Sparta,"3789 Jj Hwy",,06/14/2004
+Missouri,Jackson,"Kansas City","1002 117th E St",,06/15/2004
+Missouri,Linn,Brookfield,"657 Wentz St",,06/15/2004
+Missouri,Jefferson,"Cedar Hill","6745 30 Hwy E",,06/15/2004
+Missouri,Jasper,Carterville,"6734 Cr 200",,06/15/2004
+Missouri,Scott,Sikeston,"1513 Kathleen E",,06/15/2004
+Missouri,Christian,Nixa,"3246 Jackson W St",,06/16/2004
+Missouri,"St. Charles","Saint Peters","1 Devondale Pl",,06/17/2004
+Missouri,Greene,Springfield,"3658 El Castille W",,06/18/2004
+Missouri,Franklin,Washington,"824 Amburgy Rd",,06/18/2004
+Missouri,Cass,Raymore,"1200 Hubach Rd",,06/18/2004
+Missouri,Jasper,"Neck City","105 Grand N Ave",,06/21/2004
+Missouri,Laclede,Lebanon,"14900 Georgetown Rd",,06/21/2004
+Missouri,Jefferson,Festus,"370 Mill N",,06/21/2004
+Missouri,Franklin,Sullivan,"Hcr 65 109-a",,06/21/2004
+Missouri,Jasper,"Webb City","402 Earl N St",,06/21/2004
+Missouri,Franklin,Sullivan,"109 B Pipeline Rd",,06/21/2004
+Missouri,Lincoln,Troy,"1266 Kk Hwy",,06/22/2004
+Missouri,Christian,Ozark,"909 9th N St",,06/22/2004
+Missouri,Crawford,Cuba,"901 Mapleshade N",,06/22/2004
+Missouri,Jefferson,Arnold,"4715 Bentrup",,06/23/2004
+Missouri,Jasper,"Webb City","904 Megan E St",,06/23/2004
+Missouri,Henry,Clinton,"308 Ohio E",,06/24/2004
+Missouri,"Saint Louis",Clayton,"9217 Broadway S",,06/24/2004
+Missouri,Jefferson,Hillsboro,"8853 Sandy Creek Acres",,06/24/2004
+Missouri,Miller,Eldon,"1508 Grand S Ave 7",,06/25/2004
+Missouri,Scott,"Scott City","1804 Fornfelt",,06/25/2004
+Missouri,Jasper,"Webb City","112 Oronogo N St",,06/26/2004
+Missouri,Camden,"Linn Creek","144 Dusty Trl",,06/28/2004
+Missouri,Lincoln,Troy,"1578 47 E Hwy",,06/28/2004
+Missouri,Jefferson,"De Soto","301 Mineral S",,06/29/2004
+Missouri,Lincoln,Troy,"109 Anna Ave",,06/29/2004
+Missouri,Jefferson,"De Soto","13025 Orchard Park Ln",,06/29/2004
+Missouri,"Saint Louis",Eureka,"7286 Jim Weber Rd",,06/30/2004
+Missouri,Morgan,Versailles,"7758 Ozark Heights Rd",,06/30/2004
+Missouri,Jasper,Joplin,"1502 Michigan S St 15-6",,06/30/2004
+Missouri,Jasper,Joplin,"1511 Wall S St 5a-south",,07/01/2004
+Missouri,Greene,Springfield,"3839 Farm 168 W Rd",,07/01/2004
+Missouri,Jasper,Carthage,"1415 24th E St",,07/01/2004
+Missouri,Morgan,Versailles,"422 Old W Rd",,07/02/2004
+Missouri,Jefferson,Hillsboro,"92 Tower Valley",,07/02/2004
+Missouri,Howell,"West Plains","5885 N Hwy",,07/02/2004
+Missouri,"St. Charles","Saint Charles","720 7th N St",,07/02/2004
+Missouri,Greene,Springfield,"266 W Hwy",,07/03/2004
+Missouri,"New Madrid",Gideon,"1238 County 278 Rd",,07/06/2004
+Missouri,Washington,"Mineral Point","2521 2 Rt",,07/06/2004
+Missouri,Franklin,Washington,"1113 5th W St A",,07/06/2004
+Missouri,Jasper,Carterville,"124 Poplar",,07/07/2004
+Missouri,Jefferson,Imperial,"4125 Diana Dr",,07/07/2004
+Missouri,Franklin,Washington,"1400 Madison Ave",,07/08/2004
+Missouri,Laclede,Lebanon,"14189 Dunklin Rd",,07/08/2004
+Missouri,Marion,Hannibal,"285 Munger Ln 29",,07/08/2004
+Missouri,Jefferson,Imperial,"3312 Eldon",,07/09/2004
+Missouri,Wright,Mansfield,"880 Commercial W St",,07/10/2004
+Missouri,Henry,Clinton,"108 Henry W St D",,07/10/2004
+Missouri,Jefferson,"De Soto","1114 Williams",,07/12/2004
+Missouri,Jefferson,"De Soto","11249 Castle Ranch",,07/13/2004
+Missouri,Jackson,"Kansas City","5517 Eastern S Ave",,07/13/2004
+Missouri,Jasper,Joplin,"1424 Byer S St",,07/13/2004
+Missouri,Newton,Diamond,"102 Morgan S St",,07/13/2004
+Missouri,Jasper,Joplin,"130- Patterson S St",,07/14/2004
+Missouri,Cass,Belton,"121 Brookside Dr",,07/14/2004
+Missouri,Wright,Grovespring,"1061 M Hwy",,07/14/2004
+Missouri,"Saint Louis",Wildwood,"509 Woolsey",,07/14/2004
+Missouri,Barry,Seligman,"1130 Old Mail Route Rd",,07/15/2004
+Missouri,Greene,Springfield,"3410 Elmview S Ave",,07/15/2004
+Missouri,Newton,Joplin,"4720 Rangeline S St 8",,07/15/2004
+Missouri,Franklin,Washington,"6123 Bieker Rd",,07/15/2004
+Missouri,Cedar,"El Dorado Springs","4785 1260 E Rd",,07/15/2004
+Missouri,Franklin,Union,"9251 Whiskey Creek Spur",,07/15/2004
+Missouri,"St. Francois",Desloge,"504 Grane N St B",,07/16/2004
+Missouri,Barton,"Golden City","907 Pine St",,07/17/2004
+Missouri,Jackson,Independence,"1716 Waubesa S Ave",,07/17/2004
+Missouri,"St. Francois","Doe Run","2662 1st St",,07/18/2004
+Missouri,Jasper,Duenweg,"310 Vogel G",,07/19/2004
+Missouri,Wayne,Wappapello,"1584 Hc1",,07/20/2004
+Missouri,Jefferson,"De Soto","3259 Stonehouse Rd",,07/20/2004
+Missouri,Wayne,Wappapello,"1459e D Hwy",,07/20/2004
+Missouri,Jefferson,"Cedar Hill","8615 Terry Hill Ln",,07/21/2004
+Missouri,Barry,Seligman,"159 Frisco Rd 159",,07/21/2004
+Missouri,Jefferson,Festus,"713 Oakland Manor",,07/21/2004
+Missouri,Barry,Seligman,"1700 Route 1",,07/21/2004
+Missouri,"St. Francois","Doe Run","2357 Hampton Rd",,07/21/2004
+Missouri,Scott,Sikeston,"3703 State Bb Hwy 2d",,07/22/2004
+Missouri,Polk,Bolivar,"105 Chestnut W 1",,07/22/2004
+Missouri,"St. Francois","Park Hills","244 Henderson St",,07/22/2004
+Missouri,"St. Charles","Saint Charles","1329 Vets Memorial",,07/23/2004
+Missouri,Livingston,Chillicothe,"508 Walnut N St",,07/23/2004
+Missouri,"St. Francois","Park Hills","1356 Beverly Blvd",,07/24/2004
+Missouri,Washington,Irondale,"212 Oak St",,07/26/2004
+Missouri,Jefferson,Imperial,"3395 Marigold",,07/26/2004
+Missouri,Cedar,"El Dorado Springs","9820 Highway 97 S",,07/26/2004
+Missouri,Boone,Columbia,"6540 South West S Way",,07/27/2004
+Missouri,Pemiscot,Steele,"209 Walnut S",,07/27/2004
+Missouri,"St. Charles",O'fallon,"43 Tee Kay",,07/27/2004
+Missouri,Henry,Clinton,"1505 2nd N St 38",,07/27/2004
+Missouri,Franklin,Beaufort,"3969 50 Hwy",,07/28/2004
+Missouri,"St. Charles",O'fallon,"40 Woods N",,07/28/2004
+Missouri,Jefferson,"Cedar Hill","6608 Bandstand Dr",,07/28/2004
+Missouri,Howell,"West Plains","515 Summers St",,07/29/2004
+Missouri,Benton,Edwards,"Route 2 91j",,07/29/2004
+Missouri,Lafayette,Lexington,"425 13 E Hwy",,07/30/2004
+Missouri,Barry,Cassville,"4543 Route 4",,07/30/2004
+Missouri,Mcdonald,Goodman,"107 Ozark N Trl",,07/30/2004
+Missouri,"St. Charles",O'fallon,"43 Hemlock",,07/30/2004
+Missouri,Stone,Galena,"71a Smith Ave",,07/30/2004
+Missouri,Boone,Columbia,"1900 I-70 Sw Dr",,07/31/2004
+Missouri,Greene,Springfield,"2312 Atlantic E",,08/01/2004
+Missouri,"St. Charles",O'fallon,"409 Briscoe",,08/02/2004
+Missouri,Newton,Granby,"235 Cole S St",,08/02/2004
+Missouri,"St. Charles","Saint Charles","1769 Veterans Memorial 120",,08/02/2004
+Missouri,Jefferson,"High Ridge","1350 Hillsboro",,08/03/2004
+Missouri,Crawford,Cuba,"906 Glassey St",,08/04/2004
+Missouri,Crawford,Steelville,"418 8 E Hwy",,08/04/2004
+Missouri,Jasper,Joplin,"19516 Newton Rd",,08/04/2004
+Missouri,Jefferson,"High Ridge","5007 Diamond",,08/04/2004
+Missouri,Jasper,Joplin,"2221 Kentucky S St",,08/05/2004
+Missouri,Gasconade,Owensville,"1965 Tappmeyer",,08/06/2004
+Missouri,"Saint Louis","Saint John","8659 Moran Pl",,08/07/2004
+Missouri,"St. Francois","Park Hills","3411 Us 67 N Hwy 165",,08/09/2004
+Missouri,Jefferson,Imperial,"301 Golden Acres",,08/09/2004
+Missouri,Dunklin,Kennett,"2004 Luther St",,08/09/2004
+Missouri,"St. Charles",Wentzville,"1500 Continental 180",,08/10/2004
+Missouri,Monroe,"Monroe City","301 Davis S St",,08/10/2004
+Missouri,Jasper,Joplin,"814 Empire S St",,08/11/2004
+Missouri,"St. Charles","Saint Charles","709 Jackson St",,08/12/2004
+Missouri,"St. Charles","Saint Peters","883 Boca Raton",,08/13/2004
+Missouri,"Saint Louis","Bel Ridge","8832 Romona",,08/13/2004
+Missouri,Caldwell,Hamilton,"32867 240th St",,08/14/2004
+Missouri,Franklin,Labadie,"2535 T Hwy",,08/14/2004
+Missouri,Lawrence,Verona,"524 Browning",,08/15/2004
+Missouri,Bollinger,,"837 H W Hwy",,08/15/2004
+Missouri,"St. Charles","Saint Charles","2048 Moore",,08/16/2004
+Missouri,Jefferson,Arnold,"902 Paulina Hill Dr",,08/16/2004
+Missouri,Greene,Springfield,"3202 Countryside W",,08/16/2004
+Missouri,Jefferson,Festus,"1547 Westvale Dr",,08/16/2004
+Missouri,"St. Charles","Saint Charles","31 David",,08/17/2004
+Missouri,Douglas,Ava,"59 3 Rt",,08/17/2004
+Missouri,Greene,Springfield,"2031 Douglas N Ave",,08/17/2004
+Missouri,Reynolds,Bunker,"5th W St 506",,08/17/2004
+Missouri,"Cape Girardeau","Cape Girardeau","35 Frederick N",,08/17/2004
+Missouri,"St. Charles","Saint Charles","1909 Park",,08/17/2004
+Missouri,Jackson,"Kansas City","1309 Askew S",,08/17/2004
+Missouri,Jefferson,Arnold,"633 North View",,08/18/2004
+Missouri,Mcdonald,Lanagan,"13 Cedar Bluff",,08/18/2004
+Missouri,Pemiscot,Steele,"514 Walnut N St C",,08/18/2004
+Missouri,Howell,"West Plains","670 Cr 1280",,08/18/2004
+Missouri,Moniteau,Tipton,"509 Ohio St",,08/19/2004
+Missouri,Wright,"Mountain Grove","8764 Mountain Valley Rd",,08/19/2004
+Missouri,Newton,Saginaw,"4384 Saginaw Rd",,08/19/2004
+Missouri,Jasper,"Webb City","821 Daugherty W 1",,08/19/2004
+Missouri,Jasper,Joplin,"1809 Minnesota S St",,08/19/2004
+Missouri,Jefferson,"House Springs","3588 Carol Park Dr",,08/19/2004
+Missouri,Jefferson,Imperial,"1611 Miller Rd",,08/19/2004
+Missouri,"Saint Louis",Fenton,"800 S Hwy",,08/20/2004
+Missouri,Laclede,Lebanon,"22329 Garrett Dr",,08/20/2004
+Missouri,Polk,Bolivar,"817 College E",,08/20/2004
+Missouri,Laclede,Lebanon,"1431 Elm W St",,08/20/2004
+Missouri,Jasper,Joplin,"898 Silver Leaf",,08/20/2004
+Missouri,Stoddard,Dexter,"909 B Ray",,08/21/2004
+Missouri,Lawrence,Aurora,"18205 K Hwy 7",,08/23/2004
+Missouri,Polk,Bolivar,"112 Auburn E",,08/23/2004
+Missouri,Texas,Licking,"15158 Boiling Springs Rd",,08/23/2004
+Missouri,Jefferson,Pevely,"8610 Twin Dr",,08/24/2004
+Missouri,Dunklin,Kennett,"2310 State Ee Hwy",,08/24/2004
+Missouri,Crawford,Bourbon,"110 Landers Rd",,08/24/2004
+Missouri,Jefferson,Pevely,"8679 Twin Dr",,08/24/2004
+Missouri,Pemiscot,Steele,"414 Doerner",,08/24/2004
+Missouri,Jefferson,"De Soto","14369 Wilson Hollow",,08/24/2004
+Missouri,Jasper,Carthage,"831 Macon W",,08/25/2004
+Missouri,Jasper,Joplin,"3400 Hearnes",,08/25/2004
+Missouri,Webster,Rogersville,"2192 125 S Hwy",,08/25/2004
+Missouri,Jefferson,"High Ridge","5931 Sunshine Dr",,08/25/2004
+Missouri,Jefferson,Dittmer,"6 Polly Ln",,08/25/2004
+Missouri,Jackson,"Grain Valley","846 County Hill Dr",,08/26/2004
+Missouri,"Saint Louis","Saint John","8613 Betty Lee",,08/26/2004
+Missouri,"St. Louis (city)","Saint Louis","8404 Michigan",,08/26/2004
+Missouri,Greene,Springfield,"2940 Walnut W",,08/27/2004
+Missouri,Jefferson,Pevely,"2912 Council Place",,08/27/2004
+Missouri,Jefferson,"High Ridge","650 Highway S Dr 115",,08/28/2004
+Missouri,Warren,Warrenton,"27159 Pendleton Lost Creek",,08/28/2004
+Missouri,Cooper,Boonville,"1635 Sportsman Rd",,08/28/2004
+Missouri,Benton,Warsaw,"612 Illinois St",,08/29/2004
+Missouri,"St. Charles","Saint Charles","1701 Veterans Memorial 78",,08/30/2004
+Missouri,Jefferson,Festus,"4267 Hillsboro Hematite Rd",,08/31/2004
+Missouri,"St. Charles",O'fallon,"14 Tee Kay",,08/31/2004
+Missouri,Bates,Butler,"617 Pine",,08/31/2004
+Missouri,Jasper,Joplin,"3681 Main N St",,08/31/2004
+Missouri,Scott,Sikeston,"509 John R",,08/31/2004
+Missouri,"St. Charles",O'fallon,"51 Tee Kay",,08/31/2004
+Missouri,Barry,Monett,"414 Cale W",,08/31/2004
+Missouri,Newton,"Stark City","14899 Vixen Rd",,09/01/2004
+Missouri,Lewis,Durham,"25255 Durham Trl",,09/01/2004
+Missouri,Marion,Hannibal,"1819 Broadway",,09/02/2004
+Missouri,"St. Charles",O'fallon,"1915 Jeffrey Martin",,09/02/2004
+Missouri,"Saint Louis",Ferguson,"419 Harvey S",,09/02/2004
+Missouri,Jasper,Joplin,"3333 Rangeline S",,09/03/2004
+Missouri,Jasper,Joplin,"7173 7th W",,09/03/2004
+Missouri,Jasper,Sarcoxie,"1933 37 Hwy",,09/04/2004
+Missouri,"St. Francois",Desloge,"404 State N St 238",,09/05/2004
+Missouri,Warren,Warrenton,"23955 Stockpile Rd",,09/06/2004
+Missouri,Jefferson,"House Springs","5581 Ruth Dr",,09/07/2004
+Missouri,Warren,Warrenton,"712 Steinhagen A",,09/07/2004
+Missouri,Polk,Bolivar,"4734 140th S Rd",,09/07/2004
+Missouri,"St. Charles","Saint Charles","25 Lakeshore Dr",,09/07/2004
+Missouri,Jefferson,"De Soto","4059 Upper Plattin Rd",,09/08/2004
+Missouri,"St. Louis (city)","Saint Louis","2222 Gasconade",,09/08/2004
+Missouri,Laclede,Lebanon,"1507 Finn",,09/09/2004
+Missouri,Lawrence,Miller,"1668 Lawrence 1160",,09/09/2004
+Missouri,Miller,Tuscumbia,"337 A Hwy",,09/09/2004
+Missouri,Laclede,Lebanon,"202 Sherman Ave 202",,09/09/2004
+Missouri,Howell,Caulfield,"904 Cr 7880",,09/10/2004
+Missouri,"St. Francois","French Village","6355 Fox Fire Ln",,09/10/2004
+Missouri,Jasper,Carthage,"5190 County 100 Rd",,09/12/2004
+Missouri,Jasper,Joplin,"121 Schifferdecker N St",,09/12/2004
+Missouri,Lawrence,"Mount Vernon","9611 Lawrence 1170",,09/12/2004
+Missouri,Jasper,Joplin,"5321 West 20th Street",,09/13/2004
+Missouri,Bollinger,Patton,"51 N Hwy 347",,09/13/2004
+Missouri,Montgomery,Bellflower,"87 Truxton Rd",,09/13/2004
+Missouri,Mcdonald,Anderson,"1010 Lone Dove Rd",,09/13/2004
+Missouri,Franklin,Sullivan,"851 Acid Mine",,09/13/2004
+Missouri,Lincoln,"Hawk Point","111 Grasshopper Ln",,09/13/2004
+Missouri,"St. Francois",Farmington,"4044 Fleming St",,09/13/2004
+Missouri,Dunklin,Holcomb,"156l Amy Dr",,09/14/2004
+Missouri,"Ste. Genevieve",Bloomsdale,"4433 61 Hwy",,09/14/2004
+Missouri,"St. Louis","Saint Louis","1405 Pine 304",,09/15/2004
+Missouri,"Cape Girardeau",Perryville,"2654 Missouri 51 N D",,09/16/2004
+Missouri,Jefferson,Festus,"141 Forsythia Ln",,09/16/2004
+Missouri,Moniteau,Fortuna,"72465 Roetzel Rd",,09/16/2004
+Missouri,Jefferson,Imperial,"296 Golden Acres",,09/17/2004
+Missouri,Lawrence,Aurora,"3037 Elliott S 42",,09/17/2004
+Missouri,Clay,Avondale,"2601 Waples N Ave",,09/17/2004
+Missouri,Jasper,Joplin,"4580 Short St",,09/17/2004
+Missouri,Stone,Crane,"230 A Rt 1",,09/19/2004
+Missouri,Jackson,"Kansas City","4007 Morrell Avenue",,09/20/2004
+Missouri,Johnson,Holden,"204 Pacific E",,09/20/2004
+Missouri,Dunklin,Kennett,"207 Leila Dr",,09/20/2004
+Missouri,Warren,Warrenton,"13 Pendleton Lake Estates",,09/22/2004
+Missouri,Jefferson,Dittmer,"7445 Cedar Grove Park",,09/23/2004
+Missouri,Moniteau,Clarksburg,"101 Main S St",,09/23/2004
+Missouri,Ralls,"New London","15967 79 Hwy",,09/25/2004
+Missouri,Marion,Hannibal,"1511 Robinson St",,09/25/2004
+Missouri,Franklin,Union,"15 Woodland Oaks 7",,09/27/2004
+Missouri,Barry,Exeter,"464 Fr 1075",,09/27/2004
+Missouri,Greene,"Fair Grove","46 West Cherry Street",,09/28/2004
+Missouri,Jefferson,Festus,"2923 Meyer Rd",,09/28/2004
+Missouri,Franklin,Sullivan,"2040 Meremac St",,09/29/2004
+Missouri,Franklin,Gerald,"3737 Shotwell Rd",,09/29/2004
+Missouri,Ripley,Doniphan,"12 Highway 160 E",,09/29/2004
+Missouri,"St. Charles",O'fallon,"412 Marton Estate Dr",,09/29/2004
+Missouri,Jefferson,Dittmer,"4656 Glacken Rd",,09/29/2004
+Missouri,Jefferson,Barnhart,"1628 Marilyn Dr",,09/29/2004
+Missouri,Franklin,"Saint Clair","2763 Westwoods Rd",,09/30/2004
+Missouri,Polk,"Fair Play","240 North St",,09/30/2004
+Missouri,Clay,Claycomo,"100 Longfellow Rd",,09/30/2004
+Missouri,Jasper,Carthage,"107 Garrison S Ave 5",,09/30/2004
+Missouri,Jefferson,"Cedar Hill","8455 Lake Dr",,10/01/2004
+Missouri,Jasper,Joplin,"208 18th W St",,10/01/2004
+Missouri,Howell,"West Plains","2435 Private 2015 Rd",,10/02/2004
+Missouri,Jasper,Joplin,"804 Pennsylvania S St",,10/04/2004
+Missouri,Butler,"Poplar Bluff","1873 Nn Hwy",,10/05/2004
+Missouri,"Saint Louis","Woodson Terrace","3720 Marvin",,10/05/2004
+Missouri,"Saint Louis",Fenton,"135 Grandview",,10/06/2004
+Missouri,Grundy,Trenton,"71301 Caron N Dr",,10/06/2004
+Missouri,"St. Charles","Saint Charles","1377 5th S St 319",,10/08/2004
+Missouri,Jefferson,Festus,"4193 Martin",,10/08/2004
+Missouri,Franklin,Pacific,"713 Bates Meadow Dr",,10/09/2004
+Missouri,"St. Charles",O'fallon,"16 Knight Ln",,10/10/2004
+Missouri,Jefferson,"Cedar Hill","6544 Jenny Ct",,10/11/2004
+Missouri,Livingston,Chillicothe,"929 Elm 1",,10/11/2004
+Missouri,"Saint Louis",Eureka,"3138 Beach Dr",,10/14/2004
+Missouri,Franklin,"Saint Clair","112 Quail Ridge",,10/14/2004
+Missouri,Mcdonald,Noel,"302 St. Clair",,10/14/2004
+Missouri,Cass,Belton,"15509 Allen Ave",,10/15/2004
+Missouri,Lincoln,Troy,"6374 Cedar Hill Ln",,10/16/2004
+Missouri,"St. Francois","Park Hills","202 Seventh 1",,10/16/2004
+Missouri,"St. Francois",Farmington,"2018 67 Hwy",,10/17/2004
+Missouri,"St. Francois","Doe Run","2679 A St",,10/17/2004
+Missouri,Jefferson,"De Soto","602 Clement W",,10/17/2004
+Missouri,"Saint Louis",Fenton,"914 Oak St",,10/17/2004
+Missouri,Lewis,Williamstown,"11a 1 Rr",,10/18/2004
+Missouri,Jackson,Independence,"819 Emery S",,10/18/2004
+Missouri,"Saint Louis","Woodson Terrace","9538 Trefore",,10/19/2004
+Missouri,"St. Charles",O'fallon,"507 Eggring",,10/20/2004
+Missouri,Nodaway,"Conception Junction","211 Second St",,10/20/2004
+Missouri,Jefferson,Arnold,"3775 Miller Rd",,10/21/2004
+Missouri,Greene,Springfield,"714 Dale E",,10/22/2004
+Missouri,Christian,Billings,"2701 Wisehill Rd",,10/22/2004
+Missouri,Christian,Ozark,"1007 6th S St",,10/23/2004
+Missouri,Knox,Hurdland,"702 3rd N St",,10/23/2004
+Missouri,Jefferson,"House Springs","5466 Regina Dr",,10/24/2004
+Missouri,Randolph,Moberly,"309 6th S St",,10/24/2004
+Missouri,Stoddard,Dudley,"8532 Cr 426",,10/24/2004
+Missouri,Moniteau,Jamestown,"21461 Boxwood Dr",,10/25/2004
+Missouri,Washington,Richwoods,"4679 47 Hwy",,10/25/2004
+Missouri,"St. Charles",O'fallon,"44 Mallard Pointe Dr",,10/25/2004
+Missouri,Jasper,Purcell,"204 Earl N St",,10/25/2004
+Missouri,Webster,Rogersville,"2065 Farm 241 S Rd",,10/25/2004
+Missouri,Greene,Rogersville,"2080 Highway 125 S",,10/25/2004
+Missouri,Barry,"Eagle Rock","8664 Hc 81",,10/26/2004
+Missouri,Franklin,"Saint Clair","1681 Neff Rd",,10/26/2004
+Missouri,Mcdonald,Goodman,"722 Stover Hollow",,10/26/2004
+Missouri,Scott,Sikeston,"105 Connie Lake",,10/26/2004
+Missouri,Jackson,Independence,"20912 24 E Hwy",,10/26/2004
+Missouri,Jefferson,Pevely,"9031 Woods Dr",,10/26/2004
+Missouri,Greene,Springfield,"1623 Jefferson N Ave 8",,10/26/2004
+Missouri,Cooper,Bunceton,"3901 Monks Dr",,10/26/2004
+Missouri,Barry,"Eagle Rock","1815 Hc 01",,10/26/2004
+Missouri,Jasper,Joplin,"2020 Nashville E Ave",,10/27/2004
+Missouri,Jasper,Joplin,"7186 Nn Hwy",,10/28/2004
+Missouri,Mcdonald,Noel,"59 S Hwy",,10/28/2004
+Missouri,Jasper,Joplin,"1020 Jackson S St",,10/29/2004
+Missouri,"Cape Girardeau",Perryville,"15 Shelby S",,10/29/2004
+Missouri,Linn,Purdin,"610 C St",,10/29/2004
+Missouri,Newton,Neosho,"501 Oak Ridge",,10/29/2004
+Missouri,Jackson,"Kansas City","9407 Manchester S Ave",,11/01/2004
+Missouri,Taney,Forsyth,"595 Concord Ave",,11/01/2004
+Missouri,Jefferson,Festus,"1935 Rock-n-horse Farms",,11/01/2004
+Missouri,"St. Charles",O'fallon,"715 Montbrook Ct",,11/02/2004
+Missouri,Vernon,Richards,"152b 1 Rt",,11/02/2004
+Missouri,"St. Charles","Saint Charles","24 Terry Dr",,11/02/2004
+Missouri,"Saint Louis",Kirkwood,"1042 Kirkwood S",,11/02/2004
+Missouri,Jefferson,"Cedar Hill","6533 Cedar Springs Dr",,11/02/2004
+Missouri,Barry,Cassville,"1725 Schell St",,11/02/2004
+Missouri,"Saint Louis",Eureka,"2898 Riverbend Acres",,11/02/2004
+Missouri,Clay,"Kansas City","8917 Campbell N St",,11/02/2004
+Missouri,"St. Charles","Saint Charles","3135 Ridgeview",,11/02/2004
+Missouri,Jackson,Raytown,"7010 Woodson S",,11/03/2004
+Missouri,Christian,Ozark,"299 20th N St 106",,11/03/2004
+Missouri,Greene,Springfield,"825 Fort N",,11/03/2004
+Missouri,Pulaski,Richland,"22625 Redwood Rd",,11/04/2004
+Missouri,"St. Charles","Saint Charles","3003 Hawning Rd",,11/04/2004
+Missouri,"St. Charles","Saint Peters","57 Valley View Dr",,11/04/2004
+Missouri,"St. Charles",O'fallon,"14 Gauntlet Ln",,11/04/2004
+Missouri,Jefferson,Arnold,"1 Hidden Acres",,11/04/2004
+Missouri,Randolph,Renick,"300 Davis W St",,11/04/2004
+Missouri,Washington,Potosi,"1311 Casey St",,11/05/2004
+Missouri,Laclede,Lebanon,"238 Michigan St C",,11/05/2004
+Missouri,"St. Charles","Saint Peters","29 Douglas W Dr",,11/05/2004
+Missouri,Jefferson,"High Ridge","1715 Gravois",,11/06/2004
+Missouri,Barry,Monett,"364 Farm Road 1100",,11/08/2004
+Missouri,Pemiscot,Caruthersville,"2614 County 553 Hwy",,11/08/2004
+Missouri,Laclede,Lebanon,"337 5th W St",,11/08/2004
+Missouri,Cass,"Lake Annette","25617 Lake Annette Rd",,11/09/2004
+Missouri,Reynolds,Black,"295b County 818 Rd",,11/09/2004
+Missouri,Washington,Cadet,"13540 Cannon Miles Rd",,11/09/2004
+Missouri,Taney,Ridgedale,"208 Brunswick Rd",,11/09/2004
+Missouri,Howell,Pomona,"5885 State N Rt",,11/10/2004
+Missouri,Jasper,Joplin,"1014 A W St",,11/10/2004
+Missouri,Jefferson,"House Springs","6532 Dogwood Ln",,11/12/2004
+Missouri,Texas,Licking,"11987 137 Hwy",,11/12/2004
+Missouri,Franklin,Washington,"6635 Aj Hwy",,11/15/2004
+Missouri,Jackson,Grandview,"15111 Fuller St",,11/16/2004
+Missouri,Stone,Crane,"668 Creekside Dr",,11/16/2004
+Missouri,Washington,Cadet,"11441 Cannon Miles Rd",,11/16/2004
+Missouri,"Saint Louis","Saint Louis","6500 Lindbergh Blvd",,11/16/2004
+Missouri,"Saint Louis",Maplewood,"2109 Bellevue",,11/17/2004
+Missouri,Washington,Irondale,"11229 Mounds Rd",,11/18/2004
+Missouri,Greene,"Fair Grove","1734 Farm 28 E Rd",,11/19/2004
+Missouri,Pettis,Sedalia,"1208 Lamine S",,11/19/2004
+Missouri,Jackson,Independence,"11126 10th E",,11/19/2004
+Missouri,"St. Charles","Saint Charles","7706 N Hwy",,11/19/2004
+Missouri,Webster,Rogersville,"3986 Farm 243 S Rd",,11/20/2004
+Missouri,"Cape Girardeau","Cape Girardeau","1033 Middle N",,11/20/2004
+Missouri,"St. Francois","Bonne Terre","7401 Pierce Rd",,11/22/2004
+Missouri,"St. Francois","Bonne Terre","7075 Raider Rd E",,11/22/2004
+Missouri,Taney,Forsyth,"532 State Highway T",,11/23/2004
+Missouri,Jasper,Carthage,"1028 Orchard St",,11/23/2004
+Missouri,Jefferson,Hillsboro,"7506 Tower Rd",,11/23/2004
+Missouri,Cass,Belton,"1731 Lakewood Ter 205",,11/23/2004
+Missouri,Worth,"Grant City","1 Golf Tee Ln",,11/23/2004
+Missouri,"St. Francois",Farmington,"932 Joyce St",,11/24/2004
+Missouri,Jasper,Carthage,"1324 Garrison S Ave",,11/24/2004
+Missouri,Warren,Warrenton,"19200 Township Line Rd",,11/27/2004
+Missouri,Cass,Peculiar,"24717 Donahue S",,11/27/2004
+Missouri,Ozark,Dora,"2950 1 Rt",,11/28/2004
+Missouri,Moniteau,California,"33699 Mineral Branch Rd",,11/29/2004
+Missouri,Adair,Kirksville,"30314 Fort Madison Way",,11/29/2004
+Missouri,Jasper,Joplin,"1008 Conneticut",,11/30/2004
+Missouri,"Saint Louis",Eureka,"27 Joachim Dr",,11/30/2004
+Missouri,Taney,Branson,"616 Daria Dr",,11/30/2004
+Missouri,Franklin,"Saint Clair","1236 Cedar Trail Ln",,11/30/2004
+Missouri,Saline,Blackburn,"302 Olive St",,12/02/2004
+Missouri,Jasper,Joplin,"2498 Jaguar Rd",,12/02/2004
+Missouri,Moniteau,California,"32118 Flag Springs Rd",,12/02/2004
+Missouri,"St. Charles",O'fallon,"1702 Collier Blvd",,12/02/2004
+Missouri,Jefferson,Barnhart,"4858 Three Way Acres",,12/03/2004
+Missouri,"St. Francois","Park Hills","2390 Clemons",,12/03/2004
+Missouri,Franklin,Washington,"206 Valley Dr",,12/03/2004
+Missouri,Jefferson,"Crystal City","1205 Truman",,12/03/2004
+Missouri,Jasper,Joplin,"1700 30th W St 208",,12/04/2004
+Missouri,Wayne,Piedmont,"2963 2 Rt",,12/05/2004
+Missouri,Jefferson,Dittmer,"7892 Russie",,12/06/2004
+Missouri,"St. Charles","Saint Charles","1404 Santa Margarita",,12/07/2004
+Missouri,Laclede,Lebanon,"36999 Bb Hwy",,12/07/2004
+Missouri,Polk,Goodson,"3464 216th S Rd",,12/07/2004
+Missouri,Greene,Springfield,"209 Burton S",,12/07/2004
+Missouri,Franklin,Washington,"4948 Beaker Rd",,12/07/2004
+Missouri,Christian,Nixa,"1596 Nelson Mill Rd",,12/08/2004
+Missouri,Taney,Branson,"3005 76 W Hwy 311",,12/08/2004
+Missouri,Jackson,Independence,"1223 Glenwood S",,12/08/2004
+Missouri,Jefferson,"De Soto","13988 Klondike Rd",,12/08/2004
+Missouri,Franklin,Pacific,"197 Chipmunk Ct",,12/08/2004
+Missouri,Jefferson,"House Springs","6192 Sommerset Dr",,12/09/2004
+Missouri,Greene,Republic,"1405 Hines E St E-46",,12/09/2004
+Missouri,Jefferson,"Cedar Hill","9353 Byrnesville Rd",,12/09/2004
+Missouri,Howell,"Mountain View","502 Marr",,12/10/2004
+Missouri,Cass,"Pleasant Hill","16420 M-291 S",,12/10/2004
+Missouri,"Saint Louis","Saint Ann","3527 St. Luke",,12/10/2004
+Missouri,Jefferson,Fenton,"322 Mount Everest Ln C",,12/12/2004
+Missouri,"St. Charles","Saint Charles","8 Jolruns Pl",,12/13/2004
+Missouri,Henry,Windsor,"831 1000 Ne Rd",,12/13/2004
+Missouri,Jasper,Joplin,"2518 Turk N St",,12/13/2004
+Missouri,"St. Charles","Saint Peters","3910 West Dr",,12/14/2004
+Missouri,Clay,"Kansas City","1600 Parvin Ne 211/213",,12/14/2004
+Missouri,Barry,Monett,"247 Farm Road 1050 A",,12/14/2004
+Missouri,Greene,Springfield,"2940 Walnut W St",,12/15/2004
+Missouri,Henry,Windsor,"1208 651 Ne Rd",,12/16/2004
+Missouri,Jackson,"Lees Summit","9718 Howard S Rd",,12/17/2004
+Missouri,"Ste. Genevieve",Bloomsdale,"664 Us 61 Hwy",,12/17/2004
+Missouri,Randolph,Moberly,"833 Westend",,12/18/2004
+Missouri,"St. Charles",Augusta,"710 Osage Ridge Rd",,12/19/2004
+Missouri,Franklin,"Saint Clair","687 Benton St",,12/20/2004
+Missouri,Dallas,Buffalo,"49 Somerset Rd",,12/20/2004
+Missouri,Lincoln,Elsberry,"301 3rd S St",,12/21/2004
+Missouri,Washington,Richwoods,"16716 57 W Hwy",,12/21/2004
+Missouri,Cole,"Jefferson City","10504 Marina Rd B",,12/21/2004
+Missouri,Franklin,Union,"718 Oak S St",,12/21/2004
+Missouri,Jasper,Joplin,"4526 Deer Meadow",,12/23/2004
+Missouri,Jefferson,Arnold,"1201 Drury Ln 402",,12/24/2004
+Missouri,Pemiscot,Caruthersville,"2080 D Hwy",,12/24/2004
+Missouri,Texas,Cabool,"1303 63 N Hwy",,12/25/2004
+Missouri,Lincoln,Winfield,"201 Main St 2",,12/26/2004
+Missouri,Douglas,Ava,"337a 1 Rt",,12/26/2004
+Missouri,Franklin,Washington,"800 Locust St 8",,12/28/2004
+Missouri,Jasper,Carthage,"1613 13th E",,12/28/2004
+Missouri,"St. Francois",Bismarck,"1838 N Hwy",,12/28/2004
+Missouri,Morgan,Versailles,"200 Vanburen S St",,12/28/2004
+Missouri,"St. Francois",Farmington,"1400 Liberty W St 226",,12/29/2004
+Missouri,Scott,Sikeston,"229 Harry",,12/29/2004
+Missouri,Dade,Dadeville,"1255 1 Rr",,12/29/2004
+Missouri,Jasper,Joplin,"115 Oak S St",,12/29/2004
+Missouri,Morgan,Versailles,"412 Monroe N",,12/30/2004
+Missouri,"St. Francois",Farmington,"816 Taylor St",,12/31/2004
+Missouri,"St. Charles","Saint Peters","4344 Mexico Rd",,12/31/2004
+Missouri,Greene,Springfield,"2602 Linwood E",,12/31/2004
+Missouri,Cooper,Otterville,"2347 Hwy Bb",,01/01/2005
+Missouri,Miller,Eugene,"5 Highland Dr",,01/01/2005
+Missouri,Jefferson,"Cedar Hill","30 Paradise Estates",,01/02/2005
+Missouri,Jasper,Alba,"210 Ball St",,01/03/2005
+Missouri,"Saint Louis",Ferguson,"6167 Dupree",,01/03/2005
+Missouri,Jefferson,"High Ridge","2912 Paula Dr",,01/03/2005
+Missouri,Jefferson,"House Springs","6532 Dogwood",,01/05/2005
+Missouri,"New Madrid",Marston,"210 Mitchell St",,01/05/2005
+Missouri,"St. Charles","Saint Charles","35 Chestnut Ridge",,01/05/2005
+Missouri,Butler,Qulin,"2890 County Road 223",,01/06/2005
+Missouri,Jefferson,"High Ridge","2905 Carol Dr",,01/07/2005
+Missouri,Lincoln,Silex,"58 Cedar Circle Dr",,01/07/2005
+Missouri,Cass,"East Lynne","111 Main St",,01/07/2005
+Missouri,Jefferson,Festus,"13601 Tt Hwy",,01/08/2005
+Missouri,Jasper,Joplin,"1022 Conneticut S 3",,01/10/2005
+Missouri,"Ste. Genevieve","Sainte Genevieve","20002 Gore Rd",,01/10/2005
+Missouri,Christian,Clever,"148 Lilly Ln",,01/10/2005
+Missouri,"St. Charles","Saint Charles","1650 5th S St B",,01/11/2005
+Missouri,Franklin,"Villa Ridge","991 Clifton Ln",,01/11/2005
+Missouri,Cass,Peculiar,"12400 250 St",,01/11/2005
+Missouri,Texas,Cabool,"Country Aire 5",,01/11/2005
+Missouri,"St. Charles",O'fallon,"1910 Winterhill",,01/12/2005
+Missouri,Greene,"Ash Grove","608 Woodbine W",,01/12/2005
+Missouri,Lincoln,"Moscow Mills","110 Woodland Branch",,01/13/2005
+Missouri,"St. Francois",Desloge,"1063 P Hwy",,01/13/2005
+Missouri,Ralls,Hannibal,"205 Summit St",,01/14/2005
+Missouri,Jasper,Joplin,"1410 Hill St",,01/14/2005
+Missouri,Audrain,Thompson,"8206 Audrain 395 Rd",,01/14/2005
+Missouri,Newton,Joplin,"3689 Cherry Rd",,01/14/2005
+Missouri,Jefferson,Eureka,"3673 Clearwood Dr",,01/15/2005
+Missouri,Lincoln,Elsberry,"1300 Riverview Dr",,01/15/2005
+Missouri,Warren,"Wright City","275 Bobwhite Ln",,01/15/2005
+Missouri,"Saint Louis",Eureka,"3673 Clearwood A Dr",,01/15/2005
+Missouri,Wright,Mansfield,"509 High W St",,01/15/2005
+Missouri,Franklin,Union,"333 Echo Valley Rd",,01/16/2005
+Missouri,"St. Charles","Saint Charles","2905 Pleasant Valley Dr",,01/16/2005
+Missouri,Vernon,Nevada,"421 Cedar S",,01/17/2005
+Missouri,Taney,Branson,"5435 248 W Hwy",,01/17/2005
+Missouri,Barry,Cassville,"6730 Hcr 64",,01/18/2005
+Missouri,Jefferson,Festus,"2655 Carron",,01/18/2005
+Missouri,Jasper,Joplin,"919 Furnace",,01/18/2005
+Missouri,"Saint Louis",Fenton,"707 Shangri La A",,01/19/2005
+Missouri,Jefferson,Fenton,"707 Shangri La",,01/19/2005
+Missouri,Stoddard,Oran,"28998 91 Hwy",,01/20/2005
+Missouri,Platte,"Kansas City","6446 Waukomis Nw Dr",,01/20/2005
+Missouri,Greene,Springfield,"537 Farm 89 N Rd",,01/20/2005
+Missouri,Franklin,Gerald,"3737a Shotwell Rd",,01/20/2005
+Missouri,Jefferson,"High Ridge","4225 Bali Hai Rd",,01/21/2005
+Missouri,"St. Francois",Farmington,"101 Westmoore",,01/22/2005
+Missouri,"Ste. Genevieve",Bloomsdale,"6437 Newman Rd",,01/23/2005
+Missouri,"Saint Louis",Oakville,"3219 Patterson Pl",,01/24/2005
+Missouri,Jefferson,"De Soto","4731 Penny Ln",,01/25/2005
+Missouri,Franklin,Robertsville,"926 Moonlight Trl",,01/25/2005
+Missouri,Mcdonald,Anderson,"2222 Klondike Rd",,01/26/2005
+Missouri,Mcdonald,Anderson,"1201 Hodsonway",,01/26/2005
+Missouri,Taney,"Walnut Shade","6657 160 W Hwy",,01/27/2005
+Missouri,"St. Charles",O'fallon,"1007 Feise Rd",,01/27/2005
+Missouri,Pike,Frankford,"12200 County 128 Rd",,01/27/2005
+Missouri,Ripley,Doniphan,"107 Summit Nw",,01/27/2005
+Missouri,Newton,Joplin,"10469 Amanda Ln",,01/28/2005
+Missouri,"St. Francois",Farmington,"5 Townhouse Ln",,01/28/2005
+Missouri,Jefferson,"House Springs","5557 Donna Dr",,01/28/2005
+Missouri,Dunklin,Campbell,"705 Carr St",,01/29/2005
+Missouri,Franklin,Gerald,"3465 Teggler Rd",,01/29/2005
+Missouri,Miller,Russellville,"45 Bridge Rd",,01/30/2005
+Missouri,Barton,"Golden City","1105 Hicks",,01/30/2005
+Missouri,Miller,Eldon,"800 Lakeview Dr",,01/30/2005
+Missouri,Douglas,Ava,"402 4th Nw St",,01/31/2005
+Missouri,Atchison,Westboro,"14347 State Highway M",,01/31/2005
+Missouri,Franklin,"Saint Clair","725 Virginia Mines Rd",,01/31/2005
+Missouri,Benton,Warsaw,"911 Polk St",,01/31/2005
+Missouri,Laclede,Lebanon,"2804 Morgan S Rd 124",,01/31/2005
+Missouri,Franklin,"Saint Clair","1923 Virginia Mines Rd",,02/01/2005
+Missouri,Maries,Vienna,"11219 Randolph Rd",,02/01/2005
+Missouri,Jefferson,Hillsboro,"9217 Goldman Rd",,02/02/2005
+Missouri,Jasper,Carthage,"1418 Kimberly Ln",,02/02/2005
+Missouri,"St. Francois",Farmington,"1216 Center Dr",,02/02/2005
+Missouri,"St. Charles","Saint Charles","8 Cactus Trailer Park",,02/02/2005
+Missouri,"St. Charles",O'fallon,"2009 Glengate Estates Dr",,02/03/2005
+Missouri,Franklin,Lonedell,"8425 Little Indian Creek Rd",,02/03/2005
+Missouri,Lincoln,Truxton,"170 Main St",,02/03/2005
+Missouri,Greene,Strafford,"8016 Farm 231 N Rd",,02/03/2005
+Missouri,Howell,"West Plains","3393 County 6300 Rd",,02/04/2005
+Missouri,Camden,Roach,"1073 Robinhood",,02/04/2005
+Missouri,Howell,"West Plains","9912 County 8730 Rd",,02/04/2005
+Missouri,"St. Charles","Lake Saint Louis","703 Fernwood Ter",,02/04/2005
+Missouri,Greene,"Walnut Grove","10945 Farm 48 W Rd",,02/04/2005
+Missouri,"Saint Charles","Saint Peters","771 Del Ray",,02/04/2005
+Missouri,Franklin,Washington,"827 Roberts St B",,02/05/2005
+Missouri,"St. Charles",O'fallon,"2331 Wild Oak",,02/05/2005
+Missouri,"St. Charles",O'fallon,"55 Northwoods",,02/05/2005
+Missouri,Jefferson,"Crystal City","1205 Truman N Blvd",,02/07/2005
+Missouri,Greene,Springfield,"2411 Rockwood W",,02/07/2005
+Missouri,Franklin,"Saint Clair","250 Murray Lot 5",,02/07/2005
+Missouri,Cass,Creighton,"501 3rd E",,02/08/2005
+Missouri,Christian,Nixa,"1302 Eaglewood",,02/08/2005
+Missouri,"Ste. Genevieve","Saint Mary","542 4th St",,02/09/2005
+Missouri,Newton,Neosho,"17526 Finch Rd",,02/09/2005
+Missouri,Jefferson,"Cedar Hill","7036 Stovesand Dr",,02/09/2005
+Missouri,Nodaway,Barnard,"309 Mcfarland",,02/09/2005
+Missouri,"St. Charles","Saint Charles","406 Emmons",,02/10/2005
+Missouri,Harrison,Bethany,"35067 240 E Ave",,02/11/2005
+Missouri,Lincoln,Winfield,"48 Ackerman Rd",,02/11/2005
+Missouri,Franklin,Union,"793 Park W Rd",,02/11/2005
+Missouri,Randolph,Moberly,"910 End W Pl",,02/12/2005
+Missouri,"Saint Louis",Fenton,"1074 Old Gravois A Rd",,02/12/2005
+Missouri,Warren,"Wright City","552 Stringtown N Rd",,02/12/2005
+Missouri,Jefferson,Fenton,"1074 Old Gravois Rd",,02/12/2005
+Missouri,Jefferson,Dittmer,"7891 Jim Weber A Rd",,02/13/2005
+Missouri,Lincoln,Foley,"169 Lucille Ln",,02/13/2005
+Missouri,Jefferson,Eureka,"7891 Jim Weber Rd",,02/13/2005
+Missouri,Pettis,"La Monte","809 Main S St",,02/14/2005
+Missouri,"St. Charles","Saint Charles","505 Clark St 12",,02/14/2005
+Missouri,"St. Francois","Doe Run","2735 Hampton Rd",,02/14/2005
+Missouri,"St. Charles","Saint Charles","2209 Campus Dr",,02/15/2005
+Missouri,Jasper,Joplin,"26007 Faision Ln",,02/15/2005
+Missouri,"Saint Charles","Saint Peters","4008 West Dr",,02/15/2005
+Missouri,Jefferson,"House Springs","6996 Barnett",,02/15/2005
+Missouri,Laclede,Lynchburg,"10974 95 Hwy",,02/15/2005
+Missouri,Bates,Adrian,"245 1 Rr",,02/15/2005
+Missouri,Butler,"Poplar Bluff","284 Meridian Ln",,02/16/2005
+Missouri,"St. Charles","Saint Charles","920 Circle Dr",,02/16/2005
+Missouri,Jasper,Joplin,"4580 Short Rd",,02/16/2005
+Missouri,Jefferson,Fenton,"1074 Gravois Rd",,02/17/2005
+Missouri,Franklin,Pacific,"228 Missouri Ave",,02/17/2005
+Missouri,"St. Charles",Defiance,"3515 Alice Ave",,02/18/2005
+Missouri,Adair,Kirksville,"411 Scott E St",,02/18/2005
+Missouri,Harrison,"Gilman City","120 Fisher Ave",,02/18/2005
+Missouri,Jefferson,"Crystal City","505 Mississippi Ave",,02/19/2005
+Missouri,Ray,Rayville,"15573 M Hwy",,02/21/2005
+Missouri,"St. Charles","Saint Charles","1229 Meadow Brook",,02/21/2005
+Missouri,Jasper,Joplin,"1520 Connor S",,02/22/2005
+Missouri,Cass,Raymore,"512 Skyvue A",,02/22/2005
+Missouri,Taney,Ridgedale,"182 5th Ave",,02/22/2005
+Missouri,"St. Charles","Saint Charles","414 Evergreen Dr",,02/22/2005
+Missouri,Jefferson,"De Soto","12662 Hyfield Dr",,02/22/2005
+Missouri,Jasper,Joplin,"102 Mccoy S Ave",,02/22/2005
+Missouri,Jasper,Joplin,"815 Mckinley N St",,02/23/2005
+Missouri,Jefferson,"Cedar Hill","7042 Stovesand Rd",,02/23/2005
+Missouri,Jefferson,"Cedar Hill","8507 Industrial Dr",,02/23/2005
+Missouri,Jasper,Joplin,"1924 B W St",,02/23/2005
+Missouri,Washington,Irondale,"214 Elm St",,02/25/2005
+Missouri,Mcdonald,Noel,"206 Harmony St",,02/28/2005
+Missouri,"Saint Louis",Fenton,"366 Summit",,03/01/2005
+Missouri,Lafayette,Odessa,"311 Masion E",,03/01/2005
+Missouri,"Saint Charles","Saint Peters","318 Depot Dr",,03/01/2005
+Missouri,"Saint Louis",Fenton,"1074 Gravois B",,03/01/2005
+Missouri,Franklin,Sullivan,"726 Warriors Path",,03/02/2005
+Missouri,Warren,Warrenton,"9 Kelling Ln",,03/02/2005
+Missouri,"Saint Charles","Saint Peters","112 Main St",,03/03/2005
+Missouri,Lafayette,Corder,"23268 Little Tabo Creek Rd",,03/03/2005
+Missouri,Christian,Nixa,"1457 Main N St",,03/06/2005
+Missouri,Webster,Marshfield,"121 2nd W St",,03/06/2005
+Missouri,Jefferson,"High Ridge","6537 Pp Hwy",,03/07/2005
+Missouri,Jasper,Joplin,"1718 Marigold St",,03/07/2005
+Missouri,Washington,"De Soto","10128 Timber Wolf",,03/07/2005
+Missouri,Texas,Hartshorn,"22528 Pin Oaks Rd",,03/07/2005
+Missouri,Stone,"Reeds Spring","23416 Old Highway 160 N",,03/08/2005
+Missouri,Stone,"Cape Fair","8752 Highway 76 N",,03/08/2005
+Missouri,Newton,Granby,"8115 Quincy Ln",,03/08/2005
+Missouri,Pemiscot,Caruthersville,"570 County 337 Hwy",,03/09/2005
+Missouri,"Ste. Genevieve","Sainte Genevieve","645 Lefluer St",,03/09/2005
+Missouri,"St. Francois","Bonne Terre","25 Elm St A",,03/09/2005
+Missouri,"St. Charles","Saint Charles","42 Gary Ct",,03/09/2005
+Missouri,"Cape Girardeau",Jackson,"2627 Mansfield",,03/10/2005
+Missouri,Jefferson,Hillsboro,"140 Pacos",,03/10/2005
+Missouri,Henry,Clinton,"203 Orchard N St 2",,03/11/2005
+Missouri,Mcdonald,"Rocky Comfort","1446 Tiger S Rd",,03/11/2005
+Missouri,"Saint Louis","St John","8836 Bobb",,03/12/2005
+Missouri,Lincoln,Foley,"38 Lucille Ln",,03/12/2005
+Missouri,Jasper,Joplin,"5144 Cameo Ln",,03/13/2005
+Missouri,Maries,"Saint James","15172 County Road 477",,03/14/2005
+Missouri,Greene,Springfield,"827 Fort S St",,03/15/2005
+Missouri,Franklin,"Saint Clair","2763 Woods W Rd",,03/15/2005
+Missouri,Boone,Centralia,"407 Sims St",,03/15/2005
+Missouri,Stone,Lampe,"157 Allison Bend N Rd",,03/15/2005
+Missouri,Morgan,Versailles,"702 Second E St",,03/17/2005
+Missouri,Jefferson,"High Ridge","5516 Robert Rd",,03/17/2005
+Missouri,Franklin,"Saint Clair","1313 Service N Rd",,03/17/2005
+Missouri,Harrison,Ridgeway,"19401 240 W St",,03/18/2005
+Missouri,Jefferson,Barnhart,"1771 Fairfax Dr",,03/18/2005
+Missouri,Jasper,Joplin,"2521 Utica St",,03/20/2005
+Missouri,Franklin,Union,"7071 Koko Beach",,03/21/2005
+Missouri,"St. Francois","Park Hills","1356 Mitchell Rd",,03/21/2005
+Missouri,"Ste. Genevieve","Sainte Genevieve","20638 Lakeland Dr",,03/21/2005
+Missouri,Jefferson,Festus,"611 Warne St",,03/21/2005
+Missouri,Franklin,Union,"15 Missouri Ave",,03/23/2005
+Missouri,Jackson,Grandview,"13109 6 St",,03/25/2005
+Missouri,Warren,"Wright City","834 Shady Ridge",,03/28/2005
+Missouri,"St. Charles","Saint Charles","2109 Golf Way",,03/28/2005
+Missouri,Warren,Warrenton,"20791 Powerline Rd",,03/29/2005
+Missouri,"St. Charles","Saint Charles","321 Riverbluff 203",,03/31/2005
+Missouri,Ray,"Excelsior Estates","20214 Perry Rd",,04/01/2005
+Missouri,Phelps,Salem,"20615 Country Road 4110",,04/01/2005
+Missouri,Saline,Marshall,"643 English N",,04/01/2005
+Missouri,Lincoln,Winfield,"9 Walnut Grove",,04/01/2005
+Missouri,Franklin,Robertsville,"311 2nd S St",,04/04/2005
+Missouri,Atchison,Watson,"24 Linden",,04/04/2005
+Missouri,Jasper,Carthage,"5258 County Road 100",,04/04/2005
+Missouri,"Saint Charles",Wentzville,"3836 Point Prairie",,04/05/2005
+Missouri,Johnson,"Knob Noster","1000 130 Ne Rd",,04/05/2005
+Missouri,"St. Francois",Desloge,"106 Waller N St",,04/05/2005
+Missouri,"Saint Louis",Eureka,"603 Bradley",,04/05/2005
+Missouri,Mcdonald,Pineville,"101 Sunset Ridge Ln",,04/05/2005
+Missouri,Washington,"Mineral Point","11194 Elliott Rd",,04/06/2005
+Missouri,"Saint Charles",Wentzville,"1066 Pointe Prairie Rd",,04/06/2005
+Missouri,Boone,Columbia,"1103 Mehl Rd 7",,04/06/2005
+Missouri,"St. Francois","Park Hills","5916 Maple St",,04/06/2005
+Missouri,Stone,Galena,"60 Glade N St",,04/07/2005
+Missouri,Boone,Columbia,"202 Pinewood Dr",,04/07/2005
+Missouri,Taney,Hollister,"506 Old Mill Rd",,04/07/2005
+Missouri,Butler,"Poplar Bluff","1755 County Road 616",,04/07/2005
+Missouri,"Ste. Genevieve","Sainte Genevieve","10719 Us Hwy 61 B",,04/08/2005
+Missouri,Jasper,Joplin,"601 Byers N Ave 2",,04/08/2005
+Missouri,Jefferson,Imperial,"36 Martha Dr",,04/08/2005
+Missouri,Stone,"Reeds Spring","260 White Eagle N Ln",,04/09/2005
+Missouri,Cass,"East Lynne","201 Main E",,04/09/2005
+Missouri,"St. Charles","Saint Charles","1460 Rue S",,04/11/2005
+Missouri,Mcdonald,"Rocky Comfort","328 Miller Ln",,04/11/2005
+Missouri,"St. Charles","Saint Charles","535 Boone's Lick",,04/12/2005
+Missouri,Franklin,Robertsville,"771 Watts Acres Rd",,04/13/2005
+Missouri,"St. Charles","Saint Charles","3740 Maquam",,04/13/2005
+Missouri,Barry,Seligman,"Rt 1 1470",,04/14/2005
+Missouri,Franklin,Rosebud,"9100 Hwy An",,04/14/2005
+Missouri,Texas,"Mountain View","20910 & Y Highway",,04/14/2005
+Missouri,Boone,Centralia,"801 Allen St Lot 6",,04/14/2005
+Missouri,Jasper,Joplin,"405 23rd W St",,04/14/2005
+Missouri,Jefferson,Fenton,"57 Lake E",,04/16/2005
+Missouri,Christian,Chadwick,"5252 State Hwy H",,04/16/2005
+Missouri,Henry,Clinton,"305 Washington N",,04/16/2005
+Missouri,Jasper,Carthage,"10286 Cr160",,04/17/2005
+Missouri,Jasper,Carthage,"315 Rabbit",,04/17/2005
+Missouri,Jefferson,Dittmer,"7685 Skull Bones Rd",,04/19/2005
+Missouri,Jefferson,Eureka,"207 Red Bud Trl",,04/19/2005
+Missouri,Jackson,Independence,"15405 37 E St",,04/20/2005
+Missouri,Washington,Richwoods,"10291 Clear Creek Rd",,04/20/2005
+Missouri,Warren,Warrenton,"10 Pendleton Lake Est.",,04/21/2005
+Missouri,Jasper,Sarcoxie,"3298 Cr10",,04/21/2005
+Missouri,Jefferson,Hillsboro,"3694 Jarvis Rd",,04/21/2005
+Missouri,Washington,Richwoods,"10284a Click Rd",,04/21/2005
+Missouri,Barton,"Golden City","1000 Brock St",,04/23/2005
+Missouri,Franklin,"Saint Clair","1600 Service N Rd",,04/25/2005
+Missouri,"St. Charles","Saint Charles","928 Tillbury",,04/25/2005
+Missouri,Pettis,Sedalia,"3019 Washington S St",,04/26/2005
+Missouri,"St. Charles",Ofallon,"2331 Oak Meadow",,04/26/2005
+Missouri,Jefferson,Fenton,"37 Quintana",,04/27/2005
+Missouri,Jasper,Carthage,"12645 Elm Rd",,04/27/2005
+Missouri,Jefferson,"De Soto","14162 Hardin Rd",,04/28/2005
+Missouri,Stone,Galena,"90 Scenic N",,04/28/2005
+Missouri,"St. Francois","Park Hills","2234 Clemons Rd",,04/29/2005
+Missouri,Jefferson,Desoto,"1489 Sheppard",,04/29/2005
+Missouri,Texas,Licking,"108 Kirk St",,04/30/2005
+Missouri,Maries,Vichy,"444 Maries Co Rd",,05/01/2005
+Missouri,Jefferson,Fenton,"101 Cool Valley Rd",,05/03/2005
+Missouri,Franklin,"Saint Clair","2769 Woods W Rd",,05/04/2005
+Missouri,Lincoln,Troy,"198 Lynx Ln",,05/04/2005
+Missouri,Franklin,Sullivan,"279 Dinky Rd",,05/04/2005
+Missouri,Crawford,Bourbon,"344 Old Springfield Rd",,05/04/2005
+Missouri,Jefferson,Fenton,"273 Mt. Everest Dr",,05/08/2005
+Missouri,Jasper,"Webb City","3300 Rangeline N Rd",,05/09/2005
+Missouri,Camden,"Macks Creek","167 Arapahoe Rd",,05/10/2005
+Missouri,Jefferson,Dittmer,"7881 Woodland Dr",,05/11/2005
+Missouri,"St. Charles",O'fallon,"3 Oak Cir",,05/12/2005
+Missouri,Stone,Hurley,"1638 Holts Spring N",,05/12/2005
+Missouri,Pettis,"Green Ridge","29619 Kern Rd",,05/12/2005
+Missouri,Pike,"Bowling Green","1700 Hwy 54 7",,05/12/2005
+Missouri,"St. Charles","Lake Saint Louis","323 Bent Oak Dr",,05/13/2005
+Missouri,Christian,Clever,"396 Primrose Ln",,05/13/2005
+Missouri,Jasper,Joplin,"2521 Utica",,05/15/2005
+Missouri,Stone,Hurley,"105 Simms N",,05/15/2005
+Missouri,Jefferson,Dittmer,"8016 Riverview Dr",,05/16/2005
+Missouri,"St. Charles","Saint Charles","512 Lee Dr",,05/16/2005
+Missouri,Jackson,"Oak Grove","1313 Green Forest Way",,05/17/2005
+Missouri,Jefferson,Herculaneum,"495 Joachim",,05/18/2005
+Missouri,Jefferson,Dittmer,"7928 Shady Lake Cir",,05/18/2005
+Missouri,"St. Charles",Foristell,"44 Oakleaf Dr",,05/19/2005
+Missouri,"St. Francois","Bonne Terre","9483 Sunset Pointe Dr",,05/20/2005
+Missouri,Jefferson,Fenton,"25 Fielder Ct E",,05/22/2005
+Missouri,Warren,Jonesburg,"141 (b) Cedar",,05/23/2005
+Missouri,Jasper,Joplin,"2221 Kentucky S",,05/25/2005
+Missouri,"St. Clair",Osceola,"140 Boundary St",,05/26/2005
+Missouri,"Saint Charles","Saint Peters","55 Circle Way",,05/26/2005
+Missouri,Newton,Joplin,"4601 Jackson S St",,05/26/2005
+Missouri,Jefferson,Arnold,"1188 Arnold Tenbrook Rd",,05/26/2005
+Missouri,Howard,"New Franklin","103 Howard N",,05/26/2005
+Missouri,Franklin,Sullivan,"150 Modern St",,05/27/2005
+Missouri,Greene,Springfield,"2951 Camino Alto W",,05/27/2005
+Missouri,"Saint Louis","Saint Louis","10742 Decker",,05/28/2005
+Missouri,Greene,Republic,"1405 Hines E",,05/28/2005
+Missouri,Greene,Republic,"1405 Hines E St F52",,05/29/2005
+Missouri,Jefferson,Fenton,"326 Mount Everest",,05/29/2005
+Missouri,"St. Charles","Saint Charles","2007 Mossberg Ct",,05/29/2005
+Missouri,Greene,"Fair Grove","102 Zachary St",,05/31/2005
+Missouri,Jasper,Alba,"206 Iowa St",,05/31/2005
+Missouri,Jefferson,Hillsboro,"4727 (b) Moss Haven",,06/02/2005
+Missouri,Benton,Edwards,"29252 Zeus Dr",,06/02/2005
+Missouri,Henry,Coal,"780 250 Se Rd",,06/05/2005
+Missouri,Jefferson,Dittmer,"7892 Russie Rd",,06/06/2005
+Missouri,Jasper,"Carl Junction","26825 Kafir Rd",,06/06/2005
+Missouri,Franklin,Washington,"610 Elm St",,06/06/2005
+Missouri,"St. Francois","Bonne Terre","2496 Kane Ln",,06/07/2005
+Missouri,"Saint Louis",Berkeley,"5901 Jackson",,06/08/2005
+Missouri,"St. Charles","Saint Charles","1424 Santa Margarita",,06/08/2005
+Missouri,"St. Francois","Park Hills","113 Janice",,06/08/2005
+Missouri,"St. Charles","Saint Charles","1071 Madison",,06/09/2005
+Missouri,Jackson,Raytown,"9901 73 E St A",,06/09/2005
+Missouri,"St. Charles","Saint Charles","1 Sweet Water Rd",,06/10/2005
+Missouri,Jefferson,Festus,"14102 Tt Hwy",,06/10/2005
+Missouri,Wright,Monticello,"155 Hedman Ln",,06/10/2005
+Missouri,Jefferson,Barnhart,"2140 Valley View",,06/10/2005
+Missouri,Lincoln,Troy,"304 Excalibur",,06/12/2005
+Missouri,Howell,"West Plains","1252 Aldridge St",,06/14/2005
+Missouri,Jackson,"Kansas City","1021 68 E St 1",,06/15/2005
+Missouri,"St. Clair",Osceola,"4230 171 Nw Rd",,06/15/2005
+Missouri,"St. Charles","Saint Charles","420 Pam",,06/16/2005
+Missouri,Lincoln,Foley,"27 Snow Hill Ln",,06/17/2005
+Missouri,"St. Charles",O'fallon,"20 Laura Dr",,06/17/2005
+Missouri,"Saint Charles","Saint Peters","13 River Bend",,06/17/2005
+Missouri,Jefferson,Imperial,"4605 Swaller E",,06/19/2005
+Missouri,Moniteau,Tipton,"210 Cooper E St",,06/20/2005
+Missouri,"St. Francois","Bonne Terre","1133 Ringer Rd",,06/20/2005
+Missouri,Christian,Chadwick,"11106 State Highway 125 S",,06/21/2005
+Missouri,"Saint Charles","Saint Peters","57 Valleyview Dr",,06/22/2005
+Missouri,"St. Charles","Saint Charles","2429 Adams W St",,06/22/2005
+Missouri,Ripley,Doniphan,"Grand And Rt 3 S 406d",,06/25/2005
+Missouri,"St. Louis","Saint Louis","1003 Ann",,06/27/2005
+Missouri,Jasper,Joplin,"1164 March Ln",,06/27/2005
+Missouri,"St. Louis","Saint Louis","300 Potomac E",,06/27/2005
+Missouri,"St. Louis","Saint Louis","1001 Ann",,06/27/2005
+Missouri,Washington,Richwoods,"10179 Butler Hill Rd",,06/28/2005
+Missouri,"St. Charles","Saint Charles","2425 Seventh N St",,06/28/2005
+Missouri,"St. Charles","Saint Charles","655 Marina Dr D",,06/28/2005
+Missouri,Dekalb,Clarksdale,"504 Main N St",,06/29/2005
+Missouri,Franklin,Robertsville,"6274 Hh Hwy",,07/02/2005
+Missouri,"St. Charles","Saint Charles","3128 Essex",,07/03/2005
+Missouri,Dent,Boss,"Hc Rt 3 3360",,07/05/2005
+Missouri,Christian,Rogersville,"123 Chestnut Dr",,07/06/2005
+Missouri,Jefferson,Arnold,"4160 Jeffco Blvd",,07/06/2005
+Missouri,"St. Francois",Farmington,"1015 Edna",,07/07/2005
+Missouri,Franklin,"Villa Ridge","955 Clifton Ln",,07/09/2005
+Missouri,Jasper,Joplin,"1710 Roosevelt S Ave",,07/11/2005
+Missouri,Barry,Monett,"320 Fr 1052",,07/12/2005
+Missouri,Franklin,Gerald,"9113 Excelsior Rd",,07/12/2005
+Missouri,"St. Francois","Park Hills","516 Glendale St",,07/13/2005
+Missouri,Ray,Lawson,"1007 Briar N Ln",,07/14/2005
+Missouri,Newton,Neosho,"21747 Gateway",,07/18/2005
+Missouri,Franklin,Pacific,"1524 Bertha Ln",,07/19/2005
+Missouri,Jasper,Joplin,"628 Porter S St",,07/19/2005
+Missouri,"St. Francois","Park Hills","108 Hampton",,07/20/2005
+Missouri,Lincoln,Troy,"1050 Sommerset Dr",,07/21/2005
+Missouri,Franklin,Sullivan,"945 Oak Pass Ln",,07/21/2005
+Missouri,"St. Charles",O'fallon,"2327 Oakmeadow",,07/21/2005
+Missouri,"St. Clair",Osceola,"800 Rd & 13 Hwy Ne",,07/24/2005
+Missouri,"Cape Girardeau",Jackson,"1334 Cr 468",,07/24/2005
+Missouri,"St. Clair",Osceola,"681 Rd Ne",,07/25/2005
+Missouri,Wright,"Mountain Grove","6236 Hwy 95 N Rd",,07/25/2005
+Missouri,Jefferson,"House Springs","3728 Carol Park",,07/25/2005
+Missouri,"St. Charles",O'fallon,"1076 St. Matthew",,07/26/2005
+Missouri,"St. Charles","Saint Charles","11 San Miguel M",,07/26/2005
+Missouri,"Saint Charles","Saint Peters","18 Strafford",,07/26/2005
+Missouri,"Saint Charles","Saint Peters","19 Sugarwood Ct",,07/26/2005
+Missouri,Madison,Fredericktown,"2109 Madison County 244",,07/27/2005
+Missouri,Marion,Maywood,"1591 Cr 135",,07/27/2005
+Missouri,Butler,Williamsville,"180 Lake Creek Dr",,07/27/2005
+Missouri,Howell,"Mountain View","302 Third W St",,07/28/2005
+Missouri,"St. Charles","Saint Charles","304c Riverbluff 302",,07/28/2005
+Missouri,"St. Charles","Saint Charles","65 Judy Dr",,07/29/2005
+Missouri,Lincoln,Eolia,"434 Hall Rd",,07/29/2005
+Missouri,Jefferson,Imperial,"6415 Hickory Cir",,07/29/2005
+Missouri,Franklin,Sullivan,"320 Taylor St",,07/29/2005
+Missouri,Greene,Springfield,"1214 Robberson N",,07/30/2005
+Missouri,Greene,Springfield,"856 Roanoke S Ave",,08/01/2005
+Missouri,Henry,Clinton,"1104 Hudson S St",,08/03/2005
+Missouri,Butler,Qulin,"3270 Highway N",,08/03/2005
+Missouri,Jefferson,"High Ridge","1788 Little Brennan Dr",,08/04/2005
+Missouri,Adair,Kirksville,"4 Chelsea St",,08/07/2005
+Missouri,Vernon,Nevada,"3203 Tucker S",,08/07/2005
+Missouri,Newton,Neosho,"1503 Main N St",,08/08/2005
+Missouri,Jefferson,"High Ridge","5512 Dillon Rd",,08/11/2005
+Missouri,Jasper,Joplin,"26007 Faison Ln",,08/12/2005
+Missouri,Jasper,Joplin,"820 Byers S St 5",,08/16/2005
+Missouri,Jefferson,"Cedar Hill","14 Paradise Est.",,08/16/2005
+Missouri,"Saint Charles","Saint Peters","21 Driver Ct",,08/17/2005
+Missouri,"St. Charles",O'fallon,"8019 Oakbriar Ct",,08/17/2005
+Missouri,Jasper,Joplin,"7533 Old 66 Blvd",,08/17/2005
+Missouri,Jefferson,Eureka,"2970 River Bend Acres",,08/20/2005
+Missouri,"St. Charles","Saint Charles","126 Diekamp",,08/22/2005
+Missouri,"St. Charles",O'fallon,"8912 Highways Dd",,08/23/2005
+Missouri,Jefferson,Dittmer,"7445 Cedar Grove Park 4",,08/23/2005
+Missouri,Jefferson,Eureka,"228 Hickory",,08/23/2005
+Missouri,Jefferson,Fenton,"109 San Marcos St",,08/23/2005
+Missouri,Stone,Galena,"113 West 4th N",,08/23/2005
+Missouri,Jackson,"Kansas City","3611 Fuller S Ave",,08/25/2005
+Missouri,Jefferson,"High Ridge","2120 Linnus St 11",,08/25/2005
+Missouri,Ray,Richmond,"413 Farris St",,08/25/2005
+Missouri,Caldwell,Kingston,"4694 State Hh W Hwy",,08/26/2005
+Missouri,Greene,Springfield,"1888 Missouri N Ave",,08/28/2005
+Missouri,"Saint Louis","Saint Louis","3647 Dove Dale",,08/28/2005
+Missouri,Jackson,"Lees Summit","509 Elwood Sw",,08/30/2005
+Missouri,Franklin,Pacific,"239 Marjorie Ln",,09/02/2005
+Missouri,Newton,Diamond,"19358 Foliage Rd",,09/02/2005
+Missouri,Barry,Monett,"147 Fr 1050 A",,09/02/2005
+Missouri,Greene,Willard,"10595 Farm Road 76 W",,09/02/2005
+Missouri,Jefferson,Pevely,"664 Riverview Dr",,09/05/2005
+Missouri,"St. Louis (city)","Saint Louis","609 Loughborough Avenue",,09/07/2005
+Missouri,"St. Charles",O'fallon,"508 St. Mary",,09/08/2005
+Missouri,Jasper,Carthage,"509 Oak St",,09/09/2005
+Missouri,"St. Louis","Saint Louis","1045 Tamm Ave",,09/10/2005
+Missouri,Jefferson,Hillsboro,"8277 Hwy Bb",,09/12/2005
+Missouri,"St. Charles","Saint Charles","108 Duchesen N",,09/12/2005
+Missouri,Jefferson,Hillsboro,"7976 Woodland",,09/13/2005
+Missouri,"St. Charles","Saint Charles","147 Lazy Brook",,09/14/2005
+Missouri,Jefferson,"De Soto","1112 Clarke St",,09/14/2005
+Missouri,Atchison,Westboro,"402 1st St",,09/14/2005
+Missouri,Jasper,"Webb City","706 Jefferson S",,09/15/2005
+Missouri,Laclede,Lebanon,"403 Knight St C",,09/16/2005
+Missouri,"St. Charles",O'fallon,"864 Molloy",,09/17/2005
+Missouri,"St. Charles","Saint Charles","315 Riverview 1",,09/18/2005
+Missouri,Howell,"West Plains","8473 Co Rd 1240",,09/19/2005
+Missouri,Jackson,"Kansas City","409 Wallace S Ave",,09/19/2005
+Missouri,Buchanan,"Saint Joseph","1211 Joseph W",,09/19/2005
+Missouri,Jefferson,Dittmer,"7529 Hwy 30",,09/19/2005
+Missouri,Mcdonald,Noel,"232 Newburn Ln",,09/20/2005
+Missouri,Mcdonald,Noel,"343 Ozark S Trl",,09/21/2005
+Missouri,Jefferson,Hillsboro,"9712 Plantation Dr",,09/21/2005
+Missouri,Greene,Springfield,"2302 Hillcrest N 6",,09/21/2005
+Missouri,"St. Charles",O'fallon,"223 Alexandria",,09/22/2005
+Missouri,Jasper,Carterville,"117 Sharon Dr",,09/22/2005
+Missouri,Newton,Joplin,"5378 Bison Rd",,09/25/2005
+Missouri,Jasper,Joplin,"1710 Roosevelt St",,09/27/2005
+Missouri,Henry,Clinton,"451 51 Sw Rd",,09/27/2005
+Missouri,Jasper,Carterville,"108 Gum Rd",,10/04/2005
+Missouri,Mcdonald,Lanagan,"20 (a) Tina Ln",,10/04/2005
+Missouri,Gasconade,Owensville,"108 Jackson",,10/05/2005
+Missouri,Lincoln,Troy,"2579 Trojan Cir",,10/06/2005
+Missouri,Washington,Potosi,"12925 Gildea Rd",,10/07/2005
+Missouri,Jefferson,Hillsboro,"8859 Central Point",,10/07/2005
+Missouri,Greene,Springfield,"2312 College W St",,10/11/2005
+Missouri,"Cape Girardeau","Cape Girardeau","1531 Good Hope St",,10/13/2005
+Missouri,Jefferson,Dittmer,"8910 Black Oak Ln",,10/14/2005
+Missouri,Franklin,Pacific,"3830 First S St",,10/14/2005
+Missouri,Washington,Blackwell,"10175 Galilee Ln",,10/17/2005
+Missouri,Newton,Goodman,"21599 Kingville (b) Ln",,10/17/2005
+Missouri,Mcdonald,Goodman,"21599 Kingville Ln",,10/17/2005
+Missouri,Jasper,Joplin,"1111 12th W",,10/17/2005
+Missouri,"St. Charles",O'fallon,"529 Big Timber",,10/18/2005
+Missouri,Jasper,Joplin,"1234 Empire W Ln",,10/20/2005
+Missouri,Pettis,"Green Ridge","14132 Easter Rd",,10/20/2005
+Missouri,"Saint Louis",Florissant,"1415 Washington",,10/25/2005
+Missouri,Jasper,Joplin,"3986 Caliope Ln",,10/25/2005
+Missouri,Mcdonald,Pineville,"922 Rains Rd",,10/26/2005
+Missouri,Jasper,Joplin,"324 Gray N",,10/26/2005
+Missouri,Randolph,Clark,"1117 County Road 2695",,10/26/2005
+Missouri,Jasper,Joplin,"1623 1st W St",,10/27/2005
+Missouri,Jasper,"Webb City","1301 County Crossing W",,10/28/2005
+Missouri,Pettis,"Green Ridge","31363 Scotten Rd",,10/29/2005
+Missouri,Jasper,Joplin,"3029 Wall S St",,10/29/2005
+Missouri,Lincoln,Troy,"1049 Sommerset 111",,10/31/2005
+Missouri,Howell,"West Plains","3101 Gleghorn St",,10/31/2005
+Missouri,"Saint Louis",Manchester,"802 Meramec Station",,11/01/2005
+Missouri,Franklin,Sullivan,"501 Russel St",,11/02/2005
+Missouri,Jasper,Joplin,"1030 Texas St",,11/04/2005
+Missouri,Carter,Ellsinore,"Co Road 334 (a)",,11/05/2005
+Missouri,Texas,Houston,"8487 Highway 63 N",,11/08/2005
+Missouri,Jefferson,"Cedar Hill","7314 Terawood",,11/08/2005
+Missouri,Jefferson,"Cedar Hill","7315 A Cedar",,11/08/2005
+Missouri,"St. Charles",O'fallon,"109 Red Deer",,11/09/2005
+Missouri,Harrison,Cainsville,"1102 Washington St",,11/13/2005
+Missouri,Jefferson,Dittmer,"7350 Zimmerman Rd",,11/13/2005
+Missouri,"Saint Louis",Hazelwood,"12747 Missouri Bottom Rd",,11/15/2005
+Missouri,"St. Francois",Bismarck,"1167 Lake Shore W Dr",,11/15/2005
+Missouri,Lincoln,Troy,"113 Bobs Ln",,11/17/2005
+Missouri,Warren,Marthasville,"1367 Hwy D",,11/17/2005
+Missouri,Newton,Diamond,"17088 Nighthawk Rd",,11/18/2005
+Missouri,Jasper,Carthage,"3602 Chapel Rd",,11/18/2005
+Missouri,Wright,Mansfield,"11889 Red Oak Dr",,11/19/2005
+Missouri,"Saint Louis",Fenton,"412 Water St",,11/21/2005
+Missouri,Linn,Bucklin,"209 Gentry E",,11/21/2005
+Missouri,Jefferson,"House Springs","3554 Nargansett",,11/22/2005
+Missouri,Jasper,Joplin,"19816 Focus Ln",,11/22/2005
+Missouri,Laclede,Lynchburg,"36678 Bass Rd",,11/26/2005
+Missouri,Morgan,"Gravois Mills","15563 Walnut Hills Lp",,11/26/2005
+Missouri,Jefferson,Pevely,"9331 Elm Lp",,11/28/2005
+Missouri,"St. Charles",O'fallon,"1028 Pinewood Pl",,11/28/2005
+Missouri,Jefferson,"House Springs","5623 Ruth",,11/28/2005
+Missouri,Lincoln,Troy,"6195 Keithly Rd",,11/28/2005
+Missouri,"St. Clair","Lowry City","9085 681 Ne",,11/29/2005
+Missouri,Jasper,Joplin,"602 5th W St",,11/30/2005
+Missouri,Franklin,Sullivan,"10485 Chateau Rd",,12/01/2005
+Missouri,"St. Francois","Park Hills","401 Glendale 303",,12/01/2005
+Missouri,Howell,"West Plains","4191 State Route K Lot 13",,12/02/2005
+Missouri,Jasper,Joplin,"3962 Junge W Blvd",,12/02/2005
+Missouri,Buchanan,"Saint Joseph","2614 13th S St",,12/02/2005
+Missouri,Texas,Raymondville,"1665 Highway 137 S",,12/03/2005
+Missouri,"St. Francois",Farmington,"4670 Old Flat River Rd",,12/04/2005
+Missouri,"Saint Louis","Saint Ann","3570 Lindburg N 124",,12/04/2005
+Missouri,Jefferson,"De Soto","13054 Eastwood Ln",,12/05/2005
+Missouri,Jefferson,"House Springs","5276 Pitcher Dr",,12/05/2005
+Missouri,Jefferson,Arnold,"15 Wagon Wheel",,12/06/2005
+Missouri,"Saint Louis",Overland,"10020 (b) Driver",,12/07/2005
+Missouri,Benton,Lincoln,"21689 Rt T",,12/09/2005
+Missouri,Butler,"Poplar Bluff","346 County Road 564",,12/09/2005
+Missouri,Gasconade,Owensville,"805 Jackson W St",,12/10/2005
+Missouri,Jefferson,"High Ridge","5838 (a) Stieren Dr 50",,12/14/2005
+Missouri,"St. Charles",O'fallon,"1702 Collier",,12/14/2005
+Missouri,Jefferson,"High Ridge","5821 Stieren Ct 17",,12/14/2005
+Missouri,Ralls,"New London","19160 Highway Ff W",,12/16/2005
+Missouri,Jefferson,"High Ridge","5838 (b) Stieren Dr",,12/19/2005
+Missouri,Randolph,Clark,"1295 County Road 2950",,12/22/2005
+Missouri,Jefferson,Festus,"416 Sequoia Dr",,12/22/2005
+Missouri,Warren,Warrenton,"2007 Highway 47 N",,12/22/2005
+Missouri,Jefferson,Hillsboro,"288 Lake N Dr",,12/23/2005
+Missouri,Jasper,Joplin,"1844 22nd W St",,12/24/2005
+Missouri,"Saint Louis",Fenton,"703 Dynasty Dr",,12/27/2005
+Missouri,Franklin,Robertsville,"219 Hampton Hill Ln",,12/27/2005
+Missouri,Franklin,Leslie,"333 Broadway",,12/27/2005
+Missouri,Jackson,Independence,"4011 Cedar Crest S Dr 127",,12/28/2005
+Missouri,"Saint Louis",Eureka,"116 Eureka Gardens",,12/28/2005
+Missouri,Jackson,Independence,"1209 Hocker S Ave",,12/28/2005
+Missouri,Lincoln,Silex,"1070 Norton Rd",,12/30/2005
+Missouri,"St. Francois",Farmington,"917 Blue Bird Meadows",,01/03/2006
+Missouri,Franklin,Union,"2518 Bend N Lp",,01/03/2006
+Missouri,Jasper,"Carl Junction","307 Sunflower Ln",,01/04/2006
+Missouri,Jackson,"Kansas City","725 Lewis S St",,01/04/2006
+Missouri,"Saint Charles",O'fallon,"8010 Oak Mont Ct",,01/04/2006
+Missouri,Jefferson,Hillsboro,"4727 F Moss Haven",,01/04/2006
+Missouri,Clark,Alexandria,"Route 1 103",,01/04/2006
+Missouri,Franklin,"Villa Ridge","5002 St Louis Rock Rd",,01/09/2006
+Missouri,"St. Francois",Leadwood,"1308 C St",,01/09/2006
+Missouri,"Saint Charles",O'fallon,"864 A Molloy",,01/09/2006
+Missouri,"Saint Charles","Saint Charles","35 Chestnut Ridge Ct",,01/10/2006
+Missouri,Jefferson,Festus,"503 Sequoia Dr",,01/13/2006
+Missouri,"Saint Charles","Saint Charles","138 Cole St",,01/14/2006
+Missouri,"Saint Louis",Fenton,"703a Dynasty",,01/14/2006
+Missouri,Taney,Hollister,"476 Shelton Dr",,01/16/2006
+Missouri,Morgan,Stover,"18437 Mulberry Ln",,01/17/2006
+Missouri,Morgan,Stover,"4601 Pyrmount",,01/17/2006
+Missouri,"Saint Charles",Foristell,"2724 Meyer Rd",,01/18/2006
+Missouri,"Saint Charles","Saint Charles","229 (b) Diekamp",,01/20/2006
+Missouri,"Saint Charles","Saint Charles","604 Rebecca Dr",,01/20/2006
+Missouri,"Saint Charles","Saint Charles","223a Tompkins St",,01/20/2006
+Missouri,Atchison,Watson,"20 Linden St",,01/23/2006
+Missouri,"St. Francois",Blackwell,"22871 State Hwy 21 N",,01/25/2006
+Missouri,Howell,"West Plains","3605 County Road 6300",,01/25/2006
+Missouri,Jefferson,"High Ridge","1715 Gravois Rd",,01/29/2006
+Missouri,"Saint Charles","Saint Charles","3804 William Dr",,01/30/2006
+Missouri,"Saint Charles","Saint Charles","18 Dale Dr",,01/31/2006
+Missouri,"Saint Charles",O'fallon,"1076 St Matthew",,02/02/2006
+Missouri,"St. Francois","Bonne Terre","430 North Long Street",,02/02/2006
+Missouri,Jasper,Carthage,"1487 Sycamore E 311",,02/03/2006
+Missouri,Jefferson,Hillsboro,"5838 Webb Rd",,02/04/2006
+Missouri,"St. Francois",Farmington,"410 Ste Genevieve Ave",,02/07/2006
+Missouri,Franklin,Labadie,"106 Pacific",,02/07/2006
+Missouri,Buchanan,"Saint Joseph","3124 Anna Road",,02/07/2006
+Missouri,Moniteau,Tipton,"72769 Seed House",,02/08/2006
+Missouri,Butler,"Poplar Bluff","2564 Hwy 142",,02/09/2006
+Missouri,Jefferson,"House Springs","5601 Ruth Dr",,02/09/2006
+Missouri,Lincoln,"Moscow Mills","3941 Cappel N Rd",,02/09/2006
+Missouri,"Saint Charles","Saint Charles","5 Dale Ct",,02/09/2006
+Missouri,"Saint Charles",Foristell,"568 Biggs Ln",,02/11/2006
+Missouri,Marion,Hannibal,"1500 Singleton N St",,02/11/2006
+Missouri,Warren,"Wright City","560 Stracks Church N",,02/12/2006
+Missouri,Jasper,Oronogo,"20598 96 Highway",,02/13/2006
+Missouri,Jefferson,Hillsboro,"525 Tower Valley",,02/14/2006
+Missouri,Jasper,Carthage,"122 Maple N",,02/15/2006
+Missouri,Jasper,Joplin,"2750 Pleasant View Ln",,02/15/2006
+Missouri,Jasper,Carthage,"1487 Sycamore E St 15",,02/16/2006
+Missouri,Jefferson,"Cedar Hill","7042 Stovesand",,02/16/2006
+Missouri,Adair,Kirksville,"501 Mullanix N St 1a",,02/17/2006
+Missouri,Dallas,Elkland,"208 Darter Rd",,02/22/2006
+Missouri,Dallas,Tunas,"380 Hwy T",,02/22/2006
+Missouri,Jefferson,Dittmer,"8547 Hwy 30",,02/23/2006
+Missouri,"Saint Louis",Lemay,"124 Sigebee",,02/23/2006
+Missouri,Newton,Neosho,"805 Hearrell",,02/24/2006
+Missouri,Lafayette,Napoleon,"419 Anderson Rd",,02/24/2006
+Missouri,Jefferson,"House Springs","5122 Darren",,02/26/2006
+Missouri,"Saint Louis",Overland,"3213 Dix",,02/27/2006
+Missouri,Adair,Kirksville,"1260 Oxford Dr",,02/27/2006
+Missouri,Lincoln,Winfield,"54 Pieper Road",,03/01/2006
+Missouri,Jasper,Joplin,"1573 West Erie",,03/05/2006
+Missouri,Pemiscot,Steele,"1540 State Highway M",,03/06/2006
+Missouri,Warren,Warrenton,"25561 Pendleton Forest",,03/07/2006
+Missouri,Jefferson,Fenton,"132 Orange",,03/08/2006
+Missouri,Washington,Cadet,"10089 Hammond Rd",,03/09/2006
+Missouri,Jefferson,"De Soto","1212 North Second Street",,03/09/2006
+Missouri,Washington,Richwoods,"19270 West Hwy 47 St",,03/09/2006
+Missouri,Christian,Ozark,"3789 State Hwy Jj",,03/10/2006
+Missouri,Lafayette,Odessa,"3575 Shaw School Road",,03/10/2006
+Missouri,Christian,Garrison,"1492 Stevens Road",,03/14/2006
+Missouri,Jefferson,"High Ridge","6625 Pp Highway",,03/15/2006
+Missouri,"Saint Charles","Saint Charles","1380 Dartmouth Court",,03/15/2006
+Missouri,Jefferson,"De Soto","14369a Wilson Hollow Road",,03/16/2006
+Missouri,Greene,"Bois D Arc","12846 Sandy Lane",,03/16/2006
+Missouri,"Saint Charles",Wentzville,"103 Providence Point Court",,03/16/2006
+Missouri,Jefferson,Festus,"603 Ann Street",,03/21/2006
+Missouri,"Saint Charles",O'fallon,"8006 Oakmont",,03/21/2006
+Missouri,"St. Francois",Farmington,"309 West First Street",,03/22/2006
+Missouri,Jefferson,"High Ridge","5923 Sunshine Drive",,03/22/2006
+Missouri,Jefferson,Eureka,"7600 Twin Rivers",,03/22/2006
+Missouri,Jefferson,"De Soto","804 West Kelly Street",,03/24/2006
+Missouri,Polk,"Pleasant Hope","1914 East 555 Road",,03/26/2006
+Missouri,Stoddard,Dexter,"909 Ray Street",,03/27/2006
+Missouri,Franklin,Pacific,"420 Kathy Lane",,03/27/2006
+Missouri,Henry,Clinton,"780 Southeast 250",,03/30/2006
+Missouri,Benton,Warsaw,"26288 Rt Oo",,04/02/2006
+Missouri,"St. Francois",Farmington,"606 Maplestar Route",,04/03/2006
+Missouri,Howell,"Willow Springs","2398 Beltz Road",,04/04/2006
+Missouri,"Saint Charles","Saint Charles","4905 Blase Station",,04/04/2006
+Missouri,Lincoln,"Moscow Mills","3100 Deer Run Lane",,04/05/2006
+Missouri,Jefferson,Dittmer,"7892 Russie Road",,04/08/2006
+Missouri,Jasper,Joplin,"1629 West 1st Street",,04/08/2006
+Missouri,"Saint Charles",Foristell,"3123 North Service Road",,04/11/2006
+Missouri,Jefferson,Pevely,"8679 Twin Road",,04/11/2006
+Missouri,Henry,Calhoun,"930 Northeast 701 Road",,04/11/2006
+Missouri,"Saint Charles",Foristell,"3117 North Service Road",,04/11/2006
+Missouri,Jasper,Sarcoxie,"2041 Cimarron",,04/13/2006
+Missouri,Jefferson,"High Ridge","6625 Hwy Pp",,04/18/2006
+Missouri,Maries,Belle,"10131 Maries Road",,04/18/2006
+Missouri,Taney,Branson,"626 Thistle Road",,04/18/2006
+Missouri,"Saint Louis",Overland,"9112 Wabaday",,04/19/2006
+Missouri,"St. Charles","Saint Charles","1756 Michaelwood Court",,04/19/2006
+Missouri,"St. Francois",Desloge,"1069 P Highway",,04/20/2006
+Missouri,Morgan,Versailles,"406 West Clark",,04/21/2006
+Missouri,Jefferson,"De Soto","418 Main Street",,04/23/2006
+Missouri,Jefferson,"Cedar Hill","6300 South River Road",,04/24/2006
+Missouri,Warren,"Wright City","42 Point Maple",,04/24/2006
+Missouri,"Saint Charles","Saint Charles","237 Diekamp",,04/25/2006
+Missouri,Jackson,Independence,"9722 Franklin Avenue",,04/26/2006
+Missouri,"Saint Louis","Woodson Terrace","9419 Chester",,04/27/2006
+Missouri,Jefferson,"House Springs","6907 Duckworth Lane",,04/27/2006
+Missouri,Lawrence,"Mount Vernon","9617 Lawrnce 1210",,04/28/2006
+Missouri,"St. Francois",Farmington,"14 Abbey Lane",,05/01/2006
+Missouri,"Saint Charles","Saint Charles","221 Frederick",,05/02/2006
+Missouri,Jefferson,Hillsboro,"101 Tower Valley",,05/02/2006
+Missouri,Morgan,Versailles,"14092 Cardnial Road",,05/02/2006
+Missouri,"St. Francois",Bismarck,"1158 Mullberry Street",,05/03/2006
+Missouri,"St. Francois","Bonne Terre","2496 Kane Lane",,05/04/2006
+Missouri,Jefferson,Festus,"2184b Horine Road",,05/04/2006
+Missouri,Scott,Vanduser,"27 Lewis",,05/05/2006
+Missouri,Jefferson,"De Soto","729 East Kelly Court",,05/08/2006
+Missouri,Greene,"Fair Grove","145 Buggy Drive",,05/10/2006
+Missouri,"Saint Charles","Saint Charles","223 Tompkins",,05/11/2006
+Missouri,Jefferson,Fenton,"881 Briny Lane",,05/11/2006
+Missouri,Scotland,Memphis,"124 North Knott Street",,05/13/2006
+Missouri,Scott,Miner,"2620 Ables",,05/16/2006
+Missouri,Newton,Joplin,"5380 Bison Road",,05/18/2006
+Missouri,"Saint Charles","Saint Peters","8 Four Winds Lane",,05/18/2006
+Missouri,Newton,Joplin,"3712 Kentucky Avenue",,05/22/2006
+Missouri,"Saint Charles","Saint Charles","42 Gary Court",,05/22/2006
+Missouri,"Saint Louis",Overland,"9008 Argyle",,05/23/2006
+Missouri,Scott,Sikeston,"21333 State 61 Highway",,05/23/2006
+Missouri,Platte,Parkville,"10009 Lima Drive",,05/23/2006
+Missouri,Christian,Ozark,"222 Short Leaf Road",,05/25/2006
+Missouri,Washington,"Mineral Point","10120 Dellwood Road",,05/26/2006
+Missouri,Lincoln,Troy,"213 Scenic Drive",,05/28/2006
+Missouri,"St. Francois",Farmington,"320 Hillside Street",,05/30/2006
+Missouri,Jefferson,Imperial,"4022 Sweetgum",,05/30/2006
+Missouri,Pettis,Sedalia,"Lot 7 Goodwill Chapel Trailer Park",,06/01/2006
+Missouri,Jasper,"Webb City","403 North Roane Street",,06/04/2006
+Missouri,Jackson,"Kansas City","1925 South Lawn Avenue",,06/05/2006
+Missouri,Jefferson,"De Soto","611 South Third Street",,06/06/2006
+Missouri,"Saint Charles","Saint Charles","138 Cole Boulevard",,06/06/2006
+Missouri,Jefferson,"House Springs","6065 North Lakeshore",,06/06/2006
+Missouri,Chariton,Brunswick,"211 West 5th Street",,06/06/2006
+Missouri,Henry,Clinton,"477 Southeast 1151 Road",,06/07/2006
+Missouri,Clay,"Kansas City","6280 Northeast Pennsylvania Avenue",,06/07/2006
+Missouri,Lafayette,Napoleon,"2600 Hwy 224",,06/08/2006
+Missouri,Lincoln,"Wright City","337 Zoar Church Road",,06/12/2006
+Missouri,"St. Francois",Leadwood,"118 Oak Street",,06/12/2006
+Missouri,Jefferson,Fenton,"211 Cool Valley Drive",,06/13/2006
+Missouri,Jefferson,"House Springs","5653 Cherokee Lane",,06/14/2006
+Missouri,Jasper,Joplin,"7533 West Old 66 Boulevard",,06/14/2006
+Missouri,"Saint Louis",Florissant,"900 Frey Lane",,06/15/2006
+Missouri,"Saint Charles","Saint Charles","2401 Chesstal",,06/15/2006
+Missouri,Crawford,Steelville,"234 State Hwy E",,06/16/2006
+Missouri,Jefferson,Eureka,"7838 Jim Weber",,06/19/2006
+Missouri,Jefferson,Fenton,"340 Nutmeg",,06/21/2006
+Missouri,"Saint Charles","Saint Charles","221(a) Frederick",,06/21/2006
+Missouri,"St. Francois","Bonne Terre","9575 Berry Road",,06/21/2006
+Missouri,"Saint Louis","Saint Louis","9882 Paul Revere",,06/22/2006
+Missouri,"Saint Louis",Ballwin,"1316 Holgate",,06/23/2006
+Missouri,Jefferson,"House Springs","408 Golden Acres",,06/27/2006
+Missouri,Jefferson,Imperial,"3911 Valley Drive",,06/27/2006
+Missouri,Bollinger,"Marble Hill","201 3rd Street",,06/27/2006
+Missouri,Jefferson,"High Ridge","3025 Carol Lane",,06/27/2006
+Missouri,"St. Francois",Desloge,"1011 Hawthorne Street",,06/29/2006
+Missouri,Greene,Springfield,"1909 East Cherry Street",,06/29/2006
+Missouri,Lewis,Maywood,"28497 Northeast Olive Avenue",,06/29/2006
+Missouri,Jefferson,Festus,"4 Creekview Drive",,06/30/2006
+Missouri,Howell,"West Plains","10441 State Route 17",,06/30/2006
+Missouri,Washington,"Mineral Point","10728 Trokey Road",,07/06/2006
+Missouri,"Saint Louis","Saint Ann","3242 Chaucer",,07/10/2006
+Missouri,Jefferson,Desoto,"4771 Jehle Lane",,07/10/2006
+Missouri,Miller,Eldon,"504 Oak Street",,07/11/2006
+Missouri,Buchanan,"Saint Joseph","140 Countryside Lane",,07/11/2006
+Missouri,Jefferson,Hillsboro,"9509 Meadow Drive",,07/13/2006
+Missouri,"Saint Louis","Saint John","3622 Marvin",,07/13/2006
+Missouri,Jefferson,"De Soto","608 North Ninth Street",,07/15/2006
+Missouri,"Saint Louis",Overland,"2345 Buller",,07/18/2006
+Missouri,Jackson,"Kansas City","2200 Monroe",,07/18/2006
+Missouri,Newton,Granby,"22687 Kristin Lane",,07/19/2006
+Missouri,Jasper,Joplin,"1234 West Empire Lane",,07/19/2006
+Missouri,"Saint Charles","O Fallon","1702 Collier Street",,07/20/2006
+Missouri,Greene,Springfield,"2557 Summit Avenue",,07/23/2006
+Missouri,Jefferson,Kimmswick,"6040 Mississippi",,07/24/2006
+Missouri,"Saint Charles","Saint Charles","4008 Towers Road",,07/26/2006
+Missouri,"St. Francois","Bonne Terre","421 A Street",,07/26/2006
+Missouri,"St. Francois","Park Hills","1000 North Jane Drive",,07/27/2006
+Missouri,"Saint Louis","Valley Park","27 Plainview",,07/27/2006
+Missouri,Holt,Maitland,"310 Elm Street",,07/30/2006
+Missouri,Jasper,Carthage,"16911 Locust Road",,08/01/2006
+Missouri,"Saint Charles",Wentzville,"604 Scotti Court",,08/01/2006
+Missouri,Audrain,Mexico,"1003 South Clark",,08/01/2006
+Missouri,"St. Francois","Park Hills","203 Coffman Street",,08/03/2006
+Missouri,"Saint Louis","Saint Louis","4231 Barcelos",,08/05/2006
+Missouri,Jefferson,Hillsboro,"9217a Goldman Road",,08/07/2006
+Missouri,Howell,"Willow Springs","811 East Main",,08/07/2006
+Missouri,Stone,"Kimberling City","10 Golden Drive",,08/08/2006
+Missouri,Newton,Seneca,"9859 Bethel Road",,08/08/2006
+Missouri,Jefferson,Dittmer,"664 Riverview Drive",,08/09/2006
+Missouri,Montgomery,"High Hill","1054 Tree Farm Road",,08/10/2006
+Missouri,Jefferson,"High Ridge","5276a Pitcher",,08/13/2006
+Missouri,Franklin,Washington,"1926 Mike Alan Drive",,08/14/2006
+Missouri,"St. Francois","Valle Mines","9931 Ridgeview Drive",,08/14/2006
+Missouri,Jefferson,Dittmer,"8451 Elm Springs Drive",,08/15/2006
+Missouri,"Saint Charles",Wentzville,"702 Linda Lane",,08/16/2006
+Missouri,"Saint Louis",Florissant,"2756 Shadow Creek",,08/18/2006
+Missouri,Christian,Highlandville,"339 Fern Road",,08/18/2006
+Missouri,Jasper,Joplin,"1320 Kentucky",,08/22/2006
+Missouri,Franklin,Gerald,"9286 Excelsior",,08/22/2006
+Missouri,"Saint Charles","Saint Charles","330 Boones Lick",,08/24/2006
+Missouri,"Saint Louis","Maryland Heights","2715 Mars",,08/24/2006
+Missouri,Franklin,Gerald,"3047 Shotwell Road",,08/25/2006
+Missouri,Jefferson,"Cedar Hill","62 Ceder Hill Estates",,08/25/2006
+Missouri,Jefferson,Dittmer,"8453 Lake Drive",,08/27/2006
+Missouri,"Saint Louis","Saint John","8724 Ezra",,08/29/2006
+Missouri,Franklin,Washington,"1314 Jasper Lane",,08/29/2006
+Missouri,Franklin,Leslie,"85 North Lake Road",,08/29/2006
+Missouri,"Saint Charles","Saint Charles","1212 North Fourth Street",,08/30/2006
+Missouri,"Saint Louis",,"3644 Marvin",,08/30/2006
+Missouri,Stone,"Blue Eye","1292 State 13 Highway",,08/31/2006
+Missouri,Pettis,Sedalia,"24548 Manila Road",,08/31/2006
+Missouri,Jefferson,Arnold,"1688 Stardust",,09/01/2006
+Missouri,Lincoln,"Old Monroe","360 Sycamore Bend Road",,09/02/2006
+Missouri,"Saint Louis",Fenton,"366 Sumitt",,09/03/2006
+Missouri,Jefferson,Imperial,"856 Lincoln",,09/05/2006
+Missouri,Jefferson,"Cedar Hill","6434 Windshadow Drive",,09/07/2006
+Missouri,"Saint Charles","Saint Peters","792 Estes Park",,09/07/2006
+Missouri,Jefferson,,"8653 Terry Hill",,09/07/2006
+Missouri,Jefferson,"House Springs","5514 Echo Valley Drive",,09/07/2006
+Missouri,Jasper,Oronogo,"145 Grant Court",,09/08/2006
+Missouri,Greene,Springfield,"633 West State",,09/09/2006
+Missouri,"Saint Charles","Saint Peters","2505 Sequoia",,09/10/2006
+Missouri,Pettis,"Cole Camp","24010 Manila Road",,09/12/2006
+Missouri,"Saint Louis",Fenton,"881 Briny",,09/12/2006
+Missouri,"St. Francois","Park Hills","408 Moyer",,09/12/2006
+Missouri,Franklin,Bourbon,"77 Ford Hill Lane",,09/13/2006
+Missouri,"Saint Charles","Saint Charles","3420 Elm",,09/13/2006
+Missouri,"Saint Louis","Saint Ann","4053 Ashby",,09/14/2006
+Missouri,Jackson,Independence,"9017 East 31 Street",,09/14/2006
+Missouri,Clay,"Kansas City","3818 North Chaumiere Avenue",,09/17/2006
+Missouri,"Saint Charles",Ofallon,"71 Runny Meade",,09/20/2006
+Missouri,Mcdonald,Noel,"232 Kyle Road",,09/21/2006
+Missouri,Pettis,Windsor,"36200 Richardson Road",,09/23/2006
+Missouri,Greene,Springfield,"728 Cambridge Street",,09/23/2006
+Missouri,Lincoln,Winfield,"2312 East 47 Highway",,09/25/2006
+Missouri,"St. Francois","Bonne Terre","1133 Ringer Road",,09/25/2006
+Missouri,Jefferson,"High Ridge","2120 Linnus",,09/26/2006
+Missouri,"Saint Charles","Saint Charles","31 Cottonwood",,09/26/2006
+Missouri,Greene,Springfield,"1451 North Ethyl Avenue",,09/28/2006
+Missouri,Jackson,"Kansas City","11215 South Palmer Avenue",,09/28/2006
+Missouri,"Saint Charles","Saint Peters","1111 Spencer Drive",,10/02/2006
+Missouri,Newton,Joplin,"1225 Outer Road",,10/03/2006
+Missouri,Miller,"Lake Ozark","1468 School Road",,10/04/2006
+Missouri,"St. Louis","Saint Louis","9038 Patrick Drive",,10/05/2006
+Missouri,Taney,Taneyville,"444 7th Street",,10/05/2006
+Missouri,Jasper,Joplin,"2618a South Kentucky Street",,10/08/2006
+Missouri,Greene,Springfield,"4137 Miranda Court",,10/09/2006
+Missouri,Jefferson,Hillsboro,"4579 Jarvis Road",,10/10/2006
+Missouri,"St. Clair",Osceola,"3085 Northwest 100 Road",,10/10/2006
+Missouri,"Saint Charles",Ofallon,"906 St. Matthews Drive",,10/11/2006
+Missouri,Marion,Palmyra,"108 South Betty Avenue",,10/12/2006
+Missouri,Barry,Monett,"602 North Lincoln Street",,10/12/2006
+Missouri,"Saint Charles",Ofallon,"8912 Dd Highway",,10/14/2006
+Missouri,"Saint Louis",Overland,"1818 Ashby Road",,10/15/2006
+Missouri,Jasper,Joplin,"4218 East Tiffany Lane",,10/16/2006
+Missouri,Jefferson,"De Soto","301 Fredrika",,10/16/2006
+Missouri,Howard,Franklin,"503 Hcr 335",,10/18/2006
+Missouri,Jefferson,Arnold,"515 Potomac",,10/23/2006
+Missouri,Jefferson,Hillsboro,"4335 Timberline",,10/24/2006
+Missouri,Jefferson,"Cedar Hill","8455 A Lake Drive",,10/24/2006
+Missouri,"Saint Louis",Fenton,"412 Water Street",,10/24/2006
+Missouri,Adair,Kirksville,"15507 Motter Hill Road",,10/26/2006
+Missouri,Jefferson,Imperial,"3911 Hawthorne Drive",,10/29/2006
+Missouri,Jackson,Independence,"18902 East 18th North Street",,11/01/2006
+Missouri,Franklin,Pacific,"1679 Missouri Avenue",,11/01/2006
+Missouri,Jefferson,"High Ridge","3123 Ruby",,11/02/2006
+Missouri,Greene,Springfield,"1113 South Crutcher Avenue",,11/03/2006
+Missouri,Barry,Monett,"415 West Clevelnad",,11/07/2006
+Missouri,Jasper,Carthage,"12911 Old 66 Boulevard",,11/08/2006
+Missouri,Barry,Cassville,"1404 Cherry",,11/09/2006
+Missouri,Christian,Nixa,"408 South Fairway",,11/10/2006
+Missouri,Greene,Willard,"104 Robberson",,11/12/2006
+Missouri,Jefferson,"De Soto","2152 Big River Trail",,11/13/2006
+Missouri,Howard,"New Franklin","112 East Market",,11/13/2006
+Missouri,Franklin,Washington,"27-3 South Winds",,11/13/2006
+Missouri,"St. Charles","Saint Peters","7 Trade Winds Drive",,11/14/2006
+Missouri,Christian,Sparta,"393 South Oak Street",,11/16/2006
+Missouri,Jefferson,"De Soto","1014f North 7th",,11/16/2006
+Missouri,Washington,Fletcher,"West Ceder Creek Road",,11/16/2006
+Missouri,Jackson,Grandview,"12905 Eighth Street",,11/18/2006
+Missouri,"Saint Charles","O Fallon","2357 Oakbrook",,11/19/2006
+Missouri,"St. Charles","O Fallon","2358 Oakbrook Drive",,11/19/2006
+Missouri,Franklin,Labadie,"2240 Mo Pac Road",,11/20/2006
+Missouri,"Saint Louis","Breckenridge Hills","3311 Airway",,11/25/2006
+Missouri,"Saint Charles","Saint Charles","79 Robert",,11/29/2006
+Missouri,Jefferson,Fenton,"2597 Bluff View",,11/29/2006
+Missouri,Jefferson,Fenton,"100 Delores Drive",,12/02/2006
+Missouri,"Saint Charles","Saint Charles","407 Hawthorn Avenue",,12/05/2006
+Missouri,Jackson,Independence,"119 North Arlington Avenue",,12/06/2006
+Missouri,Pettis,"Green Ridge","35868 State Route E",,12/06/2006
+Missouri,Butler,Harviell,"2534 Cr 369",,12/06/2006
+Missouri,Cass,Raymore,"715 Madison Creek",,12/08/2006
+Missouri,Jefferson,Fenton,"389 Corisandi",,12/10/2006
+Missouri,Barry,Monett,"501 East Cr",,12/11/2006
+Missouri,Jasper,Joplin,"2609 North Pine Hill Lane",,12/11/2006
+Missouri,Jefferson,Pevely,"777 Pinson",,12/12/2006
+Missouri,Jefferson,Imperial,"3710 Hill And Dale",,12/14/2006
+Missouri,Jefferson,Arnold,"2150 Lake Drive",,12/14/2006
+Missouri,Jefferson,Arnold,"3530 Madonna Lane",,12/14/2006
+Missouri,Buchanan,"Saint Joseph","211 North 21st Street",,12/15/2006
+Missouri,"St. Francois","Bonne Terre","316 Hazel Street",,12/18/2006
+Missouri,"St. Francois","Park Hills","401 National Street",,12/18/2006
+Missouri,Grundy,Trenton,"509 Monroe",,12/20/2006
+Missouri,Butler,Fisk,"813 Hwy Ff",,12/21/2006
+Missouri,Jasper,"Webb City","10276 Coutny Lane 265",,12/23/2006
+Missouri,Jefferson,Festus,"2955 Carron",,12/24/2006
+Missouri,"St. Louis","Saint Louis","3622 Marvin Avenue",,12/26/2006
+Missouri,Jasper,Carthage,"11325 Kafir Road",,12/27/2006
+Missouri,"Cape Girardeau","Cape Girardeau","509 Albert",,12/30/2006
+Missouri,Jefferson,Fenton,"300a Keystone",,01/02/2007
+Missouri,"St. Louis",Fenton,"653 Gravois",,01/02/2007
+Missouri,Jefferson,"Cedar Hill","6615 Bandstand",,01/03/2007
+Missouri,Jefferson,Fenton,"208 Cocoa Court",,01/04/2007
+Missouri,Miller,Kaiser,"616 Highway 42",,01/04/2007
+Missouri,"St. Louis","Saint Louis","10021 Rodium",,01/08/2007
+Missouri,Howard,Fayette,"602 Elm Street",,01/15/2007
+Missouri,Clay,"North Kansas City","1000 East 24 Avenue",,01/18/2007
+Missouri,Cooper,Boonville,"10451 Ferry Road",,01/22/2007
+Missouri,"St. Charles","Saint Charles","214 Oakleaf Drive",,01/22/2007
+Missouri,Jefferson,"House Springs","5268 Pitcher Drive",,01/24/2007
+Missouri,"St. Louis","Saint Louis","9676 Norlakes",,01/28/2007
+Missouri,Jefferson,Dittmer,"8434 Dittmer Catawissa Road",,01/29/2007
+Missouri,Howell,"West Plains","927 Armstrong Street",,01/31/2007
+Missouri,Franklin,Sullivan,"5283 Highway H",,02/02/2007
+Missouri,Miller,Eldon,"202 Z Highway",,02/05/2007
+Missouri,Caldwell,Polo,"2501 Southwest Highway 116",,02/05/2007
+Missouri,Franklin,Washington,"472 Barbara Lane",,02/07/2007
+Missouri,"St. Francois","Bonne Terre","2395 North Street",,02/07/2007
+Missouri,Jefferson,"High Ridge","5628 Skyline Drive",,02/09/2007
+Missouri,"St. Francois",Farmington,"6548 North Busieck Road",,02/09/2007
+Missouri,Morgan,Stover,"204 West Fifth Street",,02/14/2007
+Missouri,Jasper,Joplin,"2126 Virginia Avenue",,02/16/2007
+Missouri,Washington,Irondale,"403 West Ash Street",,02/16/2007
+Missouri,Howell,"West Plains","364 Thayer Avenue",,02/16/2007
+Missouri,Lawrence,"La Russell","2888 Lawrence 1025",,02/16/2007
+Missouri,Washington,Potosi,"901 North Stone Street",,02/22/2007
+Missouri,Jackson,"Kansas City","6832 East 14th Street",,02/24/2007
+Missouri,"St. Francois","Park Hills","504 Simmons Avenue 3",,02/25/2007
+Missouri,Mcdonald,Goodman,"2438 B Highway",,02/26/2007
+Missouri,"St. Charles",Wentzville,"1041 Hidden Valley Drive",,02/27/2007
+Missouri,Washington,Irondale,"305 Iroquois",,02/27/2007
+Missouri,Morgan,Stover,"205 North Oak Street",,02/28/2007
+Missouri,Barton,Liberal,"617 Northwest 145th Lane",,02/28/2007
+Missouri,Maries,Belle,"302 Whithouse Drive",,03/01/2007
+Missouri,Benton,"Cole Camp","14225 Silver Lane",,03/02/2007
+Missouri,Warren,Warrenton,"1202 Lilac Circle",,03/02/2007
+Missouri,Lawrence,Marionville,"102 Martha Drive 9",,03/02/2007
+Missouri,Adair,Kirksville,"15 Cascade",,03/03/2007
+Missouri,Jefferson,Imperial,"4629 East Four Ridge Road",,03/04/2007
+Missouri,Mcdonald,Goodman,"161 East Brody 4",,03/07/2007
+Missouri,"Ste. Genevieve",Bloomsdale,"8438 Terry Lee Drive",,03/07/2007
+Missouri,"St. Francois","Doe Run","2860 Arnoldi Road",,03/08/2007
+Missouri,"St. Charles",Wentzville,"15 Elizabeth Ann Drive",,03/12/2007
+Missouri,"Cape Girardeau","Cape Girardeau","1927 North Kingshighway 20",,03/14/2007
+Missouri,Scotland,Memphis,"426 Cecil",,03/14/2007
+Missouri,"St. Charles","Saint Charles","604 Clark",,03/15/2007
+Missouri,"Ste. Genevieve","Sainte Genevieve","803 North Fourth Street",,03/15/2007
+Missouri,"St. Charles","Saint Charles","38 David Drive",,03/15/2007
+Missouri,Jefferson,"De Soto","4771 Jehle Lane F",,03/19/2007
+Missouri,"St. Charles",Wentzville,"706 Melrose Street",,03/20/2007
+Missouri,Crawford,Cuba,"2418 San Chez",,03/20/2007
+Missouri,"St. Francois","Park Hills","705 3rd Street",,03/20/2007
+Missouri,Daviess,Altamont,"110 Court Drive",,03/21/2007
+Missouri,"St. Charles","Saint Charles","1702 Veterans Memorial Drive",,03/22/2007
+Missouri,"St. Charles","Saint Charles","2257 Campus Drive",,03/22/2007
+Missouri,Franklin,"Saint Clair","2491 Project Road",,03/22/2007
+Missouri,Dade,Greenfield,"1234 East Highway 245",,03/26/2007
+Missouri,"St. Louis","Saint Louis","725 Edna Avenue",,03/27/2007
+Missouri,Newton,Neosho,"410 Thrasher Street",,03/30/2007
+Missouri,"St. Charles","Saint Charles","739 Genteman Road",,03/31/2007
+Missouri,Jackson,"Kansas City","8711 Independence Avenue",,04/03/2007
+Missouri,"St. Charles","Saint Peters","792 Estes Parks Drive",,04/03/2007
+Missouri,"St. Francois",Farmington,"409 South Vandervoot Street",,04/06/2007
+Missouri,Jackson,"Oak Grove","7114 East Oak Hill Road",,04/07/2007
+Missouri,Jefferson,"De Soto","217 Easton Street",,04/08/2007
+Missouri,"St. Charles","Saint Charles","3899 Elmpoint Road",,04/08/2007
+Missouri,Jefferson,"High Ridge","2517 Williams Creek Road",,04/09/2007
+Missouri,Newton,Seneca,"20135 Crow Road",,04/09/2007
+Missouri,"St. Charles","Saint Charles","582 Dardenne Drive",,04/11/2007
+Missouri,Jefferson,Festus,"1530 Westvale",,04/11/2007
+Missouri,Texas,Cabool,"Country Aire Lane",,04/12/2007
+Missouri,Butler,"Poplar Bluff","2493 West County Road 572",,04/12/2007
+Missouri,Jasper,Sarcoxie,"1306 Washington Street",,04/16/2007
+Missouri,"St. Charles",Wentzville,"2019 Trio Drive",,04/16/2007
+Missouri,"St. Charles","O Fallon","827 Valley Wind Court",,04/17/2007
+Missouri,Jasper,Joplin,"109 North Wall Street",,04/17/2007
+Missouri,Jefferson,Hillsboro,"4619 Lila Drive",,04/18/2007
+Missouri,"Ste. Genevieve",Festus,"6676 Old Billy Farm Road",,04/18/2007
+Missouri,Jefferson,Festus,"115 Canepa Place",,04/23/2007
+Missouri,Warren,"Wright City","980 Archer Road",,04/25/2007
+Missouri,Jefferson,Festus,"1500 Harness",,04/25/2007
+Missouri,"St. Francois","Park Hills","2606 South Halter Road",,04/26/2007
+Missouri,Henry,Clinton,"765 Southeast 250",,04/26/2007
+Missouri,Clay,Liberty,"1508 Lake Road",,04/28/2007
+Missouri,Montgomery,Rhineland,"734 River Trail Road",,04/30/2007
+Missouri,Washington,Cadet,"10688 Miller Road",,04/30/2007
+Missouri,Texas,Cabool,"1303 North 63 Highway",,04/30/2007
+Missouri,"St. Francois","Park Hills","221 Union",,05/01/2007
+Missouri,Jasper,Joplin,"3454 North Lone Elm",,05/01/2007
+Missouri,"Cape Girardeau","Cape Girardeau","2598b County Road 227",,05/02/2007
+Missouri,Marion,Palmyra,"223 East Church",,05/02/2007
+Missouri,Scott,Sikeston,"618 West North Street",,05/03/2007
+Missouri,Butler,"Poplar Bluff","99 West County Road 567",,05/03/2007
+Missouri,"St. Louis","Saint Louis","7552 Maple",,05/04/2007
+Missouri,Marion,Hannibal,"1308 Fulton",,05/04/2007
+Missouri,Butler,"Poplar Bluff","40 East Mosey Lane",,05/04/2007
+Missouri,Clinton,Cameron,"625 Kelsey",,05/04/2007
+Missouri,Jackson,"Blue Springs","919 South Hampton Court",,05/05/2007
+Missouri,Jefferson,"De Soto","4496 Liberty Meadows",,05/05/2007
+Missouri,Cedar,"El Dorado Springs","2998e 780",,05/07/2007
+Missouri,Monroe,"Monroe City","411 North Main",,05/08/2007
+Missouri,Lincoln,Winfield,"48 Ackerman Road",,05/09/2007
+Missouri,Butler,Qulin,"903 East Second Street",,05/09/2007
+Missouri,Vernon,Nevada,"318 North West Street",,05/09/2007
+Missouri,Taney,Hollister,"192 Mountain View Trail",,05/11/2007
+Missouri,Jefferson,"High Ridge","1732 Robin",,05/11/2007
+Missouri,Lincoln,"Old Monroe","100 Second Terrace",,05/14/2007
+Missouri,Newton,Joplin,"2718 East 46th Street",,05/14/2007
+Missouri,Barton,Mindenmines,"367 Northwest 176th Lane",,05/14/2007
+Missouri,Morgan,Stover,"2914 Adobe Road",,05/14/2007
+Missouri,Jefferson,Arnold,"2009 Key West Drive",,05/16/2007
+Missouri,"St. Charles","Saint Peters","14 Sunny Hill Boulevard",,05/17/2007
+Missouri,Lincoln,Foley,"155 Bluffview",,05/19/2007
+Missouri,Jefferson,Festus,"437 Montauk",,05/23/2007
+Missouri,Butler,"Poplar Bluff","618 East South B Street",,05/23/2007
+Missouri,Jefferson,"Cedar Hill","7011-2 Hillview Drive",,05/24/2007
+Missouri,Jefferson,"High Ridge","6625 Highway Pp",,05/28/2007
+Missouri,Jefferson,Dittmer,"423 West Woodlands Trails",,05/30/2007
+Missouri,"St. Charles","O Fallon","3 Oak Circle",,05/30/2007
+Missouri,Greene,Springfield,"3826 Sylvania",,05/31/2007
+Missouri,Jasper,Joplin,"2210 South Tyler",,06/01/2007
+Missouri,Lincoln,Troy,"152 Mennemeyer Road",,06/01/2007
+Missouri,Scott,"Scott City","701 Wall Street",,06/03/2007
+Missouri,Gasconade,Owensville,"4365 Missouri State Ee Route",,06/03/2007
+Missouri,"Ste. Genevieve","Sainte Genevieve","72 Third Street",,06/05/2007
+Missouri,Jasper,Jasper,"210 B South 5th Street",,06/06/2007
+Missouri,Jefferson,Fenton,"163a Babs Lane",,06/06/2007
+Missouri,"St. Francois",Farmington,"212 North Forrester Street",,06/06/2007
+Missouri,Howell,Pomona,"4777 County Road 2630",,06/07/2007
+Missouri,"St. Francois",Farmington,"723 North Maple Street",,06/08/2007
+Missouri,Jefferson,Imperial,"1016a Elk Run",,06/09/2007
+Missouri,"St. Charles","Saint Charles","441 Pam Drive",,06/11/2007
+Missouri,Jefferson,"De Soto","6020 Wallace",,06/13/2007
+Missouri,Jasper,Joplin,"811 North Stateline Road",,06/14/2007
+Missouri,Jefferson,"House Springs","4811 Wedgewood",,06/15/2007
+Missouri,Franklin,"Saint Clair","1750 Tt Highway",,06/15/2007
+Missouri,Montgomery,"High Hill","1158 Booneslick Road",,06/17/2007
+Missouri,Crawford,Leasburg,"6411 North Service Road",,06/18/2007
+Missouri,"St. Charles","Portage Des Sioux","46 Sherwood Harbor Road",,06/19/2007
+Missouri,"St. Charles","O Fallon","1223 O Fallon Lakes",,06/21/2007
+Missouri,Jasper,Joplin,"6538 West Cedar Wind Road",,06/22/2007
+Missouri,Jefferson,Imperial,"2432 Waterfront Drive",,06/22/2007
+Missouri,"St. Charles","Saint Charles","3240 Elm Street",,06/22/2007
+Missouri,"St. Charles","Saint Charles","1701 Veterans Memorial Parkway",,06/26/2007
+Missouri,"St. Francois",Farmington,"6548 East Busiek Road",,06/28/2007
+Missouri,Jefferson,Festus,"2184 Horine Road",,07/02/2007
+Missouri,Jefferson,Festus,"151 Dublin",,07/03/2007
+Missouri,"St. Charles","Saint Charles","2 Anna Drive",,07/04/2007
+Missouri,Stoddard,"Bell City","22916 North State Highway Y",,07/06/2007
+Missouri,Mcdonald,Goodman,"219 West Maverick Street",,07/10/2007
+Missouri,Livingston,Chillicothe,"213 Liberia",,07/11/2007
+Missouri,"Ste. Genevieve","Sainte Genevieve","52 North Second Street",,07/11/2007
+Missouri,Barton,Lamar,"1704 Hidden Lane",,07/11/2007
+Missouri,Barry,Cassville,"600 Old Exeter Road",,07/11/2007
+Missouri,"St. Francois","Park Hills","203 North Coffman Street",,07/12/2007
+Missouri,"St. Charles","Saint Charles","65 Judy Drive",,07/13/2007
+Missouri,"St. Charles","Saint Charles","700 Boone Avenue",,07/16/2007
+Missouri,Madison,Fredericktown,"1051 County Road 9440",,07/20/2007
+Missouri,Jefferson,Hillsboro,"7506 Tower Road",,07/23/2007
+Missouri,Morgan,"Gravois Mills","13341 Tiff Mine Lane",,07/24/2007
+Missouri,Mcdonald,Goodman,"2220 Klondike Road",,07/24/2007
+Missouri,"Ste. Genevieve",Bloomsdale,"8090 Jackson School Road",,07/25/2007
+Missouri,Jefferson,Barnhart,"2141 Meadow Drive",,07/25/2007
+Missouri,Lincoln,"Moscow Mills","137 Pam Court",,07/25/2007
+Missouri,"St. Charles","O Fallon","8008 Oakfield Drive",,07/25/2007
+Missouri,Lincoln,Troy,"690 South Lincoln Drive",,07/25/2007
+Missouri,Jasper,Joplin,"1425 South Stardust Lane",,07/26/2007
+Missouri,"St. Charles","Saint Charles","3420 Elm Street",,07/26/2007
+Missouri,Jefferson,Dittmer,"12029 Ware Lake Road",,07/26/2007
+Missouri,Jefferson,Dittmer,"8910 Black Oak",,07/27/2007
+Missouri,Clay,"Kansas City","5611 Northeast 50th Terrace",,07/27/2007
+Missouri,Howell,"West Plains","1321 North College Street",,07/27/2007
+Missouri,Crawford,Cuba,"1002 Glassey Street",,07/29/2007
+Missouri,Barry,Cassville,"29 Sycamore Street",,07/31/2007
+Missouri,Jefferson,Dittmer,"9650 Cedar Drive",,07/31/2007
+Missouri,Jefferson,"High Ridge","6537 Highway Pp",,08/01/2007
+Missouri,Stoddard,Puxico,"County Road 279",,08/01/2007
+Missouri,Jefferson,"High Ridge","3136 Sapphire",,08/02/2007
+Missouri,"St. Louis",Eureka,"503 Heyden Drive",,08/04/2007
+Missouri,Franklin,"Saint Clair","2801 North Service Road",,08/06/2007
+Missouri,Washington,Potosi,"109 West Jefferson Street",,08/07/2007
+Missouri,Jefferson,"De Soto","2172 Lake Park Trail",,08/08/2007
+Missouri,Jefferson,Hillsboro,"5838 Webb Road",,08/09/2007
+Missouri,Ripley,Doniphan,"705 Walnut Street",,08/09/2007
+Missouri,Jasper,Joplin,"6538 West Cedar Wind Lane",,08/09/2007
+Missouri,Butler,"Poplar Bluff","3315 West Jimmy Lane",,08/10/2007
+Missouri,Jackson,"Kansas City","3945 South Campbell Avenue",,08/10/2007
+Missouri,Jefferson,Barnhart,"6980 Forest View Drive",,08/10/2007
+Missouri,Jasper,"Webb City","1123 Railroad Way",,08/10/2007
+Missouri,Greene,Springfield,"2551 East Cherry Street",,08/13/2007
+Missouri,Jefferson,Festus,"16b High Hill",,08/14/2007
+Missouri,Greene,Springfield,"5099 Fr 84",,08/15/2007
+Missouri,Franklin,Gerald,"6137 Y Highway",,08/15/2007
+Missouri,Jefferson,"De Soto","609 East Main Street",,08/15/2007
+Missouri,Lincoln,Truxton,"411 Main Street",,08/16/2007
+Missouri,Franklin,"Saint Clair","4490 Virginia Mines Road",,08/17/2007
+Missouri,Jasper,Joplin,"5950 Alice Circle",,08/18/2007
+Missouri,Newton,Joplin,"5603 Hwy C",,08/20/2007
+Missouri,Greene,Springfield,"3707 South Luster Avenue",,08/22/2007
+Missouri,Mcdonald,Lanagan,"302 Pearl Street",,08/23/2007
+Missouri,"Ste. Genevieve",Bloomsdale,"5562 Valley View Drive",,08/24/2007
+Missouri,Jefferson,"Cedar Hill","6025 Margie Estates",,08/27/2007
+Missouri,Jackson,"Kansas City","8650 Euclid Avenue",,08/27/2007
+Missouri,"St. Charles","Saint Charles","101 Riverbluff Drive",,08/27/2007
+Missouri,Newton,Neosho,"9597 Lulu Lane",,08/28/2007
+Missouri,Perry,Perryville,"235 Butternut Lane",,08/30/2007
+Missouri,"St. Louis (city)","Saint Louis","5142 Christy Avenue",,08/30/2007
+Missouri,Jefferson,Festus,"2000 Lobo Drive",,08/30/2007
+Missouri,Barton,Mindenmines,"601 Tucker",,08/30/2007
+Missouri,"St. Louis (city)","Saint Louis","3225 Jasper Park Avenue",,08/30/2007
+Missouri,Franklin,"Saint Clair","610 Mill Hill Road",,08/31/2007
+Missouri,Butler,Qulin,"4018 West Highway N",,09/01/2007
+Missouri,Franklin,"Saint Clair","2320 Wrights Lodge Road",,09/02/2007
+Missouri,"St. Louis","Saint Louis","3446 Wyoming Avenue",,09/03/2007
+Missouri,Platte,Riverside,"4800 Northwest Northwood",,09/05/2007
+Missouri,Jackson,Independence,"17134 East 5th Street",,09/06/2007
+Missouri,Barton,Mindenmines,"107 East 11th Street",,09/07/2007
+Missouri,Lincoln,Winfield,"222 Church Street",,09/10/2007
+Missouri,"St. Francois",Farmington,"170 North Westmount Drive",,09/10/2007
+Missouri,Lincoln,Troy,"10 Paul Drive",,09/11/2007
+Missouri,Jasper,"Carl Junction","26107 Faison Lane",,09/12/2007
+Missouri,Jefferson,Hillsboro,"7027 Brittany Drive",,09/12/2007
+Missouri,Jefferson,Festus,"444 Sequoia",,09/12/2007
+Missouri,Montgomery,Jonesburg,"215 Boonslick Avenue",,09/12/2007
+Missouri,Franklin,"Saint Clair","1337 Orchard Drive",,09/13/2007
+Missouri,Jackson,"Kansas City","1031 South Park Avenue",,09/13/2007
+Missouri,Gentry,Albany,"308 East Street",,09/13/2007
+Missouri,Stoddard,Dexter,"13837 Gaslight #26",,09/16/2007
+Missouri,"St. Charles","Lake Saint Louis","532 Bent Oak Drive",,09/17/2007
+Missouri,Lincoln,Elsberry,"309 Pin Oak Drive",,09/17/2007
+Missouri,"St. Charles",Wentzville,"1425 Vero Drive",,09/18/2007
+Missouri,Franklin,"New Haven","913 Maupin",,09/18/2007
+Missouri,"St. Charles","Saint Charles","56 York Hill Court",,09/18/2007
+Missouri,"St. Francois",Bismarck,"5570 North Wallen Road",,09/19/2007
+Missouri,"Ste. Genevieve","Sainte Genevieve","791 Biltmore",,09/24/2007
+Missouri,"St. Charles","Saint Charles","1701 Veterans Memorial Parkway Lot 3",,09/24/2007
+Missouri,"St. Charles","O Fallon","154 Pinto Circle",,09/24/2007
+Missouri,Dunklin,Cardwell,"2115 F Highway",,09/25/2007
+Missouri,Jefferson,Hillsboro,"40 Mckenzie Ridge",,09/26/2007
+Missouri,"St. Charles","Saint Peters","26 Circle Way",,09/27/2007
+Missouri,Jefferson,"De Soto","3850 Fountain City Road",,09/28/2007
+Missouri,Newton,Diamond,"2188 Phoenix Lane",,09/28/2007
+Missouri,Jasper,"Carl Junction","23204 King Lane",,09/29/2007
+Missouri,"St. Charles","Saint Charles","700 Boone Street Lot 3",,10/01/2007
+Missouri,"St. Clair",Osceola,"930 Highway Ww Lot 2",,10/01/2007
+Missouri,Jackson,Independence,"1301 Frederick G",,10/02/2007
+Missouri,"St. Louis","Maryland Heights","2935 Sprucewood",,10/03/2007
+Missouri,Crawford,Bourbon,"512 Oak",,10/05/2007
+Missouri,Buchanan,"Saint Joseph","531 North 24th",,10/06/2007
+Missouri,Jasper,Jasper,"407 East Jackson",,10/10/2007
+Missouri,"St. Charles","Saint Charles","2424 Chestal Drive",,10/11/2007
+Missouri,"St. Francois",Bismarck,"1413 Walnut Street",,10/11/2007
+Missouri,Howell,"West Plains","7231 County Road 1940",,10/12/2007
+Missouri,"St. Louis","Woodson Terrace","10124 Natural Bridge",,10/12/2007
+Missouri,Callaway,"Holts Summit","1107 South Summit Drive",,10/12/2007
+Missouri,Jefferson,"High Ridge","2541 Weymouth",,10/13/2007
+Missouri,Cedar,Stockton,"507 South Chestnut Street",,10/15/2007
+Missouri,Greene,Springfield,"4425 West Helen Street",,10/15/2007
+Missouri,"St. Charles","O Fallon","4 Mcgee Road",,10/17/2007
+Missouri,Holt,Craig,"108 South Williams Street",,10/17/2007
+Missouri,Greene,Springfield,"2810 East Blaine Street",,10/18/2007
+Missouri,"St. Charles","O Fallon","37 Country Life Road",,10/18/2007
+Missouri,Crawford,Bourbon,"3301 C Highway",,10/18/2007
+Missouri,Mcdonald,Goodman,"2666 Eagle Road",,10/19/2007
+Missouri,Butler,"Poplar Bluff","1235 Grand",,10/19/2007
+Missouri,"St. Francois","Park Hills","1206 Evergreen Street",,10/23/2007
+Missouri,Gasconade,Owensville,"612 Madison Street",,10/23/2007
+Missouri,Butler,"Poplar Bluff","812 West Hendrix",,10/23/2007
+Missouri,Jefferson,"De Soto","908 Kennett",,10/24/2007
+Missouri,Franklin,Gerald,"5283 Y Highway",,10/31/2007
+Missouri,Jefferson,"De Soto","4275 Flucom Road",,10/31/2007
+Missouri,Henry,Urich,"507 East 4th",,11/01/2007
+Missouri,Jefferson,"House Springs","3708 Laura Court",,11/01/2007
+Missouri,Vernon,Nevada,"504 South West Street",,11/02/2007
+Missouri,Bollinger,"Marble Hill","1128 County Road 352",,11/03/2007
+Missouri,Washington,Potosi,"901 Stone Street",,11/03/2007
+Missouri,Greene,Springfield,"518 West Pacific",,11/06/2007
+Missouri,Jefferson,"High Ridge","1733 Spruce Road",,11/07/2007
+Missouri,Franklin,"New Haven","3009 Highway Y",,11/07/2007
+Missouri,Greene,"Fair Grove","10830 North Farm Road 141",,11/08/2007
+Missouri,Jasper,"Webb City","706 West 10th Street",,11/10/2007
+Missouri,Jefferson,"House Springs","5126 Darren Drive",,11/11/2007
+Missouri,"St. Charles",Wentzville,"241 Split Rail Drive",,11/13/2007
+Missouri,Jackson,"Kansas City","1707 West 44th Street",,11/15/2007
+Missouri,"St. Charles","Saint Charles","3700 Rue Street",,11/20/2007
+Missouri,Cedar,"El Dorado Springs","504 East Fields Street",,11/20/2007
+Missouri,Bates,Butler,"400 East Fort Scott",,11/25/2007
+Missouri,Clinton,Cameron,"108 South Orange",,11/27/2007
+Missouri,Butler,"Poplar Bluff","1003 South Jimmy Lane",,11/27/2007
+Missouri,Jefferson,"High Ridge","2260 Williams Creek Road",,11/27/2007
+Missouri,Jackson,"Kansas City","8141 South Campbell 212",,11/27/2007
+Missouri,Boone,Columbia,"405 North Garth Avenue",,11/28/2007
+Missouri,"St. Charles","Saint Charles","604 Clark Street",,11/29/2007
+Missouri,"Ste. Genevieve","Sainte Genevieve","17268 Lake Brands Road",,11/30/2007
+Missouri,Scott,Sikeston,"511 Wilson Street",,11/30/2007
+Missouri,Pettis,Sedalia,"24103 Post Oak Road",,12/01/2007
+Missouri,Lawrence,Marionville,"23596 Lawrence",,12/03/2007
+Missouri,Jackson,Raytown,"7911 Arlington Street",,12/03/2007
+Missouri,Clay,"Kansas City","5224 North Brighton Place",,12/04/2007
+Missouri,"St. Francois",Leadington,"9 Roper Drive",,12/05/2007
+Missouri,"Ste. Genevieve","Sainte Genevieve","19993 Gore Road",,12/06/2007
+Missouri,Jefferson,Imperial,"5524 Lehigh",,12/06/2007
+Missouri,"Ste. Genevieve",Farmington,"27002 Coffman",,12/06/2007
+Missouri,"Ste. Genevieve","Sainte Genevieve","9222 Kocher Road",,12/06/2007
+Missouri,Greene,Springfield,"2517 West Phelps",,12/07/2007
+Missouri,Greene,Springfield,"1721 West Lombard",,12/07/2007
+Missouri,Jefferson,"De Soto","12921 Petermoore Ln.",,12/14/2007
+Missouri,Jasper,"Carl Junction","6016 County Lane 276",,12/15/2007
+Missouri,Dunklin,Arbyrd,"206 South Frisco Street",,12/18/2007
+Missouri,Butler,"Poplar Bluff","812 Hendrix",,12/19/2007
+Missouri,Jefferson,Dittmer,"7529 State Rte. 30",,12/19/2007
+Missouri,Jefferson,Festus,"2000 Lobo",,12/22/2007
+Missouri,Moniteau,California,"412 Pinto Avenue",,12/30/2007
+Missouri,Scott,Sikeston,"318 Hardin Street",,12/30/2007
+Missouri,Mcdonald,"Rocky Comfort","504 High Street",,12/31/2007
+Missouri,Jackson,"Kansas City","124 North Topping Avenue",,01/02/2008
+Missouri,Texas,Licking,"10398 Sackett Road",,01/04/2008
+Missouri,"Cape Girardeau","Cape Girardeau","614 Terry Lane",,01/04/2008
+Missouri,Jefferson,"Cedar Hill","8521 Christy Jo",,01/04/2008
+Missouri,Johnson,Warrensburg,"424 East Market Street",,01/04/2008
+Missouri,Marion,Hannibal,"2200 Lilly Street",,01/05/2008
+Missouri,"St. Francois","French Village","6328 North Golden Rod Street",,01/07/2008
+Missouri,"St. Charles",Wentzville,"104 Hickory Trails",,01/07/2008
+Missouri,Jefferson,"De Soto","12381 North Greenhouse",,01/09/2008
+Missouri,"St. Francois",Farmington,"8001 Kings School Road",,01/11/2008
+Missouri,Christian,Linden,"3789 State Highway Jj",,01/11/2008
+Missouri,Lincoln,Winfield,"2990 East Hwy 47",,01/11/2008
+Missouri,Jefferson,Imperial,"5521 Hwy 61-67",,01/13/2008
+Missouri,Jasper,Joplin,"408 Patterson Street",,01/13/2008
+Missouri,Franklin,Washington,"417 Birchwood Lane",,01/15/2008
+Missouri,Jefferson,"High Ridge","1733 Spruce",,01/15/2008
+Missouri,"St. Francois",Frankclay,"605 East Osage Drive",,01/16/2008
+Missouri,Lawrence,"Mount Vernon","17509 Hwy 174 Lot 16",,01/16/2008
+Missouri,"St. Louis",Manchester,"9 Tree Hill Ct.",,01/16/2008
+Missouri,Jasper,Joplin,"1610 South Byers Avenue",,01/16/2008
+Missouri,"St. Charles","Saint Charles","1382 Hampton Drive",,01/17/2008
+Missouri,Jasper,Joplin,"26143 Faison Lane",,01/18/2008
+Missouri,Jasper,Jasper,"407 East Jackson Street",,01/18/2008
+Missouri,Jasper,Joplin,"2603 North Pine Hill Lane",,01/21/2008
+Missouri,Jasper,Joplin,"1164 March Lane",,01/22/2008
+Missouri,Washington,Cadet,"13984 Cannon Mines Road",,01/22/2008
+Missouri,Jasper,Carthage,"419 West Mound",,01/23/2008
+Missouri,Mcdonald,Goodman,"87 Wolf Ridge Road",,01/24/2008
+Missouri,Jefferson,Fenton,"128 Babs Lane",,01/24/2008
+Missouri,"St. Louis",Sherman,"4 North Street",,01/25/2008
+Missouri,Jefferson,Festus,"1966 Linheart Drive",,01/26/2008
+Missouri,"St. Louis","Saint John","9800 Mecca",,01/28/2008
+Missouri,"St. Charles","Saint Peters","17 Jamestown Road",,01/28/2008
+Missouri,"St. Charles","Saint Peters","26 Jamestown Road",,01/28/2008
+Missouri,Greene,Springfield,"2570 Farm Road 192",,01/31/2008
+Missouri,Franklin,"Saint Clair","531 Grandview Road",,02/01/2008
+Missouri,Jasper,"Webb City","421 North Pennsylvannia",,02/01/2008
+Missouri,Jasper,"Webb City","1301 Country Crossing",,02/04/2008
+Missouri,Lawrence,"Pierce City","100 Adams",,02/06/2008
+Missouri,Perry,Sedgewickville,"93 Oriole Lane",,02/09/2008
+Missouri,Lincoln,Elsberry,"612 North 5th Street",,02/14/2008
+Missouri,Jefferson,"High Ridge","2421 Linnus",,02/14/2008
+Missouri,"St. Francois",Farmington,"911 Ste. Genevieve Avenue",,02/15/2008
+Missouri,"St. Charles","Saint Charles","8912 Highway Dd",,02/16/2008
+Missouri,Jasper,"Webb City","8246 Highway 43",,02/18/2008
+Missouri,Jefferson,Imperial,"4706 Kirchoff",,02/18/2008
+Missouri,"St. Charles","Saint Peters","7344 Mexico Road",,02/19/2008
+Missouri,Marion,Hannibal,"1816 Mill Street",,02/19/2008
+Missouri,Jasper,Joplin,"30320 Floral Lane",,02/20/2008
+Missouri,Washington,"Mineral Point","11188 Old Highway 8",,02/27/2008
+Missouri,"St. Charles","Saint Charles","2525 North River Road",,02/27/2008
+Missouri,Jasper,Carthage,"614 East 14th Street",,02/27/2008
+Missouri,Buchanan,"Saint Joseph","218 West Rosine",,02/28/2008
+Missouri,Pettis,Sedalia,"28627 Highway U",,02/29/2008
+Missouri,Jefferson,"House Springs","5653 Cherokee",,02/29/2008
+Missouri,Butler,Harviell,"1089 County Road 364",,03/04/2008
+Missouri,"New Madrid",Matthews,"205 North Railroad Street",,03/05/2008
+Missouri,Jasper,Joplin,"811 West 2nd",,03/05/2008
+Missouri,Dunklin,Cardwell,"409 Eldridge Drive",,03/05/2008
+Missouri,Barton,Mindenmines,"405 Tucker",,03/05/2008
+Missouri,Jackson,"Kansas City","8606 East 114 Street",,03/05/2008
+Missouri,"St. Francois",Desloge,"801 North Grant Street",,03/05/2008
+Missouri,Jasper,Joplin,"1831 South Byers",,03/05/2008
+Missouri,"St. Francois","Bonne Terre","7844 Second Street",,03/05/2008
+Missouri,Jefferson,Barnhart,"6980 Forestview Drive",,03/05/2008
+Missouri,Franklin,Washington,"428 Riegel Drive",,03/06/2008
+Missouri,Jasper,Carthage,"17648 India Road",,03/06/2008
+Missouri,"St. Clair","Appleton City","Northwest 100th Road",,03/06/2008
+Missouri,Dade,Everton,"109 West Railroad Street",,03/08/2008
+Missouri,Jefferson,Pevely,"407 Baum",,03/10/2008
+Missouri,Jasper,Joplin,"1123 West 26th Street",,03/10/2008
+Missouri,Mcdonald,Goodman,"3983 Route B Hwy",,03/11/2008
+Missouri,Butler,"Poplar Bluff","2703 East Shaddy Lane",,03/11/2008
+Missouri,Lawrence,"Mount Vernon","20864 Lawrence 2108",,03/12/2008
+Missouri,Jefferson,"De Soto","12934 Lone Oak",,03/12/2008
+Missouri,Jefferson,Arnold,"1334 Jungerman",,03/12/2008
+Missouri,Jackson,"Kansas City","3807 East 12th Street",,03/13/2008
+Missouri,Jasper,Diamond,"18096 Newton Road",,03/13/2008
+Missouri,Howell,"West Plains","1313 Cynthia Street",,03/13/2008
+Missouri,Jackson,"Kansas City","6409 East 99th Street",,03/14/2008
+Missouri,Franklin,"Saint Clair","816 West Springfield Road",,03/15/2008
+Missouri,Jefferson,"High Ridge","2436 Williams Creek Road",,03/16/2008
+Missouri,Christian,Billings,"2300 Poinsetta Drive",,03/17/2008
+Missouri,Barry,"Shell Knob","1001 Route 1",,03/18/2008
+Missouri,Greene,Springfield,"1855 East East Cherry Street",,03/18/2008
+Missouri,"St. Charles",Wentzville,"416 Kent Drive",,03/18/2008
+Missouri,"St. Francois","Bonne Terre","5 North Dover 5",,03/18/2008
+Missouri,Jefferson,Richwoods,"10059 Seal Road",,03/18/2008
+Missouri,Texas,Licking,"14445 Highway C",,03/18/2008
+Missouri,Greene,Strafford,"221 West Pine",,03/19/2008
+Missouri,Bates,Adrian,"411 Virginia",,03/20/2008
+Missouri,"St. Louis","Saint Louis","3056 Nettie Drive",,03/27/2008
+Missouri,"St. Francois",Desloge,"102 West Hazel Street",,03/28/2008
+Missouri,Perry,Perryville,"119 Amber Lane",,03/31/2008
+Missouri,Jasper,Joplin,"2030 South Grand Street",,04/01/2008
+Missouri,Mcdonald,Anderson,"4552 West Highway 76",,04/02/2008
+Missouri,Franklin,Beaufort,"2690 Weber Creek Road",,04/03/2008
+Missouri,Cass,Harrisonville,"603 North Independence Street",,04/03/2008
+Missouri,Jefferson,Dittmer,"6382 Lake David",,04/05/2008
+Missouri,Jasper,Joplin,"1205 South Michigan Avenue",,04/05/2008
+Missouri,Jefferson,Hillsboro,"1 Sycamore Lane",,04/06/2008
+Missouri,Franklin,Lonedell,"8801 Highway Ff",,04/07/2008
+Missouri,Mississippi,Bertrand,"207 West Jobe Street",,04/08/2008
+Missouri,"St. Louis","Saint John","8714 David",,04/08/2008
+Missouri,Jasper,Joplin,"916 West 6th Street",,04/08/2008
+Missouri,Greene,Springfield,"4026 North Farm Road 145",,04/09/2008
+Missouri,Greene,"Fair Grove","1925 East Highway Cc",,04/09/2008
+Missouri,Jefferson,"De Soto","14369 Wilson Hollow Road",,04/14/2008
+Missouri,Mcdonald,Pineville,"85 Hickory Lane",,04/14/2008
+Missouri,Warren,Marthasville,"16861 Concord Hill Road",,04/14/2008
+Missouri,"St. Charles",O'fallon,"1405 Wagon Wheel Drive",,04/15/2008
+Missouri,Jefferson,"De Soto","4923 Cabernet Avenue",,04/15/2008
+Missouri,"St. Charles","Saint Charles","81 South Overbrook Drive",,04/16/2008
+Missouri,"St. Charles","Saint Charles","2727 Sunswept Drive",,04/16/2008
+Missouri,Greene,Springfield,"1115 West Locust Street",,04/16/2008
+Missouri,"St. Louis","Saint Louis","4921 Pointview",,04/17/2008
+Missouri,Jasper,"Webb City","23992 Ivy Road",,04/17/2008
+Missouri,Greene,Springfield,"1055 West Walnut Street",,04/19/2008
+Missouri,Pettis,Sedalia,"19534 Maltsbarger Road",,04/20/2008
+Missouri,Gasconade,"Mount Sterling","1161 Harmony Lane",,04/21/2008
+Missouri,"St. Francois","Park Hills","300 Bryan Street",,04/22/2008
+Missouri,Franklin,"Saint Clair","1032 Plaza Court",,04/23/2008
+Missouri,Jefferson,Imperial,"4319 Rock Valley Court",,04/24/2008
+Missouri,Franklin,"Saint Clair","1199 Wrights Lodge Road",,04/25/2008
+Missouri,Jefferson,"House Springs","5812 Oak Springs",,04/25/2008
+Missouri,Jefferson,"House Springs","2436 Williams Creek",,04/27/2008
+Missouri,Franklin,"Saint Clair","1345 Little Indian Creek Road",,04/28/2008
+Missouri,Scott,Miner,"506 Jewell",,04/29/2008
+Missouri,Lawrence,Wentworth,"2948 Lawrence",,04/29/2008
+Missouri,Lincoln,Winfield,"130 Robinwood Lane",,04/30/2008
+Missouri,"St. Francois",Desloge,"1902 West Old Highway 8",,04/30/2008
+Missouri,"St. Charles","Saint Charles","85 Skyline Drive",,05/01/2008
+Missouri,Camden,"Osage Beach","4503 Beach Drive",,05/01/2008
+Missouri,Jasper,Joplin,"512 South Jackson Street",,05/02/2008
+Missouri,Jefferson,"De Soto","11670 Castle Ranch Road",,05/02/2008
+Missouri,"St. Charles","Saint Charles","20 Sugarmaple Drive",,05/05/2008
+Missouri,Johnson,Warrensburg,"1106 South Zoll Street B",,05/06/2008
+Missouri,Miller,Eldon,"321 Shaw Road",,05/06/2008
+Missouri,Franklin,"Saint Clair","337 Highway Ww",,05/08/2008
+Missouri,Jefferson,"De Soto","909 East Third Street",,05/13/2008
+Missouri,Barry,Aurora,"7553 Fr 1245",,05/13/2008
+Missouri,Greene,Springfield,"2341 North Weller Avenue",,05/14/2008
+Missouri,"St. Charles",Wentzville,"2467 Branch Road",,05/15/2008
+Missouri,Crawford,Steelville,"117 Big Bend Lane",,05/20/2008
+Missouri,Jefferson,Arnold,"1187 Whispering Winds",,05/20/2008
+Missouri,Jasper,Carthage,"747 East Chestnut Street",,05/20/2008
+Missouri,Franklin,Robertsville,"311 South 2nd Street",,05/20/2008
+Missouri,Washington,Irondale,"406 East Iriqois Drive",,05/20/2008
+Missouri,Lawrence,Aurora,"422 East Prospect Drive 80",,05/21/2008
+Missouri,"St. Charles",O'fallon,"209 St. Joseph Avenue",,05/22/2008
+Missouri,Lincoln,Troy,"361 South Ridge Road",,05/24/2008
+Missouri,Buchanan,"Saint Joseph","809 North 25th",,05/25/2008
+Missouri,Lincoln,Winfield,"100 Winfield Manor",,05/25/2008
+Missouri,Morgan,"Rocky Mount","30469 Blue Ridge Drive",,05/26/2008
+Missouri,Washington,Potosi,"1200 Louise",,05/26/2008
+Missouri,Lincoln,"Old Monroe","724 South Lindsey Road",,05/26/2008
+Missouri,Jefferson,"High Ridge","2151 Laurel Drive",,05/27/2008
+Missouri,Jasper,"Carl Junction","503 Oak",,05/28/2008
+Missouri,Jackson,"Kansas City","2910 South Hunter Avenue",,05/28/2008
+Missouri,Ripley,Doniphan,"406 Grand",,05/29/2008
+Missouri,Lincoln,"Wright City","30 Shane Drive",,05/29/2008
+Missouri,Franklin,Beaufort,"4167 Highway 50",,05/29/2008
+Missouri,Lincoln,Troy,"40 Forest Ridge Drive",,06/05/2008
+Missouri,Greene,Springfield,"626 West Edgewood Street",,06/05/2008
+Missouri,Jefferson,"De Soto","13802 Vineland Road",,06/05/2008
+Missouri,Greene,Springfield,"615 West Madison",,06/05/2008
+Missouri,Washington,Potosi,"10323 Franklin",,06/11/2008
+Missouri,Stoddard,Bloomfield,"503 County Road",,06/12/2008
+Missouri,Greene,Springfield,"2326 North Kellett Avenue",,06/12/2008
+Missouri,Ozark,Gainesville,"72 Hc 1",,06/12/2008
+Missouri,Jefferson,Dittmer,"7586 Wildflower",,06/13/2008
+Missouri,Miller,Eldon,"601 Old Bagnell Road",,06/16/2008
+Missouri,Franklin,Pacific,"1678 Missouri Avenue",,06/16/2008
+Missouri,Jasper,Joplin,"917 Junge Boulevard",,06/17/2008
+Missouri,Newton,Joplin,"7595 Angus Road",,06/18/2008
+Missouri,Jasper,Oronogo,"210 Baker Street",,06/21/2008
+Missouri,Jackson,Independence,"11022 East 23 Street",,06/23/2008
+Missouri,Franklin,"Saint Clair","1040 Plaza Ct",,06/23/2008
+Missouri,Washington,Blackwell,"10239 Kingston Road",,06/24/2008
+Missouri,Henry,Calhoun,"202 East Fifth",,06/24/2008
+Missouri,Jasper,Oronogo,"115 South Mark Unit 16",,06/25/2008
+Missouri,Jasper,Carthage,"327 East 3rd Street",,06/26/2008
+Missouri,Jefferson,"Cedar Hill","7315 Cedar Drive",,06/30/2008
+Missouri,Franklin,Washington,"420 Sunset Ridge Lane",,07/01/2008
+Missouri,Franklin,Washington,"800 Locust Street",,07/01/2008
+Missouri,Jasper,Joplin,"923 West A Street",,07/01/2008
+Missouri,"St. Louis",Manchester,"401 Ranch",,07/02/2008
+Missouri,Barry,Exeter,"204 Washington Street",,07/02/2008
+Missouri,Franklin,Gerald,"1027 South Bernhardt Avenue",,07/07/2008
+Missouri,"St. Charles",Foristell,"279 Duenke Road",,07/07/2008
+Missouri,Franklin,"Saint Clair","4390 Plum Ford Road",,07/08/2008
+Missouri,Laclede,Lebanon,"16425 Tulsa Drive",,07/08/2008
+Missouri,Franklin,"Saint Clair","60 Frisco Street",,07/08/2008
+Missouri,Greene,"Fair Grove","154 South Main Street",,07/09/2008
+Missouri,Jefferson,Pevely,"6 Pevely Square",,07/12/2008
+Missouri,Jackson,"Oak Grove","37203 Jim Owens Road",,07/16/2008
+Missouri,Jefferson,Fenton,"1074 Old Gravois Road",,07/17/2008
+Missouri,Jackson,"Grain Valley","997 Southwest Sandy Lane",,07/18/2008
+Missouri,Lincoln,Troy,"24 Ruby Drive",,07/18/2008
+Missouri,Crawford,Leasburg,"711 Cedar",,07/21/2008
+Missouri,Pettis,"Green Ridge","401 North Cumberland",,07/21/2008
+Missouri,Jefferson,Fenton,"963 Greenfield Manor",,07/22/2008
+Missouri,Jasper,"Webb City","608 2nd Street",,07/22/2008
+Missouri,Gasconade,Rosebud,"2439 Hwy 50",,07/23/2008
+Missouri,Jasper,"Webb City","1633 Jefferson Circle",,07/23/2008
+Missouri,Warren,Foristell,"485 Rodeo Drive",,07/23/2008
+Missouri,Buchanan,"Saint Joseph","2208 South 12th",,07/23/2008
+Missouri,Lewis,"La Belle","14350 Boxwood",,07/25/2008
+Missouri,Stoddard,Advance,"606 Duckett Street",,07/25/2008
+Missouri,Jefferson,Fenton,"1074 Old Gravois",,07/27/2008
+Missouri,Jasper,Joplin,"2220 Perkins Street",,07/27/2008
+Missouri,Jefferson,Arnold,"1380 Mark Drive",,07/30/2008
+Missouri,Crawford,Steelville,"288 Birdsnest",,07/30/2008
+Missouri,Warren,Jonesburg,"31595 Honey Locust",,07/31/2008
+Missouri,Jefferson,"House Springs","3728 Carol Park Road",,07/31/2008
+Missouri,Jefferson,Eureka,"228 Hickory Lane",,08/03/2008
+Missouri,Jefferson,"De Soto","5368 Highway Y",,08/04/2008
+Missouri,Franklin,"Saint Clair","2766 New Hope Church Road",,08/05/2008
+Missouri,Jasper,Joplin,"917 South Jefferson Avenue",,08/07/2008
+Missouri,Franklin,Grubville,"115 Lost Bluff Trail",,08/09/2008
+Missouri,Jefferson,Imperial,"924 Windsor Drive",,08/11/2008
+Missouri,Marion,Hannibal,"2711 Market",,08/14/2008
+Missouri,Perry,Perryville,"211 Tangelwood Drive",,08/14/2008
+Missouri,"St. Louis (city)","Saint Louis","3010 Texas Avenue",,08/17/2008
+Missouri,Jasper,Joplin,"2800 Iron Gates Road",,08/18/2008
+Missouri,Newton,Seneca,"1132 Gum Road",,08/19/2008
+Missouri,Greene,"Fair Grove","1925 East State Highway Cc",,08/19/2008
+Missouri,Marion,Hannibal,"901 Park",,08/19/2008
+Missouri,"St. Charles","Saint Charles","3843 Duchess Drive",,08/20/2008
+Missouri,Jasper,Joplin,"2124 Sargent Street",,08/21/2008
+Missouri,"St. Louis","Saint Ann","10111 Isabelle",,08/21/2008
+Missouri,Stone,"Reeds Spring","1003 Craig Street",,08/21/2008
+Missouri,Christian,Nixa,"485 Magnolia",,08/25/2008
+Missouri,"St. Charles","Saint Charles","3720 Baden",,08/26/2008
+Missouri,Jefferson,Dittmer,"7086 Branch Road",,08/26/2008
+Missouri,Wright,"Mountain Grove","820 Morris Road",,08/28/2008
+Missouri,"St. Louis",Overland,"9934 Lackland Road",,08/30/2008
+Missouri,Jasper,"Webb City","218 South Liberty",,09/01/2008
+Missouri,Franklin,Sullivan,"450 East Springfield Road",,09/02/2008
+Missouri,Jasper,Joplin,"2210 Tyler Street",,09/04/2008
+Missouri,Jasper,Joplin,"200 East Zora Street",,09/05/2008
+Missouri,Pike,"Bowling Green","14 Brookstone Drive",,09/05/2008
+Missouri,"St. Charles",O'fallon,"73 Barberry",,09/05/2008
+Missouri,Greene,Springfield,"1325 West Mount Vernon",,09/07/2008
+Missouri,"New Madrid",Portageville,"4510 State Highway F",,09/10/2008
+Missouri,Jackson,"Kansas City","619 South Bennington",,09/11/2008
+Missouri,Jefferson,Fenton,"27 Ocean",,09/12/2008
+Missouri,Jefferson,Fenton,"31 Ocean Drive",,09/12/2008
+Missouri,Jasper,Joplin,"1012 East 17th Street",,09/13/2008
+Missouri,Henry,Clinton,"497 Southeast 600",,09/13/2008
+Missouri,Lawrence,"Mount Vernon","14846 Lawrence 2100",,09/14/2008
+Missouri,Franklin,"Saint Clair","5625 Dry Branch Road",,09/15/2008
+Missouri,Jefferson,Dittmer,"7 Glacken Road",,09/16/2008
+Missouri,"St. Charles",O'fallon,"2018 Heather Drive",,09/17/2008
+Missouri,Jefferson,Fenton,"199 Stillwater Woods Drive",,09/19/2008
+Missouri,"St. Charles","Saint Charles","38 Donald Drive",,09/23/2008
+Missouri,Howell,Dora,"8718 State Route Ad",,09/23/2008
+Missouri,Jackson,"Kansas City","8100 Longview Road",,09/23/2008
+Missouri,Jasper,Joplin,"1888 Jaccard Street",,09/23/2008
+Missouri,"St. Charles","Saint Charles","2429 West Adams Road",,09/23/2008
+Missouri,Franklin,"Saint Clair","326 Green Acres Lane",,09/24/2008
+Missouri,Jasper,Joplin,"1618 Missouri Avenue",,09/25/2008
+Missouri,"St. Charles",O'fallon,"409 Marton Estates Drive",,09/25/2008
+Missouri,Lincoln,Elsberry,"99 Mallard Place",,09/25/2008
+Missouri,"St. Francois","Bonne Terre","217 North Street",,09/25/2008
+Missouri,Mcdonald,Anderson,"705 North Sescily Street",,09/25/2008
+Missouri,Jasper,Joplin,"6295 Cl 187",,09/27/2008
+Missouri,Jefferson,Festus,"360 Oakland Manor Drive",,09/28/2008
+Missouri,"St. Charles","Saint Peters","105 Calwood Drive",,09/29/2008
+Missouri,Lincoln,Foley,"179 Bluffview Estates Drive",,09/29/2008
+Missouri,Jasper,"Webb City","1906 West 5th Street",,10/01/2008
+Missouri,Butler,"Poplar Bluff","823 West Hart",,10/01/2008
+Missouri,Jasper,Joplin,"3421 West Fountain Road",,10/01/2008
+Missouri,Jasper,Joplin,"411 Mineral Avenue",,10/02/2008
+Missouri,Franklin,Beaufort,"2767 Jeffriesburg Road",,10/03/2008
+Missouri,Barry,"Shell Knob","25318 Riverside Lane",,10/03/2008
+Missouri,Jasper,Joplin,"1129 South Connor Street",,10/06/2008
+Missouri,Ripley,Doniphan,"12-a East 160 Co. Rd",,10/07/2008
+Missouri,Jasper,Joplin,"5146 20th Street",,10/10/2008
+Missouri,"St. Charles",Josephville,"1301 Josephville Road",,10/14/2008
+Missouri,"St. Charles","Saint Charles","750 Starlight Drive",,10/14/2008
+Missouri,Franklin,"Saint Clair","1831 North Commercial Street",,10/14/2008
+Missouri,Howell,"West Plains","710 Missouri Avenue",,10/17/2008
+Missouri,Jasper,Carthage,"305 Rabbit Lane",,10/17/2008
+Missouri,Pulaski,"Saint Robert","23155 Teak Lane",,10/17/2008
+Missouri,Ralls,Hannibal,"4489 Paris Gravel",,10/22/2008
+Missouri,Morgan,"Gravois Mills","32576 Compromise Road",,10/22/2008
+Missouri,Jefferson,"High Ridge","7118 Jim Weber Road",,10/23/2008
+Missouri,Dade,Greenfield,"334 South Dade",,10/24/2008
+Missouri,Jackson,"Kansas City","3649 South Central Avenue",,10/26/2008
+Missouri,"St. Charles","West Alton","524 Saale Club Road",,10/28/2008
+Missouri,Callaway,"Holts Summit","234 Jefferson Road",,10/29/2008
+Missouri,Jasper,Joplin,"1618 Missouri",,10/29/2008
+Missouri,Mcdonald,Anderson,"2902 Highway 76",,10/30/2008
+Missouri,Franklin,Washington,"1733 Pottery Road",,11/01/2008
+Missouri,Jasper,Joplin,"1951 Manitou Street",,11/01/2008
+Missouri,Lawrence,Aurora,"17248 Lawrence 1224",,11/03/2008
+Missouri,"St. Charles",O'fallon,"1919 Dona Jane Drive",,11/03/2008
+Missouri,Franklin,"Saint Clair","9491 Rye Creek Road",,11/04/2008
+Missouri,Jefferson,Imperial,"2432 Waterfront",,11/04/2008
+Missouri,Barry,Monett,"503 Third Street",,11/04/2008
+Missouri,Greene,Springfield,"1944 North Drury Avenue",,11/05/2008
+Missouri,Washington,Irondale,"11016 Province Road",,11/07/2008
+Missouri,Henry,Windsor,"200 South Commercial",,11/08/2008
+Missouri,"St. Louis","Saint Louis","7008 Telegraph Road",,11/08/2008
+Missouri,"St. Charles","Saint Charles","3036 Country Knoll",,11/10/2008
+Missouri,Washington,Irondale,"204 Maple",,11/10/2008
+Missouri,Lincoln,Truxton,"203 Holmes Road",,11/11/2008
+Missouri,Mcdonald,Stella,"221 West Edsel",,11/11/2008
+Missouri,Jasper,"Carl Junction","608 South Cowgill",,11/12/2008
+Missouri,Howell,"West Plains","8718 Highway Ad",,11/14/2008
+Missouri,Henry,Urich,"1371 Northwest 750",,11/14/2008
+Missouri,"St. Charles","Saint Charles","3861 Gallo Drive",,11/17/2008
+Missouri,"St. Francois","Bonne Terre","9802 Berry Road",,11/19/2008
+Missouri,Adair,Kirksville,"1200 North Walnut",,11/20/2008
+Missouri,Jasper,Joplin,"302 South Jackson Avenue",,11/20/2008
+Missouri,Henry,Clinton,"603 South Carter",,11/23/2008
+Missouri,Crawford,Cuba,"10629 Highway 19",,11/23/2008
+Missouri,"St. Charles",Foristell,"24 Cedar Lane",,11/24/2008
+Missouri,Franklin,Union,"2236 Highway 50",,11/25/2008
+Missouri,Gasconade,Bland,"4267 Durbin Road",,11/25/2008
+Missouri,Jasper,Joplin,"901 South Sergeant Street",,11/26/2008
+Missouri,Jefferson,"High Ridge","5900 Antire Road",,11/29/2008
+Missouri,Buchanan,"Saint Joseph","2602 Olive",,12/02/2008
+Missouri,Montgomery,Bellflower,"303 South Elm",,12/02/2008
+Missouri,"St. Charles",O'fallon,"221 Casalon Drive",,12/03/2008
+Missouri,Dade,Everton,"118 South Clark Street",,12/05/2008
+Missouri,Dade,Everton,"591 Highway K",,12/05/2008
+Missouri,Jasper,Joplin,"5150 Cameo",,12/08/2008
+Missouri,Howell,"Willow Springs","1399 Private Road 3350",,12/09/2008
+Missouri,Lincoln,Elsberry,"1720 South Highway W",,12/10/2008
+Missouri,Lincoln,Elsberry,"1710 Highway W",,12/10/2008
+Missouri,Jefferson,"House Springs","3705 Brynesville Road",,12/11/2008
+Missouri,Barry,Aurora,"13039 Farm Road 1157",,12/12/2008
+Missouri,Perry,Perryville,"8704 State Highway T",,12/12/2008
+Missouri,Moniteau,California,"900 East Cedar Street",,12/12/2008
+Missouri,Washington,Richwoods,"10768 Briar Cliff Trail",,12/12/2008
+Missouri,Audrain,Vandalia,"714 West Home",,12/12/2008
+Missouri,"Ste. Genevieve",Festus,"6619 El Forest Acres",,12/13/2008
+Missouri,Jasper,Joplin,"2201 South Tyler Street",,12/14/2008
+Missouri,Greene,Springfield,"907 South Missouri Avenue",,12/15/2008
+Missouri,Lawrence,Aurora,"20762 Lawrence 1210",,12/16/2008
+Missouri,"St. Charles",O'fallon,"5 Klondike Court",,12/16/2008
+Missouri,"Cape Girardeau","Cape Girardeau","808 South Sprigg Street",,12/17/2008
+Missouri,Holt,"Mound City","401 Mill Street",,12/18/2008
+Missouri,Franklin,"Villa Ridge","268 Arbor View",,12/19/2008
+Missouri,Jasper,Joplin,"1309 West 22nd",,12/21/2008
+Missouri,Jefferson,Dittmer,"140 Hidden Springs",,12/22/2008
+Missouri,Adair,Kirksville,"24418 Highway 11",,12/26/2008
+Missouri,Jasper,Joplin,"402 East Zora Street",,12/28/2008
+Missouri,"St. Charles","Saint Peters","24 Churchhill Downs",,12/28/2008
+Missouri,Audrain,Mexico,"2270 Jubel Drive",,12/29/2008
+Missouri,Butler,Broseley,"6265 Highway Cc",,12/29/2008
+Missouri,Crawford,Cuba,"1508 Enloe Road",,12/30/2008
+Missouri,Pemiscot,"Bragg City","4549 West Hwy 84",,04/01/2009
+Missouri,Jasper,Joplin,"2631 Utica",,04/01/2009
+Missouri,Laclede,Lebanon,"224 Garfield",,04/01/2009
+Missouri,Franklin,"Saint Clair","1005 Bieker Road",,04/01/2009
+Missouri,"St. Charles","Saint Charles","7 San Miguel Drive",,04/01/2009
+Missouri,Greene,Springfield,"2510 North Pierce Street",,04/02/2009
+Missouri,Warren,Marthasville,"15397 State Rt 47",,04/02/2009
+Missouri,Warren,Marthasville,"15998 State Rt 47",,04/02/2009
+Missouri,Warren,Warrenton,"22247 Schuetzenground Road",,04/02/2009
+Missouri,Barry,Seligman,"28944 Meadow Lane F",,04/03/2009
+Missouri,"Cape Girardeau","Cape Girardeau","3334 State Highway F",,04/03/2009
+Missouri,Henry,Clinton,"141 Northwest 251",,04/03/2009
+Missouri,"Cape Girardeau","Cape Girardeau","3655 State Highway F",,04/03/2009
+Missouri,Jefferson,"High Ridge","3405 H.r. Boulevard 29",,04/05/2009
+Missouri,Cedar,"El Dorado Springs","2500 South 601 Road",,04/05/2009
+Missouri,"St. Francois","Saint Francois","1104 Old Cadet Road",,04/06/2009
+Missouri,Miller,Iberia,"358 Sequoia Road",,04/06/2009
+Missouri,Jasper,Joplin,"2700 South Schiferdecker",,04/06/2009
+Missouri,Lewis,Canton,"130th  Street",,04/08/2009
+Missouri,Jefferson,"House Springs","5608 Carter",,04/08/2009
+Missouri,Lewis,Monticello,"150th  Street",,04/08/2009
+Missouri,Lewis,Canton,"362  Avenue",,04/08/2009
+Missouri,Greene,Republic,"570 Main Street",,04/08/2009
+Missouri,Lincoln,Troy,"400 North Lincoln Drive",,04/08/2009
+Missouri,Washington,Bismarck,"11846 Scout Camp Road",,04/08/2009
+Missouri,Lawrence,Halltown,"22320 Hwy 266",,04/10/2009
+Missouri,Vernon,Nevada,"304 South Pine",,04/10/2009
+Missouri,Chariton,Rothville,"135 Main",,04/10/2009
+Missouri,Lawrence,Aurora,"100 West Church Street",,04/10/2009
+Missouri,Jefferson,"High Ridge","2400 Goodins Lane",,04/11/2009
+Missouri,"St. Francois","Park Hills","1100 Wortham Road",,04/12/2009
+Missouri,"St. Francois","Bonne Terre","8145 Turkey Creek Road",,04/12/2009
+Missouri,Pettis,Sedalia,"1102 East 7th Street",,04/13/2009
+Missouri,Butler,Broseley,"850 County Road 620",,04/14/2009
+Missouri,Jasper,,"2714 South Missouri Street",,04/14/2009
+Missouri,Pike,"Bowling Green","14000 Audrain County Road 138",,04/14/2009
+Missouri,Washington,"Mineral Point","13439 Pond Creek Road",,04/14/2009
+Missouri,Butler,"Poplar Bluff","1592 County Road 608",,04/14/2009
+Missouri,Moniteau,Mcgirk,"54303 Mason Road",,04/14/2009
+Missouri,"St. Charles",Wentzville,"96 Silvercote Drive",,04/15/2009
+Missouri,Jasper,Joplin,"2631 South Joplin Street",,04/16/2009
+Missouri,Newton,Joplin,"3333 South Rangeline 18",,04/16/2009
+Missouri,"St. Charles",Marthasville,"3591 Highway T Highway",,04/16/2009
+Missouri,Jasper,Joplin,"917 Junge Boulevard",,04/16/2009
+Missouri,Cedar,"El Dorado Springs","2950 South Highway Dd",,04/16/2009
+Missouri,Jefferson,Festus,"2000 Lobo Drive",,04/17/2009
+Missouri,Shelby,Emden,"4246 Highway Z",,04/17/2009
+Missouri,Jefferson,"High Ridge","3103 Carlton",,04/17/2009
+Missouri,Jasper,Joplin,"3584 Surrey Lane",,04/17/2009
+Missouri,Jefferson,"House Springs","6842 Spring Creek",,04/18/2009
+Missouri,"St. Charles","Saint Charles","2421 Westminister",,04/21/2009
+Missouri,Jasper,"Carl Junction","26900 Kismet Lane",,04/21/2009
+Missouri,"Cape Girardeau","Cape Girardeau","3439 William",,04/21/2009
+Missouri,Mississippi,"East Prairie","1675 South 423rd Road",,04/21/2009
+Missouri,Pemiscot,"Bragg City","17 County Hwy 411",,04/22/2009
+Missouri,Randolph,Moberly,"3219 County Road 1330",,04/22/2009
+Missouri,Lawrence,Freistatt,"East Law 2180",,04/22/2009
+Missouri,Montgomery,Bellflower,"910 Moniteau",,04/23/2009
+Missouri,Henry,Calhoun,"207 South Maple",,04/23/2009
+Missouri,Scott,Morley,"431 Kirkwood",,04/23/2009
+Missouri,Washington,Potosi,"11037 Prices Trail",,04/24/2009
+Missouri,Jefferson,"De Soto","5364 Hwy P",,04/25/2009
+Missouri,Jefferson,Festus,"800blk Wever Rd",,04/25/2009
+Missouri,"Cape Girardeau",,"525 County Road",,04/25/2009
+Missouri,Greene,Springfield,"505 East Monroe",,04/26/2009
+Missouri,Cedar,Stockton,"14810 South 676 Road",,04/27/2009
+Missouri,Boone,Columbia,"1160 Cinnamon Hill Lane",,04/27/2009
+Missouri,Laclede,Lebanon,"17705 Finch Road",,04/27/2009
+Missouri,"St. Charles",O'fallon,"8912 Hwy Dd",,04/28/2009
+Missouri,Ripley,Naylor,"Co Rd 142 E-26a",,04/28/2009
+Missouri,Laclede,Lebanon,"16201 Tulsa Drive",,04/28/2009
+Missouri,Jasper,Joplin,"311 South Highland Avenue",,04/28/2009
+Missouri,Bates,Butler,"308 West Harrison",,04/28/2009
+Missouri,Laclede,Lebanon,"16501 Tulsa Drive",,04/28/2009
+Missouri,Phelps,Rolla,"204 South Cedar Street",,04/28/2009
+Missouri,Warren,Warrenton,"1998 South Highway 47",,04/29/2009
+Missouri,Lawrence,"Mount Vernon","10370 Lawrence 2150",,04/29/2009
+Missouri,Franklin,Lonedell,"20 Spring Meadow",,04/29/2009
+Missouri,Franklin,Lonedell,"1935 West Linda Lane",,04/30/2009
+Missouri,Cedar,"El Dorado Springs","1550 South 75 Road",,05/02/2009
+Missouri,Jefferson,Fenton,"2262 Konert",,05/03/2009
+Missouri,Jefferson,Hillsboro,"135 Peach Tree Drive",,05/03/2009
+Missouri,Jefferson,Hillsboro,"5500 Timberline Circle",,05/04/2009
+Missouri,"St. Louis","Woodson Terrace","9469 Harold Street",,05/04/2009
+Missouri,Jefferson,"High Ridge","2779 Pere Cliff",,05/04/2009
+Missouri,Franklin,Gerald,"6320 Hwy Y",,05/04/2009
+Missouri,Newton,Joplin,"3320 South Rangeline Avenue",,05/04/2009
+Missouri,Franklin,Robertsville,"1603 Hendricks Road",,05/04/2009
+Missouri,Jefferson,Imperial,"5500 Oakcrest Drive",,05/04/2009
+Missouri,Stoddard,Bernie,"504 Joyce",,05/05/2009
+Missouri,Laclede,Lebanon,"160 Grand Avenue",,05/06/2009
+Missouri,Butler,"Poplar Bluff","1079 Highway T",,05/06/2009
+Missouri,Franklin,Robertsville,"1807 Woods Creek Road",,05/06/2009
+Missouri,"St. Charles",O'fallon,"1405 Wagon Wheel Trail",,05/06/2009
+Missouri,Jefferson,"High Ridge","5668 Alpine Court",,05/06/2009
+Missouri,Jefferson,Fenton,"199 Stillwater Woods",,05/06/2009
+Missouri,Franklin,"Villa Ridge","2567 Deep Valley",,05/07/2009
+Missouri,Crawford,Sullivan,"309 South Park Street",,05/07/2009
+Missouri,Montgomery,"Montgomery City","144 Mitchell Road",,05/08/2009
+Missouri,Boone,Columbia,"800 West Stadium Boulevard",,05/08/2009
+Missouri,Pettis,Sedalia,"1909 South Prospect",,05/08/2009
+Missouri,Butler,Broseley,"14193 Highway 51",,05/08/2009
+Missouri,Ripley,Naylor,"East Co Rd B3-aa",,05/08/2009
+Missouri,Franklin,"Saint Clair","410 West Springfield",,05/09/2009
+Missouri,Jasper,Joplin,"2002 South Main",,05/09/2009
+Missouri,Franklin,Pacific,"225 Osage Street",,05/10/2009
+Missouri,Lincoln,Troy,"183 Surrey Drive",,05/11/2009
+Missouri,Franklin,"Saint Clair","1365 Weatherford Street",,05/11/2009
+Missouri,Jasper,Carthage,"2200 South Main Street",,05/11/2009
+Missouri,Barry,Wheaton,"203 Main Street",,05/11/2009
+Missouri,"St. Charles",O'fallon,"904 Love Drive",,05/11/2009
+Missouri,"St. Louis","Valley Park","201 Marshall Road",,05/11/2009
+Missouri,Lawrence,Miller,"Lawrence 2040",,05/12/2009
+Missouri,Lawrence,Marionville,"Lawrence 1235",,05/12/2009
+Missouri,Pemiscot,Caruthersville,"610 Highland",,05/12/2009
+Missouri,Laclede,Lebanon,"25744 East Hwy 32",,05/12/2009
+Missouri,Butler,"Poplar Bluff","2536 County Road 521",,05/13/2009
+Missouri,Franklin,Sullivan,"307 East Elmont Road",,05/13/2009
+Missouri,"St. Charles","Lake Saint Louis","190 Rue Grand Drive",,05/13/2009
+Missouri,Marion,Hannibal,"608 Walnut",,05/15/2009
+Missouri,Pettis,Sedalia,"3019 South Washington",,05/15/2009
+Missouri,Butler,Broseley,"9067 Aa Highway",,05/16/2009
+Missouri,Laclede,Lebanon,"17498 Finch Road",,05/16/2009
+Missouri,Jasper,Duenweg,"1502 Irwin",,05/17/2009
+Missouri,"St. Louis",Fenton,"1100 South South Highway Drive",,05/18/2009
+Missouri,Jefferson,Hillsboro,"9796 Ridgecrest Drive",,05/18/2009
+Missouri,Greene,Springfield,"1500 South Golden 123",,05/18/2009
+Missouri,Jasper,Joplin,"2629 South Rangeline Road",,05/19/2009
+Missouri,"St. Charles","Saint Charles","926 Mallory Drive",,05/19/2009
+Missouri,Lincoln,Troy,"500 South Ridge Road",,05/19/2009
+Missouri,Maries,Belle,"20112 Hwy 42",,05/20/2009
+Missouri,Jefferson,Dittmer,"9375 Highway Ww",,05/20/2009
+Missouri,Pettis,Sedalia,"3505 South Grand 13",,05/20/2009
+Missouri,Jefferson,"Cedar Hill","7053 Stovesand Drive",,05/20/2009
+Missouri,Jasper,Joplin,"630 South Range Line Road",,05/21/2009
+Missouri,Washington,"Mineral Point","10911 Zinc Mine",,05/22/2009
+Missouri,Lincoln,Winfield,"15 Pinewood Drive",,05/22/2009
+Missouri,Greene,Rogersville,"West 60 Hwy And Fr. Road 213",,05/24/2009
+Missouri,Jefferson,"House Springs","4300 Gravios Road",,05/24/2009
+Missouri,Cedar,"El Dorado Springs","2550 601 Road",,05/26/2009
+Missouri,Jefferson,"House Springs","5999 Backey Road",,05/27/2009
+Missouri,Maries,Belle,"411 Maries Co. Road",,05/28/2009
+Missouri,Jasper,Joplin,"1618 South Missouri",,05/28/2009
+Missouri,Greene,Springfield,"500 West Commercial Street",,05/30/2009
+Missouri,"St. Louis","Saint Louis","175 Burma Road",,06/01/2009
+Missouri,Jasper,Joplin,"2623 West 7th",,06/02/2009
+Missouri,Greene,Springfield,"911 East Dale Street",,06/03/2009
+Missouri,Cedar,"El Dorado Springs","6550 South 425 Road",,06/16/2009
+Missouri,"St. Louis",Fenton,"800 South Highway Boulevard Room 412 Drive",,06/17/2009
+Missouri,"St. Louis","Saint Louis","1405 Dunn Road",,06/23/2009
+Missouri,Cedar,"Cedar Springs","1570 South Dd Highway",,06/29/2009
+Missouri,Buchanan,Faucett,"14578 Southeast 43rd Road",,06/30/2009
+Missouri,Platte,"Kansas City","10312 North Lucerne Avenue",,01/26/2010
+Missouri,Jackson,"Kansas City","6400 Northwest Martin Road",,02/13/2010
+Missouri,Jackson,"Kansas City","11311  Bristol Terrace",,02/24/2010
+Missouri,Phelps,Rolla,"1605  Farrar Drive",,04/01/2010
+Missouri,Jefferson,Fenton,"733  Chancellor Lane",,04/01/2010
+Missouri,"New Madrid","New Madrid","863  St. Johns Lane",,04/01/2010
+Missouri,Jefferson,"House Springs","5636  Ruth",,04/01/2010
+Missouri,Jefferson,"House Springs","5142  Sycamore Spring",,04/02/2010
+Missouri,"New Madrid",Portageville,"424 West 8th Street",,04/02/2010
+Missouri,Jefferson,"House Springs","5750  Spring Valley",,04/02/2010
+Missouri,Ripley,Doniphan,"112  Water Street",,04/02/2010
+Missouri,"New Madrid",Portageville,"1  Willow Drive",,04/02/2010
+Missouri,Jefferson,Fenton,"29  River Drive",,04/03/2010
+Missouri,Jefferson,"Cedar Hill","5464  Francis Drive",,04/05/2010
+Missouri,Newton,Joplin,"205 West Ridgewood Place",,04/05/2010
+Missouri,Dunklin,Malden,"41870  Bernard Street",,04/07/2010
+Missouri,Greene,Springfield,"1870 North Fort",,04/08/2010
+Missouri,Scott,Benton,"2  Shady Branch",,04/08/2010
+Missouri,Jasper,"Webb City","1604 South Ellis Street 22",,04/08/2010
+Missouri,"Cape Girardeau","Cape Girardeau","1927  Kingshighway",,04/08/2010
+Missouri,Shelby,Clarence,"115  Chestnut Street",,04/09/2010
+Missouri,Franklin,Union,"34  Sawmill Road",,04/09/2010
+Missouri,Phelps,Rolla,"11861  Hwy E",,04/09/2010
+Missouri,"New Madrid","New Madrid","30  Blades Drive",,04/09/2010
+Missouri,Jefferson,Pevely,"8539  Johnston Road",,04/09/2010
+Missouri,Phelps,Doolittle,"106 North Outer Road",,04/11/2010
+Missouri,"Ste. Genevieve",Farmington,"21879  Gordon Road",,04/11/2010
+Missouri,Jasper,Joplin,"19210  Fir Road",,04/12/2010
+Missouri,Jackson,"Kansas City","207 West 77 Terrace",,04/13/2010
+Missouri,Washington,Cadet,"10124  Hedrick",,04/13/2010
+Missouri,Scott,"Scott City","913  5th Street",,04/13/2010
+Missouri,Jasper,Joplin,"2619 East Quincy Street",,04/13/2010
+Missouri,Phelps,Rolla,"1508  Heller Street",,04/14/2010
+Missouri,"St. Louis","Saint Ann","10815  Dundee",,04/14/2010
+Missouri,Phelps,Rolla,"815  Bray",,04/14/2010
+Missouri,Audrain,Vandalia,"513 West Walsh Street",,04/16/2010
+Missouri,Cedar,"El Dorado Springs","108 West Hainline Road",,04/16/2010
+Missouri,Jefferson,"Cedar Hill","8529  Lake Drive",,04/16/2010
+Missouri,"St. Charles","Saint Peters","40  Spencer Trail",,04/17/2010
+Missouri,Pettis,Sedalia,"2196  Mcvey Road",,04/17/2010
+Missouri,Clinton,Gower,"9198  268th",,04/19/2010
+Missouri,"St. Charles","West Alton","32  Alta Villa",,04/19/2010
+Missouri,Washington,Cadet,"10636  Newberry Lane",,04/20/2010
+Missouri,Buchanan,"Saint Joseph","711 North 22nd Street 208",,04/20/2010
+Missouri,Washington,Cadet,"10611  Newberry Lane",,04/20/2010
+Missouri,Jefferson,"House Springs","4780  Wedgewood Drive",,04/20/2010
+Missouri,"St. Charles",O'fallon,"7992  Oakton Court",,04/21/2010
+Missouri,Clay,"Kansas City","504 Northwest 71st Street",,04/21/2010
+Missouri,Greene,Springfield,"2340 North Pierce",,04/21/2010
+Missouri,Warren,Warrenton,"120  Laverne Street",,04/21/2010
+Missouri,Jackson,"Oak Grove","604 Southwest Clinton",,04/21/2010
+Missouri,Barry,Exeter,"5003  Highway 76",,04/23/2010
+Missouri,Scott,Sikeston,"403  County Highway 538",,04/26/2010
+Missouri,Jefferson,Fenton,"323  Green Creek",,04/27/2010
+Missouri,Jefferson,Arnold,"Jeffco Blvd @ Telegraph Road",,04/27/2010
+Missouri,Barry,Seligman,"8145  Ridge Crest",,04/27/2010
+Missouri,Washington,Potosi,"10183  Saturn Road",,04/29/2010
+Missouri,"New Madrid",Portageville,"306 West 3rd Street",,04/29/2010
+Missouri,Scott,Sikeston,"150 A  Stone Drive",,04/29/2010
+Missouri,Greene,Springfield,"1909 South Wedgewood Avenue",,04/29/2010
+Missouri,Laclede,Lebanon,"509  Dillworth  22",,04/30/2010
+Missouri,Adair,Gibbs,"252  Franklin",,05/02/2010
+Missouri,Laclede,Lebanon,"511  Miller Street",,05/02/2010
+Missouri,"St. Charles","Saint Charles","900 North Sixth Street",,05/03/2010
+Missouri,Jasper,Joplin,"804 South St. Louis",,05/04/2010
+Missouri,Scott,Sikeston,"849 West Malone",,05/05/2010
+Missouri,"St. Francois",Farmington,"3482  Hildebrecht Road",,05/05/2010
+Missouri,Jasper,Joplin,"1702 South Ohio",,05/07/2010
+Missouri,"St. Louis",Hazelwood,"6027 North Lindbergh Boulevard",,05/07/2010
+Missouri,Warren,Warrenton,"712  Steingagen",,05/07/2010
+Missouri,Jasper,Joplin,"2229 South Harlem",,05/10/2010
+Missouri,Stoddard,Bernie,"21084  State Highway Z",,05/10/2010
+Missouri,Jasper,"Carl Junction","502 West Well Street 2",,05/11/2010
+Missouri,Howell,"West Plains","2107  County Road 6540",,05/11/2010
+Missouri,"St. Louis",Breckenridge,"3231  Suncrest",,05/12/2010
+Missouri,Jackson,"Kansas City","8306  Lees Summit Road",,05/12/2010
+Missouri,Greene,Springfield,"439 West Lombard Street",,05/13/2010
+Missouri,Franklin,Robertsville,"879  Woodland Hills",,05/13/2010
+Missouri,"St. Francois",Farmington,"645  Pendleton Road",,05/14/2010
+Missouri,Jasper,Joplin,"912 West 21st Street",,05/14/2010
+Missouri,Cooper,"Prairie Home","9238  Highway 87",,05/15/2010
+Missouri,Jefferson,Fenton,"37  San Marcos Drive",,05/16/2010
+Missouri,Stoddard,Bernie,"206 East Crumb Street",,05/16/2010
+Missouri,Jefferson,"De Soto","4438  Sunrise School Road",,05/17/2010
+Missouri,Jefferson,Dittmer,"7550  Donna Drive",,05/17/2010
+Missouri,Newton,Joplin,"2412  Jaguar Road",,05/18/2010
+Missouri,Jasper,Joplin,"2017 South Harlem",,05/18/2010
+Missouri,"Cape Girardeau","Cape Girardeau","1124  Cousin Street",,05/20/2010
+Missouri,Phelps,Rolla,"104 North Walnut Street",,05/20/2010
+Missouri,Barry,Seligman,"29016  Main Street C",,05/21/2010
+Missouri,Washington,Potosi,"10276  Pete's Place Road",,05/21/2010
+Missouri,Pemiscot,Caruthersville,"208  Haven Drive 208",,05/21/2010
+Missouri,Montgomery,Wellsville,"602  Clay Street",,05/22/2010
+Missouri,"St. Louis",Maplewood,"2605  Circle Drive",,05/23/2010
+Missouri,Jackson,"Lees Summit","814 Northeast Cedar Street",,05/24/2010
+Missouri,"St. Charles",O'fallon,"1130  Pinewood Place",,05/24/2010
+Missouri,Jasper,Carthage,"61995  Jackpine",,05/24/2010
+Missouri,Jefferson,"House Springs","5750  Hidden Valley",,05/25/2010
+Missouri,Jasper,Waco,"278  Rose Street",,05/25/2010
+Missouri,"St. Charles","Saint Peters","8  Chestnut Court",,05/25/2010
+Missouri,Washington,Potosi,"10028  Theiss Lane",,05/25/2010
+Missouri,Washington,Potosi,"525  Cheryl Drive 5",,05/26/2010
+Missouri,Moniteau,Clarksburg,"104  Institute",,05/26/2010
+Missouri,Jasper,Joplin,"1502 South Michigan Street B7 A8",,05/27/2010
+Missouri,Morgan,Syracuse,"11973  Highway 50",,05/27/2010
+Missouri,Marion,Hannibal,"1135  Park Avenue",,05/27/2010
+Missouri,Washington,Potosi,"10467 West Highway E",,05/27/2010
+Missouri,Montgomery,Wellsville,"508 North Madison",,05/28/2010
+Missouri,Franklin,"Saint Clair","2801 North Service Road",,05/30/2010
+Missouri,Jackson,"Oak Grove","606  Clinton",,06/01/2010
+Missouri,Jefferson,"De Soto","401  Hillside",,06/01/2010
+Missouri,Lawrence,Aurora,"718  S. Madison",,06/02/2010
+Missouri,Greene,Springfield,"519 North Fulbright",,06/02/2010
+Missouri,Lincoln,Elsberry,"309  Pin Oak Park Drive",,06/02/2010
+Missouri,"St. Louis",Manchester,"1066  Big Bend Station Road",,06/02/2010
+Missouri,"St. Louis","Saint Ann","3120  Ashby",,06/02/2010
+Missouri,Dunklin,Holcomb,"104 East Campbell Street",,06/04/2010
+Missouri,Jasper,"Webb City","514  S. Hall Street",,06/04/2010
+Missouri,Franklin,"Villa Ridge","225  Vista View",,06/07/2010
+Missouri,Grundy,Trenton,"506 West Crowder",,06/07/2010
+Missouri,Grundy,Laredo,"311  3rd Street",,06/08/2010
+Missouri,Mcdonald,Goodman,"108  Williams",,06/08/2010
+Missouri,Jackson,"Kansas City","702 South Tam-o-shanter Road",,06/09/2010
+Missouri,Franklin,"Villa Ridge","2867  Allen Drive",,06/09/2010
+Missouri,Franklin,Washington,"6770  Whiskey Creek Road",,06/10/2010
+Missouri,Jefferson,"House Springs","5680  Carter Drive",,06/10/2010
+Missouri,Maries,Brinktown,"14077  Rodgers Creek Road",,06/10/2010
+Missouri,Jasper,Joplin,"421  W 3rd Street  7",,06/11/2010
+Missouri,Jefferson,"Cedar Hill","8070  Irish Lane",,06/11/2010
+Missouri,Jasper,Joplin,"901 South Roosevelt Avenue 1",,06/12/2010
+Missouri,Dunklin,Senath,"101  Wallace Street",,06/14/2010
+Missouri,Washington,Potosi,"11772  Old Highway 8",,06/15/2010
+Missouri,Jackson,"Kansas City","420 South Potter Avenue",,06/15/2010
+Missouri,Jasper,Carthage,"7855  County Lane 173",,06/15/2010
+Missouri,Jasper,Joplin,"2517  S. Prosperity",,06/15/2010
+Missouri,"St. Francois",Farmington,"120 West Karsch Boulevard",,06/15/2010
+Missouri,Pulaski,Crocker,"18735  Burlington Road",,06/16/2010
+Missouri,Jasper,"Webb City","805  W. 14th Street",,06/17/2010
+Missouri,Polk,Bolivar,"1820 South Springfield",,06/19/2010
+Missouri,Jefferson,Festus,"12834  State Route Cc",,06/20/2010
+Missouri,Montgomery,"Montgomery City","177  Hafflingers Road",,06/21/2010
+Missouri,Stoddard,Advance,"28988  County Road 337",,06/22/2010
+Missouri,"St. Francois","Park Hills","5350  Jarvis Road",,06/22/2010
+Missouri,Jefferson,Festus,"5  D & J Trailer Court",,06/23/2010
+Missouri,Jasper,Joplin,"2020 South Harlem Avenue",,06/23/2010
+Missouri,Jefferson,"House Springs","8061  Irish Lane",,06/23/2010
+Missouri,Newton,Goodman,"24579  Gateway Drive",,06/24/2010
+Missouri,Newton,Granby,"234 South Main",,06/25/2010
+Missouri,Jasper,"Webb City","403  N Roane Street",,06/25/2010
+Missouri,Washington,Cadet,"10782  Radio Station Road",,06/29/2010
+Missouri,Cole,"Jefferson City","2736  Twin Bridges",,06/29/2010
+Missouri,Jackson,"Kansas City","1926 South Spruce Avenue",,06/29/2010
+Missouri,Greene,Springfield,"739  North Homewood Street",,07/02/2010
+Missouri,Jackson,"Kansas City","8501 East Winner Avenue",,07/06/2010
+Missouri,"New Madrid","New Madrid","781  St Ann Street",,07/08/2010
+Missouri,Jackson,Independence,"1230 West Ruby Avenue",,07/09/2010
+Missouri,Jasper,Joplin,"1502  South Michigan  B14 A5",,07/09/2010
+Missouri,Newton,Neosho,"508 East Mckinney Street",,07/09/2010
+Missouri,Greene,Springfield,"2019  North Boonville",,07/10/2010
+Missouri,Scott,"Scott City","511  Oak",,07/11/2010
+Missouri,Scott,Benton,"505  Shady Branch",,07/11/2010
+Missouri,"St. Francois",Farmington,"310  Ste Genevieve",,07/12/2010
+Missouri,Butler,"Poplar Bluff","829  Park Street",,07/12/2010
+Missouri,Dunklin,Holcomb,"103  Darnell",,07/23/2010
+Missouri,"St. Louis",Ellisville,"920  St. Paul Road",,07/27/2010
+Missouri,Christian,Bruner,"2305  State Highway Dd",,07/28/2010
+Missouri,Newton,Neosho,"208  White Avenue",,07/29/2010
+Missouri,Newton,Neosho,"12183  Lime Kiln Road",,08/13/2010
+Missouri,Jackson,"Kansas City","3708 East Garner Avenue",,08/18/2010
+Missouri,Scott,Sikeston,"213  Welter",,08/23/2010
+Missouri,Scott,Sikeston,"2016  Oklahoma",,08/30/2010
+Missouri,Jackson,"Kansas City","4331 South Bell Street",,12/07/2010
+Missouri,Jackson,"Kansas City","3560  Broadway Avenue",,12/08/2010
+Missouri,Jackson,Independence,"113 East Linden Street",,12/08/2010
+Missouri,Clay,Smithville,"14922  Kelly Drive",,12/09/2010
+Missouri,Jackson,Independence,"12817 East 47th Street 65",,12/10/2010
+Missouri,Scott,Sikeston,"521 South Sikes Street",,01/18/2011
+Missouri,Jackson,"Kansas City","3540 South Baltimore Avenue",,02/04/2011
+Missouri,Buchanan,"Saint Joseph","718  Mason",,03/02/2011
+Missouri,Butler,"Poplar Bluff","1027  County Road 605",,03/18/2011
+Missouri,Jackson,"Kansas City","724  Corbin Terrace",,04/14/2011
+Missouri,Greene,Springfield,"819 South Jefferson Avenue",,04/22/2011
+Missouri,"St. Louis","Saint Louis","8412 South Broadway",,04/27/2011
+Missouri,"St. Louis",Florissant,"805  Herbst Drive",,05/03/2011
+Missouri,Iron,Ironton,"534 North County Road 39 A Lane",,05/04/2011
+Missouri,Washington,Potosi,"Watersedge Road",,05/04/2011
+Missouri,Washington,Potosi,"10840  Watersedge Road",,05/04/2011
+Missouri,"St. Charles","Saint Peters","22 West Carriage Way",,05/05/2011
+Missouri,Jackson,"Kansas City","4617  Bell Street",,05/05/2011
+Missouri,"St. Louis","Saint Louis","4018  Taft Avenue",,05/06/2011
+Missouri,"St. Charles","Saint Charles","2020  Santa Rosa",,05/09/2011
+Missouri,Jefferson,Hillsboro,"563  Karen Drive",,05/09/2011
+Missouri,Washington,Potosi,"301  Lawrence Street 8",,05/10/2011
+Missouri,"St. Louis","Saint Louis","9405  Gentry Avenue",,05/11/2011
+Missouri,"St. Charles","Saint Charles","1709  Lynn Cove",,05/11/2011
+Missouri,Washington,Cadet,"11850 East State Hwy E",,05/12/2011
+Missouri,"St. Charles","Saint Charles","27 North Overbrook Drive",,05/13/2011
+Missouri,Jasper,Joplin,"222  Sandstone Lane",,05/13/2011
+Missouri,"St. Louis","Saint Louis","10734  Decker",,05/13/2011
+Missouri,"St. Charles",O'fallon,"34  Hemlock Drive",,05/16/2011
+Missouri,Jasper,Waco,"458  Grand Avenue",,05/16/2011
+Missouri,"St. Louis",Florissant,"830  St. Ferdinand Drive",,05/17/2011
+Missouri,"St. Francois",Farmington,"554  Oak Street",,05/18/2011
+Missouri,Pettis,Sedalia,"6623 East 50 Highway 2",,05/18/2011
+Missouri,"St. Francois",Ironton,"793  King School Road",,05/19/2011
+Missouri,"St. Charles","Lake Saint Louis","620  Glen Cove Terrace",,05/23/2011
+Missouri,"St. Charles",Wentzville,"520  Pilgrim Drive",,05/23/2011
+Missouri,Pettis,Sedalia,"29588  Backbone Road",,05/23/2011
+Missouri,"St. Francois",Farmington,"1924  Howell Road",,05/24/2011
+Missouri,"St. Charles","Saint Charles","1617  Boone's Lick Road",,05/25/2011
+Missouri,"St. Louis",Bel-ridge,"8990  Ramona",,07/01/2011
+Missouri,Franklin,Labadie,"11  Terrace Hill",,07/02/2011
+Missouri,Jefferson,"Cedar Hill","74  Cedar Hill Estates 74",,07/03/2011
+Missouri,Adair,Kirksville,"215 South Franklin Street 208",,07/03/2011
+Missouri,"St. Louis","Saint Louis","9405  Gentry",,07/04/2011
+Missouri,"St. Francois",Farmington,"216a  Pine Street",,07/05/2011
+Missouri,Butler,"Poplar Bluff","704  Kinzer Street",,07/05/2011
+Missouri,Phelps,"Saint James","301 North Meramec Street",,07/05/2011
+Missouri,"St. Louis (city)","Saint Louis","6848  Balson",,07/07/2011
+Missouri,Barry,Monett,"526 West Logan Street",,07/07/2011
+Missouri,Pulaski,Crocker,"18628  Bobwhite",,07/07/2011
+Missouri,Franklin,Pacific,"205 East Franklin",,07/08/2011
+Missouri,Franklin,Washington,"24  Norwood Court",,07/08/2011
+Missouri,Jasper,"Carl Junction","301 North Ballard Street",,07/11/2011
+Missouri,"Cape Girardeau","Cape Girardeau","1119  Bloomfield",,07/11/2011
+Missouri,"St. Charles",Wentzville,"2155  Gilmore Lane 6",,07/12/2011
+Missouri,Washington,Richwoods,"11526  Click Road",,07/13/2011
+Missouri,Washington,Richwoods,"11532 North Click Road",,07/13/2011
+Missouri,Jasper,Joplin,"809 South Patterson Avenue",,07/13/2011
+Missouri,Franklin,Washington,"601  5th Street A",,07/14/2011
+Missouri,"St. Louis","Saint John","3715  Boswell",,07/14/2011
+Missouri,Lawrence,Aurora,"420 West College Street",,07/15/2011
+Missouri,Jefferson,Festus,"107 North 6th Street",,07/15/2011
+Missouri,Franklin,"Saint Clair","765 South Main Street",,07/16/2011
+Missouri,Jefferson,Festus,"119 North 10th Street B",,07/17/2011
+Missouri,Stone,"Reeds Spring","21  Yocum Pond Road",,07/18/2011
+Missouri,Jefferson,"Cedar Hill","83  Cedar Hill Estates",,07/18/2011
+Missouri,"St. Louis","Saint Louis","246  Wachtel Avenue",,07/18/2011
+Missouri,Warren,"Wright City","29839  Green Leaf Court",,07/18/2011
+Missouri,"St. Charles","Saint Charles","212  Hunters Ridge",,07/18/2011
+Missouri,Warren,"Wright City","616  Tony Drive",,07/19/2011
+Missouri,"St. Francois","Bonne Terre","31  Hazel Street 6",,07/19/2011
+Missouri,"St. Francois","Park Hills","1012  Florence Freeway",,07/19/2011
+Missouri,Franklin,"Gray Summit","1613  Missouri",,07/19/2011
+Missouri,Greene,Springfield,"1438 West Brower",,07/20/2011
+Missouri,"St. Francois","Bonne Terre","8801 West Barry Road",,07/21/2011
+Missouri,"St. Francois",Leadwood,"1103  Hickory Street",,07/21/2011
+Missouri,Jefferson,Dittmer,"8408  Forest Hill Park Drive",,07/21/2011
+Missouri,"St. Louis","Saint John","3534  Roy Avenue",,07/22/2011
+Missouri,Franklin,"Saint Clair","905  Mill Hill Road",,07/22/2011
+Missouri,Jefferson,Festus,"730  Abel Drive",,07/22/2011
+Missouri,Franklin,"New Haven","1001  Maupin Road",,07/22/2011
+Missouri,Lawrence,Sarcoxie,"2112  Lawrence 1247  Unit 2",,07/22/2011
+Missouri,Lincoln,Troy,"311  James Street",,07/24/2011
+Missouri,Jefferson,Hillsboro,"8017  Hillsboro House Springs Road",,07/25/2011
+Missouri,"St. Francois","Park Hills","601 West North Street",,07/25/2011
+Missouri,Montgomery,"Montgomery City","211  3rd Street",,07/25/2011
+Missouri,"St. Charles","Saint Charles","182  Brookshire Drive",,07/26/2011
+Missouri,Christian,Ozark,"4393  Selmour",,07/26/2011
+Missouri,Christian,Ozark,"1309 West Daniels",,07/27/2011
+Missouri,Mcdonald,Goodman,"221 North Janice Street",,07/27/2011
+Missouri,Franklin,"Villa Ridge","304  Wall Street",,07/28/2011
+Missouri,"St. Louis (city)","Saint Louis","300 North 4th Street 2217",,07/28/2011
+Missouri,Franklin,Beaufort,"2062  Buth Lane",,07/28/2011
+Missouri,Christian,Clever,"314  Navajo",,07/29/2011
+Missouri,Jasper,Joplin,"607  Pool Street",,07/29/2011
+Missouri,Franklin,"Gray Summit","101  Cuivre Court",,07/29/2011
+Missouri,Greene,Springfield,"2461 South Nettleton",,07/29/2011
+Missouri,Randolph,Moberly,"1025  Henry Street",,07/30/2011
+Missouri,"St. Francois",Leadwood,"309  Oak Street",,08/02/2011
+Missouri,Marion,Hannibal,"912  Lindell Avenue",,08/02/2011
+Missouri,Greene,Springfield,"809 North Main",,08/03/2011
+Missouri,Gasconade,"Mount Sterling","2591  River Road",,08/03/2011
+Missouri,Greene,Springfield,"921 South Kimbrough Avenue 2",,08/04/2011
+Missouri,Ralls,"New London","512 East 4th Street",,08/05/2011
+Missouri,Franklin,Robertsville,"103  Adams Street",,08/05/2011
+Missouri,Texas,Licking,"109  Beth Street",,08/06/2011
+Missouri,Lafayette,Concordia,"305 South Bismark Street C",,08/08/2011
+Missouri,Greene,Springfield,"1540 East Whiteside",,08/08/2011
+Missouri,"St. Louis","Saint Louis","5905  Suson Park Place M",,08/08/2011
+Missouri,Warren,Warrenton,"908 West Booneslick",,08/09/2011
+Missouri,Jefferson,Catawissa,"4656 North State Hwy Nn",,08/10/2011
+Missouri,"St. Louis","Saint Louis","12937  Gallagher Road",,08/10/2011
+Missouri,Boone,Columbia,"5407  Kelsey Drive",,08/10/2011
+Missouri,"Cape Girardeau","Cape Girardeau","600  Timon Way",,08/13/2011
+Missouri,Lincoln,"Old Monroe","640  Aspen Street",,08/14/2011
+Missouri,Howell,"Mountain View","204  Washington Street",,08/14/2011
+Missouri,Greene,Springfield,"1729 West Webster",,08/14/2011
+Missouri,Adair,Kirksville,"2202 East Normal  14",,08/16/2011
+Missouri,"St. Francois","French Village","6328 North Osage Drive",,08/17/2011
+Missouri,Lawrence,"Mount Vernon","223  Tyler Court",,08/17/2011
+Missouri,Newton,Joplin,"3252 South Connecticut Street",,08/17/2011
+Missouri,Washington,Potosi,"13815  Lick Skillet Road",,08/22/2011
+Missouri,Franklin,"Villa Ridge","12  Villa Village Court",,08/22/2011
+Missouri,Montgomery,Jonesburg,"603 South Gladstone",,08/23/2011
+Missouri,Franklin,Washington,"608 West 7th Street 202",,08/24/2011
+Missouri,Lincoln,Silex,"605  Mill Creek Road",,08/28/2011
+Missouri,"St. Louis","Breckenridge Hills","3206  Coles Avenue",,08/28/2011
+Missouri,Greene,Springfield,"2650 North Barnes Avenue C-2",,08/30/2011
+Missouri,Dunklin,Campbell,"117  Magnolia  C",,08/30/2011
+Missouri,Webster,Niangua,"260 South Elm Street",,08/31/2011
+Missouri,Saline,Marshall,"112 South Tucker Street",,10/04/2011
+Missouri,Newton,Joplin,"6350  Spurgeon Road 18",,11/02/2011
+Missouri,Buchanan,"Saint Joseph","2018  Jamesport",,11/06/2011
+Missouri,Greene,Springfield,"1547 East Livingston",,11/07/2011
+Missouri,Newton,Neosho,"328 South Lincoln Street",,11/20/2011
+Missouri,Warren,"Wright City","46  Rocky Lane",,12/01/2011
+Missouri,Greene,Springfield,"1754 South Wedgewood",,12/02/2011
+Missouri,Washington,Cadet,"10400  Clover Road",,12/02/2011
+Missouri,"Ste. Genevieve","Sainte Genevieve","511  St. Mary's Road",,12/02/2011
+Missouri,Jackson,Independence,"2218 South Hall Road",,12/02/2011
+Missouri,Jasper,Carthage,"510  Williams",,12/02/2011
+Missouri,Mcdonald,Pineville,"103  Joyce Lane A",,12/05/2011
+Missouri,Warren,Warrenton,"1918  Golden Vicary",,12/06/2011
+Missouri,Newton,Seneca,"4647  Redbud",,12/07/2011
+Missouri,Newton,Joplin,"705 East 39th Street",,12/08/2011
+Missouri,"St. Charles","Saint Charles","1635  Boone's Lick Road",,12/08/2011
+Missouri,"St. Francois","Park Hills","610  Falcon Street",,12/08/2011
+Missouri,Jefferson,Arnold,"188  Crosswinds",,12/09/2011
+Missouri,Jefferson,Dittmer,"10270  Hawks Drive",,12/10/2011
+Missouri,Wright,Grovespring,"10673  Highway 5",,12/10/2011
+Missouri,"St. Louis",Hazelwood,"200  Flora",,12/12/2011
+Missouri,Jefferson,Pevely,"1616  Twelve Oaks Place",,12/12/2011
+Missouri,Jasper,Joplin,"200 East Zora",,12/13/2011
+Missouri,Jackson,"Kansas City","821 South Newton Avenue",,12/13/2011
+Missouri,Butler,"Poplar Bluff","1014  County Rd 605",,12/13/2011
+Missouri,Laclede,Lebanon,"1346  Millcreek Court",,12/14/2011
+Missouri,Franklin,Leslie,"5151  Noser Mill Road",,12/14/2011
+Missouri,Jefferson,Festus,"12155  Pleasant Heights Drive",,12/14/2011
+Missouri,Greene,Springfield,"901  Catalpa",,12/14/2011
+Missouri,Dunklin,Senath,"100  Highfill Street",,12/14/2011
+Missouri,Jasper,Joplin,"404 South Park Avenue",,12/14/2011
+Missouri,Jasper,"Webb City","749 South Walker Street",,12/14/2011
+Missouri,Jasper,"Webb City","733  Cardinal",,12/15/2011
+Missouri,Polk,Bolivar,"821 South Albany",,12/15/2011
+Missouri,Scott,"Scott City","312  Stech Street",,12/15/2011
+Missouri,Livingston,Chillicothe,"437  Vine Street",,12/15/2011
+Missouri,Jefferson,Hillsboro,"168  Elvado",,12/15/2011
+Missouri,"St. Louis (city)","Saint Louis","6721  Virginia",,12/15/2011
+Missouri,Adair,Kirksville,"31038 East Highway 6",,12/16/2011
+Missouri,Butler,"Poplar Bluff","2064  53 Highway",,12/17/2011
+Missouri,Franklin,"Villa Ridge","81  Pacific Summit Estates",,12/18/2011
+Missouri,Ripley,Doniphan,"901 East Locust Street",,12/18/2011
+Missouri,"St. Louis (city)","Saint Louis","7137  Vermont Street",,12/20/2011
+Missouri,Washington,Potosi,"13217  John Smith Road",,12/21/2011
+Missouri,Marion,Hannibal,"702  Broadway",,12/22/2011
+Missouri,Jefferson,"House Springs","5007  Four Ridge Road",,12/22/2011
+Missouri,Franklin,"Saint Clair","616  Paradise Trailer Park",,12/22/2011
+Missouri,Franklin,Washington,"319  Lafayette Street",,12/23/2011
+Missouri,Jefferson,Fenton,"917  Jode Drive",,12/26/2011
+Missouri,Texas,Cabool,"1303  Highway 63",,12/27/2011
+Missouri,Lawrence,Aurora,"420  W College Street",,12/28/2011
+Missouri,Jefferson,Imperial,"4026  Sweetgum",,12/28/2011
+Missouri,"St. Louis","Breckenridge Hills","3326 East Marvin",,12/29/2011
+Missouri,Jefferson,Barnhart,"1527  Ligouri",,12/29/2011
+Missouri,"St. Louis","Saint Louis","1452 South Westbrooke Meadows",,12/29/2011
+Missouri,Ripley,Doniphan,"906  Lafayette",,01/02/2012
+Missouri,Butler,"Poplar Bluff","705  Foley Street",,01/02/2012
+Missouri,"St. Louis","Saint Louis","4035  Delor",,01/03/2012
+Missouri,Butler,"Poplar Bluff","5705  Cedar Valley Dr.",,01/03/2012
+Missouri,Boone,Clark,"17100  Richardson Drive",,01/04/2012
+Missouri,Jasper,Joplin,"2520  Quincy",,01/07/2012
+Missouri,Greene,Springfield,"511 South Warren",,01/10/2012
+Missouri,Greene,Springfield,"1040 South Crutcher",,01/11/2012
+Missouri,"St. Louis","Saint Louis","3304  Shenandoah Street",,01/12/2012
+Missouri,Jasper,Joplin,"2633 East 11th Street",,01/16/2012
+Missouri,Jackson,"Blue Springs","1812  Hayes Street",,02/05/2012
+Missouri,Texas,Cabool,"618  Spruce Street",,02/08/2012
+Missouri,Platte,"Platte City","409  Vine Street",,02/09/2012
+Missouri,Platte,Riverside,"4598 Northwest Gateway St",,02/17/2012
+Missouri,Jackson,"Kansas City","9623 South Belmont Avenue",,02/27/2012
+Missouri,Phelps,Rolla,"11660 East Hwy 72  B40",,02/28/2012
+Missouri,Clay,Gladstone,"212 Northeast 64th Street 101",,02/29/2012
+Missouri,Montgomery,"Montgomery City","363  Meadowlark Road",,07/03/2012
+Missouri,Ralls,"New London","201 East First Street",,07/03/2012
+Missouri,Howard,Armstrong,"388  Howard County Rd 251",,07/04/2012
+Missouri,"St. Louis","Saint Louis","2807 West Meramec Street",,07/05/2012
+Missouri,Newton,Joplin,"2901  Lark Road",,07/09/2012
+Missouri,"St. Charles","Saint Charles","1832  Santa Clara Drive",,07/09/2012
+Missouri,Jefferson,"High Ridge","5109  Sunshine Drive",,07/10/2012
+Missouri,"St. Charles","Saint Charles","1701  Veterans Memorial Parkway 82",,07/10/2012
+Missouri,"St. Charles",O'fallon,"13  Thoroughbred Drive",,07/10/2012
+Missouri,"St. Louis (city)","Saint Louis","7002  Michigan",,07/10/2012
+Missouri,"St. Charles","Saint Charles","2209  Campus Drive",,07/11/2012
+Missouri,Pulaski,Crocker,"229  Hawkins Street",,07/12/2012
+Missouri,Miller,Brumley,"5  Castle Road",,07/12/2012
+Missouri,Clark,Kahoka,"140 South Cleveland Street",,07/13/2012
+Missouri,"St. Charles","Saint Charles","2818  Elm Street",,07/16/2012
+Missouri,"St. Charles","Saint Charles","4  Pam Avenue",,07/16/2012
+Missouri,"St. Charles","Saint Charles","62  Barberry",,07/17/2012
+Missouri,Jefferson,Arnold,"1484  Klahs Lane",,07/17/2012
+Missouri,Webster,Marshfield,"157  Blair Street",,07/17/2012
+Missouri,Jefferson,"House Springs","5564  Stonecrest",,07/17/2012
+Missouri,"St. Charles","Saint Charles","3417  Wilshire Avenue",,07/17/2012
+Missouri,Laclede,Conway,"115  Randall Street B",,07/18/2012
+Missouri,Scott,"Scott City","729  Grave Street",,07/18/2012
+Missouri,Jefferson,Fenton,"112  Lavernel",,07/19/2012
+Missouri,Jefferson,Fenton,"126  Flint Drive",,07/19/2012
+Missouri,"St. Charles","Saint Charles","2697  Veterans Memorial Parkway",,07/22/2012
+Missouri,"St. Charles","Saint Charles","3769  Bismark",,07/22/2012
+Missouri,"St. Louis",Wildwood,"18641  Hardt Road",,07/23/2012
+Missouri,"St. Louis",Bridgeton,"4144  Muro Lane",,07/23/2012
+Missouri,"St. Charles",O'fallon,"1321  Sunny Terrace Drive",,07/23/2012
+Missouri,Newton,Seneca,"2218  Holly Road",,07/25/2012
+Missouri,Newton,Joplin,"2119 South Annie Baxter Avenue",,07/25/2012
+Missouri,Jefferson,Hillsboro,"7447  Hillsboro House Springs",,07/25/2012
+Missouri,"Cape Girardeau","Cape Girardeau","1467  Kingsway Drive",,07/26/2012
+Missouri,Franklin,Sullivan,"345  Maple Street",,07/27/2012
+Missouri,Jefferson,Dittmer,"4789  Melody Hills",,07/28/2012
+Missouri,Jefferson,Barnhart,"1835  Danridge",,07/30/2012
+Missouri,Jackson,Independence,"420 West Wayne Circle",,07/31/2012
+Missouri,Marion,Hannibal,"1112 North Valley Street",,07/31/2012
+Missouri,Greene,Springfield,"1526 South Thelma",,08/02/2012
+Missouri,Iron,Ironton,"15050 South Highway 21",,08/02/2012
+Missouri,"St. Louis","Saint Louis","9801  Lorna Road",,08/03/2012
+Missouri,Jefferson,Arnold,"1513  Parkview Lane",,08/03/2012
+Missouri,Jasper,Joplin,"1205 West Junge Road",,08/04/2012
+Missouri,"St. Louis",Bridgeton,"11560  Wickshire Court",,08/05/2012
+Missouri,"St. Francois","Doe Run","2583 South Oak Street",,08/06/2012
+Missouri,Stoddard,Dexter,"512 West Elk",,08/08/2012
+Missouri,Iron,Viburnum,"1661  County Road 4437",,08/08/2012
+Missouri,"St. Charles",Wentzville,"638 West Highway N",,08/09/2012
+Missouri,"St. Louis",Maplewood,"7446  Lohmeyer Avenue",,08/09/2012
+Missouri,"St. Louis","Saint Louis","1828  Mill Ridge Course",,08/09/2012
+Missouri,Jefferson,Dittmer,"7474  Dittmer Road",,08/09/2012
+Missouri,Jefferson,"Cedar Hill","6605  Bandstand",,08/11/2012
+Missouri,Jefferson,Imperial,"6303  Old State Road",,08/12/2012
+Missouri,"St. Charles","Saint Peters","2712  Mcclay Valley Boulevard",,08/14/2012
+Missouri,Jefferson,"House Springs","5507  Darren Drive",,08/16/2012
+Missouri,"Cape Girardeau","Cape Girardeau","1024  West Mount",,08/16/2012
+Missouri,"St. Louis","Saint Louis","3666  Weber Road",,08/16/2012
+Missouri,Jasper,"Webb City","733  Cardinal",,08/17/2012
+Missouri,"St. Charles","Saint Peters","792  Estes Park Drive",,08/17/2012
+Missouri,Laclede,Lebanon,"16201  Tulsa Drive",,08/19/2012
+Missouri,Putnam,Unionville,"511 South 17th Street",,08/21/2012
+Missouri,Linn,Bucklin,"417  Ruby Street",,08/22/2012
+Missouri,Jasper,Joplin,"4084 West 26th Street",,08/22/2012
+Missouri,Jefferson,Fenton,"301  Primbrook Court",,08/22/2012
+Missouri,"St. Francois",Desloge,"106 North Waller Street",,08/23/2012
+Missouri,Howell,"Willow Springs","211 East 3rd Street",,08/25/2012
+Missouri,"Ste. Genevieve","Sainte Genevieve","19993  Gore Road",,08/28/2012
+Missouri,Jackson,"Kansas City","1518 East 76th Street",,09/05/2012
+Missouri,Newton,Seneca,"1022  Cherokee Avenue",,09/13/2012
+Missouri,Greene,Springfield,"727 South Douglas",,09/15/2012
+Missouri,Sullivan,"Green City","60754  State Hwy N",,09/21/2012
+Missouri,Greene,Springfield,"815 South Glenstone",,09/26/2012
+Missouri,Dade,Greenfield,"214  Boisseau Street",,10/02/2012
+Missouri,Montgomery,"New Florence","217 North 4th Street",,10/09/2012
+Missouri,"St. Louis (city)","Saint Louis","4666  Tesson Avenue",,10/12/2012
+Missouri,Montgomery,Jonesburg,"229 East Booneslick",,10/24/2012
+Missouri,Newton,Joplin,"703  Glendale Road",,10/26/2012
+Missouri,"St. Louis","Saint Louis","3146  Portis",,10/27/2012
+Missouri,Callaway,"Holts Summit","295  South Summit Drive",,10/29/2012
+Missouri,Jasper,Joplin,"920 South Sergeant Avenue",,11/08/2012
+Missouri,Jasper,Joplin,"2504 South Kenser Road",,11/10/2012
+Missouri,Barton,Liberal,"210  Kneeland Street",,11/12/2012
+Missouri,"St. Louis","Saint Louis","217 West Steins Street 1st Floor",,11/14/2012
+Missouri,Jackson,"Kansas City","211 East 80 Terrace",,11/19/2012
+Missouri,Adair,Kirksville,"21724  Hackberry Trail",,06/01/2013
+Missouri,Jasper,Joplin,"202 North Gray",,06/04/2013
+Missouri,Greene,Springfield,"902 North Main Avenue",,06/05/2013
+Missouri,Jasper,"Neck City","221 North St. Louis Street",,06/08/2013
+Missouri,Phelps,Rolla,"500  Foxcreek",,06/08/2013
+Missouri,Dade,Lockwood,"505  Spruce Street",,06/16/2013
+Missouri,Newton,Granby,"23729  O Kelly Lane",,07/02/2013
+Missouri,"St. Louis","Saint Louis","3127  Ross Street",,07/10/2013
+Missouri,Greene,Springfield,"810 West Madison",,07/12/2013
+Missouri,"St. Louis",Overland,"9431  Flora",,07/12/2013
+Missouri,Jackson,"Kansas City","2738  Paseo  641",,07/16/2013
+Missouri,"St. Louis","Saint Louis","14025  Lord",,07/16/2013
+Missouri,Randolph,Moberly,"1328  Hurley Avenue",,07/16/2013
+Missouri,"St. Louis","Saint Louis","10859  Lacklink",,07/23/2013
+Missouri,Newton,Joplin,"6350  Spurgeon",,02/01/2014
+Missouri,Jasper,Joplin,"2427 South Texas Avenue",,02/09/2014
+Missouri,Boone,Columbia,"7703  La Porte Avenue",,02/11/2014
+Missouri,"St. Louis","Saint Louis","9812  Clyde",,02/13/2014
+Missouri,Scott,Sikeston,"120  Lashmet Street",,08/25/2015
+Missouri,Stoddard,Dexter,"6909  Cr 667",,09/02/2015
+Missouri,Greene,Springfield,"1621 E Atlantic Street",,10/14/2015
+Missouri,Jefferson,"High Ridge","5304  Brinridge",,12/03/2015
+Missouri,"Cape Girardeau","Cape Girardeau","2830  Whitener Street Box 3",,12/10/2015
+Missouri,Greene,Springfield,"3372 N National",,12/11/2015
+Missouri,Morgan,"Gravois Mills","719 N Main Street",,12/11/2015
+Missouri,Greene,Springfield,"1710 W Erie",,12/15/2015
+Missouri,Jasper,Joplin,"1202  Murphy",,12/16/2015
+Missouri,"St. Louis (city)","Saint Louis","710  Allen",,12/17/2015
+Missouri,Pulaski,Richland,"24494  Upton Drive",,01/07/2016
+Missouri,Jefferson,Arnold,"25  Milanna Drive",,01/08/2016
+Missouri,"St. Francois",Leadwood,"1005  Hunt Street",,01/09/2016
+Missouri,"St. Louis",Lemay,"125 E Loretta Street",,01/10/2016
+Missouri,Newton,Seneca,"411  Peoria Street",,02/06/2016
+Missouri,Jasper,Joplin,"2307 S Meadow Avenue",,02/16/2016
+Missouri,Newton,Neosho,"13799  Pella",,04/08/2016
+Missouri,,,"4327 Gertrude Ave",,08/11/2016
+Missouri,Jefferson,"House Springs","4612 Pogue Dr",,08/24/2016
+Missouri,Lincoln,Foley,"762 Falstaff",,10/24/2016
+Missouri,Schuyler,Lancaster,"13560 Rabbit Run Avenue",,02/03/2017
+Missouri,Greene,Springfield,"834 North Burton Avenue",,02/04/2017
+Missouri,Wayne,Piedmont,"301 North 4th Street",,03/15/2018
+Missouri,Jefferson,Fenton,"883 Thousand Pines Road",,12/12/2018
+Missouri,Pettis,Sedalia,"509, 36th Street",,12/29/2018
+Missouri,Greene,Springfield,"3510 West Expressway",,01/11/2019

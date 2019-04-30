@@ -1,0 +1,687 @@
+state,county,city,address1,address2,date
+Iowa,Winneshiek,Decorah,"804  Sumner",,
+Iowa,Monroe,Albia,"216 Clinton S",,01/01/2004
+Iowa,Linn,"Cedar Rapids","1758 Mallory St",,01/02/2004
+Iowa,"Van Buren",Keosauqua,"22374 Columbia St",,01/02/2004
+Iowa,Marion,Knoxville,"506 Fourth S St",,01/02/2004
+Iowa,Johnson,"Iowa City","3981 N.e. Overlook W Rd",,01/02/2004
+Iowa,"Des Moines",Burlington,"1111 Fifth N St",,01/03/2004
+Iowa,Linn,"Cedar Rapids","307 33rd Ne St",,01/05/2004
+Iowa,Polk,"Des Moines","2523 59th St",,01/06/2004
+Iowa,Clarke,Osceola,"314 Vale S",,01/07/2004
+Iowa,Hamilton,Ellsworth,"3057 Tollman Ave",,01/07/2004
+Iowa,Tama,Traer,"8808 East 5th Street",,01/08/2004
+Iowa,Wapello,Ottumwa,"6962 Cemetery Rd",,01/08/2004
+Iowa,Dubuque,Dubuque,"2270 Jackson",,01/09/2004
+Iowa,Linn,"Cedar Rapids","1123 1st Sw Ave",,01/09/2004
+Iowa,Polk,"Des Moines","1908 Lay St",,01/12/2004
+Iowa,Polk,"Pleasant Hill","151 Pleasant Hill N Blvd",,01/12/2004
+Iowa,Monona,Castana,"101 Oak S St",,01/13/2004
+Iowa,Story,Ames,"1343 Y Ave",,01/14/2004
+Iowa,Audubon,Exira,"515 Washington E St",,01/14/2004
+Iowa,Polk,"Des Moines","1213 Cleveland E",,01/15/2004
+Iowa,Polk,"West Des Moines","3000 University Ave 73",,01/20/2004
+Iowa,Pottawattamie,Underwood,"22426 Hwy 191",,01/20/2004
+Iowa,Pottawattamie,Underwood,"22426 Highway 191",,01/20/2004
+Iowa,Marion,Harvey,"408 Tower Dr",,01/21/2004
+Iowa,Warren,Indianola,"10271 R57 Hwy",,01/22/2004
+Iowa,"Des Moines",Burlington,"1401 Lincoln Ave",,01/22/2004
+Iowa,Humboldt,Renwick,"512 Kelling St",,01/22/2004
+Iowa,Cass,Massena,"507 Clark Ave",,01/22/2004
+Iowa,Marion,Knoxville,"909 Main W St",,01/22/2004
+Iowa,"Black Hawk",Waterloo,"10208 Newell St",,01/23/2004
+Iowa,Louisa,Wapello,"15816 70th St",,01/24/2004
+Iowa,Clinton,Clinton,"2604 Fourth N St 2007",,01/25/2004
+Iowa,Boone,Odgen,"965 22nd Dr 1",,01/26/2004
+Iowa,Webster,Otho,"304 North St",,01/26/2004
+Iowa,Benton,"Belle Plaine","1236 D Ave",,01/26/2004
+Iowa,Woodbury,"Sioux City","2808 Myrtle St",,01/27/2004
+Iowa,Crawford,"Dow City","3116 230th St",,01/27/2004
+Iowa,Kossuth,"Swea City","505 Ash W Ave",,01/27/2004
+Iowa,Mills,Emerson,"409 Wilson St",,01/28/2004
+Iowa,"Cerro Gordo","Mason City","911 8th Ne St",,01/29/2004
+Iowa,Warren,"Liberty Center","16038 Tyler St",,01/31/2004
+Iowa,Mills,Hastings,"36087 Main St",,01/31/2004
+Iowa,Linn,"Cedar Rapids","1613 I Ne Ave",,02/03/2004
+Iowa,Dubuque,Dubuque,"590 Clark Dr",,02/04/2004
+Iowa,Polk,"Des Moines","4125 15th Se Ct",,02/04/2004
+Iowa,Story,Ames,"916 Duff Ave",,02/05/2004
+Iowa,Marion,Pella,"1211 216th Pl",,02/05/2004
+Iowa,Union,Creston,"106 Stone N St",,02/08/2004
+Iowa,Guthrie,Stuart,"424 Sherman St",,02/09/2004
+Iowa,Crawford,Denison,"1403 3rd Ave 3",,02/09/2004
+Iowa,Linn,"Cedar Rapids","345 30th Se St",,02/09/2004
+Iowa,Marshall,Marshalltown,"207 Linn W St",,02/10/2004
+Iowa,Linn,"Central City","439 1/2 Main St Upper Apt",,02/10/2004
+Iowa,Hamilton,"Webster City","1217 Second St 17",,02/12/2004
+Iowa,Jasper,"Prairie City","206 South W St",,02/14/2004
+Iowa,Webster,"Fort Dodge","319 9th N St",,02/15/2004
+Iowa,Marshall,Marshalltown,"3315 Center S St 163",,02/16/2004
+Iowa,Dubuque,Dubuque,"504 17th W St 1",,02/16/2004
+Iowa,Dubuque,Dubuque,"1780 Locust St",,02/16/2004
+Iowa,Polk,"Des Moines","2917 49th Pl",,02/17/2004
+Iowa,Polk,"West Des Moines","210 Prairieview Dr",,02/17/2004
+Iowa,Floyd,"Charles City","804 Joslin N St",,02/18/2004
+Iowa,Marshall,Marshalltown,"8 19th N St",,02/18/2004
+Iowa,Marshall,Marshalltown,"905 Iowa W Ave 10",,02/18/2004
+Iowa,Lee,Keokuk,"2343 B 340 St",,02/19/2004
+Iowa,Lee,Montrose,"2343 A 340th St",,02/19/2004
+Iowa,Union,Afton,"125 Kansas E St 2",,02/20/2004
+Iowa,Poweshiek,Montezuma,"818 3rd S St",,02/23/2004
+Iowa,Pottawattamie,Avoca,"155 Chestnut S St",,02/23/2004
+Iowa,Polk,"Des Moines","4485 23rd Ne Ave",,02/24/2004
+Iowa,"Black Hawk",Hudson,"321 Washington S St 3",,02/25/2004
+Iowa,Fayette,"West Union","215 King St",,02/25/2004
+Iowa,Wapello,Ottumwa,"315 Lincoln Ave",,02/26/2004
+Iowa,Lee,Keokuk,"708 14th S St",,02/26/2004
+Iowa,Lee,Keokuk,"1218 7th S St",,02/26/2004
+Iowa,Lee,Keokuk,"3806 Main Street Rd Lot 9",,02/26/2004
+Iowa,Bremer,Plainfield,"1485 Badger Ave",,02/27/2004
+Iowa,Polk,"Des Moines","3848 14 Ne St",,02/27/2004
+Iowa,Woodbury,"Sioux City","2219 1st W",,03/01/2004
+Iowa,Polk,"Des Moines","2517 8th Se Ct",,03/03/2004
+Iowa,Ida,Holstein,"5445 170th St",,03/04/2004
+Iowa,Cedar,"West Branch","15 Brook Side Dr",,03/04/2004
+Iowa,"Black Hawk",Waterloo,"406 Lindale Ave",,03/04/2004
+Iowa,Hamilton,Blairsburg,"2273 Sac And Fox Ave",,03/04/2004
+Iowa,Polk,"Des Moines","3315 Sixth Ave",,03/04/2004
+Iowa,Franklin,Coulter,"317 4th St",,03/06/2004
+Iowa,Marion,Knoxville,"2210 103rd Ave",,03/06/2004
+Iowa,Wright,"Eagle Grove","721 3rd Nw St",,03/07/2004
+Iowa,Polk,"Des Moines","935 Herold Sw",,03/08/2004
+Iowa,Hamilton,Jewell,"406 Meadow Lake Street",,03/08/2004
+Iowa,Marion,Knoxville,"1329 Lincoln S 62",,03/08/2004
+Iowa,Clayton,"Strawberry Point","109 1/2 Elkader St D",,03/09/2004
+Iowa,Warren,Indianola,"8218 Pierce St",,03/10/2004
+Iowa,Cass,Cumberland,"1057 Birch Ave",,03/10/2004
+Iowa,Linn,"Cedar Rapids","841 44th St",,03/11/2004
+Iowa,Hamilton,Blairsburg,"2273 Sac & Fox Ave",,03/12/2004
+Iowa,Clinton,"De Witt","924 11th St",,03/12/2004
+Iowa,Jackson,Maquoketa,"902 Platt E",,03/13/2004
+Iowa,Wright,"Eagle Grove","609 Lincoln N Ave",,03/15/2004
+Iowa,Dallas,Perry,"705 5th St",,03/15/2004
+Iowa,Wapello,Ottumwa,"16271 Rock Bluff Rd",,03/15/2004
+Iowa,Polk,"Des Moines","835 Buchanan",,03/16/2004
+Iowa,Dubuque,Dubuque,"745 Davis St",,03/16/2004
+Iowa,Lucas,Williamson,"105 South Ave",,03/18/2004
+Iowa,Franklin,Hampton,"315 First Sw St",,03/19/2004
+Iowa,Linn,"Cedar Rapids","612 3rd Sw St",,03/22/2004
+Iowa,Polk,"Des Moines","3412 Dubuque Ave",,03/23/2004
+Iowa,Buchanan,Brandon,"2940 Daniel Ave",,03/24/2004
+Iowa,"Cerro Gordo","Mason City","1623 Federal",,03/25/2004
+Iowa,Montgomery,Villisca,"200 Blk 2nd E Ave",,03/26/2004
+Iowa,Webster,"Fort Dodge","116 4th Nw St",,03/26/2004
+Iowa,Hardin,Hubbard,"20879 290 St",,03/26/2004
+Iowa,Sioux,Hawarden,"704 K Ave",,03/26/2004
+Iowa,Cass,Marne,"405 4th St",,04/01/2004
+Iowa,Jasper,"Prairie City","104 Second E St",,04/03/2004
+Iowa,Scott,Davenport,"2815 68th W St",,04/05/2004
+Iowa,Polk,"Des Moines","2150 66th Nw Ave",,04/07/2004
+Iowa,Madison,"Saint Charles","15710 165th Ave",,04/07/2004
+Iowa,Dubuque,Dubuque,"427 Rhomberg Ave",,04/13/2004
+Iowa,Pottawattamie,"Council Bluffs","1727 5th Ave",,04/14/2004
+Iowa,Clarke,Osceola,"263 Manor Dr",,04/14/2004
+Iowa,Webster,Coalville,"23592 Nelson Ave",,04/14/2004
+Iowa,Linn,"Cedar Rapids","1221 Rose Se St",,04/15/2004
+Iowa,Allamakee,Waukon,"922 4th Nw St 12",,04/15/2004
+Iowa,"Black Hawk",Waterloo,"204 4th W St 808",,04/16/2004
+Iowa,Monroe,Albia,"312 1/2 Washington Ave",,04/19/2004
+Iowa,Mahaska,Oskaloosa,"214 Market N",,04/21/2004
+Iowa,Polk,Ankeny,"2732 Southeast Delaware Avenue 152",,04/21/2004
+Iowa,Delaware,Delhi,"22218 258 St",,04/21/2004
+Iowa,"Black Hawk",Waterloo,"1945 La Porte Rd 200",,04/23/2004
+Iowa,Clinton,"De Witt","1022 12th Ave",,04/23/2004
+Iowa,Wapello,Ottumwa,"1440 Albia Rd 17",,04/23/2004
+Iowa,Hamilton,Stanhope,"650 Taylor St",,04/26/2004
+Iowa,Dubuque,Dubuque,"2515 Central Ave 1",,04/27/2004
+Iowa,O'brien,Primghar,"80 2nd Sw St",,04/27/2004
+Iowa,Lee,Keokuk,"1112 Des Moines S St",,04/27/2004
+Iowa,Jefferson,Fairfield,"301 Buchanan E St B3",,04/28/2004
+Iowa,Clinton,Clinton,"1415 13th S Ave",,05/05/2004
+Iowa,Madison,Patterson,"171 2nd N St",,05/05/2004
+Iowa,Polk,"Des Moines","3303 50th Trl",,05/11/2004
+Iowa,Boone,Boone,"1804 3rd W",,05/12/2004
+Iowa,Dubuque,Dubuque,"11420 Rupp Hollow Rd",,05/12/2004
+Iowa,Union,Creston,"1720 Monroe Ave",,05/13/2004
+Iowa,Monona,Mapleton,"11063 Pecan Ave",,05/13/2004
+Iowa,Polk,"Des Moines","809 Broadway Ne Ave 22",,05/13/2004
+Iowa,Polk,"Des Moines","2934 Euclid E",,05/16/2004
+Iowa,Polk,"Des Moines","3170 Southeast 14th Street 21",,05/17/2004
+Iowa,Polk,"Des Moines","1427 Delaware E St",,05/18/2004
+Iowa,Dubuque,Dubuque,"2805 Jackson St",,05/19/2004
+Iowa,Pottawattamie,"Council Bluffs","1848 16th N St 227",,05/19/2004
+Iowa,Monona,Castana,"22173 Orange Ave",,05/19/2004
+Iowa,Jackson,Maquoketa,"108 1/2 Main S St",,05/19/2004
+Iowa,Worth,Northwood,"206 6th N St",,05/20/2004
+Iowa,Woodbury,"Sioux City","1512 Isabella St",,05/22/2004
+Iowa,Polk,"Des Moines","2613 Elm E St",,05/22/2004
+Iowa,Jackson,Bellevue,"701 3rd N",,05/26/2004
+Iowa,Polk,"Des Moines","2904 Maple St",,05/26/2004
+Iowa,Osceola,Sibley,"908 7th St",,05/27/2004
+Iowa,Washington,Wellman,"1002 Second St",,05/28/2004
+Iowa,Grundy,"Grundy Center","107 6th St",,05/31/2004
+Iowa,Emmet,Dolliver,"1095 School St",,06/01/2004
+Iowa,Polk,"Des Moines","3607 38 E St",,06/11/2004
+Iowa,Clarke,Osceola,"322 Main N St",,06/11/2004
+Iowa,Johnson,"Iowa City","2221 Muscatine Ave",,06/12/2004
+Iowa,Clay,Spencer,"16 1st E St 2",,06/13/2004
+Iowa,Dallas,"Dallas Center","2125 W Ave",,06/17/2004
+Iowa,"Black Hawk",Waterloo,"1119 Kern St",,06/20/2004
+Iowa,Scott,Bettendorf,"5425 Valley Dr 7",,06/21/2004
+Iowa,Linn,"Cedar Rapids","828 F Nw Ave",,06/28/2004
+Iowa,Polk,"West Des Moines","124 3rd St",,06/29/2004
+Iowa,Polk,"Des Moines","706 Marion Sw",,07/02/2004
+Iowa,Marion,Knoxville,"506 2nd N St",,07/02/2004
+Iowa,Page,Shenandoah,"305 Elm S St 19",,07/06/2004
+Iowa,"Black Hawk","Cedar Falls","1813 8th W St",,07/10/2004
+Iowa,Polk,"Des Moines","431 28th St",,07/10/2004
+Iowa,Adair,Fontanelle,"604 3rd St",,07/14/2004
+Iowa,Marion,Pleasantville,"407 Columbus N",,07/14/2004
+Iowa,Allamakee,Postville,"311 Pole Line Rd",,07/15/2004
+Iowa,Story,Ames,"2101 Oakwood Rd 316",,07/15/2004
+Iowa,Louisa,Letts,"160 Cass W St",,07/16/2004
+Iowa,Wapello,Ottumwa,"1217 Quincy S Ave",,07/18/2004
+Iowa,Montgomery,"Red Oak","2032 190th St",,07/20/2004
+Iowa,Jones,Anamosa,"404 Sales N",,07/20/2004
+Iowa,"Van Buren",Bonaparte,"25455 Teal Ave",,07/20/2004
+Iowa,Dubuque,Dubuque,"440 Angella #6",,07/23/2004
+Iowa,Dubuque,Dubuque,"1441 1/2 Bluff St",,07/25/2004
+Iowa,Dubuque,Dubuque,"1360 Missouri St",,07/27/2004
+Iowa,Adair,Stuart,"403 6th Se St",,07/27/2004
+Iowa,Lee,"Fort Madison","2785 Chalkridge Rd",,07/29/2004
+Iowa,Monona,Soldier,"300 1st St",,07/29/2004
+Iowa,"Black Hawk",Waterloo,"514 Fletcher",,07/31/2004
+Iowa,Linn,"Cedar Rapids","3729 Richmond Ne Rd",,07/31/2004
+Iowa,Montgomery,"Red Oak","2900 8th N St",,07/31/2004
+Iowa,"Des Moines",Burlington,"512 Starr S St",,08/01/2004
+Iowa,Butler,Aplington,"14815 Hwy 57",,08/04/2004
+Iowa,Polk,"Des Moines","3817 27th E St",,08/05/2004
+Iowa,Winneshiek,Decorah,"202 Broadway E St",,08/05/2004
+Iowa,Woodbury,"Sioux City","1200 Helen S St",,08/05/2004
+Iowa,Jackson,Maquoketa,"311 Fourth S St",,08/07/2004
+Iowa,Mills,Tabor,"24584 Rains Ave",,08/11/2004
+Iowa,Marshall,Marshalltown,"207 12th N St",,08/12/2004
+Iowa,Lee,Keokuk,"318 16th S St",,08/12/2004
+Iowa,Webster,"Fort Dodge","437 2nd Nw St",,08/13/2004
+Iowa,Linn,"Cedar Rapids","823 11 Se Ave",,08/14/2004
+Iowa,Wapello,Ottumwa,"16440 Highway 34",,08/19/2004
+Iowa,Dubuque,Dubuque,"1390 Kaufmann Ave",,08/19/2004
+Iowa,Linn,Hiawatha,"4013 Hummingbird Lane",,08/22/2004
+Iowa,Davis,Bloomfield,"26368 Ice Ave",,08/22/2004
+Iowa,Henry,"Mount Pleasant","2788 Kentucky Ave",,08/24/2004
+Iowa,Woodbury,"Sioux City","1311 6th W St",,08/24/2004
+Iowa,Jackson,Baldwin,"7149 Highway 64",,08/25/2004
+Iowa,Wayne,Lineville,"2832 25th St",,08/25/2004
+Iowa,Montgomery,"Red Oak","906 7th N St",,08/26/2004
+Iowa,Johnson,Oxford,"1710 Lower Old Highway 6 Nw",,08/27/2004
+Iowa,Union,Lorimor,"310 2nd E St",,08/31/2004
+Iowa,"Des Moines",Burlington,"1337 Ashmun Street",,09/08/2004
+Iowa,"Black Hawk",Waterloo,"8106 Cotter Rd",,09/08/2004
+Iowa,Jefferson,Fairfield,"602 Court N St 4",,09/08/2004
+Iowa,Page,Clarinda,"800 Lincoln",,09/10/2004
+Iowa,Polk,"Des Moines","4324 Baseline N St",,09/12/2004
+Iowa,Davis,Floris,"14318 Wheat Ave",,09/15/2004
+Iowa,Calhoun,Manson,"705 Th Ave",,09/16/2004
+Iowa,Polk,"Des Moines","3923 6th Ave",,09/22/2004
+Iowa,Wapello,Ottumwa,"1301 Second E St",,09/22/2004
+Iowa,Mills,Glenwood,"301 Ebaugh St 4",,09/26/2004
+Iowa,Jackson,Baldwin,"1002 17th Ave",,10/01/2004
+Iowa,Woodbury,"Sioux City","810 9th St 7",,10/05/2004
+Iowa,Polk,"Des Moines","2938 Euclid E",,10/06/2004
+Iowa,Jones,"Oxford Junction","38th Sw Ave",,10/07/2004
+Iowa,Dubuque,Dubuque,"2510 Central Ave 1",,10/08/2004
+Iowa,Marshall,Marshalltown,"401 Plaza Heights Rd B",,10/09/2004
+Iowa,Worth,Northwood,"208 3rd N St",,10/10/2004
+Iowa,Worth,Northwood,"99 13 N St",,10/12/2004
+Iowa,Lee,Keokuk,"204 14th N St",,10/13/2004
+Iowa,Union,Creston,"205 Osage St",,10/16/2004
+Iowa,"Des Moines",Burlington,"812 Linden St",,10/16/2004
+Iowa,Marshall,Marshalltown,"111 State W St 8",,10/18/2004
+Iowa,Story,Ames,"2279 190th E St",,10/19/2004
+Iowa,Dubuque,Dubuque,"430 Kaufmann Ave",,10/20/2004
+Iowa,Louisa,"Morning Sun","1604 S Ave",,10/22/2004
+Iowa,Johnson,"Iowa City","328 4th Ave",,10/22/2004
+Iowa,Marion,Harvey,"806 Main St",,10/22/2004
+Iowa,Washington,Washington,"531 D S Ave",,10/25/2004
+Iowa,Mills,Emerson,"404 Manchester St",,10/26/2004
+Iowa,Henry,"Mount Pleasant","1795 Oakland Mills Rd",,10/28/2004
+Iowa,"Cerro Gordo","Clear Lake","112 9th N St",,10/29/2004
+Iowa,Winnebago,Rake,"307 2nd W Ave",,10/30/2004
+Iowa,Pottawattamie,Treynor,"32505 Us Hwy 92",,11/03/2004
+Iowa,Pottawattamie,"Council Bluffs","21903 Chesnut Rd",,11/05/2004
+Iowa,Keokuk,"What Cheer","12114 175th St",,11/06/2004
+Iowa,"Des Moines",Burlington,"736 Whitewood St",,11/06/2004
+Iowa,Lee,Donnellson,"309 Madison Ave 18",,11/08/2004
+Iowa,"Des Moines",Danville,"310 Third S St",,11/09/2004
+Iowa,Lee,Donnellson,"105 Oak S St 5",,11/09/2004
+Iowa,Keokuk,Martinsburg,"101 Buckeye",,11/10/2004
+Iowa,Poweshiek,Grinnell,"926 1/2 Main Trl",,11/12/2004
+Iowa,Shelby,Harlan,"1201 12th St",,11/12/2004
+Iowa,Woodbury,"Sioux City","1703 Ingleside Ave",,11/13/2004
+Iowa,Floyd,Floyd,"1781 Quarry Rd",,11/16/2004
+Iowa,Buchanan,Hazleton,"207 North 3rd Street",,11/17/2004
+Iowa,Dubuque,Dubuque,"11294 Rock Grove Ct",,11/18/2004
+Iowa,Linn,"Cedar Rapids","4950 16th Sw Ave 209",,11/18/2004
+Iowa,Dubuque,Dubuque,"101 29 E St",,11/18/2004
+Iowa,Johnson,"Iowa City","428 Elmridge Dr",,11/18/2004
+Iowa,Henry,Hillsboro,"109 Oak E",,11/21/2004
+Iowa,Dubuque,Dubuque,"1695 Algona N",,11/23/2004
+Iowa,Dubuque,Dubuque,"20204 St. Joseph Dr",,11/24/2004
+Iowa,Woodbury,"Sioux City","3800 9th E St",,11/29/2004
+Iowa,Henry,"Mount Pleasant","506 1/2 Madison E St",,11/29/2004
+Iowa,Lee,Houghton,"1203 140th Ave",,12/02/2004
+Iowa,Polk,"Des Moines","3211 30th 39",,12/06/2004
+Iowa,Hamilton,Blairsburg,"2749 230th St",,12/08/2004
+Iowa,Marion,Pleasantville,"307 1/2 Columbus N",,12/13/2004
+Iowa,Warren,Carlisle,"100 Ash Street 821",,12/13/2004
+Iowa,Clay,Peterson,"212 4th W Trl",,12/13/2004
+Iowa,Polk,"Des Moines","1275 34 E St",,12/14/2004
+Iowa,Dallas,Woodward,"302 Main St 5",,12/15/2004
+Iowa,Buchanan,Lamont,"635 Pine St",,12/16/2004
+Iowa,Lee,Keokuk,"504 Carroll St",,12/22/2004
+Iowa,Humboldt,Humboldt,"2490 Lone Treet Rd",,12/23/2004
+Iowa,Lee,Montrose,"3072 Koehler Ln",,12/27/2004
+Iowa,Cherokee,Cherokee,"5194 S Ave",,12/28/2004
+Iowa,Mills,Glenwood,"60193 240th Street",,12/29/2004
+Iowa,Linn,"Cedar Rapids","1804 Southeast 6th Avenue",,12/29/2004
+Iowa,Dubuque,Dubuque,"101 (a) 29th E St",,12/30/2004
+Iowa,Story,Ames,"319 2nd S St 3",,12/30/2004
+Iowa,Iowa,Amana,"5204 C St",,12/30/2004
+Iowa,Davis,Bloomfield,"405 Davis S St",,01/04/2005
+Iowa,Buchanan,Lamont,"619 Bush St",,01/04/2005
+Iowa,Jefferson,Fairfield,"2696 Highway 34",,01/04/2005
+Iowa,Monona,Onawa,"514 14th St",,01/10/2005
+Iowa,Polk,Altoona,"604 2nd Se St",,01/12/2005
+Iowa,Polk,Ankeny,"7377 16th Nw St",,01/16/2005
+Iowa,Dickinson,Milford,"2308 225th Ave",,01/17/2005
+Iowa,Lee,"Fort Madison","1518 L Ave",,01/21/2005
+Iowa,Johnson,"North Liberty","35 Sparton Dr",,01/21/2005
+Iowa,Dubuque,Dubuque,"2724 Pinard St",,01/23/2005
+Iowa,Lee,Donnellson,"1463 155th Ave",,01/23/2005
+Iowa,Keokuk,Ollie,"21891 Hwy 78 Hwy",,01/25/2005
+Iowa,Jasper,Mingo,"5027 112 1/2 W St",,01/25/2005
+Iowa,Linn,"Cedar Rapids","1104 22 Sw Ave",,01/27/2005
+Iowa,Wright,"Eagle Grove","207 3rd Ne St",,01/31/2005
+Iowa,Woodbury,Danbury,"103 2nd St",,02/02/2005
+Iowa,Poweshiek,Grinnell,"3231 70th St",,02/02/2005
+Iowa,Polk,"Des Moines","5500 14th Ne St 26",,02/04/2005
+Iowa,Story,Maxwell,"59 Maxwell St",,02/04/2005
+Iowa,Guthrie,"Guthrie Center","104 1st W St",,02/09/2005
+Iowa,Washington,Riverside,"3175 Highway 22 4",,02/11/2005
+Iowa,Kossuth,"Lu Verne","3144 100th St",,02/13/2005
+Iowa,Dallas,Woodward,"2201 Owl Ave",,02/15/2005
+Iowa,Dubuque,Dubuque,"1365 Jackson 3",,02/21/2005
+Iowa,Linn,"Cedar Rapids","249 11 Nw St",,02/25/2005
+Iowa,Crawford,Denison,"309 9th S St",,02/25/2005
+Iowa,"Des Moines","West Burlington","642 Ramsey St",,02/26/2005
+Iowa,Woodbury,Hornick,"26113 110 St",,03/02/2005
+Iowa,Monona,Onawa,"811 6th St",,03/02/2005
+Iowa,Monona,Onawa,"817 5th St",,03/04/2005
+Iowa,Webster,"Fort Dodge","605 7th N Ave",,03/06/2005
+Iowa,Union,Creston,"502 Walnut N St",,03/07/2005
+Iowa,Jones,Olin,"801 Jackson St",,03/08/2005
+Iowa,Delaware,Hopkinton,"3238 200th St",,03/08/2005
+Iowa,Pottawattamie,"Council Bluffs","2118 N Ave",,03/09/2005
+Iowa,Keokuk,Delta,"24719 112 Ave",,03/14/2005
+Iowa,Wapello,Ottumwa,"313 Cherry N St",,03/15/2005
+Iowa,"Des Moines",Burlington,"1825 Dehn St",,03/15/2005
+Iowa,Osceola,Sibley,"614 6th Ave",,03/21/2005
+Iowa,Plymouth,"Le Mars","122 3rd Sw Ave",,03/24/2005
+Iowa,Lee,"Fort Madison","1709 39th St",,03/27/2005
+Iowa,Dubuque,Dubuque,"364 1/2 Hill St",,03/29/2005
+Iowa,Hardin,Radcliffe,"3642 Young Ave",,04/01/2005
+Iowa,Woodbury,Correctionville,"1007 Fir S St",,04/01/2005
+Iowa,Winnebago,"Lake Mills","47246 200th St",,04/04/2005
+Iowa,Jasper,Newton,"1102 6th N Ave",,04/05/2005
+Iowa,Lee,"West Point","2045 Franklin Rd",,04/07/2005
+Iowa,Page,Clarinda,"601 State E St",,04/12/2005
+Iowa,Cedar,Durant,"21079 First Ave",,04/14/2005
+Iowa,Webster,"Fort Dodge","309 8th N St",,04/15/2005
+Iowa,Marshall,Melbourne,"513 Main St 16",,04/24/2005
+Iowa,Wapello,Blakesburg,"9155` 215th Ave",,04/27/2005
+Iowa,Webster,"Fort Dodge","2322 Quail Ave",,04/29/2005
+Iowa,Allamakee,Waukon,"1056 Elon Dr",,04/29/2005
+Iowa,Poweshiek,Grinnell,"1113 Spring St",,04/29/2005
+Iowa,Sioux,Sheldon,"4413 340th St",,05/01/2005
+Iowa,Wapello,Ottumwa,"331 5th E St",,05/05/2005
+Iowa,Kossuth,Algona,"1302 North E St",,05/07/2005
+Iowa,Linn,"Cedar Rapids","4303 1st Ave",,05/17/2005
+Iowa,Mills,Malvern,"95 2nd Ave",,05/18/2005
+Iowa,Dubuque,Dubuque,"101 29th E St",,06/05/2005
+Iowa,Benton,Blairstown,"1040 L Ave",,06/18/2005
+Iowa,Iowa,Williamsburg,"550 Hawkeye Dr 7",,06/18/2005
+Iowa,"Palo Alto","West Bend","5237 460th St",,06/26/2005
+Iowa,Dubuque,Dubuque,"1903 Grace St",,07/05/2005
+Iowa,Polk,Grimes,"5663 113th Nw St",,07/06/2005
+Iowa,Jasper,Newton,"324 4th W St",,07/12/2005
+Iowa,Buchanan,Lamont,"675 Concord St",,07/16/2005
+Iowa,Keokuk,Delta,"102 South St",,07/16/2005
+Iowa,Lee,Keokuk,"1511 Timea St",,07/27/2005
+Iowa,Lee,"Fort Madison","1890 303rd Ave",,08/05/2005
+Iowa,Washington,Ainsworth,"3210 262nd St",,08/06/2005
+Iowa,Lee,Keokuk,"1505 Missouri St",,08/09/2005
+Iowa,Lee,"Fort Madison","2508 G Ave",,08/24/2005
+Iowa,Lee,Keokuk,"1312 Cedar St",,09/13/2005
+Iowa,"Black Hawk","Cedar Falls","2306 Fourth W St 2",,09/20/2005
+Iowa,Clay,Spencer,"1251 River N Rd",,10/28/2005
+Iowa,Dubuque,Dubuque,"2008 Foye St",,11/09/2005
+Iowa,Dubuque,Dubuque,"745 Gillespie St",,11/10/2005
+Iowa,Lee,Montrose,"#9 Bluffpark Rd",,11/16/2005
+Iowa,Polk,Altoona,"706 2 Se St",,11/22/2005
+Iowa,"Des Moines",Burlington,"201 Starr St",,11/22/2005
+Iowa,Plymouth,Brunsville,"420 Oak St",,11/23/2005
+Iowa,Dubuque,Dubuque,"2027 Elm St",,11/23/2005
+Iowa,"Black Hawk",Waterloo,"114 Wycombe St",,12/02/2005
+Iowa,"Des Moines",Burlington,"935 Eighth N St",,12/04/2005
+Iowa,Dubuque,Dubuque,"1157 Iowa St",,12/05/2005
+Iowa,Benton,Vinton,"5224 26th Ave",,12/12/2005
+Iowa,Lee,Montrose,"2530 235th St",,12/27/2005
+Iowa,Iowa,Homestead,"4301 V Street",,01/08/2006
+Iowa,Muscatine,"West Liberty","1070 Garfield St",,01/12/2006
+Iowa,Clinton,Clinton,"2701 Pershing Blvd 4",,01/13/2006
+Iowa,Jones,Wyoming,"10678 Highway 64",,01/17/2006
+Iowa,Jackson,Maquoketa,"26290 35th (codfish Hollow Rd)",,01/20/2006
+Iowa,Clinton,Clinton,"62 21st N Ave",,01/25/2006
+Iowa,Polk,"West Des Moines","830 12 St 3",,01/30/2006
+Iowa,Polk,"Des Moines","1821 Grand E Ave 1",,01/30/2006
+Iowa,Bremer,Janesville,"225 5th St",,02/03/2006
+Iowa,Lee,"Fort Madison","1117 23rd Street",,02/04/2006
+Iowa,Polk,"Des Moines","3316 62nd St",,02/22/2006
+Iowa,Warren,"New Virginia","701 Maple",,02/22/2006
+Iowa,Dubuque,Dubuque,"1907 1/2 Johnson Street",,02/26/2006
+Iowa,O'brien,Hartley,"3283 Yew Ave",,02/28/2006
+Iowa,"Des Moines",Burlington,"1825 Dehn Street",,03/01/2006
+Iowa,Clarke,Osceola,"1888 Osage St",,03/03/2006
+Iowa,Dubuque,Dubuque,"3058 Lemon Street",,03/17/2006
+Iowa,Crawford,Arion,"202 Burton Avenue",,03/21/2006
+Iowa,Jackson,Bernard,"23607 Lake Shore Drive",,03/28/2006
+Iowa,Lee,"Fort Madison","5914 O Avenue",,04/04/2006
+Iowa,Johnson,Oxford,"4344 Southwest Eagle Avenue",,04/04/2006
+Iowa,Cherokee,Cherokee,"223 West Locust",,04/04/2006
+Iowa,Webster,"Fort Dodge","308 North 9th Street",,04/06/2006
+Iowa,"Black Hawk",Waterloo,"213 Whittier Avenue",,04/11/2006
+Iowa,Linn,"Cedar Rapids","812 Southwest 8th Avenue",,04/20/2006
+Iowa,Linn,"Cedar Rapids","1342 Northwest Ellis Boulevard",,04/21/2006
+Iowa,Clay,Fostoria,"2725 200th Avenue",,04/24/2006
+Iowa,"Black Hawk",Raymond,"6418 Lafayette Street",,04/29/2006
+Iowa,Linn,Lisbon,"1300 Northeast White Oak Avenue",,05/03/2006
+Iowa,Polk,"Des Moines","4035 Mahaska",,05/03/2006
+Iowa,Dallas,"Van Meter","608 Elm Street",,05/11/2006
+Iowa,Marshall,Albion,"1465 Newby Avenue",,05/16/2006
+Iowa,Mills,Glenwood,"711 North Linn Street",,05/23/2006
+Iowa,Fayette,Hawkeye,"17051 190th Street",,05/27/2006
+Iowa,Polk,"West Des Moines","3050 University Avenue",,06/09/2006
+Iowa,Wapello,Ottumwa,"5582 Clifford Road",,06/27/2006
+Iowa,Greene,Jefferson,"307 North Olive Street",,07/10/2006
+Iowa,Jones,Olin,"801 North Jackson Street",,07/20/2006
+Iowa,Muscatine,Muscatine,"1219 Ripley Court",,07/24/2006
+Iowa,Polk,"West Des Moines","4621 Westwood Drive",,07/28/2006
+Iowa,Mills,Glenwood,"608 South Locust Street",,08/04/2006
+Iowa,Marshall,Albion,"103 East South",,08/22/2006
+Iowa,Story,Maxwell,"31100 653rd",,09/13/2006
+Iowa,Pottawattamie,"Council Bluffs","1908 Pueblo Road",,09/13/2006
+Iowa,Polk,"Des Moines","1325 East 16th Street",,10/02/2006
+Iowa,Marion,Pleasantville,"609 East Jasper Street",,10/05/2006
+Iowa,Johnson,"Iowa City","4494 Taft Avenue",,10/15/2006
+Iowa,Dubuque,Dubuque,"3601 1/2 Lemon Street",,10/17/2006
+Iowa,Dubuque,Dubuque,"1720 Delhi Street",,10/20/2006
+Iowa,"Cerro Gordo","Mason City","777 South Eisenhower Avenue",,10/25/2006
+Iowa,"Black Hawk",Waterloo,"801 Colorado Street",,10/30/2006
+Iowa,O'brien,Sutherland,"6890 440th Street",,10/31/2006
+Iowa,Mills,Glenwood,"412 South Chesnut Street",,11/14/2006
+Iowa,Buchanan,Independence,"1300 Northwest 3rd Street",,12/07/2006
+Iowa,Dubuque,Dubuque,"10543 Emberwood Drive",,12/14/2006
+Iowa,Polk,"Des Moines","4608 University Avenue",,12/24/2006
+Iowa,Dubuque,Dubuque,"1665 Washington Street",,12/25/2006
+Iowa,Dubuque,Dubuque,"2034 Jackson Street",,01/13/2007
+Iowa,Washington,Kalona,"2705 Southwest 520th Street",,01/17/2007
+Iowa,"Des Moines",Burlington,"5943 Brush College Road",,01/24/2007
+Iowa,"Black Hawk",Waterloo,"303 Lafayette Street",,02/09/2007
+Iowa,Lee,Keokuk,"727 Exchange Street",,02/12/2007
+Iowa,"Black Hawk",Waterloo,"1267 Ravenwood Road",,02/15/2007
+Iowa,"Des Moines",Burlington,"4200 Spring Lake Road",,02/16/2007
+Iowa,Page,Clarinda,"1001 East Main Street",,03/06/2007
+Iowa,Dubuque,Dubuque,"1325 Cox Street",,03/08/2007
+Iowa,Fayette,Hawkeye,"17783 Palace Road",,03/13/2007
+Iowa,Lee,"Fort Madison","2415 E Avenue",,03/13/2007
+Iowa,"Black Hawk",Waterloo,"315 Clough",,03/24/2007
+Iowa,Dubuque,Dubuque,"917 Lincoln Avenue",,04/02/2007
+Iowa,Louisa,Oakville,"306 Second Street",,04/05/2007
+Iowa,Chickasaw,Fredericksburg,"3085 270th Street",,04/12/2007
+Iowa,Bremer,Janesville,"1120 265 Street",,04/13/2007
+Iowa,"Des Moines",Burlington,"1516 Grove Street",,05/04/2007
+Iowa,Johnson,"Iowa City","1116 North Dodge Street",,05/10/2007
+Iowa,Clay,Royal,"113 Main Street",,05/18/2007
+Iowa,Floyd,"Charles City","1838 Cedarview",,05/18/2007
+Iowa,Benton,Vinton,"5748 22nd Ave Drive",,05/22/2007
+Iowa,"Black Hawk",Waterloo,"811 Hawthorne Avenue",,05/28/2007
+Iowa,Washington,Wellman,"111 10th Avenue",,06/06/2007
+Iowa,Benton,Newhall,"6909 28th Avenue",,06/09/2007
+Iowa,Henry,"Mount Pleasant","103 North Haynes Street",,06/09/2007
+Iowa,"Des Moines",Mediapolis,"15001 250th Street",,06/12/2007
+Iowa,Grundy,Conrad,"215 Kohler",,06/15/2007
+Iowa,Delaware,Manchester,"808 West Main Street",,06/26/2007
+Iowa,Marion,Knoxville,"708 North Kent",,06/28/2007
+Iowa,"Des Moines",Burlington,"120 South Central",,07/03/2007
+Iowa,"Des Moines",Burlington,"1714 West Acres Drive",,07/05/2007
+Iowa,"Des Moines",Burlington,"1620 Madison",,07/11/2007
+Iowa,"Black Hawk","Cedar Falls","1315 West Fourth Street",,07/27/2007
+Iowa,Scott,Bettendorf,"1005 39th Street",,08/18/2007
+Iowa,"Black Hawk",Hudson,"11311 Hicks Road",,08/19/2007
+Iowa,Dubuque,Dubuque,"614 Loras Boulevard",,08/21/2007
+Iowa,"Des Moines",Burlington,"1211 North Ninth Street",,09/27/2007
+Iowa,Washington,Washington,"733 Second Street",,10/24/2007
+Iowa,"Black Hawk",Waterloo,"52 Franklin Street",,10/26/2007
+Iowa,Lee,Keokuk,"818.5 Main Street",,10/27/2007
+Iowa,Henry,"Mount Pleasant","2419 Franklin Avenue",,11/21/2007
+Iowa,Clayton,Mcgregor,"16998 King Road",,01/01/2008
+Iowa,Buchanan,Quasqueton,"310 3rd Street Lot # 5",,01/12/2008
+Iowa,Pottawattamie,"Council Bluffs","807 8th Avenue",,01/15/2008
+Iowa,Benton,Shellsburg,"107 Homer Street 1",,01/25/2008
+Iowa,Wapello,Eldon,"600 High Street",,01/28/2008
+Iowa,"Black Hawk",Waterloo,"510 Candlewick Road",,01/31/2008
+Iowa,Lee,Keokuk,"427 Palean Street",,01/31/2008
+Iowa,"Black Hawk",Waterloo,"1030 Sunrise Boulevard",,02/13/2008
+Iowa,Dubuque,Dubuque,"4163 Bluebird Drive",,02/16/2008
+Iowa,Webster,"Fort Dodge","2658 North 4th Avenue",,02/28/2008
+Iowa,Adams,Cumberland,"1092 Adams Street",,03/11/2008
+Iowa,Monroe,Albia,"2155 623rd Avenue",,03/17/2008
+Iowa,Benton,Walford,"425 1st Street",,04/03/2008
+Iowa,Dickinson,"Spirit Lake","16415 255th Avenue",,04/16/2008
+Iowa,Mitchell,Mcintire,"4811 Rampart Avenue",,04/24/2008
+Iowa,Woodbury,"Sioux City","1115 Logan Street",,04/30/2008
+Iowa,Scott,Davenport,"415 Telegraph Road",,05/10/2008
+Iowa,Muscatine,Wilton,"204 Chestnut Street",,05/14/2008
+Iowa,Taylor,Bedford,"602 Randolph Street",,06/05/2008
+Iowa,Webster,"Fort Dodge","330 G Street",,06/10/2008
+Iowa,Johnson,"Iowa City","633 Beachview Drive",,07/22/2008
+Iowa,Henry,"Mount Union","210 Kneen Street",,08/02/2008
+Iowa,Dubuque,Dubuque,"2170 Jackson Street",,08/05/2008
+Iowa,Floyd,"Charles City","202 10th Avenue",,08/22/2008
+Iowa,Jefferson,Richland,"1226 Nutmeg Avenue",,08/27/2008
+Iowa,Dubuque,Dubuque,"1356 Elm Street",,09/06/2008
+Iowa,Floyd,"Charles City","1902 Kirkwood Avenue",,09/16/2008
+Iowa,Lee,"Fort Madison","1116 Main 13th Street",,09/16/2008
+Iowa,Cedar,"West Branch","310 300th Street",,09/22/2008
+Iowa,"Black Hawk","La Porte City","9933 Cotter Road",,10/01/2008
+Iowa,"Black Hawk","La Porte City","9903 Cotter Roads",,10/10/2008
+Iowa,Woodbury,"Sioux City","1473 Glendale Boulevard",,10/26/2008
+Iowa,Lee,Donnellson,"1743 255th",,10/31/2008
+Iowa,Dubuque,Dubuque,"911 Garfield Avenue",,11/05/2008
+Iowa,"Black Hawk",Waterloo,"1230 Stratford",,11/08/2008
+Iowa,Mahaska,Fremont,"248 South Walnut Street",,11/15/2008
+Iowa,Lee,Montrose,"2217 300th Street",,11/16/2008
+Iowa,"Black Hawk",Waterloo,"302 Commercial Street",,12/10/2008
+Iowa,"Black Hawk",Waterloo,"2400 Hawthorne Avenue",,04/02/2009
+Iowa,Polk,"Des Moines","1827 Williams Street",,04/02/2009
+Iowa,Washington,Wellman,"1085 170th Street",,04/09/2009
+Iowa,Polk,"Des Moines","3300 Vandalia Avenue",,04/13/2009
+Iowa,Lee,Montrose,"275th Avenue",,04/14/2009
+Iowa,Clay,,"3100 330th Street",,04/22/2009
+Iowa,Lee,"Fort Madison","1519 M Avenue",,04/23/2009
+Iowa,Lee,Keokuk,"1400 Ridge Street",,04/27/2009
+Iowa,Union,Creston,"413 New York Avenue",,04/28/2009
+Iowa,Lee,Donnellson,"917 Madison Avenue",,04/30/2009
+Iowa,Washington,Ainsworth,"1800 Block Willow Avenue",,05/01/2009
+Iowa,Polk,"Des Moines","1827 Williams",,05/01/2009
+Iowa,Mitchell,"Saint Ansgar","5053 Beech Avenue",,05/04/2009
+Iowa,Ida,Arthur,"6243 75 Highway",,05/15/2009
+Iowa,Dubuque,Dubuque,"2724  Pinard Street",,01/12/2010
+Iowa,Lee,Montrose,"210  Spruce Street",,01/16/2010
+Iowa,Scott,Davenport,"717 South Dittmer Street",,01/17/2010
+Iowa,Linn,Palo,"2133  Ross Road",,01/22/2010
+Iowa,Dubuque,Dubuque,"1704  Garfield Avenue",,01/31/2010
+Iowa,Lee,Keokuk,"610  High Street",,02/25/2010
+Iowa,Plymouth,Akron,"18546  140th Street",,02/28/2010
+Iowa,Lee,Keokuk,"2701  Main Street",,03/07/2010
+Iowa,Lee,Montrose,"1100  White Plains Road",,03/09/2010
+Iowa,Polk,"Des Moines","2326  Des Moines Street",,04/02/2010
+Iowa,Union,Creston,"219 North Maple Street",,04/03/2010
+Iowa,Polk,Ankeny,"2301  Oralabor Road 2",,04/07/2010
+Iowa,Jefferson,Fairfield,"1000 North 8th Street",,04/07/2010
+Iowa,Boone,Boone,"308  Jackson Street",,04/08/2010
+Iowa,Jasper,Newton,"414 West 3 Avenue",,04/12/2010
+Iowa,Dubuque,Dubuque,"2904  Balke Street",,04/19/2010
+Iowa,Union,Creston,"212 North Maple Street",,04/21/2010
+Iowa,"Black Hawk",Waterloo,"1020 West Third",,04/22/2010
+Iowa,Polk,"Des Moines","2451  7th",,04/24/2010
+Iowa,"Black Hawk",Waterloo,"324  Fletcher Avenue",,04/26/2010
+Iowa,"Black Hawk",Waterloo,"4424  Logan Avenue",,04/30/2010
+Iowa,Webster,"Fort Dodge","839  20th",,05/04/2010
+Iowa,Polk,"Des Moines","3060  44th",,05/04/2010
+Iowa,Lee,Keokuk,"2449  Johnson Street",,05/09/2010
+Iowa,Webster,"Fort Dodge","126  8th",,05/14/2010
+Iowa,Polk,"Des Moines","1320  Emma",,05/20/2010
+Iowa,Iowa,Marengo,"723  Hilton",,05/20/2010
+Iowa,Fayette,"West Union","118 East Elm Street",,05/25/2010
+Iowa,"Black Hawk",Waterloo,"330  Cutler Street",,06/01/2010
+Iowa,Dubuque,Dubuque,"2411  Queen",,06/03/2010
+Iowa,Wapello,"Ottumwa Junction","422  Ellis",,06/07/2010
+Iowa,Polk,"Des Moines","6001  Creston",,06/14/2010
+Iowa,Webster,"Fort Dodge","1809  7th",,06/15/2010
+Iowa,Polk,"West Des Moines","1202  Office Park Road",,06/27/2010
+Iowa,Hamilton,"Webster City","1233  Water",,07/02/2010
+Iowa,Polk,"Des Moines","5013  12th",,07/04/2010
+Iowa,Crawford,Denison,"2910  30 Highway",,07/06/2010
+Iowa,Jefferson,Fairfield,"1582  Olive Avenue",,07/06/2010
+Iowa,Wright,Clarion,"2288  Quincy Avenue",,07/13/2010
+Iowa,Jefferson,Fairfield,"203  Burlington",,07/21/2010
+Iowa,Lee,Keokuk,"2723  340th Street 6",,07/25/2010
+Iowa,Benton,Blairstown,"206  Locust",,08/14/2010
+Iowa,Clarke,Osceola,"425  Temple",,08/19/2010
+Iowa,Franklin,Dows,"306  Forest",,09/01/2010
+Iowa,Chickasaw,Nashua,"200  Dawn Drive B",,09/04/2010
+Iowa,Dubuque,Dubuque,"205 1/  Kaufmann",,09/10/2010
+Iowa,Polk,"Des Moines","511  Creston",,09/13/2010
+Iowa,Lee,Keokuk,"1626  Estes",,11/12/2010
+Iowa,Lee,Keokuk,"805  Yoder",,11/28/2010
+Iowa,Boone,Madrid,"9th Street 111",,01/07/2011
+Iowa,Marshall,Marshalltown,"403 West Church  1",,03/15/2011
+Iowa,Clarke,Osceola,"217 East Webster Street 1",,03/22/2011
+Iowa,Clayton,Guttenberg,"726  Second",,05/05/2011
+Iowa,"Black Hawk",Waterloo,"732  3rd",,05/08/2011
+Iowa,Lee,Keokuk,"2101  7th",,05/11/2011
+Iowa,Boone,Ames,"6100 West Lincoln Way 3",,05/19/2011
+Iowa,Dubuque,Dubuque,"2192  Orchard",,06/07/2011
+Iowa,Jefferson,Fairfield,"1947  Redwood",,06/09/2011
+Iowa,Jefferson,Fairfield,"608 East Buchanan Avenue",,06/15/2011
+Iowa,Jefferson,Batavia,"400  4th Street #3",,07/05/2011
+Iowa,Lee,Keokuk,"820  Exchange",,07/11/2011
+Iowa,Keokuk,Hedrick,"406  Park",,07/14/2011
+Iowa,Webster,"Fort Dodge","1427  3rd",,07/17/2011
+Iowa,Lee,Keokuk,"1727  Oak",,07/21/2011
+Iowa,Clarke,Osceola,"616 North Park Street",,07/27/2011
+Iowa,Dubuque,Dubuque,"2831  Central",,08/03/2011
+Iowa,Lee,Keokuk,"2806  Main",,08/05/2011
+Iowa,Webster,"Fort Dodge","23769  236 Avenue",,08/09/2011
+Iowa,Clayton,Guttenberg,"115  Schiller",,10/15/2011
+Iowa,Lee,Keokuk,"1316  Leighton",,12/01/2011
+Iowa,"Black Hawk",Waterloo,"226  Campbell",,12/01/2011
+Iowa,Lee,Keokuk,"1306  Oak",,12/03/2011
+Iowa,Dubuque,Dubuque,"613  Garfield Avenue",,12/07/2011
+Iowa,Dubuque,Dubuque,"2200  Windsor Avenue",,02/15/2012
+Iowa,Polk,"Des Moines","1108  Seneca",,02/27/2012
+Iowa,Dubuque,Dubuque,"1922  White Street 3",,02/29/2012
+Iowa,Lee,Keokuk,"725  K Street",,06/04/2012
+Iowa,Lee,"Fort Madison","1203  23rd Street",,06/06/2012
+Iowa,Lee,"Fort Madison","909  34th Street",,06/17/2012
+Iowa,Lee,Keokuk,"215 South 15th Street",,06/21/2012
+Iowa,Lee,Keokuk,"21 1/2 South 5th Street 2",,06/27/2012
+Iowa,Sac,Early,"2650  Ira Avenue",,06/28/2012
+Iowa,Chickasaw,Nashua,"99  Greeley Street",,07/04/2012
+Iowa,Polk,"Des Moines","2444  Logan Avenue",,07/10/2012
+Iowa,Dubuque,Dubuque,"513 East 24ht Street",,07/18/2012
+Iowa,Dubuque,Dubuque,"2459  Central Avenue",,07/18/2012
+Iowa,Lee,Keokuk,"3400  Main Street",,07/30/2012
+Iowa,Lee,Keokuk,"127 North 16th Street",,08/06/2012
+Iowa,Jasper,Newton,"706 North 7th Street",,08/07/2012
+Iowa,"Van Buren",Keosauqua,"24474  180 Street",,08/08/2012
+Iowa,Lee,Keokuk,"600 North 13th Street",,08/09/2012
+Iowa,"Buena Vista",Alta,"439  600th Street",,08/11/2012
+Iowa,Louisa,Winfield,"22076  28th Street",,08/21/2012
+Iowa,Dubuque,Dubuque,"10131  Metcalf Lane",,08/21/2012
+Iowa,Lee,Keokuk,"302  Exchange Street",,08/24/2012
+Iowa,Jasper,Newton,"316  Hickory Street",,08/29/2012
+Iowa,Lee,Keokuk,"1917  William Street",,10/11/2012
+Iowa,Lee,"Fort Madison","2401  245th Avenue",,11/13/2012
+Iowa,Warren,Indianola,"1409 East Iowa Street",,11/15/2012
+Iowa,Lee,Keokuk,"316 South 11th Street",,12/02/2012
+Iowa,Lee,Keokuk,"1316  Leighton Street",,12/03/2012
+Iowa,Dubuque,Dubuque,"1001  Garfield Avenue",,12/04/2012
+Iowa,Dubuque,Dubuque,"911  Garfield Avenue",,12/19/2012
+Iowa,Dubuque,Dubuque,"2283  Whitge Street",,02/17/2013
+Iowa,Dubuque,Dubuque,"2665  White Street",,08/14/2013
+Iowa,Delaware,Manchester,"3131/2 South Brewer Street",,09/03/2013
+Iowa,Delaware,Manchester,"1505  N Franklin Street 2",,09/16/2013
+Iowa,Clinton,Clinton,"335  1st Street",,09/19/2013
+Iowa,Lee,Keokuk,"825  Concert Street",,10/08/2013
+Iowa,Chickasaw,Fredericksburg,"235  Southeast Avenue",,10/10/2013
+Iowa,Scott,"Mount Joy","21445  Scott Park Road",,10/11/2013
+Iowa,"Des Moines",Burlington,"405 South 10th",,10/16/2013
+Iowa,Dubuque,Dubuque,"895  Lowell Summit",,01/09/2014
+Iowa,Delaware,Manchester,"302  Kane Street",,05/06/2014
+Iowa,Delaware,Manchester,"408  Warren Street",,05/27/2014
+Iowa,Johnson,Fairfax,"1576 Northwest 120th Street",,06/24/2014
+Iowa,Delaware,Manchester,"500 East Union Street",,07/13/2014
+Iowa,Sioux,"Rock Valley","2001  14th Street",,10/11/2014
+Iowa,Floyd,"Charles City","608  Kellogg Avenue",,12/15/2014
+Iowa,Dubuque,Dubuque,"2119  Avalon Road",,01/02/2015
+Iowa,Linn,Cedar,"941 Sw M Avenue Box 3",,02/15/2015
+Iowa,Clayton,Farmersburg,"405 S Main Street",,03/03/2015
+Iowa,"Des Moines",Burlington,"1310  Jefferson",,03/04/2015
+Iowa,Linn,"Cedar Rapids","2011 Sw Shady Grove Road",,03/16/2015
+Iowa,Jackson,Preston,"42 1/2 Ne Asmussen Street Box 2",,03/17/2015
+Iowa,Dubuque,Dubuque,"2283  White Street",,03/26/2015
+Iowa,Linn,"Cedar Rapids","1004 Sw 2nd Avenue Box U",,04/09/2015
+Iowa,Dubuque,Dubuque,"2256  White Street Box 1/2",,04/14/2015
+Iowa,Scott,Davenport,"5112  Fairmount Street Box 196",,05/06/2015
+Iowa,Scott,Davenport,"2809  Sheridan Street",,05/08/2015
+Iowa,Clinton,Clinton,"1814  Pershing Boulevard",,06/17/2015
+Iowa,Dubuque,Dubuque,"1430  Iowa Street",,06/18/2015
+Iowa,Delaware,Hopkinton,"204 Se Cascade Street",,06/20/2015
+Iowa,Linn,"Cedar Rapids","1014 Se Bealer Court",,06/20/2015
+Iowa,Clinton,Clinton,"700  Argyle Court",,06/29/2015
+Iowa,Jackson,Maquoketa,"412 N Matteson Street",,08/02/2015
+Iowa,Dubuque,Dubuque,"2613  Central Avenue",,08/03/2015
+Iowa,Linn,"Cedar Rapids","2000 W L Street",,08/03/2015
+Iowa,Linn,"Cedar Rapids","2621 Ne Blairs Ferry Road",,08/04/2015
+Iowa,Johnson,"Iowa City","2  Century Street",,08/25/2015
+Iowa,Johnson,"Iowa City","2221  Muscatine Avenue",,08/31/2015
+Iowa,Linn,Marion,"210  Ridge Drive Box 9",,10/16/2015
+Iowa,Linn,"Cedar Rapids","310 Se 5th Avenue",,10/17/2015
+Iowa,Linn,"Cedar Rapids","310 Se 5th Avenue Box 450",,11/13/2015
+Iowa,Benton,Vinton,"512 W 14th Street",,12/07/2015
+Iowa,Scott,Princeton,"219  River Drive",,12/16/2015
+Iowa,"Black Hawk",Waterloo,"306 W 11th Street",,12/18/2015
+Iowa,Scott,Davenport,"1434 W 15th Street",,12/21/2015
+Iowa,Delaware,Delhi,"26061  210th Avenue",,01/01/2016
+Iowa,Lee,Keokuk,"1109  Johnson Street",,03/01/2016
+Iowa,"Buena Vista","Storm Lake","7091/2  Lake Avenue",,03/14/2016
+Iowa,Delaware,Greeley,"1002  265th Avenue",,05/10/2016
+Iowa,Dubuque,Dubuque,"2744  Pinard Street",,05/11/2016
+Iowa,Dubuque,Dubuque,"2815  Pinard Street Box 1/2",,05/11/2016
+Iowa,,,"2407  Flint Hills Drive",,06/06/2016
+Iowa,Johnson,"Iowa City","4248 Se Anderson Avenue",,06/13/2016
+Iowa,"Black Hawk",Waterloo,"641 W Donald St",,09/19/2016
+Iowa,Scott,"Long Grove","31191 145th Ave",,01/12/2018
+Iowa,Scott,Bettendorf,"3830 Prairie Lane",,11/18/2018

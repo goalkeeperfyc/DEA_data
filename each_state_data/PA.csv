@@ -1,0 +1,212 @@
+state,county,city,address1,address2,date
+Pennsylvania,Forest,"East Hickory","62 Sr 607",,01/02/2004
+Pennsylvania,Bradford,Stevensville,"Sr706 Miller Creek E Rd",,01/22/2004
+Pennsylvania,Crawford,Conneautville,"18329 Rt 18",,01/27/2004
+Pennsylvania,Bradford,Towanda,"925 Main S St",,02/03/2004
+Pennsylvania,Blair,Altoona,"408 Hudson E Ave",,02/05/2004
+Pennsylvania,Westmoreland,Youngwood,"10 Pooles Trailer Ct Lot 243",,02/05/2004
+Pennsylvania,Bucks,Jamison,"2235 York Rd",,02/06/2004
+Pennsylvania,Columbia,Berwick,"1200 Susavehanna Ave",,02/12/2004
+Pennsylvania,Crawford,Titusville,"820 Rockwood Dr 13",,02/15/2004
+Pennsylvania,Crawford,Spartansburg,"19071 State Hwy 89",,02/18/2004
+Pennsylvania,Crawford,Springboro,"186 Beaver St",,03/20/2004
+Pennsylvania,Crawford,Titusville,"322 Linden W St",,03/24/2004
+Pennsylvania,Bucks,Bristol,"334 Jefferson Ave",,03/30/2004
+Pennsylvania,Montgomery,Kulpsville,"1735 Sumneytown Pike",,04/08/2004
+Pennsylvania,Erie,Girard,"1014 Lawrence Ct",,04/30/2004
+Pennsylvania,Philadelphia,Philadelphia,"1331 Hollywood S St",,05/13/2004
+Pennsylvania,Philadelphia,Philadelphia,"1503 Bailey S St",,05/19/2004
+Pennsylvania,Crawford,Titusville,"117 N. Washington St 3",,06/04/2004
+Pennsylvania,Venango,Titusville,"1038 Stone Springhouse Rd",,06/08/2004
+Pennsylvania,Crawford,Titusville,"510 Mailler St",,06/14/2004
+Pennsylvania,Washington,Washington,"187 1/2 Maple Ave",,06/16/2004
+Pennsylvania,Columbia,Berwick,"414 Evansville Rd",,06/18/2004
+Pennsylvania,Lackawanna,"Old Forge","134 Corcoran St",,06/21/2004
+Pennsylvania,Lackawanna,Dunmore,"224 Swartz St",,06/22/2004
+Pennsylvania,Allegheny,"Forest Hills","250 Avenue A",,08/24/2004
+Pennsylvania,Allegheny,Pittsburgh,"443 Althea St",,08/26/2004
+Pennsylvania,Erie,Wattsburg,"8350 Page Rd",,10/06/2004
+Pennsylvania,Montgomery,"W Norriton","537 Canterbury Ln",,10/11/2004
+Pennsylvania,Crawford,Titusville,"1501 Meadville Rd",,10/20/2004
+Pennsylvania,Schuylkill,Pottsville,"224 North Second St",,11/16/2004
+Pennsylvania,Mifflin,Lewistown,"220 Hawstone Rd",,12/10/2004
+Pennsylvania,Berks,"Sinking Spring","2833 Wilson School Ct",,12/14/2004
+Pennsylvania,Venango,Titusville,"530 Dutch Hill Rd",,01/08/2005
+Pennsylvania,Bedford,Osterburg,"114 Main St",,02/10/2005
+Pennsylvania,Crawford,Titusville,"330 Hemlock W St",,02/18/2005
+Pennsylvania,Erie,"North East","48 1/2 Wall St",,03/11/2005
+Pennsylvania,Allegheny,"Rural Ridge","164 Little Deer Creek Rd",,03/17/2005
+Pennsylvania,Lebanon,Lebanon,"822 6th S St",,04/27/2005
+Pennsylvania,Erie,Erie,"1530 Fairmont Pkwy",,05/25/2005
+Pennsylvania,Mercer,Sharon,"371 Oakland S Ave",,06/09/2005
+Pennsylvania,Westmoreland,Avonmore,"304 Clearfield St",,06/11/2005
+Pennsylvania,Crawford,Titusville,"14069 Rte 8",,06/24/2005
+Pennsylvania,Crawford,Titusville,"126 Main E St",,07/07/2005
+Pennsylvania,Forest,Tionesta,"207 Elm St",,08/31/2005
+Pennsylvania,Cumberland,"New Cumberland","202 3rd St 4",,09/21/2005
+Pennsylvania,Dauphin,Middletown,"392 Iron Mine Rd",,10/01/2005
+Pennsylvania,Clearfield,"Du Bois","535 South Ave",,01/03/2006
+Pennsylvania,Crawford,Titusville,"517 Perry S St",,01/03/2006
+Pennsylvania,Erie,Girard,"11326 Cross Station Rd",,01/05/2006
+Pennsylvania,Venango,Rouseville,"102 Main St",,01/10/2006
+Pennsylvania,Erie,Erie,"3081 Station Rd 1",,01/21/2006
+Pennsylvania,Erie,"West Springfield","5300 Nash Rd Lot 2",,01/26/2006
+Pennsylvania,Erie,Albion,"9004 Rte 215",,01/27/2006
+Pennsylvania,Venango,Cranberry,"952 Whitehill Rd",,02/03/2006
+Pennsylvania,Venango,Titusville,"152 Speer Ln",,02/04/2006
+Pennsylvania,Erie,"North East","68 Main W St",,02/08/2006
+Pennsylvania,Allegheny,Pittsburgh,"5615 Camelia Street",,02/21/2006
+Pennsylvania,York,Dover,"2530 Locust Rd",,02/25/2006
+Pennsylvania,Lehigh,Coopersburg,"5509 Glenn Rd",,03/07/2006
+Pennsylvania,Philadelphia,Philadelphia,"5871 North Sylvester Street",,06/12/2006
+Pennsylvania,Crawford,Townville,"35014 Tryonville Road",,07/06/2006
+Pennsylvania,Mercer,Mercer,"159 Bestwick Road",,07/28/2006
+Pennsylvania,Erie,"E Springfield","11744 West Middle Road",,08/11/2006
+Pennsylvania,Bucks,,"1717 Firehouse Lane",,11/02/2006
+Pennsylvania,Erie,Albion,"9370 Rte 215",,11/22/2006
+Pennsylvania,Perry,Loysville,"211 Couchtown Road",,12/08/2006
+Pennsylvania,Erie,Erie,"649 East 13th Street",,12/13/2006
+Pennsylvania,Erie,Erie,"1124 East 11th Street",,12/13/2006
+Pennsylvania,Bradford,"New Albany","431 Lone Mary Road",,12/22/2006
+Pennsylvania,Erie,"North East","2271 North Mill Road",,03/13/2007
+Pennsylvania,Berks,Amity,"1150 Ben Franklin Highway",,05/13/2007
+Pennsylvania,Northampton,Northampton,"2258 Howertown Road",,07/13/2007
+Pennsylvania,Erie,"Oil City","46907 Enterprise Road",,09/12/2007
+Pennsylvania,Schuylkill,Pottsville,"821 Water Street",,10/05/2007
+Pennsylvania,Erie,Albion,"13333 Tracy Road",,12/03/2007
+Pennsylvania,Erie,Albion,"13355 Tracy Road",,12/03/2007
+Pennsylvania,Monroe,Tunkhannock,"79 Schochs Mill Road",,02/05/2008
+Pennsylvania,Northampton,Bethlehem,"1170 Bridle Patt Road",,03/17/2008
+Pennsylvania,Bedford,"Manns Choice","150 Sunset Lane",,06/28/2008
+Pennsylvania,Bucks,Bessemer,"6409 Fulton Avenue",,09/12/2008
+Pennsylvania,Crawford,Titusville,"45782 Rte 27 Route",,12/04/2008
+Pennsylvania,Lawrence,"New Castle","427 Uber Street",,12/11/2008
+Pennsylvania,Montgomery,"Green Lane","807  Holly Drive",,02/03/2010
+Pennsylvania,Jefferson,Sykesville,"30  Sykes Street",,02/09/2010
+Pennsylvania,Allegheny,Bridgeville,"437  Hickman Avenue",,02/09/2010
+Pennsylvania,Lehigh,Allentown,"220 North 10th Street",,02/12/2010
+Pennsylvania,Crawford,Centerville,"32926  State Highway 77",,02/25/2010
+Pennsylvania,Westmoreland,Saltsburg,"258  Perrysville Road",,02/25/2010
+Pennsylvania,Northampton,Northampton,"3423  Seemsville Road",,04/01/2010
+Pennsylvania,Erie,Albion,"13249  Tracy Road",,04/15/2010
+Pennsylvania,Venango,"Oil City","109  Washington Avenue",,05/12/2010
+Pennsylvania,Crawford,Titusville,"106  Beechwood Drive 301",,05/13/2010
+Pennsylvania,Somerset,Friedens,"470  Twin Hills Road",,05/16/2010
+Pennsylvania,Schuylkill,Tremont,"120 West Laurel Street",,05/16/2010
+Pennsylvania,Allegheny,Mckeesport,"2816  Chester Street",,05/31/2010
+Pennsylvania,Westmoreland,"New Kensington","531  6th Avenue",,06/08/2010
+Pennsylvania,Clinton,"Lock Haven","121 East Main Street",,06/08/2010
+Pennsylvania,Tioga,Wellsboro,"2455  Catlin Hollow Road",,06/10/2010
+Pennsylvania,Somerset,Jennerstown,"1606 West Pitt Street",,06/28/2010
+Pennsylvania,Cambria,Patton,"314  Ashcroft Road",,02/09/2012
+Pennsylvania,Huntingdon,Huntingdon,"206  6ht Street",,07/02/2012
+Pennsylvania,Mercer,Greenville,"70  Plum Street",,07/22/2012
+Pennsylvania,Allegheny,"North Versailles","987  Diane Drives",,08/15/2012
+Pennsylvania,Somerset,Somerset,"123  Vincent  2a",,01/14/2013
+Pennsylvania,Erie,Corry,"109 East Smith Street",,06/03/2013
+Pennsylvania,Luzerne,Shickshinny,"10  Glen Avenue",,06/06/2013
+Pennsylvania,Crawford,Meadville,"560  Smith Street",,06/14/2013
+Pennsylvania,Mckean,Liberty,"41  Anderson Street",,09/05/2013
+Pennsylvania,Bucks,Falls,"9280 East Tyburn Road",,10/05/2013
+Pennsylvania,Northampton,Hellertown,"1767  Railroad Lane",,10/11/2013
+Pennsylvania,Mercer,"Grove City","104  West Poplar Street",,11/06/2013
+Pennsylvania,Franklin,Chambersburg,"686  Heintselman Avenue",,03/03/2014
+Pennsylvania,Carbon,Lehighton,"165  South 1 Street",,04/18/2014
+Pennsylvania,Carbon,Palmerton,"115  Lehigh Avenue  Box B",,06/13/2014
+Pennsylvania,Crawford,Titusville,"130 East Spruce Street  Box Apt 4",,07/22/2014
+Pennsylvania,Carbon,Lehighton,"189  1st South Street",,07/24/2014
+Pennsylvania,Schuylkill,Pottsville,"1117  Mahantango Street",,08/11/2014
+Pennsylvania,Beaver,"New Brighton","401  15th Street",,09/03/2014
+Pennsylvania,Clearfield,Clearfield,"501 East Market Street",,10/06/2014
+Pennsylvania,Washington,Bentleyville,"40 South Main Street",,10/28/2014
+Pennsylvania,Lebanon,Lebanon,"1571  North 7th Street",,12/03/2014
+Pennsylvania,Clarion,Clarion,"469 South 5th Street  Box Lot#23",,12/04/2014
+Pennsylvania,Susquehanna,Montrose,"43 South Booth Road",,12/14/2014
+Pennsylvania,Cambria,"Nanty Glo","41  Fulton Drive",,12/18/2014
+Pennsylvania,Luzerne,"Hunlock Creek","471  Prichards Road",,03/10/2015
+Pennsylvania,Somerset,Meyersdale,"6478  Cumberlan Highway",,03/10/2015
+Pennsylvania,Columbia,Berwick,"28  Yost Hollow Road",,04/07/2015
+Pennsylvania,Monroe,Saylorsburg,"101  Silver Valley Circle",,04/10/2015
+Pennsylvania,Berks,Reading,"236  South 5th Street",,05/04/2015
+Pennsylvania,Blair,"Roaring Spring","1108  Cross Cove",,05/04/2015
+Pennsylvania,Greene,Waynesburg,"133  Linden Alley",,06/02/2015
+Pennsylvania,Bedford,Everett,"108  Browell Rd Street",,06/04/2015
+Pennsylvania,Westmoreland,Seward,"84  William Frye Road",,06/17/2015
+Pennsylvania,Butler,Butler,"163a E Old Butler Road",,07/08/2015
+Pennsylvania,Washington,Canonsburg,"514-a  Franklin Avenue",,07/16/2015
+Pennsylvania,Columbia,Millville,"136  Morehead Avenue",,08/04/2015
+Pennsylvania,Westmoreland,Avonmore,"529  Carnahan Road",,08/10/2015
+Pennsylvania,Clarion,Clarion,"75 S 5th Avenue",,08/11/2015
+Pennsylvania,Clearfield,Clearfield,"967  Park  Ave. Extension",,08/20/2015
+Pennsylvania,Carbon,Lehighton,"6  Christman Road",,08/22/2015
+Pennsylvania,Erie,"West Springfield","5300  Nash Road Box Lot#27",,09/04/2015
+Pennsylvania,Montour,Danville,"236  Ash Street",,09/04/2015
+Pennsylvania,Indiana,"Homer City","1651  Red Mill Road",,09/09/2015
+Pennsylvania,Indiana,"Marion Center","1176  Churchill Road",,09/09/2015
+Pennsylvania,Schuylkill,Tremont,"4 South Crescent Street",,09/11/2015
+Pennsylvania,Wayne,"Pleasant Mount","245  Daw Road",,10/02/2015
+Pennsylvania,Clarion,Rimersburg,"4754  Route 68",,10/02/2015
+Pennsylvania,Jefferson,Brookville,"94  Crestwood Circle Box 15825",,10/11/2015
+Pennsylvania,Columbia,Berwick,"1026  7th Avenue",,10/15/2015
+Pennsylvania,Erie,Erie,"3428 W 32nd Street",,12/02/2015
+Pennsylvania,Northampton,"Wind Gap","458  Old Allentown Road",,12/09/2015
+Pennsylvania,Columbia,Berwick,"519  East 9th Street",,12/10/2015
+Pennsylvania,Crawford,Meadville,"404 & 1/2 Poplar Street",,12/10/2015
+Pennsylvania,Monroe,"Mount Pocono","1386  Pocono Boulevard Box 103",,12/14/2015
+Pennsylvania,Erie,Girard,"55  Randall Avenue",,12/19/2015
+Pennsylvania,Indiana,"Glen Campbell","96  Graham Street",,12/31/2015
+Pennsylvania,Clarion,Rimersburg,"20  Best Road",,03/01/2016
+Pennsylvania,Northumberland,Shamokin,"25 W Montgomery Street",,03/03/2016
+Pennsylvania,Columbia,Bloomsburg,"673  Buckhorn Road",,03/09/2016
+Pennsylvania,Delaware,Colwyn,"522  Ellis Avenue",,03/18/2016
+Pennsylvania,Cambria,"Northern Cambria","812 34th St",,08/02/2016
+Pennsylvania,Indiana,Blairsville,"301 Rhine Rd",,08/02/2016
+Pennsylvania,Erie,Erie,"618 Zephyr Ave",,08/03/2016
+Pennsylvania,Union,Lewisburg,"25 N 3rd St",,08/06/2016
+Pennsylvania,Venango,"Oil City","314 Hoffman Ave",,08/07/2016
+Pennsylvania,Schuylkill,Mcadoo,"17 Snyder Ave",,08/15/2016
+Pennsylvania,Luzerne,"West Wyoming","296 Wyoming Ave",,08/16/2016
+Pennsylvania,Luzerne,Ashley,"25 Preston St",,08/24/2016
+Pennsylvania,Lackawanna,Dunmore,"215 E Drinker St",,08/29/2016
+Pennsylvania,Schuylkill,Frackville,"42 S Center St",,09/01/2016
+Pennsylvania,Clarion,Clarion,"144 Penn Ave",,09/15/2016
+Pennsylvania,Clearfield,Clearfield,"302 E Walnut St",,09/17/2016
+Pennsylvania,Allegheny,"Buena Vista","1803 Blythedale Rd",,09/19/2016
+Pennsylvania,Schuylkill,Tamaqua,"216 N Greenwood St",,09/21/2016
+Pennsylvania,Columbia,Bloomsburg,"662 Old Berwick Rd",,09/22/2016
+Pennsylvania,Monroe,Kunkletown,"116 Lower Middle Creek Rd",,09/24/2016
+Pennsylvania,Allegheny,Wexford,"8608 Crestwyck Ct",,09/30/2016
+Pennsylvania,Butler,Butler,"125 Standard Ave",,09/30/2016
+Pennsylvania,Clearfield,Irvona,"514 Brink Rd",,10/04/2016
+Pennsylvania,Bradford,Gillett,"4998 Monkey Run Rd",,10/05/2016
+Pennsylvania,Crawford,Conneautville,"17991 N Norrisville Rd",,10/08/2016
+Pennsylvania,Clearfield,"Du Bois","22 E Weber Ave",,10/12/2016
+Pennsylvania,Mercer,Stoneboro,"4 Railroad St",,10/18/2016
+Pennsylvania,Erie,Erie,"2806 Feasler St",,11/02/2016
+Pennsylvania,Bradford,Monroeton,"671 Dunn Hill Rd",,11/04/2016
+Pennsylvania,Columbia,Benton,"1332 Elk Grove Rd",,02/18/2017
+Pennsylvania,Luzerne,Avoca,"1103 Plane St",,02/19/2017
+Pennsylvania,Luzerne,Wilkes-barre,"54 Rear Hillard St",,02/20/2017
+Pennsylvania,Columbia,Berwick,"117 W. Bowman St",,02/22/2017
+Pennsylvania,Erie,"Lake City","1150 Cherry",,05/04/2017
+Pennsylvania,Lycoming,"Jersey Shore","438 Wilson Street",,05/06/2017
+Pennsylvania,Bedford,Hopewell,"267 Newton  Rd",,05/09/2017
+Pennsylvania,Bedford,Saxton,"608 Spring St",,05/12/2017
+Pennsylvania,Fayette,Brownsville,"135 Superopr St",,05/19/2017
+Pennsylvania,Fayette,Connellsville,"221 1/2  Carnegie St",,05/21/2017
+Pennsylvania,Bedford,Everett,"2065 N. Milk And Water Rd",,05/22/2017
+Pennsylvania,Clarion,Clarion,"120 Caa Ln",,09/01/2017
+Pennsylvania,Blair,Altoona,"329 3rd Ave",,09/07/2017
+Pennsylvania,Dauphin,Grantville,"140 North Hill Dr",,09/20/2017
+Pennsylvania,Crawford,Meadville,"428 S. St",,12/07/2017
+Pennsylvania,Luzerne,"Sweet Valley","836 Sr 118",,12/10/2017
+Pennsylvania,Snyder,Selinsgrove,"345 S. Market St",,12/12/2017
+Pennsylvania,Blair,Altoona,"120 East 5th Ave",,12/13/2017
+Pennsylvania,Allegheny,Mckeesport,"1242 Vine St",,01/10/2018
+Pennsylvania,Luzerne,Duryea,"169 Mcalpine St",,01/24/2018
+Pennsylvania,Butler,Butler,"129 Germaine Rd",,02/03/2018
+Pennsylvania,Mckean,Eldred,"179 Main St",,02/26/2018
+Pennsylvania,Luzerne,Kingston,"28.5 Payne Ave",,08/10/2018
+Pennsylvania,Westmoreland,Vandergrift,"519 Franklin Ave",,10/15/2018
+Pennsylvania,Lebanon,Lebanon,"123 N. Liberty St",,11/19/2018
+Pennsylvania,Crawford,Meadville,"10975 Livermore Rd",,12/04/2018

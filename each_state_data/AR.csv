@@ -1,0 +1,1871 @@
+state,county,city,address1,address2,date
+Arkansas,Conway,Morrilton,"300 Harding W St 107",,01/02/2004
+Arkansas,Garland,"Hot Springs","209 Music Mountain Rd",,01/02/2004
+Arkansas,Polk,Mena,"100 Hickory N St",,01/03/2004
+Arkansas,Pulaski,"North Little Rock","3514 Sycamore St",,01/05/2004
+Arkansas,Faulkner,Mayflower,"86 Paradise Rd",,01/06/2004
+Arkansas,Pulaski,"North Little Rock","4810 Lynn Lane",,01/06/2004
+Arkansas,Pulaski,"North Little Rock","4810 Lynn Lane",,01/06/2004
+Arkansas,Craighead,Jonesboro,"403 Gee S St",,01/06/2004
+Arkansas,Yell,Dardanelle,"427 Country Rd",,01/07/2004
+Arkansas,Pulaski,Roland,"25120 Blue Gell",,01/08/2004
+Arkansas,Pulaski,Roland,"25120 Blue Gell",,01/08/2004
+Arkansas,Johnson,Clarksville,"712 Johnson N St",,01/09/2004
+Arkansas,"Hot Spring",Malvern,"916 Mckinney St",,01/09/2004
+Arkansas,"Hot Spring",Malvern,"916 Mckinney St",,01/09/2004
+Arkansas,Miller,Texarkana,"409 Dundee Rd",,01/11/2004
+Arkansas,Miller,Texarkana,"409 Dundee Rd",,01/11/2004
+Arkansas,Saline,Benton,"15631 Interstate 30 109",,01/12/2004
+Arkansas,Pulaski,"North Little Rock","2508 161 Hwy 211",,01/12/2004
+Arkansas,Saline,Benton,"15631 Interstate 30 109",,01/12/2004
+Arkansas,Pulaski,"North Little Rock","2508 161 Hwy 211",,01/12/2004
+Arkansas,Washington,Johnson,"3206 Second St",,01/13/2004
+Arkansas,Craighead,Jonesboro,"1404 Brookhaven St",,01/14/2004
+Arkansas,"Hot Spring",Malvern,"2063 F G Jones Rd",,01/14/2004
+Arkansas,Craighead,Jonesboro,"904 Tony #7",,01/14/2004
+Arkansas,Pulaski,"Little Rock","7715 S Street",,01/14/2004
+Arkansas,"Hot Spring",Malvern,"2063 F G Jones Rd",,01/14/2004
+Arkansas,Pulaski,"Little Rock","7715 S Street",,01/14/2004
+Arkansas,Sebastian,"Fort Smith","621 Xavier St 2",,01/15/2004
+Arkansas,Sebastian,"Fort Smith","621 Xavier St 2",,01/15/2004
+Arkansas,Benton,Gentry,"10141 Boyle Rd",,01/16/2004
+Arkansas,Pulaski,"Little Rock","6515 Honeysuckle Ln",,01/16/2004
+Arkansas,Pulaski,"Little Rock","6515 Honeysuckle Ln",,01/16/2004
+Arkansas,Fulton,"Mammoth Spring","236 White Rock Ln",,01/17/2004
+Arkansas,Fulton,"Mammoth Spring","236 White Rock Ln",,01/17/2004
+Arkansas,Logan,Paris,"1919 Walnut St",,01/21/2004
+Arkansas,Craighead,Jonesboro,"219 1/2 Walnut St",,01/21/2004
+Arkansas,Logan,Booneville,"2295 Antiloch Rd",,01/22/2004
+Arkansas,Saline,Mabelvale,"22105 Point W Dr",,01/22/2004
+Arkansas,Logan,Booneville,"2295 Antiloch Rd",,01/22/2004
+Arkansas,Saline,Mabelvale,"22105 Point W Dr",,01/22/2004
+Arkansas,Pulaski,"North Little Rock","297 Plainview Cir",,01/23/2004
+Arkansas,Pulaski,"North Little Rock","297 Plainview Cir",,01/23/2004
+Arkansas,Grant,Sheridan,"1320 270 E Hwy",,01/23/2004
+Arkansas,Grant,Sheridan,"1320 270 E Hwy",,01/23/2004
+Arkansas,Logan,Booneville,"253 Vinable W St",,01/24/2004
+Arkansas,Logan,Booneville,"253 Vinable W St",,01/24/2004
+Arkansas,Benton,"Pea Ridge","15386 Patton Rd",,01/26/2004
+Arkansas,Franklin,Altus,"428 Scott St 8",,01/26/2004
+Arkansas,Grant,Sheridan,"205 46 Hwy",,01/26/2004
+Arkansas,"Hot Spring",Malvern,"619 Oaklawn",,01/26/2004
+Arkansas,Craighead,Jonesboro,"1901 Johnson E Ave #6",,01/26/2004
+Arkansas,Saline,"Shannon Hills","10624 Morningside Dr",,01/26/2004
+Arkansas,Saline,"Shannon Hills","10624 Morningside Dr",,01/26/2004
+Arkansas,Franklin,Charleston,"4811 Case Rd",,01/26/2004
+Arkansas,Pulaski,"Little Rock","600 Hardin 300",,01/27/2004
+Arkansas,Saline,Alexander,"1620 Vandiver Dr",,01/27/2004
+Arkansas,Pulaski,"Little Rock","5224 34th W St",,01/27/2004
+Arkansas,Pulaski,"Little Rock","5224 34th W St",,01/27/2004
+Arkansas,Pulaski,"Little Rock","600 Hardin 300",,01/27/2004
+Arkansas,Clark,Arkadelphia,"1303 Red Hill Rd",,01/28/2004
+Arkansas,Franklin,Branch,"232 Ross E Rd",,01/28/2004
+Arkansas,Franklin,Branch,"232 Ross E Rd",,01/28/2004
+Arkansas,Pulaski,"North Little Rock","2015 Flora",,01/28/2004
+Arkansas,Lonoke,Cabot,"16079 5 Hwy",,01/28/2004
+Arkansas,Boone,"Lead Hill","107 Green St",,01/29/2004
+Arkansas,Pulaski,"Little Rock","6915 65th W St",,01/30/2004
+Arkansas,Pulaski,"Little Rock","6915 65th W St",,01/30/2004
+Arkansas,Clark,Gurdon,"1656 South Fork Rd",,01/30/2004
+Arkansas,"Hot Spring",Malvern,"158 Tram Cutoff",,01/31/2004
+Arkansas,"Hot Spring",Malvern,"158 Tram Cutoff",,01/31/2004
+Arkansas,Washington,Fayetteville,"360 Sang S St 13",,02/02/2004
+Arkansas,Faulkner,Mayflower,"365 725 Hwy D",,02/02/2004
+Arkansas,Cleburne,Rosebud,"100 Treasure Dr",,02/03/2004
+Arkansas,Saline,Mabelvale,"10813 Styles Rd",,02/03/2004
+Arkansas,Saline,Mabelvale,"10813 Styles Rd",,02/03/2004
+Arkansas,Washington,Fayetteville,"20732 Trail Rd",,02/05/2004
+Arkansas,Sevier,"De Queen","173 Loneoak St",,02/06/2004
+Arkansas,Washington,Fayetteville,"3901 College N Ave",,02/06/2004
+Arkansas,Fulton,Hardy,"179 Willow Ln",,02/06/2004
+Arkansas,Sevier,"De Queen","173 Loneoak St",,02/06/2004
+Arkansas,Fulton,Hardy,"179 Willow Ln",,02/06/2004
+Arkansas,Washington,Fayetteville,"3901 College N Ave",,02/06/2004
+Arkansas,Sebastian,Huntington,"3902 Browntown W Rd",,02/08/2004
+Arkansas,Pope,Russellville,"241 Linker Ln",,02/09/2004
+Arkansas,Pope,Russellville,"241 Linker Ln",,02/09/2004
+Arkansas,Franklin,Branch,"11505 Price Rd",,02/09/2004
+Arkansas,Franklin,Branch,"11505 Price Rd",,02/09/2004
+Arkansas,"Hot Spring",Bismarck,"117 Ozark Loop Rd",,02/10/2004
+Arkansas,"Hot Spring",Bismarck,"117 Ozark Loop Rd",,02/10/2004
+Arkansas,Washington,Springdale,"106 Bailey E",,02/10/2004
+Arkansas,Lonoke,Ward,"1315 Butlerville Rd",,02/10/2004
+Arkansas,Lonoke,Ward,"1315 Butlerville Rd",,02/10/2004
+Arkansas,Washington,Springdale,"106 Bailey E",,02/10/2004
+Arkansas,Saline,Mabelvale,"7225 Mill N Rd",,02/12/2004
+Arkansas,Saline,Benton,"16732 I-30 233",,02/12/2004
+Arkansas,Saline,Mabelvale,"7225 Mill N Rd",,02/12/2004
+Arkansas,Carroll,"Green Forest","13507 Hwy 62 E 3",,02/12/2004
+Arkansas,Saline,Benton,"16732 I-30 233",,02/12/2004
+Arkansas,"Hot Spring",Malvern,"524b W. Highland Ave",,02/13/2004
+Arkansas,Carroll,Huntsville,"661 Cr 723",,02/13/2004
+Arkansas,Logan,Booneville,"763 6th W St",,02/13/2004
+Arkansas,"Hot Spring",Malvern,"524b W. Highland Ave",,02/13/2004
+Arkansas,Pulaski,"Little Rock","20 Harrow",,02/17/2004
+Arkansas,Pulaski,"Little Rock","20 Harrow",,02/17/2004
+Arkansas,Pulaski,"Little Rock","513 Eighth E St C",,02/18/2004
+Arkansas,Pulaski,"Little Rock","513 Eighth E St C",,02/18/2004
+Arkansas,Miller,Texarkana,"1608 Ash",,02/19/2004
+Arkansas,Miller,Texarkana,"1608 Ash",,02/19/2004
+Arkansas,Pulaski,Jacksonville,"7603 Jacksonville Cutoff Rd 67",,02/19/2004
+Arkansas,Union,Smackover,"1372 East 10th Street",,02/19/2004
+Arkansas,Union,Smackover,"1372 East 10th Street",,02/19/2004
+Arkansas,"Van Buren",Chimes,"1902 254 Hwy",,02/19/2004
+Arkansas,"Van Buren","Bee Branch","579 Shadymeadows Rd",,02/19/2004
+Arkansas,"Van Buren","Bee Branch","579 Shadymeadows Rd",,02/19/2004
+Arkansas,Garland,Pearcy,"174 Crews Ln",,02/20/2004
+Arkansas,Garland,Pearcy,"174 Crews Ln",,02/20/2004
+Arkansas,Jefferson,"Pine Bluff","2104 Ashley Rd",,02/20/2004
+Arkansas,Washington,Fayetteville,"1101 Curtis S K-84",,02/21/2004
+Arkansas,Cleveland,"New Edinburg","2350 Thompson Rd",,02/21/2004
+Arkansas,"Hot Spring",Malvern,"115 Tram Cutoff Rd",,02/22/2004
+Arkansas,"Hot Spring",Malvern,"115 Tram Cutoff Rd",,02/22/2004
+Arkansas,Washington,Springdale,"2008 Kim D",,02/23/2004
+Arkansas,Marion,Flippin,"7093 County Rd 149",,02/24/2004
+Arkansas,Pulaski,"North Little Rock","1414 Parker W",,02/25/2004
+Arkansas,Pulaski,"Little Rock","25 Nardina 6",,02/26/2004
+Arkansas,Jefferson,Sherill,"403 Pack S Rd",,02/26/2004
+Arkansas,Pulaski,"Little Rock","25 Nardina 6",,02/26/2004
+Arkansas,Cleveland,Rison,"550 Goggans Ln",,02/27/2004
+Arkansas,Sebastian,"Fort Smith","1806 M N St",,03/01/2004
+Arkansas,Sebastian,"Fort Smith","1806 M N St",,03/01/2004
+Arkansas,Lafayette,Bradley,"5327 Highway 160 Hwy",,03/01/2004
+Arkansas,Faulkner,Conway,"704 Second Ave",,03/01/2004
+Arkansas,Lafayette,Bradley,"5327 Highway 160 Hwy",,03/01/2004
+Arkansas,Pulaski,"North Little Rock","200 J W St",,03/04/2004
+Arkansas,Washington,Fayetteville,"817 Dogwood Ln",,03/04/2004
+Arkansas,Sebastian,"Fort Smith","2500 Towson Ave 12",,03/05/2004
+Arkansas,Logan,Magazine,"221 Mccubbin Lp",,03/05/2004
+Arkansas,Logan,Magazine,"221 Mccubbin Lp",,03/05/2004
+Arkansas,Sebastian,"Fort Smith","2500 Towson Ave 12",,03/05/2004
+Arkansas,Sebastian,Greenwood,"3233 Long Ridge Rd",,03/05/2004
+Arkansas,Boone,Harrison,"3953 Valley Rd",,03/05/2004
+Arkansas,Pulaski,"North Little Rock","2300 Lamsbrook St",,03/08/2004
+Arkansas,Pulaski,"North Little Rock","2300 Lamsbrook St",,03/08/2004
+Arkansas,Pulaski,"Little Rock","2401 65th W St",,03/09/2004
+Arkansas,Independence,Batesville,"4750 White Dr",,03/09/2004
+Arkansas,Pulaski,"North Little Rock","400 29th W St 222",,03/09/2004
+Arkansas,Independence,Batesville,"4750 White Dr",,03/09/2004
+Arkansas,Pope,Pottsville,"212 Cedar W Sr",,03/09/2004
+Arkansas,Lonoke,Lonoke,"93 Lingo Rd",,03/09/2004
+Arkansas,Pope,Pottsville,"212 Cedar W Sr",,03/09/2004
+Arkansas,Pulaski,"Little Rock","2401 65th W St",,03/09/2004
+Arkansas,"Hot Spring",Malvern,"12885 Hwy 270",,03/09/2004
+Arkansas,Pope,Pottsville,"212 Cedar W Sr",,03/09/2004
+Arkansas,Pulaski,"North Little Rock","400 29th W St 222",,03/09/2004
+Arkansas,Pulaski,Sherwood,"9901 Brockington N22",,03/10/2004
+Arkansas,Faulkner,Conway,"2192 Black Berry Ln",,03/10/2004
+Arkansas,Pulaski,Sherwood,"9901 Brockington N22",,03/10/2004
+Arkansas,Fulton,"Mammoth Spring","120 Springfield Ln",,03/11/2004
+Arkansas,Randolph,Pocahontas,"256 Manson Rd",,03/12/2004
+Arkansas,Randolph,Pocahontas,"256 Manson Rd",,03/12/2004
+Arkansas,Izard,"Horseshoe Bend","1231 Bend Cir",,03/14/2004
+Arkansas,Izard,"Horseshoe Bend","1231 Bend Cir",,03/14/2004
+Arkansas,Craighead,Jonesboro,"4104 Mnt. Carmel St 5",,03/14/2004
+Arkansas,Pulaski,"Little Rock","12109 Stagecoach Rd",,03/15/2004
+Arkansas,Baxter,Midway,"705 Hwy 178 816",,03/15/2004
+Arkansas,Pulaski,"Little Rock","12109 Stagecoach Rd",,03/15/2004
+Arkansas,Faulkner,Conway,"604 Robins E",,03/15/2004
+Arkansas,Garland,"Hot Springs","7108 Park Ave",,03/16/2004
+Arkansas,Sebastian,"Fort Smith","2715 Towson Ave 20",,03/16/2004
+Arkansas,Pulaski,Mabelvale,"19820 Arch St",,03/16/2004
+Arkansas,Garland,"Hot Springs","7108 Park Ave",,03/16/2004
+Arkansas,Pulaski,Mabelvale,"19820 Arch St",,03/16/2004
+Arkansas,Grant,Sheridan,"1338 Grant C.r. 13",,03/17/2004
+Arkansas,Izard,Franklin,"135 Main S St",,03/18/2004
+Arkansas,Izard,Franklin,"135 Main S St",,03/18/2004
+Arkansas,"Van Buren",Clinton,"8767 Holly Mountain Rd",,03/19/2004
+Arkansas,"Van Buren",Clinton,"8767 Holly Mountain Rd",,03/19/2004
+Arkansas,Sebastian,"Fort Smith","1405 38th N St",,03/19/2004
+Arkansas,Carroll,Huntsville,"2181 Cr 516",,03/19/2004
+Arkansas,Benton,Lowell,"419 Apple Blossom W",,03/20/2004
+Arkansas,Craighead,Jonesboro,"1413 Cr 361",,03/21/2004
+Arkansas,Saline,Bauxite,"22218 Louise Ln",,03/21/2004
+Arkansas,Saline,Bauxite,"22218 Louise Ln",,03/21/2004
+Arkansas,Saline,Alexander,"15608 Valley Dr",,03/21/2004
+Arkansas,Lonoke,Cabot,"185 Staggs Ln",,03/22/2004
+Arkansas,Benton,Rogers,"3715 Shady Hills Cir",,03/22/2004
+Arkansas,Lonoke,Cabot,"185 Staggs Ln",,03/22/2004
+Arkansas,Pulaski,"Little Rock","211 Fairpark",,03/22/2004
+Arkansas,Johnson,Lamar,"201 Johnsonville St 1-a",,03/22/2004
+Arkansas,Pulaski,Sherwood,"2224 Maryland E",,03/23/2004
+Arkansas,Saline,Benton,"106 Fairplay Rd 4",,03/23/2004
+Arkansas,Pulaski,Sherwood,"2224 Maryland E",,03/23/2004
+Arkansas,Saline,Benton,"7824 Fairplay Rd",,03/23/2004
+Arkansas,Johnson,Clarksville,"409 Taylor 2",,03/23/2004
+Arkansas,Saline,Benton,"7824 Fairplay Rd",,03/23/2004
+Arkansas,Johnson,Clarksville,"409 Taylor 2",,03/23/2004
+Arkansas,Pulaski,Mabelvale,"21912 Chicot Rd",,03/24/2004
+Arkansas,Pulaski,Mabelvale,"21912 Chicot Rd",,03/24/2004
+Arkansas,Pulaski,"Little Rock","9700 Baseline W Rd 53",,03/25/2004
+Arkansas,Pulaski,"North Little Rock","4209 Locust",,03/25/2004
+Arkansas,Pulaski,"Little Rock","9700 Baseline W Rd 53",,03/25/2004
+Arkansas,Pulaski,"North Little Rock","4209 Locust",,03/25/2004
+Arkansas,Washington,Fayetteville,"15 Davidson Rd",,03/27/2004
+Arkansas,Washington,Fayetteville,"15 Davidson Rd",,03/27/2004
+Arkansas,Craighead,Jonesboro,"362 Cr 313",,03/28/2004
+Arkansas,Sebastian,Hackett,"5309 Highway 10 W Hwy",,03/28/2004
+Arkansas,Pulaski,"Little Rock","8 Mellwood",,03/29/2004
+Arkansas,Pulaski,"Little Rock","8010 Mabelvale Pike 9",,03/29/2004
+Arkansas,Craighead,Jonesboro,"130 Coleman Dr",,03/29/2004
+Arkansas,Pulaski,"Little Rock","8010 Mabelvale Pike 9",,03/29/2004
+Arkansas,Cleveland,Rison,"2820 Rodgers W Rd",,03/30/2004
+Arkansas,"Little River",Ashdown,"420 Brodie Ln",,03/31/2004
+Arkansas,"Little River",Ashdown,"420 Brodie Ln",,03/31/2004
+Arkansas,Johnson,Clarksville,"809 Johnson N St",,03/31/2004
+Arkansas,Saline,Benton,"11215 Goodwin",,04/01/2004
+Arkansas,Fulton,Salem,"898 Cornertown Rd",,04/01/2004
+Arkansas,Crawford,Kibler,"620 Ames",,04/01/2004
+Arkansas,Fulton,Salem,"898 Cornertown Rd",,04/01/2004
+Arkansas,Saline,Benton,"11215 Goodwin",,04/01/2004
+Arkansas,Sharp,Hardy,"61 Mccormick Rd",,04/03/2004
+Arkansas,Sharp,Hardy,"61 Mccormick Rd",,04/03/2004
+Arkansas,Monroe,Brinkley,"1203 Charlyne N St",,04/03/2004
+Arkansas,Benton,Bentonville,"808 Main N St",,04/04/2004
+Arkansas,Logan,Booneville,"9967 State 217 Hwy",,04/06/2004
+Arkansas,Logan,Booneville,"9967 State 217 Hwy",,04/06/2004
+Arkansas,Sebastian,"Fort Smith","3117 29th N St",,04/06/2004
+Arkansas,Sebastian,"Fort Smith","3117 29th N St",,04/06/2004
+Arkansas,Lonoke,Austin,"241 Valley Rd",,04/07/2004
+Arkansas,Saline,Traskwood,"490 Grant 321",,04/07/2004
+Arkansas,Benton,"Cave Springs","12221 Colonel Myers Rd",,04/07/2004
+Arkansas,Lonoke,Austin,"241 Valley Rd",,04/07/2004
+Arkansas,Scott,Waldron,"400 8th E St",,04/07/2004
+Arkansas,Scott,Waldron,"400 8th E St",,04/07/2004
+Arkansas,Saline,Traskwood,"490 Grant 321",,04/07/2004
+Arkansas,Sebastian,"Fort Smith","3502 Lucy Lane",,04/08/2004
+Arkansas,Howard,Nashville,"11327 278 Hwy",,04/10/2004
+Arkansas,Howard,Nashville,"11327 278 Hwy",,04/10/2004
+Arkansas,Prairie,Hazen,"11 N Hwy 108",,04/12/2004
+Arkansas,Pulaski,Maumelle,"301 Pine Forrest",,04/13/2004
+Arkansas,Saline,Alexander,"15523 Kathy Dr",,04/13/2004
+Arkansas,Sebastian,"Fort Smith","1909 Fresno St",,04/13/2004
+Arkansas,Sebastian,"Fort Smith","1909 Fresno St",,04/13/2004
+Arkansas,"Hot Spring",Malvern,"6032 171 Hwy",,04/14/2004
+Arkansas,Pulaski,"Little Rock","10018 Margie",,04/14/2004
+Arkansas,Pulaski,"Little Rock","10018 Margie",,04/14/2004
+Arkansas,Faulkner,Vilonia,"364 107 Hwy",,04/14/2004
+Arkansas,"Hot Spring",Malvern,"6032 171 Hwy",,04/14/2004
+Arkansas,Lonoke,Cabot,"607 Jackson N St",,04/15/2004
+Arkansas,Lonoke,Cabot,"607 Jackson N St",,04/15/2004
+Arkansas,Pope,Pottsville,"5876 64 Hwy",,04/16/2004
+Arkansas,Pope,Pottsville,"5876 64 Hwy",,04/16/2004
+Arkansas,Clark,Gurdon,"3297 Red Springs Rd",,04/16/2004
+Arkansas,Pope,Hector,"232 Wells Ln",,04/16/2004
+Arkansas,Sebastian,Greenwood,"830 Denver W 804",,04/18/2004
+Arkansas,Sebastian,Greenwood,"830 Denver W 804",,04/18/2004
+Arkansas,Pulaski,"Little Rock","12824 I-30 30",,04/19/2004
+Arkansas,Pulaski,"Little Rock","12824 I-30 30",,04/19/2004
+Arkansas,Faulkner,Vilonia,"72 Eagle St",,04/19/2004
+Arkansas,Pulaski,"Little Rock","12824 I-30 30",,04/19/2004
+Arkansas,Pulaski,"Little Rock","7813 Lassie Ln",,04/21/2004
+Arkansas,Randolph,Newport,"7979 Blacks Ferry Rd",,04/21/2004
+Arkansas,Johnson,Clarksville,"1825 Big Danger Rd",,04/21/2004
+Arkansas,Johnson,Clarksville,"1825 Big Danger Rd",,04/21/2004
+Arkansas,Randolph,Newport,"7979 Blacks Ferry Rd",,04/21/2004
+Arkansas,Benton,Rogers,"601 Easy W St V-68",,04/21/2004
+Arkansas,"Van Buren",Clinton,"633 Razorback",,04/22/2004
+Arkansas,Washington,Springdale,"3151 Braxton St B",,04/22/2004
+Arkansas,Washington,Springdale,"3151 Braxton St B",,04/22/2004
+Arkansas,Saline,Hensley,"6513 Sardis E Rd",,04/23/2004
+Arkansas,Crawford,"Van Buren","2921 Madeline St 1",,04/23/2004
+Arkansas,Lafayette,Bradley,"3651 Hwy 160 Hwy",,04/23/2004
+Arkansas,Saline,Hensley,"6513 Sardis E Rd",,04/23/2004
+Arkansas,Lafayette,Bradley,"3651 Hwy 160 Hwy",,04/23/2004
+Arkansas,Pulaski,"North Little Rock","6013 Hwy 70 19",,04/25/2004
+Arkansas,Pulaski,"North Little Rock","6013 Hwy 70 19",,04/25/2004
+Arkansas,Madison,Huntsville,"1 Fox Dr",,04/27/2004
+Arkansas,Benton,Rogers,"616 Mulberry E St",,04/27/2004
+Arkansas,Madison,Huntsville,"1 Fox Dr",,04/27/2004
+Arkansas,Sharp,"Evening Shade","165 Medley Rd",,04/28/2004
+Arkansas,Boone,Harrison,"4806 Payne Rd",,04/28/2004
+Arkansas,"Hot Spring",Bismarck,"291 Plum Dr 8",,04/28/2004
+Arkansas,Sharp,"Evening Shade","165 Medley Rd",,04/28/2004
+Arkansas,"Hot Spring",Bismarck,"291 Plum Dr 8",,04/28/2004
+Arkansas,Stone,"Mountain View","1365 Brushy Creek Rd",,04/29/2004
+Arkansas,Yell,Dardanelle,"10278 Bizzy Ln",,04/29/2004
+Arkansas,Yell,Dardanelle,"10278 Bizzy Ln",,04/29/2004
+Arkansas,Stone,"Mountain View","1365 Brushy Creek Rd",,04/29/2004
+Arkansas,Grant,Sheridan,"100 Twin Oaks Dr 1",,05/04/2004
+Arkansas,Grant,Sheridan,"100 Twin Oaks Dr 1",,05/04/2004
+Arkansas,Logan,Scranton,"14th Main St",,05/05/2004
+Arkansas,Washington,Winslow,"18688 Brentwood Mtn Rd",,05/05/2004
+Arkansas,"Hot Spring",Malvern,"104 Gough St",,05/05/2004
+Arkansas,Pulaski,"Little Rock","7700 Bunch Rd",,05/05/2004
+Arkansas,"Hot Spring",Malvern,"104 Gough St",,05/05/2004
+Arkansas,Stone,Marcella,"124 Hidden Ln",,05/05/2004
+Arkansas,Logan,Scranton,"14th Main St",,05/05/2004
+Arkansas,Stone,Marcella,"124 Hidden Ln",,05/05/2004
+Arkansas,Crawford,"Van Buren","4215 Campground Rd",,05/06/2004
+Arkansas,Faulkner,Mayflower,"75 Dam Rd",,05/07/2004
+Arkansas,Washington,Fayetteville,"612 Berry Jo N Dr",,05/07/2004
+Arkansas,Washington,Fayetteville,"612 Berry Jo N Dr",,05/07/2004
+Arkansas,Benton,Gentry,"18173 Spring Town Cutoff Rd",,05/07/2004
+Arkansas,Sebastian,"Fort Smith","2315 33rd N St",,05/07/2004
+Arkansas,Sebastian,"Fort Smith","2315 33rd N St",,05/07/2004
+Arkansas,Baxter,"Mountain Home","County Road 169 Rd 871",,05/12/2004
+Arkansas,Pulaski,"Little Rock","300 Polk N",,05/14/2004
+Arkansas,Craighead,Bono,"769 Cr 328",,05/14/2004
+Arkansas,Pulaski,"Little Rock","300 Polk N",,05/14/2004
+Arkansas,Lonoke,Ward,"804 N St",,05/15/2004
+Arkansas,Lonoke,Ward,"804 N St",,05/15/2004
+Arkansas,Sebastian,Greenwood,"330 Dogwood W St 37",,05/16/2004
+Arkansas,Sebastian,Greenwood,"330 Dogwood W St 37",,05/16/2004
+Arkansas,Washington,Greenland,"11204 Pearce Rd",,05/17/2004
+Arkansas,Craighead,Jonesboro,"2402 Fairfield Dr",,05/18/2004
+Arkansas,Boone,"Mountain Home","1260 Lance Way 8",,05/18/2004
+Arkansas,"Hot Spring",Malvern,"147 Arrowhead Estates Rd",,05/19/2004
+Arkansas,Garland,Royal,"25 Checota St",,05/19/2004
+Arkansas,"Hot Spring",Malvern,"147 Arrowhead Estates Rd",,05/19/2004
+Arkansas,Garland,Royal,"25 Checota St",,05/19/2004
+Arkansas,Sebastian,"Fort Smith","800 A S St",,05/20/2004
+Arkansas,Sebastian,Greenwood,"1805 Cherry Bark Bend",,05/20/2004
+Arkansas,Benton,Lowell,"5230 Noland Ln",,05/20/2004
+Arkansas,Sebastian,Greenwood,"1805 Cherry Bark Bend",,05/20/2004
+Arkansas,Fulton,Viola,"264 Deerchase",,05/24/2004
+Arkansas,Saline,Alexander,"2801 Stricklin Rd",,05/26/2004
+Arkansas,Saline,Alexander,"2801 Stricklin Rd",,05/26/2004
+Arkansas,"Hot Spring",Malvern,"1532 Dixonville Rd",,06/02/2004
+Arkansas,"Hot Spring",Bismarck,"4581 Hwy 7 Hwy",,06/03/2004
+Arkansas,Saline,Mabelvale,"16201 Van Diver Dr",,06/03/2004
+Arkansas,Saline,Mabelvale,"16201 Van Diver Dr",,06/03/2004
+Arkansas,"Hot Spring",Bismarck,"4581 Hwy 7 Hwy",,06/03/2004
+Arkansas,Washington,Springdale,"1810 Patti",,06/04/2004
+Arkansas,Benton,"Pea Ridge","3300 Jennifer Ct",,06/04/2004
+Arkansas,Benton,Gentry,"22782 12 W Hwy",,06/04/2004
+Arkansas,Crawford,Mountainburg,"10715 Hwy 71 North Hwy",,06/07/2004
+Arkansas,Mississippi,Luxora,"3892 State Highway 120 E Hwy",,06/08/2004
+Arkansas,Pulaski,"Little Rock","501 Ridge Way 5",,06/08/2004
+Arkansas,Pulaski,"Little Rock","501 Ridge Way 5",,06/08/2004
+Arkansas,Pulaski,"Little Rock","8303 Mabeluela Pike",,06/08/2004
+Arkansas,Pulaski,"Little Rock","501 Ridge Way 5",,06/08/2004
+Arkansas,Pulaski,"North Little Rock","4720 Sycamore St",,06/09/2004
+Arkansas,Pulaski,"North Little Rock","4720 Sycamore St",,06/09/2004
+Arkansas,Madison,Witter,"594 Madison County Rd",,06/10/2004
+Arkansas,Benton,Rogers,"737 12th N St",,06/10/2004
+Arkansas,Poinsett,Harrisburg,"7831 Hill Ln",,06/11/2004
+Arkansas,Sebastian,Greenwood,"3015 Coker S St",,06/11/2004
+Arkansas,Sebastian,Greenwood,"3015 Coker S St",,06/11/2004
+Arkansas,Sebastian,Hackett,"307 Main N St",,06/13/2004
+Arkansas,Pulaski,"North Little Rock","13 Puckett St",,06/14/2004
+Arkansas,Benton,Rogers,"19655 Waldon Rd",,06/15/2004
+Arkansas,Faulkner,"North Little Rock","16 Artisian Well Rd",,06/15/2004
+Arkansas,Logan,"Blue Mountain","173 Klondlke St",,06/16/2004
+Arkansas,"Hot Spring",Malvern,"619 Oaklawn St",,06/16/2004
+Arkansas,Faulkner,Conway,"29 Moore Ln",,06/16/2004
+Arkansas,Lonoke,Lonoke,"214 5th E 1",,06/16/2004
+Arkansas,Lonoke,Lonoke,"214 5th E 1",,06/16/2004
+Arkansas,"Hot Spring",Malvern,"619 Oaklawn St",,06/16/2004
+Arkansas,Pulaski,"North Little Rock","1512 Nannette",,06/17/2004
+Arkansas,Pope,Atkins,"2952 Sr 247",,06/17/2004
+Arkansas,Pope,Atkins,"2952 Sr 247",,06/17/2004
+Arkansas,Benton,Rogers,"18 Lynn Ln",,06/18/2004
+Arkansas,Hempstead,Hope,"135 Peach Tree Ln",,06/18/2004
+Arkansas,Hempstead,Hope,"135 Peach Tree Ln",,06/18/2004
+Arkansas,Pulaski,"North Little Rock","313 Short St",,06/21/2004
+Arkansas,Pulaski,"North Little Rock","313 Short St",,06/21/2004
+Arkansas,"Hot Spring",Malvern,"834 Rockport St",,06/21/2004
+Arkansas,Sebastian,Hackett,"9133 Shore N Dr",,06/23/2004
+Arkansas,Sebastian,Hackett,"9133 Shore N Dr",,06/23/2004
+Arkansas,Carroll,"Green Forest","2693 U.s. Hwy 62 E Hwy",,06/24/2004
+Arkansas,Crawford,"Van Buren","727 Uniontown E Rd",,06/24/2004
+Arkansas,Sebastian,Greenwood,"4710 Hwy 253 S",,06/25/2004
+Arkansas,Sebastian,Greenwood,"4710 Hwy 253 S",,06/25/2004
+Arkansas,Sebastian,Greenwood,"124 Adair N St",,06/29/2004
+Arkansas,Sebastian,"Fort Smith","4001 Rogers Ave 12",,06/30/2004
+Arkansas,Sebastian,"Fort Smith","4001 Rogers Ave 12",,06/30/2004
+Arkansas,Benton,"Pea Ridge","4028 Hayden Rd",,06/30/2004
+Arkansas,Logan,Booneville,"10196 Cardinal Ln",,07/02/2004
+Arkansas,Logan,Booneville,"10196 Cardinal Ln",,07/02/2004
+Arkansas,Baxter,"Mountain Home","274 Shorecrest Dr",,07/03/2004
+Arkansas,Benton,Rogers,"2102 8th S St 327",,07/06/2004
+Arkansas,Pulaski,"North Little Rock","4013 Locust N St",,07/07/2004
+Arkansas,Pulaski,"North Little Rock","4013 Locust N St",,07/07/2004
+Arkansas,Pope,Russellville,"602 Erie N",,07/08/2004
+Arkansas,Pope,Russellville,"602 Erie N",,07/08/2004
+Arkansas,Crawford,Mountainburg,"11742 Highway 71",,07/09/2004
+Arkansas,Perry,Bigelow,"488 113 Hwy",,07/09/2004
+Arkansas,Saline,Alexander,"12063 (b) Zuber Rd",,07/09/2004
+Arkansas,Perry,Bigelow,"488 113 Hwy",,07/09/2004
+Arkansas,Saline,Alexander,"12063 (b) Zuber Rd",,07/09/2004
+Arkansas,"Hot Spring",Bismarck,"291 Navaho Trl",,07/10/2004
+Arkansas,Faulkner,Conway,"6 Starter Hill Rd",,07/11/2004
+Arkansas,Logan,Magazine,"461 5th E",,07/12/2004
+Arkansas,Logan,Magazine,"461 5th E",,07/12/2004
+Arkansas,Craighead,Jonesboro,"1500 Wendy Ln",,07/13/2004
+Arkansas,Benton,"Siloam Springs","15428 Old Hwy 68 Hwy",,07/15/2004
+Arkansas,Pulaski,"Little Rock","39 Durance St",,07/15/2004
+Arkansas,Craighead,Jonesboro,"4009 Cr 780",,07/15/2004
+Arkansas,Sebastian,"Fort Smith","4501 32nd N",,07/19/2004
+Arkansas,"Hot Spring",Rockport,"2669 Thomason Hanley Rd",,07/19/2004
+Arkansas,Sebastian,Barling,"503 Ernest St",,07/20/2004
+Arkansas,Benton,"Siloam Springs","901 Garland W St",,07/21/2004
+Arkansas,Benton,Bentonville,"1207 Cedar Pl",,07/21/2004
+Arkansas,Montgomery,"Caddo Gap","63 Lolas Ln",,07/22/2004
+Arkansas,Montgomery,"Caddo Gap","63 Lolas Ln",,07/22/2004
+Arkansas,Scott,Mansfield,"116 2nd S Ave",,07/23/2004
+Arkansas,Independence,Batesville,"15 King George W St",,07/23/2004
+Arkansas,Independence,Batesville,"15 King George W St",,07/23/2004
+Arkansas,Baxter,"Mountain Home","97 Hollow Ln",,07/26/2004
+Arkansas,Sebastian,"Fort Smith","4020 18th S St",,07/26/2004
+Arkansas,Sebastian,"Fort Smith","4020 18th S St",,07/26/2004
+Arkansas,Washington,Elkins,"26473 Kirksey Rd",,07/27/2004
+Arkansas,Sebastian,"Fort Smith","1615 B N St 10",,07/27/2004
+Arkansas,Sebastian,"Fort Smith","1615 B N St 10",,07/27/2004
+Arkansas,Washington,Elkins,"26473 Kirksey Rd",,07/27/2004
+Arkansas,Sebastian,Hackett,"23827 Hwy 45 S",,07/29/2004
+Arkansas,Logan,Booneville,"288 Broadway N",,07/29/2004
+Arkansas,Boone,Harrison,"1107 Winding Hills Rd",,07/30/2004
+Arkansas,Conway,Plumerville,"93 Chuckwagon N Rd",,07/30/2004
+Arkansas,Washington,Fayetteville,"6451 Nicole St",,08/01/2004
+Arkansas,Washington,Fayetteville,"6451 Nicole St",,08/01/2004
+Arkansas,Madison,Huntsville,"3337 Co Rd 2750",,08/02/2004
+Arkansas,Sebastian,Huntington,"4601 Hwy 252 E Hwy",,08/03/2004
+Arkansas,Yell,Ola,"302 5th St",,08/03/2004
+Arkansas,Sebastian,Huntington,"4601 Hwy 252 E Hwy",,08/03/2004
+Arkansas,Jefferson,"Pine Bluff","305 Palomino Rd",,08/04/2004
+Arkansas,Sharp,"Cherokee Village","438 Slick Rock S Ln",,08/05/2004
+Arkansas,"Hot Spring",Malvern,"29 Red Dog Ln",,08/05/2004
+Arkansas,Sharp,"Cherokee Village","438 Slick Rock S Ln",,08/05/2004
+Arkansas,Randolph,Maynard,"873b Parker Creek Rd",,08/06/2004
+Arkansas,Sebastian,"Fort Smith","1314 Highway 71 S 26",,08/06/2004
+Arkansas,Sebastian,"Fort Smith","1314 Highway 71 S 26",,08/06/2004
+Arkansas,Pulaski,"Little Rock","3105 Fair Park S Blvd",,08/06/2004
+Arkansas,"Hot Spring",Malvern,"1510 Bettis Rd",,08/06/2004
+Arkansas,Faulkner,Conway,"22 Hanford Ln",,08/06/2004
+Arkansas,Randolph,Maynard,"873b Parker Creek Rd",,08/06/2004
+Arkansas,"Hot Spring",Malvern,"1510 Bettis Rd",,08/06/2004
+Arkansas,Sebastian,Hartford,"1928 Hartford W Rd",,08/09/2004
+Arkansas,Sebastian,"Fort Smith","1005 J N St 4",,08/12/2004
+Arkansas,Faulkner,Conway,"32 Charlie W Dr",,08/12/2004
+Arkansas,Sebastian,Barling,"601 3rd St 10",,08/13/2004
+Arkansas,Saline,Hensley,"25018 Hwy 165 Rd",,08/13/2004
+Arkansas,Sebastian,Barling,"601 3rd St 10",,08/13/2004
+Arkansas,Saline,Hensley,"25018 Hwy 165 Rd",,08/13/2004
+Arkansas,Crawford,Cedarville,"436 Millpond Rd",,08/14/2004
+Arkansas,Craighead,Jonesboro,"172 Cr 607",,08/15/2004
+Arkansas,Sebastian,"Fort Smith","722 19th S St",,08/16/2004
+Arkansas,Washington,Winslow,"103 Cascade W",,08/16/2004
+Arkansas,Washington,Winslow,"103 Cascade W",,08/16/2004
+Arkansas,Pulaski,"Little Rock","10434 36th W St 24d",,08/16/2004
+Arkansas,Carroll,"Oak Grove","9507 Hwy 103 N",,08/16/2004
+Arkansas,Pulaski,"Little Rock","9321 Interstate 30 221",,08/17/2004
+Arkansas,Garland,"Hot Springs","268 Sharon Terr A",,08/17/2004
+Arkansas,Sevier,Horatio,"2112 Red Bridge Rd",,08/17/2004
+Arkansas,Garland,"Hot Springs","268 Sharon Terr A",,08/17/2004
+Arkansas,Sebastian,Greenwood,"3021 Coker S",,08/17/2004
+Arkansas,Pulaski,"Little Rock","9321 Interstate 30 221",,08/17/2004
+Arkansas,Sebastian,Greenwood,"3021 Coker S",,08/17/2004
+Arkansas,Sebastian,Huntington,"303 Glendening St",,08/18/2004
+Arkansas,Saline,Benton,"8618 Sycamore",,08/18/2004
+Arkansas,Saline,Benton,"8618 Sycamore",,08/18/2004
+Arkansas,Sebastian,Huntington,"303 Glendening St",,08/18/2004
+Arkansas,Faulkner,Enola,"112 Cardin Cir",,08/19/2004
+Arkansas,Saline,Alexander,"15610 Mountain Dr",,08/19/2004
+Arkansas,Saline,Alexander,"15610 Mountain Dr",,08/19/2004
+Arkansas,Craighead,Jonesboro,"1504 Easy N St",,08/20/2004
+Arkansas,Saline,Mabelvale,"7401 Holt Ln",,08/25/2004
+Arkansas,Saline,Mabelvale,"7401 Holt Ln",,08/25/2004
+Arkansas,"Hot Spring",Malvern,"544 Oaklawn St",,08/26/2004
+Arkansas,Pulaski,"North Little Rock","10609 Macarthur Dr 8",,08/26/2004
+Arkansas,"Hot Spring",Malvern,"544 Oaklawn St",,08/26/2004
+Arkansas,"Van Buren","Bee Branch","697 Lankford Cir",,08/27/2004
+Arkansas,Washington,Springdale,"3280 Mavey Ln",,08/27/2004
+Arkansas,Pulaski,"Little Rock","25 Lakeside",,08/29/2004
+Arkansas,Pulaski,"Little Rock","25 Lakeside",,08/29/2004
+Arkansas,Lawrence,"Walnut Ridge","6 Lawrence 701 Rd",,08/30/2004
+Arkansas,Lawrence,"Walnut Ridge","6 Lawrence 701 Rd",,08/30/2004
+Arkansas,Pulaski,"Little Rock","517 Maple S St B",,08/31/2004
+Arkansas,Pulaski,"Little Rock","517 Maple S St B",,08/31/2004
+Arkansas,Pulaski,"North Little Rock","18 Somerset Rd",,09/02/2004
+Arkansas,Sevier,"De Queen","202 13th S",,09/02/2004
+Arkansas,Sharp,Williford,"868 Spring River Ranch Rd",,09/02/2004
+Arkansas,Pulaski,"North Little Rock","18 Somerset Rd",,09/02/2004
+Arkansas,Sevier,"De Queen","202 13th S",,09/02/2004
+Arkansas,Miller,Texarkana,"4103 Julie Cir",,09/03/2004
+Arkansas,Pulaski,"Little Rock","1001 Breckenridge Dr 980",,09/04/2004
+Arkansas,Crawford,"Van Buren","1716 Fayetteville Rd 219",,09/04/2004
+Arkansas,Pulaski,"Little Rock","1001 Breckenridge Dr 980",,09/04/2004
+Arkansas,Pulaski,"Little Rock","3623 Old Shackeford St",,09/06/2004
+Arkansas,Crawford,Alma,"4918 Hwy 71 N",,09/06/2004
+Arkansas,Pulaski,"Little Rock","3623 Old Shackeford St",,09/06/2004
+Arkansas,Crawford,"Natural Dam","14306 Hwy 71 N",,09/08/2004
+Arkansas,Sebastian,"Fort Smith","7400 Cheryl Ln",,09/13/2004
+Arkansas,Sebastian,"Fort Smith","7400 Cheryl Ln",,09/13/2004
+Arkansas,Garland,"Hot Springs","120 Watt St",,09/14/2004
+Arkansas,Garland,"Hot Springs","120 Watt St",,09/14/2004
+Arkansas,Washington,Springdale,"707 Meadow W St",,09/15/2004
+Arkansas,Washington,Springdale,"707 Meadow W St",,09/15/2004
+Arkansas,Jefferson,Redfield,"2108 River Rd",,09/16/2004
+Arkansas,Jefferson,Redfield,"2108 River Rd",,09/16/2004
+Arkansas,Pulaski,"North Little Rock","517 Dortch",,09/17/2004
+Arkansas,Pulaski,"North Little Rock","517 Dortch",,09/17/2004
+Arkansas,Pulaski,"North Little Rock","1421 36th W St",,09/21/2004
+Arkansas,Pulaski,"North Little Rock","1421 36th W St",,09/21/2004
+Arkansas,Pulaski,"Little Rock","9612 Stagecoach Rd",,09/21/2004
+Arkansas,Jefferson,Redfield,"621 Ply Dr",,09/23/2004
+Arkansas,Benton,Gateway,"19394 Gann Ridge Rd",,09/27/2004
+Arkansas,Logan,Magazine,"230 Paint Rock W Rd",,09/28/2004
+Arkansas,Howard,"Mineral Springs","100 Stone Rd",,09/28/2004
+Arkansas,Logan,Magazine,"230 Paint Rock W Rd",,09/28/2004
+Arkansas,Howard,"Mineral Springs","100 Stone Rd",,09/28/2004
+Arkansas,Jefferson,"Pine Bluff","1214 104 Hwy",,09/29/2004
+Arkansas,Pulaski,"Little Rock","3121 Bankhead 321",,09/29/2004
+Arkansas,Pulaski,"Little Rock","1717 Louisana S St 25",,10/04/2004
+Arkansas,Pulaski,"Little Rock","1717 Louisana S St 25",,10/04/2004
+Arkansas,Saline,"Shannon Hills","10202 Branch Dell E St",,10/05/2004
+Arkansas,Washington,Springdale,"2158 Orchard C",,10/05/2004
+Arkansas,Saline,"Shannon Hills","10202 Branch Dell E St",,10/05/2004
+Arkansas,Lonoke,Cabot,"16079 Highway 5",,10/06/2004
+Arkansas,Benton,Lowell,"12350 Mains Rd",,10/06/2004
+Arkansas,Lonoke,Cabot,"16079 Highway 5",,10/06/2004
+Arkansas,Pulaski,Jacksonville,"306 (b) J.p. Wright Loop Rd 61",,10/07/2004
+Arkansas,Pulaski,Jacksonville,"306 (a) J.p. Wright Loop Rd A6",,10/07/2004
+Arkansas,Pulaski,Jacksonville,"306 (b) J.p. Wright Loop Rd 61",,10/07/2004
+Arkansas,Pulaski,Jacksonville,"306 (a) J.p. Wright Loop Rd A6",,10/07/2004
+Arkansas,Washington,Springdale,"703 Cruther St A",,10/09/2004
+Arkansas,Washington,Springdale,"703 Cruther St A",,10/09/2004
+Arkansas,Washington,Fayetteville,"970 Washington S St",,10/10/2004
+Arkansas,Washington,Fayetteville,"970 Washington S St",,10/10/2004
+Arkansas,Lonoke,Lonoke,"100 Davis Rd",,10/11/2004
+Arkansas,Boone,Harrison,"621 Holt W St",,10/12/2004
+Arkansas,Conway,Morrilton,"15 Havin Rd",,10/12/2004
+Arkansas,Washington,Winslow,"426 Hwy 71 S Hwy",,10/12/2004
+Arkansas,Washington,"West Fork","17501 Dripping Springs Rd",,10/13/2004
+Arkansas,Pulaski,"North Little Rock","1003 48th W",,10/13/2004
+Arkansas,Washington,"West Fork","17501 Dripping Springs Rd",,10/13/2004
+Arkansas,Saline,Mabelvale,"15010 Sardis N",,10/14/2004
+Arkansas,Poinsett,Harrisburg,"989 Shaver Ln",,10/17/2004
+Arkansas,Lonoke,Cabot,"801 Pickthorn",,10/18/2004
+Arkansas,Lonoke,Cabot,"801 Pickthorn",,10/18/2004
+Arkansas,Pulaski,"North Little Rock","5509 Macarthur Dr 9",,10/20/2004
+Arkansas,Pulaski,"North Little Rock","5509 Macarthur Dr 9",,10/20/2004
+Arkansas,Conway,Morrilton,"2695 Hwy 9 N",,10/20/2004
+Arkansas,Cleburne,Drasco,"Richwood Mountain E Rd 110",,10/20/2004
+Arkansas,Pulaski,"Little Rock","4710 Eastwood",,10/21/2004
+Arkansas,"Van Buren","Bee Branch","957 Holly Leaf Rd",,10/21/2004
+Arkansas,"Van Buren","Bee Branch","957 Holly Leaf Rd",,10/21/2004
+Arkansas,Pulaski,"Little Rock","4710 Eastwood",,10/21/2004
+Arkansas,Pulaski,"Little Rock","7213 Redwood St",,10/24/2004
+Arkansas,Pulaski,"Little Rock","7213 Redwood St",,10/24/2004
+Arkansas,Benton,"Siloam Springs","2117 Hwy 412 W",,10/25/2004
+Arkansas,Pulaski,"North Little Rock","7700 Hills N 303",,10/27/2004
+Arkansas,Washington,Fayetteville,"4235 Valley Lake N 9",,10/27/2004
+Arkansas,Pulaski,"North Little Rock","7700 Hills N 303",,10/27/2004
+Arkansas,Independence,Bradford,"1348 Overlook Dr",,10/29/2004
+Arkansas,Independence,Bradford,"1348 Overlook Dr",,10/29/2004
+Arkansas,Lonoke,Cabot,"300 Chapel Ridge Dr 723",,10/29/2004
+Arkansas,Benton,Centerton,"14059 White Oak Ln",,10/30/2004
+Arkansas,Pulaski,"Little Rock","2001 Green Mountain Dr 216",,10/31/2004
+Arkansas,"Van Buren",Clinton,"1173 Hill Point Rd",,11/02/2004
+Arkansas,"Van Buren",Clinton,"1173 Hill Point Rd",,11/02/2004
+Arkansas,Conway,"Bird Town","25 M & M Rd",,11/03/2004
+Arkansas,Saline,Bryant,"2320 Justice Loop Rd",,11/04/2004
+Arkansas,Saline,Bryant,"2320 Justice Loop Rd",,11/04/2004
+Arkansas,"Hot Spring",Malvern,"1601 Babcock",,11/04/2004
+Arkansas,Fulton,"Mammoth Spring","1200 River Oak Rd",,11/04/2004
+Arkansas,Fulton,"Mammoth Spring","1200 River Oak Rd",,11/04/2004
+Arkansas,Independence,"Pleasant Plains","416 Main St",,11/04/2004
+Arkansas,Sebastian,"Fort Smith","3509 Reed Ln",,11/04/2004
+Arkansas,Fulton,"Mammoth Spring","43 Wooddale",,11/04/2004
+Arkansas,Independence,"Pleasant Plains","416 Main St",,11/04/2004
+Arkansas,Fulton,"Mammoth Spring","43 Wooddale",,11/04/2004
+Arkansas,Carroll,Berryville,"285 County Road 405",,11/05/2004
+Arkansas,Carroll,Berryville,"2300 Cr 504",,11/05/2004
+Arkansas,"Hot Spring",Malvern,"272 Paris Ln",,11/05/2004
+Arkansas,Benton,"Cave Springs","150 Midway W St",,11/06/2004
+Arkansas,Garland,"Hot Springs","137 Mccoy Ln",,11/08/2004
+Arkansas,Washington,Fayetteville,"1212 Iron Horse N Dr",,11/08/2004
+Arkansas,Garland,"Hot Springs","137 Mccoy Ln",,11/08/2004
+Arkansas,Benton,Lowell,"310 Zion S St",,11/09/2004
+Arkansas,Saline,Benton,"4387 Harrison Rd",,11/10/2004
+Arkansas,Saline,Benton,"4387 Harrison Rd",,11/10/2004
+Arkansas,Saline,Benton,"4387 Harrison Rd",,11/10/2004
+Arkansas,"Hot Spring",Malvern,"14 Garland St",,11/16/2004
+Arkansas,Benton,Rogers,"2313 Pecan W St",,11/16/2004
+Arkansas,"Hot Spring",Malvern,"14 Garland St",,11/16/2004
+Arkansas,Washington,Springdale,"1701 West End S 61",,11/18/2004
+Arkansas,Craighead,Jonesboro,"1604 Angela Lee",,11/18/2004
+Arkansas,Pulaski,"Little Rock","1900 Resevoir St C 50",,11/18/2004
+Arkansas,Washington,Springdale,"1701 West End S 61",,11/18/2004
+Arkansas,Washington,"Prairie Grove","16826 Cove Creek Rd",,11/19/2004
+Arkansas,Sebastian,"Fort Smith","611 11th N St",,11/21/2004
+Arkansas,Sebastian,"Fort Smith","611 11th N St",,11/21/2004
+Arkansas,Benton,Rogers,"786 6th N",,11/24/2004
+Arkansas,Pulaski,"Little Rock","600 Hardin Rd 110",,11/25/2004
+Arkansas,Pulaski,"Little Rock","600 Hardin Rd 110",,11/25/2004
+Arkansas,Crawford,"Van Buren","727 Uniontown E St",,11/29/2004
+Arkansas,Conway,Springfield,"24 Haley Dr",,12/01/2004
+Arkansas,"Hot Spring",Bismarck,"2607 Fendley",,12/01/2004
+Arkansas,"Hot Spring",Bismarck,"2607 Fendley",,12/01/2004
+Arkansas,Stone,"Mountain View","11899 Highway 5 S Hwy",,12/03/2004
+Arkansas,Madison,Huntsville,"37086 Highway 23 N",,12/07/2004
+Arkansas,White,"Bald Knob","640 Stanley Rd",,12/07/2004
+Arkansas,White,"Bald Knob","640 Stanley Rd",,12/07/2004
+Arkansas,Lonoke,Cabot,"108 Magness Creek E",,12/10/2004
+Arkansas,Saline,Benton,"16732 Interstate 30",,12/10/2004
+Arkansas,Saline,Benton,"16732 Interstate 30",,12/10/2004
+Arkansas,Washington,Springdale,"108 Pierce St",,12/11/2004
+Arkansas,Lonoke,Ward,"607 Chamlie Olds Rd",,12/11/2004
+Arkansas,"Hot Spring",Malvern,"1129 Wallace St",,12/12/2004
+Arkansas,"Hot Spring",Malvern,"1129 Wallace St",,12/12/2004
+Arkansas,Perry,Adona,"372 Wades Crossing Rd",,12/13/2004
+Arkansas,Lonoke,Jacksonville,"1071 Delaney Rd",,12/20/2004
+Arkansas,Lonoke,Jacksonville,"1071 Delaney Rd",,12/20/2004
+Arkansas,Pulaski,"North Little Rock","2400 Mccain Bldg 11 1062",,12/20/2004
+Arkansas,Pulaski,"North Little Rock","2400 Mccain Bldg 11 1062",,12/20/2004
+Arkansas,Pulaski,"North Little Rock","5318 Wood St",,12/27/2004
+Arkansas,Pulaski,"North Little Rock","5318 Wood St",,12/27/2004
+Arkansas,Pulaski,"Little Rock","7900 Scott Hamilton Dr 149",,12/28/2004
+Arkansas,Pulaski,"Little Rock","7900 Scott Hamilton Dr 149",,12/28/2004
+Arkansas,Pulaski,"North Little Rock","5517 (b) Maccarthur Dr 19",,12/30/2004
+Arkansas,Pulaski,"North Little Rock","5517 (a) Macarthur Blvd 35",,12/30/2004
+Arkansas,Pulaski,"North Little Rock","5517 (a) Macarthur Blvd 35",,12/30/2004
+Arkansas,Pulaski,"North Little Rock","5517 (b) Maccarthur Dr 19",,12/30/2004
+Arkansas,Faulkner,Guy,"191 Wolf Branch",,12/30/2004
+Arkansas,Lonoke,Cabot,"2773 Highway 30",,01/04/2005
+Arkansas,Marion,Flippin,"Medley N Ln 108",,01/06/2005
+Arkansas,Pope,Pottsville,"5229 Us Hwy 64",,01/06/2005
+Arkansas,Washington,Springdale,"513 Mtn. View St",,01/06/2005
+Arkansas,Pope,Pottsville,"5229 Us Hwy 64",,01/06/2005
+Arkansas,Washington,Springdale,"513 Mtn. View St",,01/06/2005
+Arkansas,Benton,Rogers,"520 7th N St",,01/08/2005
+Arkansas,White,Searcy,"110 College S St",,01/09/2005
+Arkansas,White,Searcy,"110 College S St",,01/09/2005
+Arkansas,Miller,Texarkana,"1704 50th E",,01/12/2005
+Arkansas,Saline,Benton,"3025 5 Hwy 36",,01/14/2005
+Arkansas,Saline,Benton,"3025 5 Hwy 36",,01/14/2005
+Arkansas,Drew,Monticello,"Old Hwy 13 Hwy",,01/16/2005
+Arkansas,Sebastian,Barling,"1107 C St",,01/17/2005
+Arkansas,Sebastian,Barling,"1107 C St",,01/17/2005
+Arkansas,Washington,Fayetteville,"2331 Dean W St 20",,01/18/2005
+Arkansas,Washington,Fayetteville,"2331 Dean W St 20",,01/18/2005
+Arkansas,Boone,Harrison,"12380 Highway 62 E Hwy A",,01/18/2005
+Arkansas,Polk,Wickes,"534 Highway 278 E Hwy",,01/19/2005
+Arkansas,Independence,"Oil Trough","50 Charles St",,01/19/2005
+Arkansas,Craighead,Jonesboro,"315 State St 11",,01/20/2005
+Arkansas,Scott,Waldron,"1162 Upper Buffalo Rd",,01/21/2005
+Arkansas,Scott,Waldron,"1162 Upper Buffalo Rd",,01/21/2005
+Arkansas,Lonoke,Lonoke,"941 Bowen Rd",,01/25/2005
+Arkansas,Lonoke,Lonoke,"941 Bowen Rd",,01/25/2005
+Arkansas,Johnson,Clarksville,"601 Johnson N",,01/25/2005
+Arkansas,Crawford,"Van Buren","611 Thorman Ln",,01/26/2005
+Arkansas,Washington,Springdale,"5380 Walden Rd",,01/27/2005
+Arkansas,Washington,Fayetteville,"1400 15th E St 6",,01/29/2005
+Arkansas,Pulaski,"North Little Rock","4915 Francis St",,02/02/2005
+Arkansas,Searcy,"Witts Springs","Hc 75 Co Rd 390 242-a",,02/02/2005
+Arkansas,Pulaski,"North Little Rock","4915 Francis St",,02/02/2005
+Arkansas,Searcy,"Witts Springs","Hc 75 Co Rd 390 242-a",,02/02/2005
+Arkansas,Poinsett,"Marked Tree","34568 Capps Rd",,02/02/2005
+Arkansas,Marion,Summit,"Green Tree Rd 35",,02/11/2005
+Arkansas,Johnson,Clarksville,"137 Cr 3383",,02/15/2005
+Arkansas,Johnson,Clarksville,"137 Cr 3383",,02/15/2005
+Arkansas,Craighead,Jonesboro,"2400 Belt St",,02/17/2005
+Arkansas,Washington,Fayetteville,"2048 Birch N St",,02/18/2005
+Arkansas,Washington,Fayetteville,"2048 Birch N St",,02/18/2005
+Arkansas,Drew,Monticello,"106 Deal Ln",,02/23/2005
+Arkansas,Pike,Langley,"81 Strawn Rd",,02/25/2005
+Arkansas,Pike,Langley,"81 Strawn Rd",,02/25/2005
+Arkansas,Benton,Rogers,"541 12th N Pl 8",,03/01/2005
+Arkansas,Perry,Perryville,"75 Whipporwill",,03/02/2005
+Arkansas,Perry,Perryville,"75 Whipporwill",,03/02/2005
+Arkansas,Pulaski,"North Little Rock","1009 52nd W St",,03/02/2005
+Arkansas,Pulaski,"North Little Rock","1009 52nd W St",,03/02/2005
+Arkansas,Sebastian,"Fort Smith","611 11th N St 166",,03/05/2005
+Arkansas,Washington,Fayetteville,"109 Eagle W St",,03/07/2005
+Arkansas,Baxter,"Mountain Home","16th E St 27",,03/07/2005
+Arkansas,Garland,"Hot Springs","3510 Albert Pike Rd 10",,03/08/2005
+Arkansas,Garland,"Hot Springs","120 Lamott St",,03/08/2005
+Arkansas,Garland,"Hot Springs","3510 Albert Pike Rd 10",,03/08/2005
+Arkansas,Pulaski,"North Little Rock","8040 Rains Rd",,03/09/2005
+Arkansas,Pulaski,"North Little Rock","8040 Rains Rd",,03/09/2005
+Arkansas,Faulkner,Mayflower,"7 Craeton St",,03/09/2005
+Arkansas,"Hot Spring",Malvern,"114 Alcoa Rd",,03/09/2005
+Arkansas,"Hot Spring",Malvern,"114 Alcoa Rd",,03/09/2005
+Arkansas,Pulaski,"Little Rock","10024 Nash Ln",,03/10/2005
+Arkansas,Independence,Batesville,"20 Rick Rd",,03/10/2005
+Arkansas,Independence,Batesville,"20 Rick Rd",,03/10/2005
+Arkansas,Fulton,Salem,"662 Tall Pines",,03/11/2005
+Arkansas,"Hot Spring",Malvern,"459 Stell Rd",,03/12/2005
+Arkansas,"Hot Spring",Malvern,"459 Stell Rd",,03/12/2005
+Arkansas,Pulaski,"North Little Rock","4503 Vestal Ln",,03/13/2005
+Arkansas,Columbia,Magnolia,"434 Main E St",,03/14/2005
+Arkansas,Perry,Perryville,"1107 Scenic St",,03/14/2005
+Arkansas,Perry,Perryville,"1107 Scenic St",,03/14/2005
+Arkansas,Garland,"Hot Springs","153 Chelle St",,03/15/2005
+Arkansas,Garland,"Hot Springs","1210 Akers Rd",,03/28/2005
+Arkansas,Garland,"Hot Springs","1210 Akers Rd",,03/28/2005
+Arkansas,Pulaski,"Little Rock","5301 8 W St",,03/30/2005
+Arkansas,Pulaski,"Little Rock","5301 8 W St",,03/30/2005
+Arkansas,Saline,Benton,"1007 Hicks Rd",,04/05/2005
+Arkansas,Saline,Benton,"1007 Hicks Rd",,04/05/2005
+Arkansas,Garland,Pearcy,"337 Pearcy N Rd",,04/06/2005
+Arkansas,Garland,Pearcy,"337 Pearcy N Rd",,04/06/2005
+Arkansas,Garland,"Hot Springs","3046 Hwy 7 N Hwy",,04/07/2005
+Arkansas,Garland,"Hot Springs","3046 Hwy 7 N Hwy",,04/07/2005
+Arkansas,Perry,Perryville,"9 (b) Catie Lp",,04/07/2005
+Arkansas,"Little River",Ashdown,"915 L.r. 17",,04/12/2005
+Arkansas,"Little River",Ashdown,"915 L.r. 17",,04/12/2005
+Arkansas,Pulaski,"Little Rock","12511 Heinke Rd",,04/13/2005
+Arkansas,Saline,"Shannon Hills","14223 Single Pine",,04/13/2005
+Arkansas,Saline,"Shannon Hills","14223 Single Pine",,04/13/2005
+Arkansas,Garland,"Hot Springs","138 Twinkle Star Rd",,04/14/2005
+Arkansas,Garland,"Hot Springs","138 Twinkle Star Rd",,04/14/2005
+Arkansas,Pulaski,"North Little Rock","4403 Lynn Ln",,04/20/2005
+Arkansas,Saline,Mabelvale,"17712 Sell Rd",,04/21/2005
+Arkansas,Craighead,Bay,"516 Timmons St",,04/23/2005
+Arkansas,Crawford,Rudy,"11247 Ozark Rd",,05/01/2005
+Arkansas,Sebastian,Greenwood,"531 Denver E St",,05/04/2005
+Arkansas,Sebastian,Greenwood,"531 Denver E St",,05/04/2005
+Arkansas,Mississippi,Leachville,"120 Mcnamee St",,05/18/2005
+Arkansas,Washington,Springdale,"2155 Harry St",,05/20/2005
+Arkansas,Logan,"Blue Mountain","13020 Hwy 10",,05/21/2005
+Arkansas,Logan,"Blue Mountain","13020 Hwy 10",,05/21/2005
+Arkansas,Garland,"Hot Springs","325 Leonard St",,05/22/2005
+Arkansas,Garland,"Hot Springs","325 Leonard St",,05/22/2005
+Arkansas,Pulaski,"Little Rock","127 Schiller N St",,05/23/2005
+Arkansas,Pulaski,"Little Rock","127 Schiller N St",,05/23/2005
+Arkansas,Pulaski,"North Little Rock","300 Baldwin N 8",,05/24/2005
+Arkansas,Pulaski,"North Little Rock","300 Baldwin N 8",,05/24/2005
+Arkansas,Garland,"Hot Springs","111 Torrey Ct",,06/08/2005
+Arkansas,Sebastian,"Fort Smith","5617 Plum St",,06/08/2005
+Arkansas,Saline,Bryant,"9300 Hwy 5",,06/08/2005
+Arkansas,Sebastian,"Fort Smith","5617 Plum St",,06/08/2005
+Arkansas,Faulkner,Conway,"3225 Blaney Hill Rd",,06/09/2005
+Arkansas,Saline,"Shannon Hills","14223 Single Pine Dr",,06/10/2005
+Arkansas,Pulaski,"North Little Rock","4925 Pike St N",,06/13/2005
+Arkansas,Pulaski,"North Little Rock","4925 Pike St N",,06/13/2005
+Arkansas,Garland,"Hot Springs","125 Disney St",,06/14/2005
+Arkansas,Garland,"Hot Springs","125 Disney St",,06/14/2005
+Arkansas,Garland,"Hot Springs","104 Loden St",,06/15/2005
+Arkansas,Garland,"Hot Springs","104 Loden St",,06/15/2005
+Arkansas,Sebastian,"Fort Smith","2023 Dallas S St 48",,06/29/2005
+Arkansas,Lonoke,Cabot,"17402 Highway 5",,07/02/2005
+Arkansas,Lonoke,Cabot,"17402 Highway 5",,07/02/2005
+Arkansas,Garland,"Hot Springs","104 Ennis St",,07/07/2005
+Arkansas,Logan,Paris,"768 Larve Ln",,07/10/2005
+Arkansas,Pope,Russellville,"1010 6th E St",,07/10/2005
+Arkansas,Logan,Paris,"768 Larve Ln",,07/10/2005
+Arkansas,Pope,Russellville,"1010 6th E St",,07/10/2005
+Arkansas,Yell,Danville,"12 12th W St 301",,07/11/2005
+Arkansas,Lonoke,Ward,"111 Elm St",,07/12/2005
+Arkansas,Lonoke,Ward,"Ward, Ar Lonoke 72124",,07/12/2005
+Arkansas,Logan,Booneville,"12 Thomas E",,07/13/2005
+Arkansas,Drew,Monticello,"204 Harris Rd Lot 15",,07/14/2005
+Arkansas,Pulaski,"North Little Rock","2400 Mccain St 1022",,07/22/2005
+Arkansas,Pulaski,"North Little Rock","2400 Mccain St 1022",,07/22/2005
+Arkansas,Garland,"Hot Springs","230 Manor Cir A19",,07/24/2005
+Arkansas,"Little River",Ashdown,"412 Orange St",,07/26/2005
+Arkansas,Sharp,Williford,"15 College St",,07/29/2005
+Arkansas,Sebastian,"Fort Smith","1809 12th S St",,08/02/2005
+Arkansas,Faulkner,Conway,"192 Hwy 365 S",,08/03/2005
+Arkansas,Grant,Leola,"608 Main St",,08/04/2005
+Arkansas,Clark,Amity,"1913 Hwy 346",,08/16/2005
+Arkansas,Sebastian,"Fort Smith","10213 45 S Hwy",,08/23/2005
+Arkansas,Washington,Fayetteville,"568 Rebecca St",,09/01/2005
+Arkansas,Washington,Fayetteville,"568 Rebecca St",,09/01/2005
+Arkansas,Crawford,Alma,"4928 Us Highway 71 N",,09/09/2005
+Arkansas,Sebastian,"Fort Smith","1820 12th S St",,09/14/2005
+Arkansas,Sebastian,"Fort Smith","1820 12th S St",,09/14/2005
+Arkansas,Sebastian,Hartford,"15 Oak S St",,09/17/2005
+Arkansas,Sebastian,Hartford,"15 Oak S St",,09/17/2005
+Arkansas,Sebastian,Hartford,"Hartford, Ar Sebastian 72938",,09/17/2005
+Arkansas,Sebastian,Hartford,"Hartford, Ar Sebastian 72938",,09/17/2005
+Arkansas,Pulaski,Jacksonville,"24007 107 N Hwy 4",,10/04/2005
+Arkansas,Pulaski,"Little Rock","4508 Godiva Ln",,10/09/2005
+Arkansas,Pulaski,"Little Rock","4508 Godiva Ln",,10/09/2005
+Arkansas,Garland,"Hot Springs","125 Corenea Cir",,10/12/2005
+Arkansas,Garland,"Hot Springs","125 Corenea Cir",,10/12/2005
+Arkansas,Washington,Tontitown,"1961 Maestri Rd",,10/15/2005
+Arkansas,"Hot Spring",Bonnerdale,"7102 Amity Rd",,10/21/2005
+Arkansas,"Hot Spring",Bonnerdale,"7102 Amity Rd",,10/21/2005
+Arkansas,Carroll,"Eureka Springs","19418 Highway 62 West W",,10/27/2005
+Arkansas,Faulkner,Conway,"191 Clinton Rd",,10/28/2005
+Arkansas,Washington,Fayetteville,"909 Eagle W St",,11/01/2005
+Arkansas,Washington,Fayetteville,"909 Eagle W St",,11/01/2005
+Arkansas,Faulkner,Conway,"37 Tpm Ln",,11/02/2005
+Arkansas,Benton,Rogers,"206 Buttry Road",,11/02/2005
+Arkansas,Jefferson,"Pine Bluff","7410 Gibbins Road",,11/04/2005
+Arkansas,Jefferson,"Pine Bluff","7410 Gibbins Road",,11/04/2005
+Arkansas,Crittenden,"West Memphis","122 West Cooper",,11/13/2005
+Arkansas,Pulaski,"Little Rock","3924 Weldon St",,11/23/2005
+Arkansas,Pulaski,"Little Rock","3924 Weldon St",,11/23/2005
+Arkansas,Saline,Benton,"39 Hiland B 39",,11/23/2005
+Arkansas,Saline,Benton,"39 Hiland B 39",,11/23/2005
+Arkansas,Pulaski,"Little Rock","Little Rock, Ar Pulaski 72207",,11/23/2005
+Arkansas,Sevier,"De Queen","172 Halter W Rd",,11/24/2005
+Arkansas,Sevier,"De Queen","172 Halter W Rd",,11/24/2005
+Arkansas,Saline,Mabelvale,"6415 Redbud Rd",,12/08/2005
+Arkansas,Saline,Mabelvale,"6415 Redbud Rd",,12/08/2005
+Arkansas,"Hot Spring",Malvern,"216 N. Laural St 216",,12/10/2005
+Arkansas,Pope,Russellville,"127 Laramie Rd",,12/20/2005
+Arkansas,Pope,Russellville,"127 Laramie Rd",,12/20/2005
+Arkansas,Pope,Russellville,"127 Laramie Trail Rd",,12/20/2005
+Arkansas,Pope,Russellville,"127 Laramie Trail Rd",,12/20/2005
+Arkansas,Jackson,Grubbs,"345 Elm N St",,12/23/2005
+Arkansas,Jackson,Grubbs,"Grubbs, Ar Jackson 72431",,12/23/2005
+Arkansas,Washington,Fayetteville,"22099 Tower Rd",,12/29/2005
+Arkansas,Mississippi,Luxora,"816 567 Rd 816 816",,12/30/2005
+Arkansas,Jefferson,"Pine Bluff","5811 Sassafras Trl",,01/09/2006
+Arkansas,White,"Bald Knob","310 East Jones Drive",,01/09/2006
+Arkansas,Jefferson,"Pine Bluff","5811 Sassafras Trl",,01/09/2006
+Arkansas,White,"Bald Knob","310 East Jones Drive",,01/09/2006
+Arkansas,White,Beebe,"326 Gillham Rd 326 326",,01/11/2006
+Arkansas,Jackson,Bradford,"1290 Jackson 197 S Rd",,01/12/2006
+Arkansas,White,Searcy,"2468 South 267 Highway",,01/13/2006
+Arkansas,White,Searcy,"2468 South 267 Highway",,01/13/2006
+Arkansas,Garland,"Hot Springs","331 Carlee Ct",,01/17/2006
+Arkansas,Sebastian,Huntington,"4938 Chapel Acres Cir 0 0",,01/19/2006
+Arkansas,Sebastian,Huntington,"4938 Chapel Acres Cir 0 0",,01/19/2006
+Arkansas,"Hot Spring",Malvern,"728 West Page Street",,01/23/2006
+Arkansas,Crittenden,Earle,"3008 Hwy 149 North 0 0",,01/23/2006
+Arkansas,"Hot Spring",Malvern,"728 West Page Street",,01/23/2006
+Arkansas,Pope,Pottsville,"85 Angel Lake Road",,01/23/2006
+Arkansas,Pope,Pottsville,"85 Angel Lake Road",,01/23/2006
+Arkansas,White,Searcy,"2470 South 267 Highway",,01/24/2006
+Arkansas,White,Searcy,"2470 South 267 Highway",,01/24/2006
+Arkansas,Pulaski,Cabot,"5016 Driskill Rd",,01/25/2006
+Arkansas,Pulaski,Sherwood,"607 Sherer Street",,01/25/2006
+Arkansas,Pulaski,Sherwood,"607 Sherer Street",,01/25/2006
+Arkansas,Faulkner,Conway,"365 Langley Trail S Trl 20 20",,01/25/2006
+Arkansas,Saline,Bauxite,"27700 Miller Cove",,01/26/2006
+Arkansas,Pulaski,"North Little Rock","14 Wright Cir",,01/26/2006
+Arkansas,Saline,N/a,"6920 Ram Road",,01/26/2006
+Arkansas,Pulaski,"North Little Rock","14 Wright Cir",,01/26/2006
+Arkansas,Saline,Bauxite,"27700 Miller Cove",,01/26/2006
+Arkansas,"Hot Spring",Malvern,"803 Pearson Landing St",,01/27/2006
+Arkansas,"Hot Spring",Malvern,"803 Pearson Landing St",,01/27/2006
+Arkansas,White,Searcy,"506 Riverside",,01/28/2006
+Arkansas,White,Searcy,"506 Riverside",,01/28/2006
+Arkansas,Pulaski,Cabot,"10327 Roland Rd",,02/02/2006
+Arkansas,Pulaski,Cabot,"10327 Roland Rd",,02/02/2006
+Arkansas,Saline,Benton,"805 Denton 0 0",,02/02/2006
+Arkansas,Saline,Benton,"805 Denton 0 0",,02/02/2006
+Arkansas,Jackson,Newport,"1000 Lelia Street",,02/03/2006
+Arkansas,Cross,Vanndale,"336 East County Road",,02/07/2006
+Arkansas,Pulaski,"Little Rock","201 East Dixon Road",,02/07/2006
+Arkansas,Pulaski,"Little Rock","201 East Dixon Road",,02/07/2006
+Arkansas,Pulaski,"Little Rock","7221 M Street",,02/08/2006
+Arkansas,Pulaski,"Little Rock","7221 M Street",,02/08/2006
+Arkansas,Ashley,Hamburg,"186 Treswell Rd",,02/09/2006
+Arkansas,"Hot Spring",Malvern,"804 W. Highland W 804",,02/17/2006
+Arkansas,"Hot Spring",Malvern,"804 W. Highland W 804",,02/17/2006
+Arkansas,Cross,"Cherry Valley","2070 West Hwy 364",,02/21/2006
+Arkansas,Washington,Fayetteville,"754 Taylor W",,02/21/2006
+Arkansas,Conway,"Center Ridge","291 Sunny Side Road",,02/22/2006
+Arkansas,Lonoke,Cabot,"1897 Mountain Springs Road",,02/23/2006
+Arkansas,Faulkner,Conway,"1525 Clifton Street 27",,02/24/2006
+Arkansas,Benton,Bentonville,"804 Southeast Hummingbird Lane",,02/24/2006
+Arkansas,Pulaski,Sherwood,"604 Brierly Dr",,02/28/2006
+Arkansas,Cross,"Cherry Valley","County Road Street 441",,02/28/2006
+Arkansas,Pulaski,"North Little Rock","412 Goshen",,03/02/2006
+Arkansas,Pulaski,"North Little Rock","222 West 33rd Place",,03/02/2006
+Arkansas,"Hot Spring",Malvern,"176 Cuffman Mill Rd",,03/02/2006
+Arkansas,Pulaski,"North Little Rock","412 Goshen",,03/02/2006
+Arkansas,"Hot Spring",Malvern,"268 Old Mill W Rd",,03/02/2006
+Arkansas,Pulaski,"North Little Rock","222 West 33rd Place",,03/02/2006
+Arkansas,"Hot Spring",Malvern,"176 Cuffman Mill Rd",,03/02/2006
+Arkansas,Faulkner,Conway,"16 Bream Nest Rd",,03/03/2006
+Arkansas,Washington,Springdale,"19586 War Eagle Blacktop",,03/03/2006
+Arkansas,Searcy,Marshall,"881 Red River Circle",,03/04/2006
+Arkansas,Searcy,Marshall,"881 Red River Circle",,03/04/2006
+Arkansas,Cross,Vanndale,"368 East County Road Street 151",,03/07/2006
+Arkansas,Franklin,Branch,"843 Brooklyn Road",,03/09/2006
+Arkansas,Pulaski,Jacksonville,"25419 Highway 107",,03/10/2006
+Arkansas,Pulaski,Jacksonville,"25419 Highway 107",,03/10/2006
+Arkansas,Franklin,Charleston,"10220 Highway 41",,03/12/2006
+Arkansas,Franklin,Charleston,"10220 Highway 41",,03/12/2006
+Arkansas,"Hot Spring",Friendship,"110 Caney Rd 110",,03/13/2006
+Arkansas,Cross,Wynne,"8 Cr6760",,03/13/2006
+Arkansas,Lonoke,Cabot,"362 Ballard Road",,03/13/2006
+Arkansas,"Hot Spring",Friendship,"110 Caney Rd 110",,03/13/2006
+Arkansas,Lonoke,Cabot,"362 Ballard Road",,03/13/2006
+Arkansas,White,Kensett,"110 First",,03/15/2006
+Arkansas,White,Kensett,"110 First",,03/15/2006
+Arkansas,Pope,Dover,"1156 Silex Road",,03/15/2006
+Arkansas,Pope,Dover,"1156 Silex Road",,03/15/2006
+Arkansas,Washington,Fayetteville,"53 East Rock",,03/17/2006
+Arkansas,Washington,Fayetteville,"53 East Rock",,03/17/2006
+Arkansas,Washington,Fayetteville,"1327 South Duncan Avenue -",,03/23/2006
+Arkansas,Logan,Booneville,"820 West 4th Street",,03/24/2006
+Arkansas,Boone,Harrison,"6957 Essies Lane",,03/24/2006
+Arkansas,Logan,Booneville,"820 West 4th Street",,03/24/2006
+Arkansas,Logan,Paris,"West Pool 3rd",,03/27/2006
+Arkansas,Washington,Springdale,"18660 North Cedar Grove",,03/28/2006
+Arkansas,Jefferson,"Pine Bluff","5200 Sassafras Trail Street",,03/28/2006
+Arkansas,Jefferson,"Pine Bluff","5200 Sassafras Trail Street",,03/28/2006
+Arkansas,Washington,Springdale,"18660 North Cedar Grove",,03/28/2006
+Arkansas,"Van Buren",Clinton,"7144 North 65 7144",,03/29/2006
+Arkansas,"Van Buren",Clinton,"7144 North 65 7144",,03/29/2006
+Arkansas,Izard,"Calico Rock","363 Hc 62 Road 363",,03/30/2006
+Arkansas,Izard,"Calico Rock","363 Hc 62 Road 363",,03/30/2006
+Arkansas,"Hot Spring",Malvern,"620 Division 620",,03/31/2006
+Arkansas,"Hot Spring",Malvern,"620 Division 620",,03/31/2006
+Arkansas,Baxter,"Mountain Home","995 Cr 995",,04/01/2006
+Arkansas,Howard,Dierks,"308 Mount Carmel Road",,04/03/2006
+Arkansas,Pulaski,"Little Rock","12006 Stormy Lane",,04/04/2006
+Arkansas,"Van Buren",Clinton,"354 Razorback Drive 354",,04/04/2006
+Arkansas,"Van Buren",Clinton,"451 Razorback Drive 451",,04/04/2006
+Arkansas,Pulaski,"Little Rock","12006 Stormy Lane",,04/04/2006
+Arkansas,"Van Buren",Clinton,"451 Razorback Drive 451",,04/04/2006
+Arkansas,Marion,Yellville,"11592 Hwy 235 11592",,04/06/2006
+Arkansas,Saline,Paron,"22515 Wildman Trail",,04/10/2006
+Arkansas,Pulaski,"Little Rock","4615 Dill Road",,04/12/2006
+Arkansas,Pulaski,"Little Rock","4615 Dill Road",,04/12/2006
+Arkansas,"Hot Spring",Malvern,"2446 Wine Dot Road",,04/13/2006
+Arkansas,Jackson,Newport,"8088 South 367",,04/13/2006
+Arkansas,Pulaski,"North Little Rock","7404 (a) Caldwell Road",,04/14/2006
+Arkansas,Pulaski,"North Little Rock","7404 (a) Caldwell Road",,04/14/2006
+Arkansas,Greene,Paragould,"270 County Road 117 Road",,04/17/2006
+Arkansas,Lawrence,Ravenden,"740 North 90 Highway",,04/17/2006
+Arkansas,Greene,Paragould,"270 County Road 117 Road",,04/17/2006
+Arkansas,Lawrence,Ravenden,"740 North 90 Highway",,04/17/2006
+Arkansas,Cleburne,Quitman,"349 Hickory Road",,04/17/2006
+Arkansas,White,Searcy,"109 Coles",,04/20/2006
+Arkansas,White,Searcy,"109 Coles",,04/20/2006
+Arkansas,"Hot Spring",Malvern,"698 Harver Hills Road",,04/21/2006
+Arkansas,"Hot Spring",Malvern,"698 Harver Hills Road",,04/21/2006
+Arkansas,"Hot Spring",Malvern,"111 Lodestone Road",,04/21/2006
+Arkansas,Crittenden,"West Memphis","618 Balfour Road",,04/27/2006
+Arkansas,Jackson,Grubbs,"175 North Elm Street",,05/03/2006
+Arkansas,Grant,Sheridan,"4632 Grant 58",,05/03/2006
+Arkansas,Jackson,Grubbs,"175 North Elm Street",,05/03/2006
+Arkansas,Pulaski,Jacksonville,"2105 Hamilton Street 12",,05/05/2006
+Arkansas,Pulaski,Jacksonville,"2105 Hamilton Street 12",,05/05/2006
+Arkansas,Jackson,Grubbs,"115 East Nance Street",,05/05/2006
+Arkansas,Garland,"Hot Springs","815 Springs",,05/08/2006
+Arkansas,Garland,"Hot Springs","815 Springs",,05/08/2006
+Arkansas,Greene,Paragould,"504 Cindy Street",,05/09/2006
+Arkansas,Greene,Paragould,"504 Cindy Street",,05/09/2006
+Arkansas,Sevier,"De Queen","41 South State Hwy 1173",,05/11/2006
+Arkansas,Sevier,"De Queen","41 South State Hwy 1173",,05/11/2006
+Arkansas,Saline,Benton,"11634 Dustin",,05/16/2006
+Arkansas,Saline,Benton,"11634 Dustin",,05/16/2006
+Arkansas,Crittenden,"West Memphis","301 North Redding",,05/17/2006
+Arkansas,Poinsett,Trumann,"169 South Magnolia Street",,05/18/2006
+Arkansas,Poinsett,Trumann,"169 South Magnolia Street",,05/18/2006
+Arkansas,Pulaski,Jacksonville,"12363 Jacksonville Cutoff Road",,05/19/2006
+Arkansas,Searcy,Gilbert,"7 Frost",,05/22/2006
+Arkansas,Searcy,Gilbert,"7 Frost",,05/22/2006
+Arkansas,Pulaski,Maumelle,"41 Vantage",,05/30/2006
+Arkansas,Pulaski,Maumelle,"41 Vantage",,05/30/2006
+Arkansas,Greene,Paragould,"412 Bard Road",,06/01/2006
+Arkansas,Greene,Paragould,"412 Bard Road",,06/01/2006
+Arkansas,White,Searcy,"1210 West Vine Street",,06/01/2006
+Arkansas,White,Searcy,"1210 West Vine Street",,06/01/2006
+Arkansas,Fulton,"Mammoth Spring","2753 Moonlight Road",,06/06/2006
+Arkansas,Fulton,"Mammoth Spring","2753 Moonlight Road",,06/06/2006
+Arkansas,Arkansas,Stuttgart,"1007 North Leslie Street",,06/07/2006
+Arkansas,Baxter,Norfork,"245 Major",,06/07/2006
+Arkansas,Washington,Fayetteville,"18 South Duncan Avenue",,06/10/2006
+Arkansas,Washington,Fayetteville,"18 South Duncan Avenue",,06/10/2006
+Arkansas,Madison,Hindsville,"1237 Madison County 7220",,06/19/2006
+Arkansas,Madison,Hindsville,"1237 Madison County 7220",,06/19/2006
+Arkansas,Pulaski,"Little Rock","13020 Ironton Cut Off",,06/24/2006
+Arkansas,Pulaski,"Little Rock","13020 Ironton Cut Off",,06/24/2006
+Arkansas,Garland,"Hot Springs","105 Diamond Drive Drive",,06/27/2006
+Arkansas,Lonoke,Lonoke,"929 Kerr Road 929",,06/28/2006
+Arkansas,Washington,Fayetteville,"124 West South",,06/29/2006
+Arkansas,Washington,Fayetteville,"124 West South",,06/29/2006
+Arkansas,Saline,Benton,"2421 Edison Avenue",,06/29/2006
+Arkansas,Saline,Benton,"2421 Edison Avenue",,06/29/2006
+Arkansas,Greene,Paragould,"807 West Kings Hwy",,07/07/2006
+Arkansas,Jackson,Newport,"610 Lakeshore Drive",,07/10/2006
+Arkansas,Pulaski,Cabot,"3412 West Justice Road",,07/10/2006
+Arkansas,Pulaski,Cabot,"3412 West Justice Road",,07/10/2006
+Arkansas,Pulaski,"North Little Rock","812 North Palm Street",,07/18/2006
+Arkansas,Mississippi,Osceola,"1136 South Country Club Rd.",,07/19/2006
+Arkansas,"Hot Spring",Malvern,"1415 Old Dixsonville",,07/21/2006
+Arkansas,Pope,Atkins,"27 Red Clay Road",,07/28/2006
+Arkansas,"Hot Spring",Malvern,"373 Rocker",,07/28/2006
+Arkansas,Pulaski,"Little Rock","312 Russenberger Road",,07/31/2006
+Arkansas,Sebastian,Greenwood,"461 Webster Street",,08/01/2006
+Arkansas,Faulkner,Greenbrier,"17 Wellwood",,08/01/2006
+Arkansas,Johnson,Clarksville,"1060 County Route 4430 Route",,08/04/2006
+Arkansas,Washington,Springdale,"1901 West Shady Grove",,08/04/2006
+Arkansas,Johnson,Clarksville,"1060 County Route 4430 Route",,08/04/2006
+Arkansas,Poinsett,Harrisburg,"19369 Eugene Road",,08/04/2006
+Arkansas,Washington,Springdale,"1901 West Shady Grove",,08/04/2006
+Arkansas,Poinsett,Harrisburg,"19369 Eugene Road",,08/04/2006
+Arkansas,Pulaski,Jacksonville,"1022 Ferrell Street",,08/04/2006
+Arkansas,Fulton,"Cherokee Village","64 Tonsue Road",,08/08/2006
+Arkansas,"Hot Spring",Malvern,"100 Gammel Lane 100",,08/10/2006
+Arkansas,"Hot Spring",Malvern,"100 Gammel Lane 100",,08/10/2006
+Arkansas,Saline,Benton,"202 Rasberry Street",,08/11/2006
+Arkansas,Faulkner,Conway,"4 Brown Street",,08/11/2006
+Arkansas,Saline,Benton,"202 Rasberry Street",,08/11/2006
+Arkansas,Fulton,"Mammoth Spring","295 North 16th Street",,08/16/2006
+Arkansas,Fulton,"Mammoth Spring","295 North 16th",,08/16/2006
+Arkansas,Cross,Vanndale,"21 Cr 355",,08/16/2006
+Arkansas,Poinsett,Trumann,"314 Eastside Gardens",,08/17/2006
+Arkansas,Poinsett,Trumann,"314 Eastside Gardens",,08/17/2006
+Arkansas,White,"Bald Knob","603 South Main Street",,08/24/2006
+Arkansas,White,"Bald Knob","603 South Main Street",,08/24/2006
+Arkansas,Washington,Fayetteville,"1112 North Oakland",,08/24/2006
+Arkansas,Sebastian,"Fort Smith","1710 South Carthage Street",,08/30/2006
+Arkansas,Saline,Alexander,"19909 South Alexander",,08/30/2006
+Arkansas,Sebastian,"Fort Smith","1710 South Carthage Street",,08/30/2006
+Arkansas,Saline,Alexander,"19909 South Alexander",,08/30/2006
+Arkansas,"Hot Spring",Malvern,"827 West Highland Street 827",,09/02/2006
+Arkansas,"Hot Spring",Malvern,"827 West Highland Street 827",,09/02/2006
+Arkansas,Cross,Wynne,"3753 East Highway 284",,09/09/2006
+Arkansas,Pulaski,"North Little Rock","1400 Graham",,09/13/2006
+Arkansas,Washington,Fayetteville,"1525 North Oakland Avenue",,09/15/2006
+Arkansas,Drew,Monticello,"123 East Jackson Avenue",,09/18/2006
+Arkansas,Woodruff,Patterson,"101 Southwest 2nd Street",,09/20/2006
+Arkansas,Woodruff,Patterson,"101 Southwest 2nd Street",,09/20/2006
+Arkansas,Jefferson,"Pine Bluff","8205 Us Hwy 63 South",,09/21/2006
+Arkansas,Boone,Harrison,"1268 Wolf Springs Road",,09/21/2006
+Arkansas,Sebastian,"Fort Smith","4311 Tennessee Ridge Road",,09/21/2006
+Arkansas,Jefferson,"Pine Bluff","8205 Us Hwy 63 South",,09/21/2006
+Arkansas,Poinsett,Harrisburg,"7602 Rose Ln",,09/26/2006
+Arkansas,Mississippi,Dyess,"2970 West County Road 940",,09/29/2006
+Arkansas,Mississippi,Dyess,"2970 West County Road 940",,09/29/2006
+Arkansas,Garland,"Hot Springs National Park","128 Woodbine Street",,10/04/2006
+Arkansas,Madison,Elkins,"495 Madison Avenue",,10/05/2006
+Arkansas,Madison,Elkins,"495 Madison Avenue",,10/05/2006
+Arkansas,Jefferson,"White Hall","11003 Hwy 270",,10/10/2006
+Arkansas,Benton,Hiwasse,"72 Hwy 72",,10/11/2006
+Arkansas,Lonoke,Ward,"162 Margie Lane",,10/16/2006
+Arkansas,Lonoke,Ward,"162 Margie Lane",,10/16/2006
+Arkansas,Benton,Rogers,"1503 Rolling Oaks Drive",,10/17/2006
+Arkansas,Logan,Booneville,"2230 Loveall Road",,10/18/2006
+Arkansas,Logan,Booneville,"2230 Loveall Road",,10/18/2006
+Arkansas,Sevier,"De Queen","734 Piney Road",,10/19/2006
+Arkansas,Sevier,"De Queen","734 Piney Road",,10/19/2006
+Arkansas,Perry,Bigelow,"259 Ball Park Road",,10/30/2006
+Arkansas,Perry,Bigelow,"259 Ball Park Road",,10/30/2006
+Arkansas,Washington,Springdale,"1506 Thrush",,10/30/2006
+Arkansas,Washington,Springdale,"1506 Thrush",,10/30/2006
+Arkansas,Lonoke,Cabot,"334 Gray Hawk Circle",,11/01/2006
+Arkansas,Jackson,Newport,"1513 Hines",,11/04/2006
+Arkansas,Jackson,Newport,"1582 South Highway 37",,11/04/2006
+Arkansas,Lonoke,England,"306 Weedan Cemetery",,11/05/2006
+Arkansas,Lonoke,England,"306 Weedan Cemetery",,11/05/2006
+Arkansas,Jackson,Bradford,"5833 Jackson 6 Road",,11/06/2006
+Arkansas,Jackson,Bradford,"5833 Jackson 6 Road",,11/06/2006
+Arkansas,Jackson,Bradford,"5831 Jackson 6 Road",,11/06/2006
+Arkansas,Jackson,Bradford,"5831 Jackson 6 Road",,11/06/2006
+Arkansas,Lonoke,Cabot,"1384 West Mountain Springs Road",,11/08/2006
+Arkansas,Pope,Russellville,"1206 East Main",,11/09/2006
+Arkansas,Pope,Russellville,"1206 East Main",,11/09/2006
+Arkansas,Yell,Dardanelle,"10246 Water Plant Road",,11/10/2006
+Arkansas,Ashley,Hamburg,"125 North Skender Lane",,11/13/2006
+Arkansas,Franklin,Ozark,"4930 Low Gap Road",,11/20/2006
+Arkansas,Franklin,Ozark,"4930 Low Gap Road",,11/20/2006
+Arkansas,"Little River",Ashdown,"329 Lr 35",,11/23/2006
+Arkansas,"Little River",Ashdown,"329 Lr 35",,11/23/2006
+Arkansas,Ashley,Hamburg,"200 Ashley Road 495",,11/25/2006
+Arkansas,Stone,Prim,"243 Hanover Road",,11/27/2006
+Arkansas,Pulaski,"Little Rock","8211 Baseline Road",,11/29/2006
+Arkansas,Sharp,"Cave City","1211 North Main Street",,11/29/2006
+Arkansas,Pulaski,"Little Rock","8211 Baseline Road",,11/29/2006
+Arkansas,Sharp,"Cave City","1211 North Main Street",,11/29/2006
+Arkansas,"Van Buren","Bee Branch","3330 West State Hwy 92",,11/29/2006
+Arkansas,Conway,Morrilton,"206 Arthur Street",,12/01/2006
+Arkansas,Pulaski,"North Little Rock","1409 Division Street",,12/04/2006
+Arkansas,Pulaski,"North Little Rock","1409 Division Street",,12/04/2006
+Arkansas,Washington,Springdale,"20645 South Vanzant Road",,12/07/2006
+Arkansas,"Hot Spring",Bismarck,"2643 Highway 128 Highway",,12/13/2006
+Arkansas,Jackson,Newport,"800 Manning",,12/13/2006
+Arkansas,Boone,Harrison,"10005 Main Street",,12/13/2006
+Arkansas,"Hot Spring",Bismarck,"2643 Highway 128 Highway",,12/13/2006
+Arkansas,Benton,Rogers,"907 South B Street",,12/14/2006
+Arkansas,Pulaski,"North Little Rock","3605 Pine Street",,12/15/2006
+Arkansas,Pulaski,"North Little Rock","3605 Pine Street",,12/15/2006
+Arkansas,Garland,"Hot Springs","210 Hutch",,12/18/2006
+Arkansas,Garland,"Hot Springs","210 Hutch",,12/18/2006
+Arkansas,Mississippi,Dyess,"4325 South County Road 175",,12/27/2006
+Arkansas,Mississippi,Dyess,"4325 South County Road 175",,12/27/2006
+Arkansas,Pulaski,Jacksoniville,"311 North Elm Street",,12/31/2006
+Arkansas,Pulaski,Jacksoniville,"311 North Elm Street",,12/31/2006
+Arkansas,Ashley,Crossett,"289 Ashley",,01/02/2007
+Arkansas,Franklin,Ozark,"8548 Trails End Lane",,01/04/2007
+Arkansas,Poinsett,Harrisburg,"7602 Rose Lane",,01/05/2007
+Arkansas,Poinsett,Harrisburg,"7602 Rose Lane",,01/05/2007
+Arkansas,Pulaski,"Little Rock","16923 Old Mill Road",,01/07/2007
+Arkansas,Washington,Fayetteville,"1673 Florene Street",,01/08/2007
+Arkansas,Saline,Benton,"5325 Lambert",,01/10/2007
+Arkansas,Saline,Benton,"5325 Lambert",,01/10/2007
+Arkansas,Yell,Dardanelle,"11145 Brabec Road",,01/11/2007
+Arkansas,Pulaski,"Little Rock","14100 Cooper Orbit Cove",,01/12/2007
+Arkansas,Pulaski,"Little Rock","14100 Cooper Orbit Cove",,01/12/2007
+Arkansas,Benton,Gentry,"10810 Winningham Road",,01/17/2007
+Arkansas,Sebastian,"Fort Smith","1604 South V Street",,01/18/2007
+Arkansas,Pulaski,Sherwood,"8815 Woodbine Street",,01/23/2007
+Arkansas,Arkansas,Stuttgart,"54 Smith-vester Road",,01/24/2007
+Arkansas,Lonoke,Ward,"171 West 2nd Street",,01/26/2007
+Arkansas,Ashley,Hamburg,"609 East Lincoln Street",,02/01/2007
+Arkansas,"Hot Spring",Malvern,"Rocker Road",,02/03/2007
+Arkansas,"Hot Spring",Malvern,"Rocker Road",,02/03/2007
+Arkansas,Saline,Traskwood,"2216 West Main",,02/07/2007
+Arkansas,Saline,Traskwood,"2216 West Main",,02/07/2007
+Arkansas,Benton,"Siloam Springs","1050 North Britt Street",,02/12/2007
+Arkansas,Faulkner,Wooster,"18 Patton 18",,02/14/2007
+Arkansas,Pulaski,"North Little Rock","717 West 50th Street",,02/23/2007
+Arkansas,Pulaski,"North Little Rock","717 West 50th Street",,02/23/2007
+Arkansas,Sebastian,"Fort Smith","1709 South 12th Street",,02/24/2007
+Arkansas,Sebastian,"Fort Smith","1709 South 12th Street",,02/24/2007
+Arkansas,Benton,Rogers,"2424 South 26th Street",,02/26/2007
+Arkansas,Mississippi,Osceola,"105 Mockingbird Lane",,03/01/2007
+Arkansas,Mississippi,Osceola,"105 Mockingbird Lane",,03/01/2007
+Arkansas,Cross,Wynne,"117 West 8th Street",,03/05/2007
+Arkansas,Cleburne,"Heber Springs","354 Cutoff",,03/06/2007
+Arkansas,Madison,Huntsville,"114 Redwood Court",,03/08/2007
+Arkansas,Madison,Huntsville,"114 Redwood Court",,03/08/2007
+Arkansas,Jackson,Newport,"2344 Jackson 19",,03/09/2007
+Arkansas,Franklin,Ozark,"121 East College Street 121",,03/14/2007
+Arkansas,Franklin,Ozark,"121 East College Street 121",,03/14/2007
+Arkansas,Saline,Bauxite,"1113 South Circle Circle",,03/15/2007
+Arkansas,Saline,Bauxite,"1113 South Circle Circle",,03/15/2007
+Arkansas,Miller,Texarkana,"2224 Lineferry Road",,03/16/2007
+Arkansas,Miller,Texarkana,"2224 Lineferry Road",,03/16/2007
+Arkansas,Fulton,"Mammoth Spring","704 Riverbend Rd.",,03/19/2007
+Arkansas,Fulton,"Mammoth Spring","704 Riverbend Rd.",,03/19/2007
+Arkansas,Greene,Paragould,"59 Greene 750 Road",,03/20/2007
+Arkansas,Greene,Paragould,"59 Greene 750 Road",,03/20/2007
+Arkansas,Drew,Monticello,"329 S Texas",,03/27/2007
+Arkansas,Grant,Hensley,"2227 Grant 53",,03/27/2007
+Arkansas,Faulkner,Conway,"124 Skunk Hollow Lot 4",,04/03/2007
+Arkansas,Grant,Sheridan,"4055 North Hwy 35",,04/06/2007
+Arkansas,Madison,Elkins,"22029 Fern Road",,04/11/2007
+Arkansas,Poinsett,Trumann,"3450 Collier Ln",,04/11/2007
+Arkansas,Madison,Elkins,"22029 Fern Road",,04/11/2007
+Arkansas,Poinsett,Trumann,"3450 Collier Ln",,04/11/2007
+Arkansas,Benton,Rogers,"3001 West Margaret Place",,04/17/2007
+Arkansas,White,Beebe,"471 Swinging Bridge Road",,04/19/2007
+Arkansas,Saline,Benton,"734 Quantz Road",,04/19/2007
+Arkansas,White,Beebe,"471 Swinging Bridge Road",,04/19/2007
+Arkansas,Saline,Benton,"734 Quantz Road",,04/19/2007
+Arkansas,White,Searcy,"105 Allen Mountain Road",,04/24/2007
+Arkansas,White,Searcy,"105 Allen Mountain Road",,04/24/2007
+Arkansas,Garland,"Hot Springs National Park","331 Carlee Court",,05/01/2007
+Arkansas,Franklin,Charleston,"4811 Case Road",,05/01/2007
+Arkansas,Franklin,Charleston,"4811 Case Road",,05/01/2007
+Arkansas,Craighead,Jonesboro,"5308 Apt Drive 6",,05/02/2007
+Arkansas,Garland,"Hot Springs","188 Country View",,05/03/2007
+Arkansas,Garland,"Hot Springs","188 Country View",,05/03/2007
+Arkansas,Garland,Jessieville,"4805 North Hwy 7",,05/04/2007
+Arkansas,Miller,Texarkana,"1622 Garland Avenue",,05/09/2007
+Arkansas,Pulaski,Jacksonville,"4906 Florence Lane",,05/11/2007
+Arkansas,Washington,Springdale,"770 South 40th Street",,05/16/2007
+Arkansas,Washington,Springdale,"770 South 40th Street",,05/16/2007
+Arkansas,Montgomery,Oden,"1115 East State Hwy 88",,05/18/2007
+Arkansas,"Van Buren",Shirley,"Shady Grove Road 1235",,05/20/2007
+Arkansas,"Van Buren",Shirley,"Shady Grove Road 1235",,05/20/2007
+Arkansas,"Hot Spring",Malvern,"1413 Dyer",,05/24/2007
+Arkansas,"Hot Spring",Malvern,"1413 Dyer",,05/24/2007
+Arkansas,Faulkner,Conway,"42 White Oak Drive",,05/28/2007
+Arkansas,Carroll,Berryville,"1224 Jessica Avenue",,05/29/2007
+Arkansas,Pulaski,Jacksonville,"5117 West Cleland",,06/05/2007
+Arkansas,Pulaski,Jacksonville,"5117 West Cleland",,06/05/2007
+Arkansas,Lonoke,Cabot,"112 North 8th Street",,06/08/2007
+Arkansas,Cross,,"3760 State 364 Highway",,06/13/2007
+Arkansas,White,"Bald Knob","289 Pine Creek Road",,06/14/2007
+Arkansas,White,"Bald Knob","289 Pine Creek Road",,06/14/2007
+Arkansas,Pulaski,Sherwood,"1508 Coolhurst Avenue",,06/15/2007
+Arkansas,Pulaski,Sherwood,"1508 Coolhurst Avenue",,06/15/2007
+Arkansas,Yell,Plainview,"401 Tippy Lane",,06/17/2007
+Arkansas,Sebastian,"Fort Smith","2029 South L Street",,06/22/2007
+Arkansas,Washington,"West Fork","14590 West Hwy 170",,06/22/2007
+Arkansas,Pulaski,"North Little Rock","5504 Lola Lane",,06/25/2007
+Arkansas,Pulaski,"North Little Rock","5504 Lola Lane",,06/25/2007
+Arkansas,Pulaski,Maumelle,"100 Edgewood Drive",,07/10/2007
+Arkansas,Pulaski,Maumelle,"100 Edgewood Drive",,07/10/2007
+Arkansas,Lonoke,Cabot,"101 Briarwood Loop",,07/12/2007
+Arkansas,Lonoke,Cabot,"101 Briarwood Loop",,07/12/2007
+Arkansas,Faulkner,Conway,"5703 Hunter Lane",,07/13/2007
+Arkansas,Washington,"Prairie Grove","14591 Hubbard Road",,07/15/2007
+Arkansas,Woodruff,Augusta,"1850 Woodruff 874",,07/17/2007
+Arkansas,Pope,Russellville,"409 East Gum Log Road",,07/18/2007
+Arkansas,Pope,Russellville,"409 East Gum Log Road",,07/18/2007
+Arkansas,Johnson,Ozone,"4359 Cr 5500",,07/19/2007
+Arkansas,Johnson,Ozone,"4359 Cr 5500",,07/19/2007
+Arkansas,Saline,Benton,"6758 Alcoa Road",,07/20/2007
+Arkansas,Saline,Benton,"6758 Alcoa Road",,07/20/2007
+Arkansas,Pulaski,"North Little Rock","2813 Parkway",,07/24/2007
+Arkansas,Pulaski,"North Little Rock","3 South Avalon",,07/24/2007
+Arkansas,Pulaski,"North Little Rock","3 South Avalon",,07/24/2007
+Arkansas,Lonoke,Cabot,"41 South 10th Street",,07/24/2007
+Arkansas,Pulaski,"North Little Rock","2813 Parkway",,07/24/2007
+Arkansas,Pulaski,"North Little Rock","3315 Oak Grove Road",,08/01/2007
+Arkansas,Washington,Fayetteville,"18179 Clearwater Road",,08/08/2007
+Arkansas,White,Romance,"103 Billy Moon Road",,08/11/2007
+Arkansas,White,Romance,"103 Billy Moon Road",,08/11/2007
+Arkansas,Pope,Russellville,"1106 Old Cove Road",,08/22/2007
+Arkansas,Washington,Springdale,"1103 Thelma Street",,08/23/2007
+Arkansas,Washington,Fayetteville,"3728 East Huntsville Road",,08/23/2007
+Arkansas,Clay,Rector,"136 Noorth Phillips",,08/23/2007
+Arkansas,Madison,Hindsville,"203 East Valley Road",,08/24/2007
+Arkansas,Pulaski,"North Little Rock","3803 Burks Avenue",,08/28/2007
+Arkansas,Washington,Springdale,"1001 Wilkinson Street",,08/28/2007
+Arkansas,Pulaski,Cabot,"2309 West Justice",,08/28/2007
+Arkansas,Washington,Springdale,"1001 Wilkinson Street",,08/28/2007
+Arkansas,Pulaski,Cabot,"2309 West Justice",,08/28/2007
+Arkansas,Pulaski,"Little Rock","6708 Shaner Circle",,08/29/2007
+Arkansas,"Van Buren","Bee Branch","704 Hopewell Road",,08/29/2007
+Arkansas,Pulaski,"Little Rock","6708 Shaner Circle",,08/29/2007
+Arkansas,Saline,Bryant,"4501 Meadow Ridge Lane",,09/04/2007
+Arkansas,Saline,Bryant,"4501 Meadow Ridge Lane",,09/04/2007
+Arkansas,Washington,Lincoln,"17106 Kinon Lake Road",,09/05/2007
+Arkansas,Washington,Fayetteville,"3508 Belmont",,09/05/2007
+Arkansas,Washington,Fayetteville,"3508 Belmont",,09/05/2007
+Arkansas,Clark,Arkadelphia,"311 North 10th Street",,09/06/2007
+Arkansas,Miller,Texarkana,"1024 Pecan Street",,09/13/2007
+Arkansas,Faulkner,Conway,"12 Sinai Road 12",,09/14/2007
+Arkansas,Faulkner,Conway,"2 South Sessions Street",,09/14/2007
+Arkansas,Madison,Huntsville,"9518 West Hwy 74",,09/15/2007
+Arkansas,Faulkner,Conway,"49 Waterfront",,09/19/2007
+Arkansas,White,Russellville,"152 Wolf Hollow Road",,09/21/2007
+Arkansas,White,Russellville,"152 Wolf Hollow Road",,09/21/2007
+Arkansas,Craighead,Bay,"107 Randy Street",,09/29/2007
+Arkansas,Washington,Fayetteville,"1840 North Leverett",,10/04/2007
+Arkansas,Washington,Fayetteville,"1840 North Leverett",,10/04/2007
+Arkansas,Washington,Fayetteville,"1678 North Double Spring Road",,10/06/2007
+Arkansas,Washington,Fayetteville,"1678 North Double Spring Road",,10/06/2007
+Arkansas,Washington,Springdale,"510 South Water Street",,10/09/2007
+Arkansas,Washington,Springdale,"510 South Water Street",,10/09/2007
+Arkansas,Jackson,Bradford,"168 Jackson County Road #4",,10/15/2007
+Arkansas,Jackson,Bradford,"168 Jackson County Road #4",,10/15/2007
+Arkansas,Crittenden,"West Memphis","519 South Roselawn Drive",,10/16/2007
+Arkansas,White,Bradford,"402 East Elm Street",,10/17/2007
+Arkansas,"Hot Spring",Malvern,"339 Gifford Tram",,10/17/2007
+Arkansas,"Hot Spring",Malvern,"339 Gifford Tram",,10/17/2007
+Arkansas,White,Bradford,"402 East Elm Street",,10/17/2007
+Arkansas,White,"Bald Knob","246 Humes Road",,10/19/2007
+Arkansas,Benton,Rogers,"909 East Mimosa",,10/19/2007
+Arkansas,Craighead,Jonesboro,"1440 Cr 618",,10/19/2007
+Arkansas,White,"Bald Knob","246 Humes Road",,10/19/2007
+Arkansas,Pulaski,"Little Rock","25425 Navajo Trail",,10/24/2007
+Arkansas,Pulaski,"Little Rock","25425 Navajo Trail",,10/24/2007
+Arkansas,Greene,Paragould,"1308 South Seventh Street",,10/27/2007
+Arkansas,Washington,Fayetteville,"2648 North Adams Road",,10/27/2007
+Arkansas,Greene,Paragould,"1308 South Seventh Street",,10/27/2007
+Arkansas,Washington,Fayetteville,"2648 North Adams Road",,10/27/2007
+Arkansas,Sebastian,"Fort Smith","801 North 49th",,10/30/2007
+Arkansas,Crawford,"Van Buren","324 North 46th",,10/31/2007
+Arkansas,Johnson,Clarksville,"Cr 3503 127",,11/03/2007
+Arkansas,Saline,Paron,"16501 Chock Road",,11/16/2007
+Arkansas,Saline,Paron,"16501 Chock Road",,11/16/2007
+Arkansas,Jackson,Newport,"7888 South Highway 224",,11/27/2007
+Arkansas,Jackson,Newport,"7888 South Highway 224",,11/27/2007
+Arkansas,Poinsett,Weiner,"611 Alexander",,11/30/2007
+Arkansas,Pope,Dover,"464 Stockton Road",,12/01/2007
+Arkansas,Pope,Dover,"464 Stockton Road",,12/01/2007
+Arkansas,Randolph,Pocahontas,"4310 West Hwy 62",,12/04/2007
+Arkansas,Randolph,Pocahontas,"4310 West Hwy 62",,12/04/2007
+Arkansas,Pulaski,"North Little Rock","6140 Remount Road",,12/07/2007
+Arkansas,Pulaski,"North Little Rock","6140 Remount Road",,12/07/2007
+Arkansas,Garland,"Hot Springs","112 Eagle Pass Trail",,12/13/2007
+Arkansas,Cleburne,"Tumbling Shoals","754 Dekalb Road",,12/13/2007
+Arkansas,Lonoke,Humnoke,"16330 South Highway 13 Highway",,12/17/2007
+Arkansas,Poinsett,Trumann,"24998 Hatchiecoon Rd",,12/17/2007
+Arkansas,Lonoke,Humnoke,"16330 South Highway 13 Highway",,12/17/2007
+Arkansas,Madison,Patrick,"164 Madison 5290",,12/28/2007
+Arkansas,Madison,Patrick,"164 Madison 5290",,12/28/2007
+Arkansas,White,Kensett,"214 2nd Street",,12/30/2007
+Arkansas,White,Kensett,"214 2nd Street",,12/30/2007
+Arkansas,Washington,Winslow,"17157 Millers Chapel Road",,01/01/2008
+Arkansas,Garland,"Hot Springs","120 Coy Grant Loop",,01/02/2008
+Arkansas,Garland,"Hot Springs","120 Coy Grant Loop",,01/02/2008
+Arkansas,Garland,"Hot Springs","121 Augustus",,01/04/2008
+Arkansas,Garland,"Hot Springs","1790 Millcreek Road",,01/04/2008
+Arkansas,Garland,"Hot Springs","965 Marion Anderson",,01/04/2008
+Arkansas,Poinsett,Tyronza,"150 Oak Street",,01/09/2008
+Arkansas,Poinsett,Tyronza,"150 Oak Street",,01/09/2008
+Arkansas,Pulaski,"North Little Rock","5716 Locust Street",,01/09/2008
+Arkansas,Pulaski,"North Little Rock","5716 Locust Street",,01/09/2008
+Arkansas,Poinsett,Trumann,"513 Plaza Court",,01/10/2008
+Arkansas,Poinsett,Trumann,"513 Plaza Court",,01/10/2008
+Arkansas,Perry,Hollis,"1746 314 Highway",,01/11/2008
+Arkansas,Garland,"Hot Springs","169 Port Au Prince Road",,01/15/2008
+Arkansas,Craighead,Jonesboro,"1011 Scott Street",,01/15/2008
+Arkansas,Grant,Sheridan,"280 Grant 52",,01/23/2008
+Arkansas,Crawford,"Van Buren","2020 Baldwin Street",,01/23/2008
+Arkansas,Grant,Sheridan,"280 Grant 52",,01/23/2008
+Arkansas,Lonoke,Lonoke,"124 Milner Road",,01/24/2008
+Arkansas,Lonoke,Lonoke,"124 Milner Road",,01/24/2008
+Arkansas,Washington,Springdale,"3068 Beaver Creek Street",,01/29/2008
+Arkansas,Lonoke,Cabot,"17 Country Wood",,02/01/2008
+Arkansas,Faulkner,Greenbrier,"342 Highway 287",,02/01/2008
+Arkansas,Lonoke,Cabot,"17 Country Wood",,02/01/2008
+Arkansas,Craighead,Jonesboro,"612 West Strawn",,02/04/2008
+Arkansas,Faulkner,Conway,"1170 Crosspoint Road",,02/04/2008
+Arkansas,Lonoke,Cabot,"1795 West Mountain Springs Road",,02/06/2008
+Arkansas,Lonoke,Cabot,"1795 West Mountain Springs Road",,02/06/2008
+Arkansas,Pulaski,"Little Rock","211 Pearl Avenue",,02/08/2008
+Arkansas,Pulaski,"Little Rock","211 Pearl Avenue",,02/08/2008
+Arkansas,Pulaski,"Little Rock","9321 I-30",,02/11/2008
+Arkansas,Pulaski,"Little Rock","9321 I-30",,02/11/2008
+Arkansas,Benton,Gentry,"13819 Cowan Road",,02/13/2008
+Arkansas,Randolph,Imboden,"2088 Vanwinkle Road",,02/14/2008
+Arkansas,Randolph,Imboden,"2088 Vanwinkle Road",,02/14/2008
+Arkansas,Benton,"Cave Springs","141 Allen Drive",,02/19/2008
+Arkansas,Greene,Paragould,"809 Baywood Drive",,02/19/2008
+Arkansas,Boone,Harrison,"43 Somers Lane",,02/19/2008
+Arkansas,Logan,Magazine,"272 North Reverly Street",,02/20/2008
+Arkansas,Logan,Magazine,"272 North Reverly Street",,02/20/2008
+Arkansas,White,Searcy,"134 Diamond Lane",,02/21/2008
+Arkansas,White,Searcy,"134 Diamond Lane",,02/21/2008
+Arkansas,Benton,Lowell,"15789 Cow Face Road",,02/23/2008
+Arkansas,"Van Buren",Clinton,"6333 West Highway 9",,02/25/2008
+Arkansas,"Van Buren",Clinton,"6333 West Highway 9",,02/25/2008
+Arkansas,Mississippi,Blytheville,"700 North First Street",,02/26/2008
+Arkansas,Madison,Huntsville,"853 Madison Cr 2215",,02/26/2008
+Arkansas,Greene,Paragould,"Greene 502 Road",,02/26/2008
+Arkansas,Mississippi,Blytheville,"700 North First Street",,02/26/2008
+Arkansas,Madison,Huntsville,"853 Madison Cr 2215",,02/26/2008
+Arkansas,Greene,Paragould,"Greene 502 Road",,02/26/2008
+Arkansas,Garland,Royal,"524 Old Dalls Road",,02/27/2008
+Arkansas,Pulaski,"North Little Rock","608 Middle Street",,02/28/2008
+Arkansas,Pulaski,"North Little Rock","608 Middle Street",,02/28/2008
+Arkansas,Johnson,Clarksville,"1220 West Sevier Street",,02/28/2008
+Arkansas,Johnson,Clarksville,"1220 West Sevier Street",,02/28/2008
+Arkansas,Garland,"Mountain Pine","590 Cozy Acres Road",,03/01/2008
+Arkansas,Pulaski,"Little Rock","3709 Bracy Road",,03/04/2008
+Arkansas,Pulaski,"Little Rock","3709 Bracy Road",,03/04/2008
+Arkansas,"Van Buren",Shirley,"746 Sills Peninsula Road",,03/06/2008
+Arkansas,"Van Buren",Shirley,"746 Sills Peninsula Road",,03/06/2008
+Arkansas,"Hot Spring",Malvern,"917 Edwards",,03/08/2008
+Arkansas,Saline,Alexander,"16201 Vandiver",,03/11/2008
+Arkansas,Saline,Alexander,"16201 Vandiver",,03/11/2008
+Arkansas,Madison,Huntsville,"990 Madison 7795 Road",,03/12/2008
+Arkansas,Madison,Huntsville,"990 Madison 7795 Road",,03/12/2008
+Arkansas,Pulaski,"North Little Rock","5316 North Walnut Road",,03/12/2008
+Arkansas,Pulaski,"North Little Rock","5316 North Walnut Road",,03/12/2008
+Arkansas,Logan,Booneville,"2623 Coulter Mountain Road",,03/15/2008
+Arkansas,Logan,Booneville,"2623 Coulter Mountain Road",,03/15/2008
+Arkansas,Saline,Benton,"952 Crews Road",,03/21/2008
+Arkansas,Jefferson,"Pine Bluff","6609 West Jones Street",,03/28/2008
+Arkansas,Poinsett,Harrisburg,"9830 Cromwell Cut-off Ln.",,03/28/2008
+Arkansas,Sebastian,Greenwood,"500 South Dawson Street",,03/28/2008
+Arkansas,White,"Bald Knob","113 Fire Tower Road",,04/01/2008
+Arkansas,White,"Bald Knob","113 Fire Tower Road",,04/01/2008
+Arkansas,White,Judsonia,"182 Y And Y Salvage Road",,04/04/2008
+Arkansas,White,Judsonia,"182 Y And Y Salvage Road",,04/04/2008
+Arkansas,Washington,Springdale,"206 South Blair Street",,04/15/2008
+Arkansas,Washington,Springdale,"3512 Acorn Falls Lane",,04/15/2008
+Arkansas,Washington,Springdale,"206 South Blair Street",,04/15/2008
+Arkansas,Washington,Springdale,"3512 Acorn Falls Lane",,04/15/2008
+Arkansas,Washington,Fayetteville,"250 South Virginia Avenue",,04/23/2008
+Arkansas,White,Russell,"150 Old Russell Road",,04/23/2008
+Arkansas,White,Russell,"150 Old Russell Road",,04/23/2008
+Arkansas,Benton,Bentonville,"404 Northwest D Street",,04/24/2008
+Arkansas,Sevier,"De Queen","1804 East Highway 70",,04/24/2008
+Arkansas,Yell,Ola,"12142 Tucker",,04/25/2008
+Arkansas,Mississippi,Bassett,"2206 County Road 1020",,04/27/2008
+Arkansas,Logan,Booneville,"9591 Barber Road",,05/05/2008
+Arkansas,Saline,Mabelvale,"11424 Shannon Hills Drive",,05/07/2008
+Arkansas,Pulaski,"Little Rock","5613 South Landmark Circle",,05/07/2008
+Arkansas,Pulaski,"Little Rock","5613 South Landmark Circle",,05/07/2008
+Arkansas,Saline,Mabelvale,"11424 Shannon Hills Drive",,05/07/2008
+Arkansas,Drew,Wilmar,"500 Ras Pace Road",,05/07/2008
+Arkansas,Craighead,Jonesboro,"1300 Falls",,05/08/2008
+Arkansas,Garland,"Hot Springs","638 4th",,05/10/2008
+Arkansas,Washington,Fayetteville,"1616 North Boxley Avenue",,05/13/2008
+Arkansas,Garland,"Hot Springs","379 Fleetwood Drive",,05/14/2008
+Arkansas,Washington,Fayetteville,"5475 West Shalott Drive",,05/18/2008
+Arkansas,Washington,Fayetteville,"5475 West Shalott Drive",,05/18/2008
+Arkansas,Greene,Paragould,"409 Bard Road",,05/19/2008
+Arkansas,Greene,Paragould,"409 Bard Road",,05/19/2008
+Arkansas,Poinsett,Trumann,"504 Harrison Street",,05/22/2008
+Arkansas,Drew,Monticello,"137 Greenhill Road",,05/22/2008
+Arkansas,Poinsett,Trumann,"504 Harrison Street",,05/22/2008
+Arkansas,Madison,Hindsville,"1546 Madison 7400",,05/23/2008
+Arkansas,Madison,Hindsville,"1546 Madison 7400",,05/23/2008
+Arkansas,Crawford,"Van Buren","513 South 11th Street",,05/27/2008
+Arkansas,Pulaski,"North Little Rock","1502 West 35th Street",,05/28/2008
+Arkansas,Pulaski,"North Little Rock","1502 West 35th Street",,05/28/2008
+Arkansas,Poinsett,Trumann,"29095 Cash Road",,05/29/2008
+Arkansas,Yell,Dardanelle,"11297 Guinn River Road",,06/03/2008
+Arkansas,Yell,Dardanelle,"11297 Guinn River Road",,06/03/2008
+Arkansas,Lincoln,"Star City","836 Goodfellow Road",,06/08/2008
+Arkansas,Yell,Ola,"10370 South Highway 7",,06/08/2008
+Arkansas,Lincoln,"Star City","836 Goodfellow Road",,06/08/2008
+Arkansas,Pulaski,"North Little Rock","5214 Standridge Road",,06/11/2008
+Arkansas,Pulaski,"North Little Rock","5214 Standridge Road",,06/11/2008
+Arkansas,Poinsett,Trumann,"408 Harrison Street",,06/11/2008
+Arkansas,Poinsett,Trumann,"408 Harrison Street",,06/11/2008
+Arkansas,Sharp,"Evening Shade","1936 Evening Shade Drive",,06/13/2008
+Arkansas,Sharp,"Evening Shade","1936 Evening Shade Drive",,06/13/2008
+Arkansas,Washington,Springdale,"2305 Dogwood Place",,06/15/2008
+Arkansas,Washington,Springdale,"2305 Dogwood Place",,06/15/2008
+Arkansas,Benton,Springdale,"515 East Highway 264",,06/16/2008
+Arkansas,Greene,Paragould,"2844 Greene Road 707",,06/16/2008
+Arkansas,Miller,Texarkana,"1924 Grand Avenue",,06/24/2008
+Arkansas,Miller,Texarkana,"1924 Grand Avenue",,06/24/2008
+Arkansas,Pulaski,"North Little Rock","5427 Jendrejas Road",,06/26/2008
+Arkansas,Washington,Springdale,"354 Erin Place",,06/27/2008
+Arkansas,Miller,Genoa,"221 Miller County 62",,06/27/2008
+Arkansas,Miller,Genoa,"221 Miller County 62",,06/27/2008
+Arkansas,Washington,Springdale,"354 Erin Place",,06/27/2008
+Arkansas,Pulaski,Jacksonville,"516 South Bailey Street",,07/03/2008
+Arkansas,Pulaski,Jacksonville,"516 South Bailey Street",,07/03/2008
+Arkansas,Poinsett,Trumann,"25898 Roden Road",,07/13/2008
+Arkansas,Poinsett,Trumann,"25898 Roden Road",,07/13/2008
+Arkansas,Pulaski,"Little Rock","8224 Matthews Road",,07/15/2008
+Arkansas,Pulaski,"Little Rock","8224 Matthews Road",,07/15/2008
+Arkansas,Mississippi,Leachville,"609 East 3rd Street",,07/17/2008
+Arkansas,Mississippi,Leachville,"609 East 3rd Street",,07/17/2008
+Arkansas,Poinsett,Trumann,"11958 Combs Lane",,07/23/2008
+Arkansas,White,"Bald Knob","267 Newell Road",,07/25/2008
+Arkansas,Miller,Texarkana,"522 Hickory Street",,07/28/2008
+Arkansas,Miller,Texarkana,"522 Hickory Street",,07/28/2008
+Arkansas,Randolph,Pocahontas,"2304 Lee Street",,08/01/2008
+Arkansas,Randolph,Pocahontas,"2304 Lee Street",,08/01/2008
+Arkansas,Faulkner,Conway,"2106 Robinson Avenue",,08/04/2008
+Arkansas,Miller,Fouke,"221 Mc 491",,08/13/2008
+Arkansas,Poinsett,Trumann,"404 Mildred Avenue",,08/14/2008
+Arkansas,Lonoke,Ward,"502 Cook Street",,08/17/2008
+Arkansas,Pulaski,"North Little Rock","10514 Mundo Road",,08/18/2008
+Arkansas,Pulaski,"North Little Rock","10514 Mundo Road",,08/18/2008
+Arkansas,Lonoke,Ward,"509 North Street",,08/21/2008
+Arkansas,Pulaski,"Little Rock","11700 Pleasant Ridge Road",,08/25/2008
+Arkansas,Pulaski,"Little Rock","11700 Pleasant Ridge Road",,08/25/2008
+Arkansas,Washington,Fayetteville,"180 West Bowen Boulevard",,08/27/2008
+Arkansas,Lonoke,Austin,"241 Valley Road",,08/27/2008
+Arkansas,Lonoke,Austin,"241 Valley Road",,08/27/2008
+Arkansas,Jackson,Swifton,"601 West 2nd Street",,09/02/2008
+Arkansas,Jackson,Swifton,"601 West 2nd Street",,09/02/2008
+Arkansas,Washington,Fayetteville,"1520 Zion Road",,09/02/2008
+Arkansas,Washington,Fayetteville,"1520 Zion Road",,09/02/2008
+Arkansas,Pulaski,"North Little Rock","4908 Atkins",,09/03/2008
+Arkansas,Pulaski,"North Little Rock","4908 Atkins",,09/03/2008
+Arkansas,Izard,Dolph,"39 North 51",,09/05/2008
+Arkansas,Washington,Fayetteville,"230 South College",,09/05/2008
+Arkansas,Washington,Fayetteville,"230 South College",,09/05/2008
+Arkansas,Polk,Mena,"605 Polk Street",,09/05/2008
+Arkansas,Izard,Dolph,"39 North 51",,09/05/2008
+Arkansas,Izard,Dolph,"39 North Hc69 8",,09/06/2008
+Arkansas,Jefferson,"Pine Bluff","1120 North Tupelo Street",,09/10/2008
+Arkansas,Jefferson,"Pine Bluff","1120 North Tupelo Street",,09/10/2008
+Arkansas,Cross,Wynne,"287 Hwy 350",,09/10/2008
+Arkansas,Pulaski,Jacksonville,"2205 Green Acres",,09/11/2008
+Arkansas,Jefferson,Redfield,"9020 Whiteville Road",,09/12/2008
+Arkansas,White,Beebe,"1110 Green Meadow Drive",,09/16/2008
+Arkansas,White,Beebe,"1110 Green Meadow Drive",,09/16/2008
+Arkansas,Benton,Lowell,"12365 Tyson Road",,09/24/2008
+Arkansas,Madison,Huntsville,"35641 Highway 23",,09/24/2008
+Arkansas,Pulaski,"Little Rock","5824 Singley Road",,09/26/2008
+Arkansas,Craighead,Jonesboro,"204 Easy Street",,09/27/2008
+Arkansas,Pulaski,"North Little Rock","1610 Windbourne",,10/01/2008
+Arkansas,Johnson,Clarksville,"639 Cr 2253",,10/01/2008
+Arkansas,Johnson,Clarksville,"639 Cr 2253",,10/01/2008
+Arkansas,Pulaski,"North Little Rock","1610 Windbourne",,10/01/2008
+Arkansas,"Hot Spring",Bismarck,"7027 Highway 84",,10/02/2008
+Arkansas,Poinsett,Trumann,"15341 Collins Loop",,10/02/2008
+Arkansas,Poinsett,Trumann,"15341 Collins Loop",,10/02/2008
+Arkansas,"Hot Spring",Bismarck,"7027 Highway 84",,10/02/2008
+Arkansas,Jefferson,Redfield,"2030 Reynolds Road",,10/07/2008
+Arkansas,Jackson,Newport,"800 Mcclain Street",,10/07/2008
+Arkansas,Jackson,Newport,"800 Mcclain Street",,10/07/2008
+Arkansas,Polk,Mena,"5693 West Hwy 8 Highway",,10/08/2008
+Arkansas,Pike,Glenwood,"440 South First Street",,10/11/2008
+Arkansas,Pike,Glenwood,"440 South First Street",,10/11/2008
+Arkansas,Jefferson,"Pine Bluff","1410 School",,10/16/2008
+Arkansas,Cross,Wynne,"117 8th Street",,10/23/2008
+Arkansas,Pulaski,"Little Rock","14000 Cooper Orbit",,10/30/2008
+Arkansas,Independence,"Sulphur Rock","235 East St. Charles",,11/07/2008
+Arkansas,Independence,"Sulphur Rock","235 East St. Charles",,11/07/2008
+Arkansas,Pulaski,"North Little Rock","4913 Hickory",,11/12/2008
+Arkansas,Washington,Fayetteville,"18097 Clearwater Rd",,11/12/2008
+Arkansas,Washington,Fayetteville,"18097 Clearwater Rd",,11/12/2008
+Arkansas,Cleburne,"Heber Springs","1664 Good Springs Road",,11/13/2008
+Arkansas,Crittenden,"West Memphis","1307 Colonial",,11/18/2008
+Arkansas,Washington,Fayetteville,"258 South Locust Avenue",,11/21/2008
+Arkansas,Washington,Fayetteville,"258 South Locust Avenue",,11/21/2008
+Arkansas,Pulaski,"North Little Rock","8017 Greer Road",,11/26/2008
+Arkansas,Washington,Fayetteville,"17726 Edgewood Road",,11/27/2008
+Arkansas,"Hot Spring",Malvern,"1011 Clem Street",,12/01/2008
+Arkansas,"Hot Spring",Malvern,"1011 Clem Street",,12/01/2008
+Arkansas,Lonoke,Lonoke,"5526 Mt. Tabor Road",,12/09/2008
+Arkansas,Boone,Harrison,"South Liberty",,12/09/2008
+Arkansas,Johnson,"Coal Hill","627 Hwy. 64",,12/09/2008
+Arkansas,Lonoke,Lonoke,"5526 Mt. Tabor Road",,12/09/2008
+Arkansas,Clark,Gurdon,"1102 Old Whelen Road",,12/14/2008
+Arkansas,Washington,Fayetteville,"1761 South Garland Avenue",,12/17/2008
+Arkansas,Pulaski,Cabot,"3309 West Justice Road",,12/17/2008
+Arkansas,Pulaski,Cabot,"3309 West Justice Road",,12/17/2008
+Arkansas,Randolph,Pocahontas,"2105 Drew Street",,12/28/2008
+Arkansas,Mississippi,Manila,"600 North Dunkin",,12/28/2008
+Arkansas,Mississippi,Manila,"600 North Dunkin",,12/28/2008
+Arkansas,Randolph,Pocahontas,"2105 Drew Street",,12/28/2008
+Arkansas,Pulaski,"North Little Rock","328 Bold Lane",,12/30/2008
+Arkansas,Pulaski,"North Little Rock","328 Bold Lane",,12/30/2008
+Arkansas,Greene,Paragould,"106 Highland",,04/01/2009
+Arkansas,Washington,Springdale,"3601 Thompson",,04/02/2009
+Arkansas,"Hot Spring",Donaldson,"307 Goza",,04/02/2009
+Arkansas,Washington,Springdale,"3601 Thompson",,04/02/2009
+Arkansas,"Hot Spring",Donaldson,"307 Goza",,04/02/2009
+Arkansas,Pulaski,"Little Rock","8504 Herrick",,04/09/2009
+Arkansas,Randolph,Pocahontas,"404 Dalton",,04/09/2009
+Arkansas,Benton,Gravette,"14829 Bethlehem",,04/09/2009
+Arkansas,Randolph,Pocahontas,"404 Dalton",,04/09/2009
+Arkansas,Randolph,Pocahontas,"1306 Dunn",,04/10/2009
+Arkansas,Randolph,Pocahontas,"1306 Dunn",,04/10/2009
+Arkansas,Garland,"Hot Springs","3251 Albert Pike",,04/15/2009
+Arkansas,Jackson,Newport,"1205 Mclain",,04/15/2009
+Arkansas,Ashley,"Fountain Hill","398 Highway 160",,04/15/2009
+Arkansas,Conway,"Center Ridge","6223 Highway 9",,04/17/2009
+Arkansas,Craighead,Jonesboro,"711 Vine",,04/17/2009
+Arkansas,Mississippi,Blytheville,"808 Delmar",,04/18/2009
+Arkansas,Pulaski,"Little Rock","27722 Nichols",,04/19/2009
+Arkansas,Pulaski,"Little Rock","27722 Nichols",,04/19/2009
+Arkansas,Lonoke,Austin,"697 Oakridge Drive",,04/21/2009
+Arkansas,Lonoke,Austin,"697 Oakridge Drive",,04/21/2009
+Arkansas,Benton,"Siloam Springs","977 Oak Crest",,04/22/2009
+Arkansas,Pulaski,"North Little Rock","1716 Long 17th",,04/27/2009
+Arkansas,Pulaski,"North Little Rock","1716 Long 17th",,04/27/2009
+Arkansas,Franklin,Ozark,"11432 Lee Point",,04/30/2009
+Arkansas,Craighead,Jonesboro,"2602 Caraway",,04/30/2009
+Arkansas,"Hot Spring",Malvern,"1910 Martin Luther King Boulevard",,05/02/2009
+Arkansas,"Hot Spring",Malvern,"1910 Martin Luther King Boulevard",,05/02/2009
+Arkansas,Cross,"Cherry Valley","109 Cr236",,05/07/2009
+Arkansas,Washington,Fayetteville,"1741 Sioux",,05/07/2009
+Arkansas,Benton,"Pea Ridge","9728 Mcnelly",,05/13/2009
+Arkansas,"Hot Spring",Malvern,"1413 Cherry Lane",,05/13/2009
+Arkansas,Cross,Wynne,"3069 Hwy 64",,05/13/2009
+Arkansas,Pulaski,"Little Rock","16001 Baseline Road",,05/13/2009
+Arkansas,Pulaski,"Little Rock","16001 Baseline Road",,05/13/2009
+Arkansas,Faulkner,Conway,"2430 Sanders",,05/15/2009
+Arkansas,Ashley,Crossett,"130 Lilac",,05/15/2009
+Arkansas,Faulkner,Conway,"36 Ranchette Road",,05/20/2009
+Arkansas,Sevier,Horatio,"208 Mercer",,05/28/2009
+Arkansas,Sevier,Horatio,"208 Mercer",,05/28/2009
+Arkansas,Sevier,"De Queen","604 Lockesburg",,05/29/2009
+Arkansas,Franklin,Branch,"1125 Hopklins",,05/30/2009
+Arkansas,Yell,Dardanelle,"410 Locust",,06/01/2009
+Arkansas,Yell,Dardanelle,"410 Locust",,06/01/2009
+Arkansas,Pulaski,"North Little Rock","5204 Sherman",,06/01/2009
+Arkansas,Pulaski,"North Little Rock","5204 Sherman",,06/01/2009
+Arkansas,"Little River",Foreman,"328 Lr 58",,06/02/2009
+Arkansas,"Little River",Foreman,"328 Lr 58",,06/02/2009
+Arkansas,Marion,Yellville,"292 Hollow Tree Lane",,06/03/2009
+Arkansas,Marion,Yellville,"292 Hollow Tree Lane",,06/03/2009
+Arkansas,Pulaski,"North Little Rock","4306 Mccain",,06/04/2009
+Arkansas,Pulaski,"North Little Rock","4306 Mccain",,06/04/2009
+Arkansas,Pulaski,Jacksonville,"3115 Graham",,06/07/2009
+Arkansas,Jackson,Bradford,"1568 167",,06/09/2009
+Arkansas,Craighead,Jonesboro,"3602 School",,06/11/2009
+Arkansas,Sharp,"Ash Flat","50 Hwy 62 412",,06/12/2009
+Arkansas,Sharp,"Ash Flat","50 Hwy 62 412",,06/12/2009
+Arkansas,Carroll,"Green Forest","1450 103 South",,06/13/2009
+Arkansas,Marion,Summit,"125 North Virgina",,06/16/2009
+Arkansas,Pulaski,"North Little Rock","419 Sierra Madre",,06/17/2009
+Arkansas,Pulaski,"North Little Rock","419 Sierra Madre",,06/17/2009
+Arkansas,Jefferson,"Pine Bluff","3109 Riviera",,06/18/2009
+Arkansas,Craighead,Jonesboro,"922 Jefferson",,06/18/2009
+Arkansas,Jefferson,"Pine Bluff","3109 Riviera",,06/18/2009
+Arkansas,Washington,Farmington,"11735 Ervan Beeks",,06/22/2009
+Arkansas,Craighead,Jonesboro,"2910 Kazi",,06/24/2009
+Arkansas,Pulaski,Sherwood,"821 Trammel",,06/27/2009
+Arkansas,Pulaski,Sherwood,"821 Trammel",,06/27/2009
+Arkansas,Carroll,Alpena,"733 County Road 811",,06/28/2009
+Arkansas,Lawrence,"Walnut Ridge","300  Ridgecrest",,01/01/2010
+Arkansas,Lawrence,"Walnut Ridge","300  Ridgecrest",,01/01/2010
+Arkansas,Garland,"Hot Springs Junction","600  Quapaw",,01/03/2010
+Arkansas,Garland,"Hot Springs Junction","600  Quapaw",,01/03/2010
+Arkansas,Mississippi,Blytheville,"5009  State Highway 312",,01/04/2010
+Arkansas,Mississippi,Blytheville,"5009  State Highway 312",,01/04/2010
+Arkansas,Crittenden,"West Memphis","65  Lalman Trailer Park",,01/06/2010
+Arkansas,Garland,"Hot Springs Junction","873  Park",,01/07/2010
+Arkansas,Mississippi,Manila,"202  Haywood",,01/08/2010
+Arkansas,Cleburne,Concord,"150  Allender",,01/14/2010
+Arkansas,Poinsett,"Marked Tree","106  Sycamore",,01/15/2010
+Arkansas,Poinsett,"Marked Tree","106  Sycamore",,01/15/2010
+Arkansas,"Van Buren",Clinton,"6333  Hwy 9",,01/16/2010
+Arkansas,"Van Buren",Clinton,"6333  Hwy 9",,01/16/2010
+Arkansas,Sebastian,"Fort Smith","3102  14th",,01/17/2010
+Arkansas,Sebastian,"Fort Smith","3102  14th",,01/17/2010
+Arkansas,Lonoke,Wardell,"813  Butlerville",,01/18/2010
+Arkansas,Lonoke,Wardell,"813  Butlerville",,01/18/2010
+Arkansas,Pulaski,Jacksonville,"1008  Hwy 161",,01/19/2010
+Arkansas,Pulaski,Jacksonville,"1008  Hwy 161",,01/19/2010
+Arkansas,Sebastian,Lavaca,"9600  Craft",,01/20/2010
+Arkansas,Sebastian,Lavaca,"9600  Craft",,01/20/2010
+Arkansas,Faulkner,Greenbrier,"108  Mill Bridge",,01/21/2010
+Arkansas,Greene,Paragould,"600  Magnolia",,01/23/2010
+Arkansas,Craighead,Jonesboro,"2704  Wakefield",,01/27/2010
+Arkansas,Benton,Rogers,"3500  Shady Hills",,01/28/2010
+Arkansas,Conway,Morrilton,"15  Henson",,01/31/2010
+Arkansas,Crawford,Alma,"321  Ray Lane North",,01/31/2010
+Arkansas,Carroll,Berryville,"705  Eureka Avenue",,01/31/2010
+Arkansas,Lonoke,Lonoke,"2420  Kerr",,02/02/2010
+Arkansas,Lonoke,Lonoke,"2420  Kerr",,02/02/2010
+Arkansas,Washington,Fayetteville,"1840  Leverett",,02/06/2010
+Arkansas,Washington,Fayetteville,"1840  Leverett",,02/06/2010
+Arkansas,"Van Buren",Clinton,"225  Mccaslin",,02/10/2010
+Arkansas,Benton,Bentonville,"2303  Beth",,02/10/2010
+Arkansas,Logan,Paris,"501  South Elm",,02/17/2010
+Arkansas,Logan,Paris,"501  South Elm",,02/17/2010
+Arkansas,Craighead,Jonesboro,"708  Caraway",,02/17/2010
+Arkansas,Pulaski,"North Little Rock","904  50th",,02/17/2010
+Arkansas,Garland,"Hot Springs Junction","2101  Central Avenue",,02/18/2010
+Arkansas,Cleburne,Wilburn,"4339  Wilburn",,02/19/2010
+Arkansas,Perry,Houston,"291  Doughty",,02/23/2010
+Arkansas,Poinsett,Lepanto,"113  Woodland",,02/23/2010
+Arkansas,Poinsett,Lepanto,"113  Woodland",,02/23/2010
+Arkansas,Perry,Houston,"291  Doughty",,02/23/2010
+Arkansas,Fulton,"Mammoth Spring","202  Greenleaf",,02/25/2010
+Arkansas,Fulton,"Mammoth Spring","202  Greenleaf",,02/25/2010
+Arkansas,"Van Buren",Clinton,"341  Dripping Springs",,03/01/2010
+Arkansas,Searcy,Marshall,"542  Clover",,03/02/2010
+Arkansas,Hempstead,Hopeville,"54  Hempstead County",,03/02/2010
+Arkansas,Searcy,Marshall,"542  Clover",,03/02/2010
+Arkansas,White,"West Point","966  State Hwy 36",,03/04/2010
+Arkansas,Garland,Jessieville,"2942  Little Blakely Creek Road",,03/05/2010
+Arkansas,Pulaski,Jacksonville,"3000  John Harden",,03/05/2010
+Arkansas,Sebastian,Barling,"1000  Fort",,03/05/2010
+Arkansas,Pulaski,Jacksonville,"3000  John Harden",,03/05/2010
+Arkansas,Sebastian,Barling,"1000  Fort",,03/05/2010
+Arkansas,Mississippi,Bassett,"301  Blackwell",,03/06/2010
+Arkansas,Washington,Springdale,"1219  Thompson",,03/07/2010
+Arkansas,Washington,Springdale,"1219  Thompson",,03/07/2010
+Arkansas,Crittenden,Marion,"256  Marion",,03/08/2010
+Arkansas,Washington,Fayetteville,"2875  Martin Luther King",,03/09/2010
+Arkansas,Washington,Fayetteville,"2875  Martin Luther King",,03/09/2010
+Arkansas,Mississippi,Blytheville,"1003  Division",,03/10/2010
+Arkansas,Conway,Morrilton,"311  Brown",,03/11/2010
+Arkansas,Perry,Perryville,"37  Williamsburg Lane",,03/11/2010
+Arkansas,Sebastian,"Fort Smith","1017  16th",,03/12/2010
+Arkansas,"Van Buren",Clinton,"4357  Hwy 65",,03/15/2010
+Arkansas,"Van Buren",Clinton,"4357  Hwy 65",,03/15/2010
+Arkansas,Craighead,Jonesboro,"205  Belt",,03/18/2010
+Arkansas,"Van Buren",Clinton,"263  Freeland",,03/18/2010
+Arkansas,"Van Buren",Clinton,"263  Freeland",,03/18/2010
+Arkansas,Pulaski,Jacksonville,"200  Birkshire",,03/19/2010
+Arkansas,Craighead,Jonesboro,"505  Miller",,03/20/2010
+Arkansas,"Van Buren",Shirley,"149  Sam",,03/22/2010
+Arkansas,"Van Buren",Shirley,"149  Sam",,03/22/2010
+Arkansas,Crittenden,"West Memphis","314  Danner",,03/23/2010
+Arkansas,Craighead,Jonesboro,"704  Mamie",,03/23/2010
+Arkansas,Crittenden,"West Memphis","1850  Avalon",,03/24/2010
+Arkansas,"Van Buren","Fairfield Bay","110  Greenwood",,03/24/2010
+Arkansas,"Van Buren","Fairfield Bay","110  Greenwood",,03/24/2010
+Arkansas,Mississippi,Blytheville,"1102  Ruddle",,03/24/2010
+Arkansas,Mississippi,Blytheville,"1102  Ruddle",,03/24/2010
+Arkansas,Madison,Forum,"33638  Hwy 23",,03/25/2010
+Arkansas,Madison,Forum,"33638  Hwy 23",,03/25/2010
+Arkansas,Pulaski,"Little Rock","1011  Brewer",,03/29/2010
+Arkansas,Faulkner,Conway,"39  River Drive Rd",,04/01/2010
+Arkansas,Randolph,Pocahontas,"107  Pratt",,04/04/2010
+Arkansas,Randolph,Pocahontas,"107  Pratt",,04/04/2010
+Arkansas,Crawford,"Van Buren","7107  Hwy 59",,04/06/2010
+Arkansas,Crawford,"Van Buren","114  9th",,04/08/2010
+Arkansas,Montgomery,"Caddo Gap","248  Slate Mill",,04/16/2010
+Arkansas,Jackson,"Hickory Ridge","5068  Jackson 29",,04/18/2010
+Arkansas,Jackson,"Hickory Ridge","5068  Jackson 29",,04/18/2010
+Arkansas,Randolph,Pocahontas,"1248  Hwy 251",,04/19/2010
+Arkansas,Sevier,Horatio,"208  Cemetary",,04/19/2010
+Arkansas,Logan,Booneville,"9689  State Hwy. 217",,04/19/2010
+Arkansas,Logan,Booneville,"9689  State Hwy. 217",,04/19/2010
+Arkansas,Randolph,Pocahontas,"1248  Hwy 251",,04/19/2010
+Arkansas,Sevier,Horatio,"208  Cemetary",,04/19/2010
+Arkansas,"Little River",Winthrop,"365  Highway 380",,04/20/2010
+Arkansas,Pulaski,"North Little Rock","504  26th",,04/21/2010
+Arkansas,Pulaski,"North Little Rock","504  26th",,04/21/2010
+Arkansas,Pulaski,"North Little Rock","2400  Mccain",,04/22/2010
+Arkansas,Pulaski,"North Little Rock","2400  Mccain",,04/22/2010
+Arkansas,White,Romance,"231  Wadley",,04/28/2010
+Arkansas,White,Romance,"231  Wadley",,04/28/2010
+Arkansas,White,"Bald Knob","640  Stanley Road",,04/29/2010
+Arkansas,White,"Bald Knob","640  Stanley Road",,04/29/2010
+Arkansas,Benton,Lowell,"16770  Delight",,04/30/2010
+Arkansas,Crittenden,"West Memphis","202  Dover",,05/06/2010
+Arkansas,Sebastian,"Fort Smith","1018  13th",,05/08/2010
+Arkansas,Sebastian,"Fort Smith","300  Bordeaux",,05/17/2010
+Arkansas,Pulaski,"Little Rock","11703  Hilaro Springs",,05/18/2010
+Arkansas,Pulaski,"Little Rock","11703  Hilaro Springs",,05/18/2010
+Arkansas,Benton,Rogers,"12574  Tucks Chapel Road",,05/19/2010
+Arkansas,Pulaski,Jacksonville,"24007  107 Highway",,05/25/2010
+Arkansas,Pulaski,Cabot,"3906  Roderweis",,05/26/2010
+Arkansas,Pulaski,Cabot,"3906  Roderweis",,05/26/2010
+Arkansas,Garland,"Hot Springs Junction","110  Zimmerman",,05/27/2010
+Arkansas,Benton,Bentonville,"408  6th",,05/27/2010
+Arkansas,Pulaski,Jacksonville,"6406  Swagerty",,05/28/2010
+Arkansas,Greene,Paragould,"906  Vance",,05/29/2010
+Arkansas,Greene,Paragould,"906  Vance",,05/29/2010
+Arkansas,Sebastian,Hackett,"7121  Sturgeon",,06/02/2010
+Arkansas,Sebastian,Hackett,"7121  Sturgeon",,06/02/2010
+Arkansas,Greene,Paragould,"514  Greg",,06/03/2010
+Arkansas,Greene,Paragould,"514  Greg",,06/03/2010
+Arkansas,Lonoke,Austin,"177  Brewer",,06/04/2010
+Arkansas,Lonoke,Austin,"177  Brewer",,06/04/2010
+Arkansas,Poinsett,Lepanto,"440  Powell Street",,06/04/2010
+Arkansas,Poinsett,Lepanto,"440  Powell Street",,06/04/2010
+Arkansas,Pulaski,Jacksonville,"19  Phyllis",,06/07/2010
+Arkansas,Pulaski,Jacksonville,"19  Phyllis",,06/07/2010
+Arkansas,Miller,Texarkana,"706  Grim",,06/07/2010
+Arkansas,Miller,Texarkana,"706  Grim",,06/07/2010
+Arkansas,Lonoke,Cabot,"54  Pheasant Run Drive",,06/14/2010
+Arkansas,Sebastian,"Fort Smith","20  Hiland",,06/14/2010
+Arkansas,Sebastian,"Fort Smith","20  Hiland",,06/14/2010
+Arkansas,Lonoke,Cabot,"54  Pheasant Run Drive",,06/14/2010
+Arkansas,White,Bradford,"161  Velvet Ridge",,06/15/2010
+Arkansas,Pulaski,Sherwood,"316  Cherrie",,06/15/2010
+Arkansas,White,Bradford,"161  Velvet Ridge",,06/15/2010
+Arkansas,Pulaski,Sherwood,"316  Cherrie",,06/15/2010
+Arkansas,Benton,Springdale,"4409  Silent Grove Rd.",,06/19/2010
+Arkansas,"Hot Spring",Bonnerdale,"5739  Sugarloaf Valley",,06/23/2010
+Arkansas,"Hot Spring",Bonnerdale,"5739  Sugarloaf Valley",,06/23/2010
+Arkansas,Washington,Fayetteville,"1301  Gregg Avenue",,06/24/2010
+Arkansas,Benton,Rogers,"806  6th",,06/24/2010
+Arkansas,Washington,Fayetteville,"1301  Gregg Avenue",,06/24/2010
+Arkansas,Mississippi,"West Ridge","5324  Hwy140",,06/27/2010
+Arkansas,Drew,Monticello,"204  Harris Road",,06/28/2010
+Arkansas,Carroll,Alpena,"5595  County Rd 905",,06/29/2010
+Arkansas,Sebastian,"Fort Smith","901  Albert Pike",,06/29/2010
+Arkansas,Mississippi,Dyess,"4177  St. Hwy 14",,06/30/2010
+Arkansas,Mississippi,Dyess,"4177  St. Hwy 14",,06/30/2010
+Arkansas,Lonoke,Lonoke,"564  Pigeon",,07/09/2010
+Arkansas,Cleveland,Saline,"1122  Cherry",,07/12/2010
+Arkansas,Desha,Mcgehee,"390  S Curve",,07/13/2010
+Arkansas,Carroll,Berryville,"511  Main",,07/14/2010
+Arkansas,Craighead,Jonesboro,"2725  Kristal",,07/14/2010
+Arkansas,Poinsett,Lepanto,"530  Kenwood",,07/15/2010
+Arkansas,Sebastian,"Fort Smith","6802  9th",,07/17/2010
+Arkansas,Sebastian,"Fort Smith","6802  9th",,07/17/2010
+Arkansas,Crittenden,"West Memphis","2209  Jackson Heights",,07/20/2010
+Arkansas,Carroll,"Green Forest","6  Sanford",,07/22/2010
+Arkansas,Washington,Springdale,"20343  Sherry",,07/22/2010
+Arkansas,Faulkner,Sherwood,"7  Jade",,07/24/2010
+Arkansas,Washington,Fayetteville,"10990  Rocky Creek Road",,07/26/2010
+Arkansas,Washington,Fayetteville,"10990  Rocky Creek Road",,07/26/2010
+Arkansas,Craighead,Jonesboro,"2711  Greenbriar",,07/26/2010
+Arkansas,Benton,Rogers,"611  Spring",,07/28/2010
+Arkansas,Johnson,Clarksville,"13009  Powers St",,07/29/2010
+Arkansas,Johnson,Clarksville,"13009  Powers St",,07/29/2010
+Arkansas,Pulaski,Sherwood,"213  Randall",,07/31/2010
+Arkansas,Pulaski,Sherwood,"213  Randall",,07/31/2010
+Arkansas,Mississippi,Manila,"3821  County Rd 378",,08/03/2010
+Arkansas,Baxter,"Mountain Home","12  County Road 12",,08/03/2010
+Arkansas,Mississippi,Manila,"3821  County Rd 378",,08/03/2010
+Arkansas,Lonoke,Cabot,"128  North Park Street",,08/04/2010
+Arkansas,Lonoke,Cabot,"128  North Park Street",,08/04/2010
+Arkansas,Prairie,"De Valls Bluff","10298  Loomus Landing Road",,08/05/2010
+Arkansas,Prairie,"De Valls Bluff","10298  Loomus Landing Road",,08/05/2010
+Arkansas,White,Judsonia,"181  Salvage Road",,08/05/2010
+Arkansas,Montgomery,Glenwood,"817  Slate Mill",,08/06/2010
+Arkansas,Lawrence,"Ravenden Springs","216  Allen",,08/09/2010
+Arkansas,Lawrence,"Ravenden Springs","216  Allen",,08/09/2010
+Arkansas,Franklin,"Ozark Acres","512  Gibson",,08/10/2010
+Arkansas,Franklin,"Ozark Acres","811  School",,08/11/2010
+Arkansas,Baxter,"Mountain Home","128  North College Street",,08/11/2010
+Arkansas,Franklin,"Ozark Acres","811  School",,08/11/2010
+Arkansas,Pope,Russellville,"1558  East 16th St.",,08/12/2010
+Arkansas,Benton,"Siloam Springs","751  Highway 16",,08/12/2010
+Arkansas,Pope,Russellville,"1558  East 16th St.",,08/12/2010
+Arkansas,Benton,"Siloam Springs","407  Country Club",,08/13/2010
+Arkansas,Franklin,"Ozark Acres","16251  Pink Twist",,08/18/2010
+Arkansas,Franklin,"Ozark Acres","16251  Pink Twist",,08/18/2010
+Arkansas,Sebastian,"Central City","1019  Carter",,08/19/2010
+Arkansas,Sebastian,"Central City","1019  Carter",,08/19/2010
+Arkansas,White,Searcy,"303  Center Street",,08/20/2010
+Arkansas,White,Searcy,"303  Center Street",,08/20/2010
+Arkansas,Pulaski,Roland,"31414  Hwy 300",,08/23/2010
+Arkansas,Saline,Benton,"825  Cole",,08/25/2010
+Arkansas,Saline,Benton,"825  Cole",,08/25/2010
+Arkansas,Mississippi,Manila,"119  Haywood",,08/26/2010
+Arkansas,Mississippi,Manila,"119  Haywood",,08/26/2010
+Arkansas,Mississippi,Osceola,"709  Village",,08/30/2010
+Arkansas,Mississippi,Osceola,"709  Village",,08/30/2010
+Arkansas,Baxter,"Mountain Home","1913  Hallmark",,08/31/2010
+Arkansas,Faulkner,Greenbrier,"975  Hwy 225e",,09/01/2010
+Arkansas,Pulaski,Jacksonville,"1201  Hwy 161",,09/04/2010
+Arkansas,Pulaski,Jacksonville,"1201  Hwy 161",,09/04/2010
+Arkansas,Cross,Wynne,"611  Merriman",,09/08/2010
+Arkansas,Cleburne,Wilburn,"870  Tyler",,09/14/2010
+Arkansas,White,Beebe,"313  Georgia",,11/07/2010
+Arkansas,Carroll,"Green Forest","607 South Springfield Shoal",,12/10/2010
+Arkansas,Clark,Amity,"431  Thompson",,02/06/2011
+Arkansas,Sebastian,"Fort Smith","3902  Chaffee",,02/08/2011
+Arkansas,Benton,Rogers,"2717  Gum",,02/11/2011
+Arkansas,Pulaski,Jacksonville,"35  Charlotte",,02/15/2011
+Arkansas,Pulaski,Jacksonville,"35  Charlotte",,02/15/2011
+Arkansas,Washington,Springdale,"803  Betty",,02/18/2011
+Arkansas,Benton,Bentonville,"712 Tiger",,03/01/2011
+Arkansas,Madison,Huntsville,"185  Highway 127",,03/02/2011
+Arkansas,Benton,"Siloam Springs","1508  Inglewood",,03/06/2011
+Arkansas,Poinsett,"Marked Tree","105  11th",,03/11/2011
+Arkansas,Poinsett,"Marked Tree","105  11th",,03/11/2011
+Arkansas,Madison,Huntsville,"2781  Madison 8735",,03/15/2011
+Arkansas,White,"Bald Knob","120  Albert Hill",,03/16/2011
+Arkansas,White,"Bald Knob","120  Albert Hill",,03/16/2011
+Arkansas,Fulton,Salem,"529  Morriston",,03/17/2011
+Arkansas,Benton,Centerton,"688  Zachary",,04/04/2011
+Arkansas,Boone,Harrison,"3284  Salmon",,04/08/2011
+Arkansas,Faulkner,Vilonia,"217  Naylor",,04/12/2011
+Arkansas,Pulaski,Jacksonville,"300  Marshall",,04/13/2011
+Arkansas,Craighead,Jonesboro,"2517  Duncan",,05/03/2011
+Arkansas,Benton,Bentonville,"802  Hugh Tater Black",,05/04/2011
+Arkansas,Faulkner,Conway,"35  Odom",,06/05/2011
+Arkansas,Craighead,Jonesboro,"3526  Viking",,06/08/2011
+Arkansas,Washington,Lincoln,"519  Main",,06/13/2011
+Arkansas,Washington,Lincoln,"519  Main",,06/13/2011
+Arkansas,"Van Buren",Shirley,"458  Magpie",,06/15/2011
+Arkansas,Boone,Harrison,"1194  Walnut",,07/06/2011
+Arkansas,Sebastian,"Fort Smith","700  12th",,07/13/2011
+Arkansas,Crittenden,"West Memphis","1201  Broadwaty",,07/13/2011
+Arkansas,Sebastian,"Fort Smith","700  12th",,07/13/2011
+Arkansas,Yell,Plainview,"110  8th",,07/26/2011
+Arkansas,Garland,Royal,"688  Timberlake",,08/09/2011
+Arkansas,Sebastian,Barling,"105  8th",,08/13/2011
+Arkansas,Sebastian,Barling,"105  8th",,08/13/2011
+Arkansas,Washington,Springdale,"215  Allen",,08/31/2011
+Arkansas,Washington,Springdale,"215  Allen",,08/31/2011
+Arkansas,Washington,Fayetteville,"1101  Curtis",,09/04/2011
+Arkansas,Washington,Fayetteville,"1101  Curtis",,09/04/2011
+Arkansas,Saline,Benton,"3006  Wildberry",,09/16/2011
+Arkansas,Saline,Benton,"3006  Wildberry",,09/16/2011
+Arkansas,Crittenden,"West Memphis","212  Bond",,10/05/2011
+Arkansas,Craighead,Jonesboro,"521  State",,10/07/2011
+Arkansas,Benton,"Little Flock","2900  Dixieland",,12/02/2011
+Arkansas,Benton,Gravette,"17215  Highway 72",,01/11/2012
+Arkansas,Franklin,"Ozark Acres","1123  George Ln",,02/03/2012
+Arkansas,Franklin,"Ozark Acres","1123  George Ln",,02/03/2012
+Arkansas,Benton,Garfield,"14529  Wimpy Jones Road",,02/25/2012
+Arkansas,Carroll,"Green Forest","82  County Road 614",,06/11/2012
+Arkansas,Faulkner,Conway,"475  Robins",,06/29/2012
+Arkansas,Washington,Fayetteville,"849  Washington",,08/18/2012
+Arkansas,Craighead,Jonesboro,"1416  Nelms",,08/24/2012
+Arkansas,Boone,Harrison,"9912  Erbie Cuttoff Road",,09/16/2012
+Arkansas,Benton,Bentonville,"309  Huffman",,10/20/2012
+Arkansas,Crittenden,"West Memphis","444  Ross",,10/25/2012
+Arkansas,Boone,Harrison,"2104  Cypress",,11/05/2012
+Arkansas,Poinsett,"Marked Tree","30936  South Road",,11/07/2012
+Arkansas,Crittenden,Marion,"18  Morrison",,11/14/2012
+Arkansas,Craighead,Jonesboro,"803  Jefferson",,11/19/2012
+Arkansas,Logan,Magazine,"495  Reveille",,11/30/2012
+Arkansas,Sebastian,"Fort Smith","4603  32nd",,12/12/2012
+Arkansas,Sebastian,"Fort Smith","4603  32nd",,12/12/2012
+Arkansas,Washington,Fayetteville,"4258  Wyndom",,01/10/2013
+Arkansas,Washington,Fayetteville,"4258  Wyndom",,01/10/2013
+Arkansas,Faulkner,Conway,"359  Sturgis",,01/11/2013
+Arkansas,Sharp,Poughkeepsie,"343  Wilson Wells",,01/15/2013
+Arkansas,Sharp,Poughkeepsie,"343  Wilson Wells",,01/15/2013
+Arkansas,Washington,Fayetteville,"3208  Warwick",,01/24/2013
+Arkansas,Washington,Fayetteville,"3208  Warwick",,01/24/2013
+Arkansas,Pulaski,"North Little Rock","10609  Macarthur",,03/08/2013
+Arkansas,Pulaski,"North Little Rock","10609  Macarthur",,03/08/2013
+Arkansas,Perry,Perryville,"55  Williamsburg",,03/09/2013
+Arkansas,Faulkner,Conway,"220  Ash",,04/03/2013
+Arkansas,White,"Bald Knob","515  State Hwy 167",,04/03/2013
+Arkansas,Pulaski,"Little Rock","6  Julie",,04/10/2013
+Arkansas,Pulaski,"Little Rock","6  Julie",,04/10/2013
+Arkansas,Pulaski,Jacksonville,"1301  Liberty",,05/08/2013
+Arkansas,Pulaski,Jacksonville,"1301  Liberty",,05/08/2013
+Arkansas,Crittenden,"West Memphis","201  Georgetown",,05/09/2013
+Arkansas,Ashley,"North Crossett","630  Cherry",,06/06/2013
+Arkansas,Benton,"Siloam Springs","3203  Kenwood",,06/09/2013
+Arkansas,Crittenden,"West Memphis","509  Avalon",,07/14/2013
+Arkansas,Washington,Fayetteville,"909 South Elmhurst Ave",,11/02/2013
+Arkansas,Washington,Fayetteville,"909 South Elmhurst Ave",,11/02/2013
+Arkansas,Pulaski,Cabot,"2920  Brannon Drive  Box Lot 2",,07/01/2014
+Arkansas,Pulaski,Cabot,"2920  Brannon Drive  Box Lot 2",,07/01/2014
+Arkansas,Pulaski,"North Little Rock","6515  Sandra K Road",,07/31/2014
+Arkansas,Pulaski,"North Little Rock","6515  Sandra K Road",,07/31/2014
+Arkansas,Pulaski,"North Little Rock","6615  Lee Road",,08/11/2014
+Arkansas,Pulaski,"North Little Rock","6615  Lee Road",,08/11/2014
+Arkansas,Madison,Elkins,"496 Madison 7530",,12/16/2014
+Arkansas,Jefferson,"Pine Bluff","6200 Indian Hills Dr",,09/07/2016
+Arkansas,Jefferson,"Pine Bluff","6200 Indian Hills Dr",,09/07/2016
